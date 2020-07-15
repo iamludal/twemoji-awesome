@@ -4,7 +4,7 @@ const emojis = require('../emojis.json')
 
 const BASE_URL = 'https://twitter.github.io/twemoji/v/latest/svg/'
 const BG_CSS = '.twa-%NAME% { background-image: url(%URL%.svg); }\n'
-const OUTPUT = 'build/twemoji-awesome.css'
+const OUTPUT = 'twemoji-awesome.css'
 const opts = { lower: true, strict: true }
 
 function main() {
