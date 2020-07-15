@@ -1,20 +1,6 @@
-.PHONY: page parse css twa
+.PHONY: twa
 
-all: page parse css
+all: twa
 
-page:
-	python3 src/get-page.py > build/page.html
-
-parse: build/page.html
-	python3 src/parse-emojis.py > build/list.txt
-
-css: build/list.txt
-	python3 src/build-css.py > build/twemoji-awesome.css
-
-twa: css
-
-build/list.txt:
-	$(MAKE) parse
-
-build/page.html:
-	$(MAKE) page
+twa:
+	node src/index.js > build/twemoji-awesome.css
