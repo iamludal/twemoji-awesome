@@ -9,7 +9,7 @@ parse: build/page.html
 	python3 src/parse-emojis.py > build/list.txt
 
 css: build/list.txt
-	python3 src/build-css.py > build/twemojis.css
+	python3 src/build-css.py > build/twemoji-awesome.css
 
 twa: css
 
