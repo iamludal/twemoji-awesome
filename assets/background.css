@@ -1,4 +1,4 @@
 .twa-%NAME% {
-    background: url(%URL%.svg);
+    background-image: url(%URL%.svg);
 }
 
