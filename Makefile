@@ -3,4 +3,4 @@
 all: twa
 
 twa:
-	node src/index.js > build/twemoji-awesome.css
+	node src/index.js
