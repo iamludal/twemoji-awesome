@@ -1,5 +1,7 @@
 # Twemoji Awesome 🤡
 
+![License](https://bit.ly/3eDF4ci)
+
 Like [Font Awesome](https://fontawesome.com), but for
 [Twitter Emojis](http://twitter.github.io/twemoji/) 🎉
 
@@ -7,16 +9,15 @@ Supports v13.0 emojis (Mar. 2020) 💪
 
 For a full emoji reference, please see [this cheatsheet](cheatsheet.md) 📝
 
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f972.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f977.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f3f3-fe0f-200d-26a7-fe0f.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f978.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f90c.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1f43b-200d-2744-fe0f.svg" width="60" />
-<img src="https://twitter.github.io/twemoji/v/latest/svg/1fac0.svg" width="60" />
+![](assets/banner.png)
 
 
 # ✅ Usage
+
+Download [this](twemoji-awesome.css) stylesheet and include it to your website
+(with the `<link>` tag).
+
+> That's all ! You can now start using Twemoji Awesome 🥳
 
 | Emoji                                                                             | Emoji Cheatsheet | HTML                                            |
 | --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------- |
@@ -36,6 +37,10 @@ are listed with their corresponding name.
 
 3️⃣ You can change the emoji size with `twa-lg`, `twa-2x`, `twa-3x`, `twa-4x` and
 `twa-5x`.
+
+
+# Generating
+
 
 
 # 🙏 Acknowledgements
