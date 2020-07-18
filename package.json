@@ -2,7 +2,7 @@
   "name": "twemoji-awesome",
   "version": "1.0.0",
   "description": "Like [Font Awesome](https://fontawesome.com), but for [Twitter Emojis](http://twitter.github.io/twemoji/) 🎉",
-  "main": "index.js",
+  "main": "build-css.js",
   "dependencies": {
     "node-fetch": "^2.6.0",
     "slugify": "^1.4.4"
