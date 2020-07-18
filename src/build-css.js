@@ -7,7 +7,7 @@ const BG_CSS = '.twa-{NAME} { background-image: url({URL}.svg); }\n'
 const OUTPUT = 'twemoji-awesome.css'
 const opts = { lower: true, strict: true }
 
-let css = fs.readFileSync('twemoji-basis.css', 'utf8')
+let css = fs.readFileSync('./assets/twemoji-basis.css', 'utf8')
 let previous
 
 console.log('⏳ Processing emojis...')

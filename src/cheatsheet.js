@@ -1,7 +1,7 @@
 const emojis = require('../emoji.json')
 const fs = require('fs')
 const slugify = require('slugify')
-const basis = fs.readFileSync('./cheatsheet-basis.md', 'utf8')
+const basis = fs.readFileSync('./assets/cheatsheet-basis.md', 'utf8')
 const OUTPUT = 'cheatsheet.md'
 const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
 const { emojiSortingFunction } = require('../lib/utils')

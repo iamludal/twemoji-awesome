@@ -81,8 +81,8 @@ make cheatsheet
 # 🙏 Acknowledgements
 
 - [Elle Kasai](https://github.com/ellekasai) for the CSS basis
-(**twemoji-basis.css**), the documentation from which this one is inspired and
-the original idea of **Twemoji Awesome**.
+    ([twemoji-basis.css](assets/twemoji-basis.css)) and the original idea of
+    **Twemoji Awesome**.
 - [emoji.json](https://github.com/amio/emoji.json) for the complete list of 
-emojis (with both their names and codes).
-- [Twemoji](https://github.com/twitter/twemoji) for the emojis SVGs.
+emojis (including their names, codes, categories...).
+- [Twemoji](https://github.com/twitter/twemoji) for the emojis SVGs (Twemojis).
