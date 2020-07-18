@@ -1,6 +1,12 @@
-.PHONY: twa
+.PHONY: fetch css cheatsheet
 
-all: twa
+all: fetch css cheatsheet
 
-twa:
+fetch:
+	node src/fetch-emojis.js
+
+css: emojis.json
 	node src/index.js
+
+cheatsheet:
+	node src/cheatsheet
