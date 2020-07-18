@@ -5,19 +5,22 @@
 Like [Font Awesome](https://fontawesome.com), but for
 [Twitter Emojis](http://twitter.github.io/twemoji/) 🎉
 
-Supports v13.0 emojis (Mar. 2020) 💪
+Supports **v13.0** emojis (more than 3,000!) 💪
 
-For a full emoji reference, please see [this cheatsheet](cheatsheet.md) 📝
+You can refer to [this cheatsheet](cheatsheet.md) for a complete  📝
 
 ![](assets/banner.png)
 
 
 # ✅ Usage
 
-Download [this](twemoji-awesome.css) stylesheet and include it to your website
-(with the `<link>` tag).
+Download [this](twemoji-awesome.css) stylesheet and include it to your website.
 
-> That's all ! You can now start using Twemoji Awesome 🥳
+```html
+<link ref="stylesheet" href="path/to/twemoji-awesome.css">
+```
+
+> That's all ! You can now start using **Twemoji Awesome** 🥳
 
 | Emoji                                                                             | Emoji Cheatsheet | HTML                                            |
 | --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------- |
@@ -39,14 +42,47 @@ are listed with their corresponding name.
 `twa-5x`.
 
 
-# Generating
+# 🛠️ Generating
 
+## 😴 TL;DR
+
+To generate a new `twemoji-awesome.css` stylesheet from the last emojis version:
+```
+make all
+```
+
+> Fetches emojis, builds the stylesheet and builds the cheatsheet.
+
+## 🔍 Fetching emojis
+
+The following command will fetch the last [emoji.json](https://github.com/amio/emoji.json)
+version and filter Twemojis from it.
+```
+make emoji
+```
+
+## 🎨 Building the stylesheet
+
+The following command will generate the stylesheet corresponding to the
+`emoji.json` file.
+```
+make css
+```
+
+## 📝 Building the cheatsheet
+
+If you also need to generate a brand new cheatsheet *(eg. after an update)*,
+the following command will do it for you! 🙏
+```
+make cheatsheet
+```
 
 
 # 🙏 Acknowledgements
 
 - [Elle Kasai](https://github.com/ellekasai) for the CSS basis
-(**twemoji-basis.css**) and the documentation from which this one is inspired
+(**twemoji-basis.css**), the documentation from which this one is inspired and
+the original idea of **Twemoji Awesome**.
 - [emoji.json](https://github.com/amio/emoji.json) for the complete list of 
-emojis (with both their names and codes)
-- [Twemoji](https://github.com/twitter/twemoji) for the emojis SVGs
+emojis (with both their names and codes).
+- [Twemoji](https://github.com/twitter/twemoji) for the emojis SVGs.
