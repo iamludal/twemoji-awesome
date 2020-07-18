@@ -7,7 +7,8 @@ Like [Font Awesome](https://fontawesome.com), but for
 
 Supports **v13.0** emojis (more than 3,000!) 💪
 
-You can refer to [this cheatsheet](cheatsheet.md) for a complete  📝
+You can refer to [this cheatsheet](cheatsheet.md) for a complete list of emojis
+you can use 📝
 
 ![](assets/banner.png)
 
