@@ -53,7 +53,7 @@ make all
 
 > Fetches emojis, builds the stylesheet and builds the cheatsheet.
 
-## 🔍 Fetching emojis
+## 🔍 1. Fetching emojis
 
 The following command will fetch the last [emoji.json](https://github.com/amio/emoji.json)
 version and filter Twemojis from it.
@@ -61,7 +61,7 @@ version and filter Twemojis from it.
 make emoji
 ```
 
-## 🎨 Building the stylesheet
+## 🎨 2. Building the stylesheet
 
 The following command will generate the stylesheet corresponding to the
 `emoji.json` file.
@@ -69,7 +69,7 @@ The following command will generate the stylesheet corresponding to the
 make css
 ```
 
-## 📝 Building the cheatsheet
+## 📝 3. Building the cheatsheet
 
 If you also need to generate a brand new cheatsheet *(eg. after an update)*,
 the following command will do it for you! 🙏
