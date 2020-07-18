@@ -1,2138 +1,1700 @@
+<link href="twemoji-awesome.css" rel="stylesheet">
+
 # Emoji cheatsheet 😄
+
 # Table of contents
-- [Smileys & Emotion](#Smileys-and-Emotion)
-- [People & Body](#People-and-Body)
-- [Component](#Component)
-- [Animals & Nature](#Animals-and-Nature)
-- [Food & Drink](#Food-and-Drink)
-- [Travel & Places](#Travel-and-Places)
 - [Activities](#Activities)
-- [Objects](#Objects)
-- [Symbols](#Symbols)
+- [Animals & Nature](#Animals-and-Nature)
+- [Component](#Component)
 - [Flags](#Flags)
-
-## Smileys and Emotion
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 😀 | grinning-face | 😃 | grinning-face-with-big-eyes 
-| 😄 | grinning-face-with-smiling-eyes | 😁 | beaming-face-with-smiling-eyes 
-| 😆 | grinning-squinting-face | 😅 | grinning-face-with-sweat 
-| 🤣 | rolling-on-the-floor-laughing | 😂 | face-with-tears-of-joy 
-| 🙂 | slightly-smiling-face | 🙃 | upside-down-face 
-| 😉 | winking-face | 😊 | smiling-face-with-smiling-eyes 
-| 😇 | smiling-face-with-halo | 🥰 | smiling-face-with-hearts 
-| 😍 | smiling-face-with-heart-eyes | 🤩 | star-struck 
-| 😘 | face-blowing-a-kiss | 😗 | kissing-face 
-| ☺️ | smiling-face | ☺ | smiling-face 
-| 😚 | kissing-face-with-closed-eyes | 😙 | kissing-face-with-smiling-eyes 
-| 🥲 | smiling-face-with-tear | 😋 | face-savoring-food 
-| 😛 | face-with-tongue | 😜 | winking-face-with-tongue 
-| 🤪 | zany-face | 😝 | squinting-face-with-tongue 
-| 🤑 | money-mouth-face | 🤗 | hugging-face 
-| 🤭 | face-with-hand-over-mouth | 🤫 | shushing-face 
-| 🤔 | thinking-face | 🤐 | zipper-mouth-face 
-| 🤨 | face-with-raised-eyebrow | 😐 | neutral-face 
-| 😑 | expressionless-face | 😶 | face-without-mouth 
-| 😏 | smirking-face | 😒 | unamused-face 
-| 🙄 | face-with-rolling-eyes | 😬 | grimacing-face 
-| 🤥 | lying-face | 😌 | relieved-face 
-| 😔 | pensive-face | 😪 | sleepy-face 
-| 🤤 | drooling-face | 😴 | sleeping-face 
-| 😷 | face-with-medical-mask | 🤒 | face-with-thermometer 
-| 🤕 | face-with-head-bandage | 🤢 | nauseated-face 
-| 🤮 | face-vomiting | 🤧 | sneezing-face 
-| 🥵 | hot-face | 🥶 | cold-face 
-| 🥴 | woozy-face | 😵 | dizzy-face 
-| 🤯 | exploding-head | 🤠 | cowboy-hat-face 
-| 🥳 | partying-face | 🥸 | disguised-face 
-| 😎 | smiling-face-with-sunglasses | 🤓 | nerd-face 
-| 🧐 | face-with-monocle | 😕 | confused-face 
-| 😟 | worried-face | 🙁 | slightly-frowning-face 
-| ☹️ | frowning-face | ☹ | frowning-face 
-| 😮 | face-with-open-mouth | 😯 | hushed-face 
-| 😲 | astonished-face | 😳 | flushed-face 
-| 🥺 | pleading-face | 😦 | frowning-face-with-open-mouth 
-| 😧 | anguished-face | 😨 | fearful-face 
-| 😰 | anxious-face-with-sweat | 😥 | sad-but-relieved-face 
-| 😢 | crying-face | 😭 | loudly-crying-face 
-| 😱 | face-screaming-in-fear | 😖 | confounded-face 
-| 😣 | persevering-face | 😞 | disappointed-face 
-| 😓 | downcast-face-with-sweat | 😩 | weary-face 
-| 😫 | tired-face | 🥱 | yawning-face 
-| 😤 | face-with-steam-from-nose | 😡 | pouting-face 
-| 😠 | angry-face | 🤬 | face-with-symbols-on-mouth 
-| 😈 | smiling-face-with-horns | 👿 | angry-face-with-horns 
-| 💀 | skull | ☠️ | skull-and-crossbones 
-| ☠ | skull-and-crossbones | 💩 | pile-of-poo 
-| 🤡 | clown-face | 👹 | ogre 
-| 👺 | goblin | 👻 | ghost 
-| 👽 | alien | 👾 | alien-monster 
-| 🤖 | robot | 😺 | grinning-cat 
-| 😸 | grinning-cat-with-smiling-eyes | 😹 | cat-with-tears-of-joy 
-| 😻 | smiling-cat-with-heart-eyes | 😼 | cat-with-wry-smile 
-| 😽 | kissing-cat | 🙀 | weary-cat 
-| 😿 | crying-cat | 😾 | pouting-cat 
-| 🙈 | see-no-evil-monkey | 🙉 | hear-no-evil-monkey 
-| 🙊 | speak-no-evil-monkey | 💋 | kiss-mark 
-| 💌 | love-letter | 💘 | heart-with-arrow 
-| 💝 | heart-with-ribbon | 💖 | sparkling-heart 
-| 💗 | growing-heart | 💓 | beating-heart 
-| 💞 | revolving-hearts | 💕 | two-hearts 
-| 💟 | heart-decoration | ❣️ | heart-exclamation 
-| ❣ | heart-exclamation | 💔 | broken-heart 
-| ❤️ | red-heart | ❤ | red-heart 
-| 🧡 | orange-heart | 💛 | yellow-heart 
-| 💚 | green-heart | 💙 | blue-heart 
-| 💜 | purple-heart | 🤎 | brown-heart 
-| 🖤 | black-heart | 🤍 | white-heart 
-| 💯 | hundred-points | 💢 | anger-symbol 
-| 💥 | collision | 💫 | dizzy 
-| 💦 | sweat-droplets | 💨 | dashing-away 
-| 🕳️ | hole | 🕳 | hole 
-| 💣 | bomb | 💬 | speech-balloon 
-| 👁️‍🗨️ | eye-in-speech-bubble | 👁‍🗨️ | eye-in-speech-bubble 
-| 👁️‍🗨 | eye-in-speech-bubble | 👁‍🗨 | eye-in-speech-bubble 
-| 🗨️ | left-speech-bubble | 🗨 | left-speech-bubble 
-| 🗯️ | right-anger-bubble | 🗯 | right-anger-bubble 
-| 💭 | thought-balloon | 💤 | zzz 
-
-## People and Body
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 👋 | waving-hand | 👋🏻 | waving-hand-light-skin-tone 
-| 👋🏼 | waving-hand-medium-light-skin-tone | 👋🏽 | waving-hand-medium-skin-tone 
-| 👋🏾 | waving-hand-medium-dark-skin-tone | 👋🏿 | waving-hand-dark-skin-tone 
-| 🤚 | raised-back-of-hand | 🤚🏻 | raised-back-of-hand-light-skin-tone 
-| 🤚🏼 | raised-back-of-hand-medium-light-skin-tone | 🤚🏽 | raised-back-of-hand-medium-skin-tone 
-| 🤚🏾 | raised-back-of-hand-medium-dark-skin-tone | 🤚🏿 | raised-back-of-hand-dark-skin-tone 
-| 🖐️ | hand-with-fingers-splayed | 🖐 | hand-with-fingers-splayed 
-| 🖐🏻 | hand-with-fingers-splayed-light-skin-tone | 🖐🏼 | hand-with-fingers-splayed-medium-light-skin-tone 
-| 🖐🏽 | hand-with-fingers-splayed-medium-skin-tone | 🖐🏾 | hand-with-fingers-splayed-medium-dark-skin-tone 
-| 🖐🏿 | hand-with-fingers-splayed-dark-skin-tone | ✋ | raised-hand 
-| ✋🏻 | raised-hand-light-skin-tone | ✋🏼 | raised-hand-medium-light-skin-tone 
-| ✋🏽 | raised-hand-medium-skin-tone | ✋🏾 | raised-hand-medium-dark-skin-tone 
-| ✋🏿 | raised-hand-dark-skin-tone | 🖖 | vulcan-salute 
-| 🖖🏻 | vulcan-salute-light-skin-tone | 🖖🏼 | vulcan-salute-medium-light-skin-tone 
-| 🖖🏽 | vulcan-salute-medium-skin-tone | 🖖🏾 | vulcan-salute-medium-dark-skin-tone 
-| 🖖🏿 | vulcan-salute-dark-skin-tone | 👌 | ok-hand 
-| 👌🏻 | ok-hand-light-skin-tone | 👌🏼 | ok-hand-medium-light-skin-tone 
-| 👌🏽 | ok-hand-medium-skin-tone | 👌🏾 | ok-hand-medium-dark-skin-tone 
-| 👌🏿 | ok-hand-dark-skin-tone | 🤌 | pinched-fingers 
-| 🤌🏻 | pinched-fingers-light-skin-tone | 🤌🏼 | pinched-fingers-medium-light-skin-tone 
-| 🤌🏽 | pinched-fingers-medium-skin-tone | 🤌🏾 | pinched-fingers-medium-dark-skin-tone 
-| 🤌🏿 | pinched-fingers-dark-skin-tone | 🤏 | pinching-hand 
-| 🤏🏻 | pinching-hand-light-skin-tone | 🤏🏼 | pinching-hand-medium-light-skin-tone 
-| 🤏🏽 | pinching-hand-medium-skin-tone | 🤏🏾 | pinching-hand-medium-dark-skin-tone 
-| 🤏🏿 | pinching-hand-dark-skin-tone | ✌️ | victory-hand 
-| ✌ | victory-hand | ✌🏻 | victory-hand-light-skin-tone 
-| ✌🏼 | victory-hand-medium-light-skin-tone | ✌🏽 | victory-hand-medium-skin-tone 
-| ✌🏾 | victory-hand-medium-dark-skin-tone | ✌🏿 | victory-hand-dark-skin-tone 
-| 🤞 | crossed-fingers | 🤞🏻 | crossed-fingers-light-skin-tone 
-| 🤞🏼 | crossed-fingers-medium-light-skin-tone | 🤞🏽 | crossed-fingers-medium-skin-tone 
-| 🤞🏾 | crossed-fingers-medium-dark-skin-tone | 🤞🏿 | crossed-fingers-dark-skin-tone 
-| 🤟 | love-you-gesture | 🤟🏻 | love-you-gesture-light-skin-tone 
-| 🤟🏼 | love-you-gesture-medium-light-skin-tone | 🤟🏽 | love-you-gesture-medium-skin-tone 
-| 🤟🏾 | love-you-gesture-medium-dark-skin-tone | 🤟🏿 | love-you-gesture-dark-skin-tone 
-| 🤘 | sign-of-the-horns | 🤘🏻 | sign-of-the-horns-light-skin-tone 
-| 🤘🏼 | sign-of-the-horns-medium-light-skin-tone | 🤘🏽 | sign-of-the-horns-medium-skin-tone 
-| 🤘🏾 | sign-of-the-horns-medium-dark-skin-tone | 🤘🏿 | sign-of-the-horns-dark-skin-tone 
-| 🤙 | call-me-hand | 🤙🏻 | call-me-hand-light-skin-tone 
-| 🤙🏼 | call-me-hand-medium-light-skin-tone | 🤙🏽 | call-me-hand-medium-skin-tone 
-| 🤙🏾 | call-me-hand-medium-dark-skin-tone | 🤙🏿 | call-me-hand-dark-skin-tone 
-| 👈 | backhand-index-pointing-left | 👈🏻 | backhand-index-pointing-left-light-skin-tone 
-| 👈🏼 | backhand-index-pointing-left-medium-light-skin-tone | 👈🏽 | backhand-index-pointing-left-medium-skin-tone 
-| 👈🏾 | backhand-index-pointing-left-medium-dark-skin-tone | 👈🏿 | backhand-index-pointing-left-dark-skin-tone 
-| 👉 | backhand-index-pointing-right | 👉🏻 | backhand-index-pointing-right-light-skin-tone 
-| 👉🏼 | backhand-index-pointing-right-medium-light-skin-tone | 👉🏽 | backhand-index-pointing-right-medium-skin-tone 
-| 👉🏾 | backhand-index-pointing-right-medium-dark-skin-tone | 👉🏿 | backhand-index-pointing-right-dark-skin-tone 
-| 👆 | backhand-index-pointing-up | 👆🏻 | backhand-index-pointing-up-light-skin-tone 
-| 👆🏼 | backhand-index-pointing-up-medium-light-skin-tone | 👆🏽 | backhand-index-pointing-up-medium-skin-tone 
-| 👆🏾 | backhand-index-pointing-up-medium-dark-skin-tone | 👆🏿 | backhand-index-pointing-up-dark-skin-tone 
-| 🖕 | middle-finger | 🖕🏻 | middle-finger-light-skin-tone 
-| 🖕🏼 | middle-finger-medium-light-skin-tone | 🖕🏽 | middle-finger-medium-skin-tone 
-| 🖕🏾 | middle-finger-medium-dark-skin-tone | 🖕🏿 | middle-finger-dark-skin-tone 
-| 👇 | backhand-index-pointing-down | 👇🏻 | backhand-index-pointing-down-light-skin-tone 
-| 👇🏼 | backhand-index-pointing-down-medium-light-skin-tone | 👇🏽 | backhand-index-pointing-down-medium-skin-tone 
-| 👇🏾 | backhand-index-pointing-down-medium-dark-skin-tone | 👇🏿 | backhand-index-pointing-down-dark-skin-tone 
-| ☝️ | index-pointing-up | ☝ | index-pointing-up 
-| ☝🏻 | index-pointing-up-light-skin-tone | ☝🏼 | index-pointing-up-medium-light-skin-tone 
-| ☝🏽 | index-pointing-up-medium-skin-tone | ☝🏾 | index-pointing-up-medium-dark-skin-tone 
-| ☝🏿 | index-pointing-up-dark-skin-tone | 👍 | thumbs-up 
-| 👍🏻 | thumbs-up-light-skin-tone | 👍🏼 | thumbs-up-medium-light-skin-tone 
-| 👍🏽 | thumbs-up-medium-skin-tone | 👍🏾 | thumbs-up-medium-dark-skin-tone 
-| 👍🏿 | thumbs-up-dark-skin-tone | 👎 | thumbs-down 
-| 👎🏻 | thumbs-down-light-skin-tone | 👎🏼 | thumbs-down-medium-light-skin-tone 
-| 👎🏽 | thumbs-down-medium-skin-tone | 👎🏾 | thumbs-down-medium-dark-skin-tone 
-| 👎🏿 | thumbs-down-dark-skin-tone | ✊ | raised-fist 
-| ✊🏻 | raised-fist-light-skin-tone | ✊🏼 | raised-fist-medium-light-skin-tone 
-| ✊🏽 | raised-fist-medium-skin-tone | ✊🏾 | raised-fist-medium-dark-skin-tone 
-| ✊🏿 | raised-fist-dark-skin-tone | 👊 | oncoming-fist 
-| 👊🏻 | oncoming-fist-light-skin-tone | 👊🏼 | oncoming-fist-medium-light-skin-tone 
-| 👊🏽 | oncoming-fist-medium-skin-tone | 👊🏾 | oncoming-fist-medium-dark-skin-tone 
-| 👊🏿 | oncoming-fist-dark-skin-tone | 🤛 | left-facing-fist 
-| 🤛🏻 | left-facing-fist-light-skin-tone | 🤛🏼 | left-facing-fist-medium-light-skin-tone 
-| 🤛🏽 | left-facing-fist-medium-skin-tone | 🤛🏾 | left-facing-fist-medium-dark-skin-tone 
-| 🤛🏿 | left-facing-fist-dark-skin-tone | 🤜 | right-facing-fist 
-| 🤜🏻 | right-facing-fist-light-skin-tone | 🤜🏼 | right-facing-fist-medium-light-skin-tone 
-| 🤜🏽 | right-facing-fist-medium-skin-tone | 🤜🏾 | right-facing-fist-medium-dark-skin-tone 
-| 🤜🏿 | right-facing-fist-dark-skin-tone | 👏 | clapping-hands 
-| 👏🏻 | clapping-hands-light-skin-tone | 👏🏼 | clapping-hands-medium-light-skin-tone 
-| 👏🏽 | clapping-hands-medium-skin-tone | 👏🏾 | clapping-hands-medium-dark-skin-tone 
-| 👏🏿 | clapping-hands-dark-skin-tone | 🙌 | raising-hands 
-| 🙌🏻 | raising-hands-light-skin-tone | 🙌🏼 | raising-hands-medium-light-skin-tone 
-| 🙌🏽 | raising-hands-medium-skin-tone | 🙌🏾 | raising-hands-medium-dark-skin-tone 
-| 🙌🏿 | raising-hands-dark-skin-tone | 👐 | open-hands 
-| 👐🏻 | open-hands-light-skin-tone | 👐🏼 | open-hands-medium-light-skin-tone 
-| 👐🏽 | open-hands-medium-skin-tone | 👐🏾 | open-hands-medium-dark-skin-tone 
-| 👐🏿 | open-hands-dark-skin-tone | 🤲 | palms-up-together 
-| 🤲🏻 | palms-up-together-light-skin-tone | 🤲🏼 | palms-up-together-medium-light-skin-tone 
-| 🤲🏽 | palms-up-together-medium-skin-tone | 🤲🏾 | palms-up-together-medium-dark-skin-tone 
-| 🤲🏿 | palms-up-together-dark-skin-tone | 🤝 | handshake 
-| 🙏 | folded-hands | 🙏🏻 | folded-hands-light-skin-tone 
-| 🙏🏼 | folded-hands-medium-light-skin-tone | 🙏🏽 | folded-hands-medium-skin-tone 
-| 🙏🏾 | folded-hands-medium-dark-skin-tone | 🙏🏿 | folded-hands-dark-skin-tone 
-| ✍️ | writing-hand | ✍ | writing-hand 
-| ✍🏻 | writing-hand-light-skin-tone | ✍🏼 | writing-hand-medium-light-skin-tone 
-| ✍🏽 | writing-hand-medium-skin-tone | ✍🏾 | writing-hand-medium-dark-skin-tone 
-| ✍🏿 | writing-hand-dark-skin-tone | 💅 | nail-polish 
-| 💅🏻 | nail-polish-light-skin-tone | 💅🏼 | nail-polish-medium-light-skin-tone 
-| 💅🏽 | nail-polish-medium-skin-tone | 💅🏾 | nail-polish-medium-dark-skin-tone 
-| 💅🏿 | nail-polish-dark-skin-tone | 🤳 | selfie 
-| 🤳🏻 | selfie-light-skin-tone | 🤳🏼 | selfie-medium-light-skin-tone 
-| 🤳🏽 | selfie-medium-skin-tone | 🤳🏾 | selfie-medium-dark-skin-tone 
-| 🤳🏿 | selfie-dark-skin-tone | 💪 | flexed-biceps 
-| 💪🏻 | flexed-biceps-light-skin-tone | 💪🏼 | flexed-biceps-medium-light-skin-tone 
-| 💪🏽 | flexed-biceps-medium-skin-tone | 💪🏾 | flexed-biceps-medium-dark-skin-tone 
-| 💪🏿 | flexed-biceps-dark-skin-tone | 🦾 | mechanical-arm 
-| 🦿 | mechanical-leg | 🦵 | leg 
-| 🦵🏻 | leg-light-skin-tone | 🦵🏼 | leg-medium-light-skin-tone 
-| 🦵🏽 | leg-medium-skin-tone | 🦵🏾 | leg-medium-dark-skin-tone 
-| 🦵🏿 | leg-dark-skin-tone | 🦶 | foot 
-| 🦶🏻 | foot-light-skin-tone | 🦶🏼 | foot-medium-light-skin-tone 
-| 🦶🏽 | foot-medium-skin-tone | 🦶🏾 | foot-medium-dark-skin-tone 
-| 🦶🏿 | foot-dark-skin-tone | 👂 | ear 
-| 👂🏻 | ear-light-skin-tone | 👂🏼 | ear-medium-light-skin-tone 
-| 👂🏽 | ear-medium-skin-tone | 👂🏾 | ear-medium-dark-skin-tone 
-| 👂🏿 | ear-dark-skin-tone | 🦻 | ear-with-hearing-aid 
-| 🦻🏻 | ear-with-hearing-aid-light-skin-tone | 🦻🏼 | ear-with-hearing-aid-medium-light-skin-tone 
-| 🦻🏽 | ear-with-hearing-aid-medium-skin-tone | 🦻🏾 | ear-with-hearing-aid-medium-dark-skin-tone 
-| 🦻🏿 | ear-with-hearing-aid-dark-skin-tone | 👃 | nose 
-| 👃🏻 | nose-light-skin-tone | 👃🏼 | nose-medium-light-skin-tone 
-| 👃🏽 | nose-medium-skin-tone | 👃🏾 | nose-medium-dark-skin-tone 
-| 👃🏿 | nose-dark-skin-tone | 🧠 | brain 
-| 🫀 | anatomical-heart | 🫁 | lungs 
-| 🦷 | tooth | 🦴 | bone 
-| 👀 | eyes | 👁️ | eye 
-| 👁 | eye | 👅 | tongue 
-| 👄 | mouth | 👶 | baby 
-| 👶🏻 | baby-light-skin-tone | 👶🏼 | baby-medium-light-skin-tone 
-| 👶🏽 | baby-medium-skin-tone | 👶🏾 | baby-medium-dark-skin-tone 
-| 👶🏿 | baby-dark-skin-tone | 🧒 | child 
-| 🧒🏻 | child-light-skin-tone | 🧒🏼 | child-medium-light-skin-tone 
-| 🧒🏽 | child-medium-skin-tone | 🧒🏾 | child-medium-dark-skin-tone 
-| 🧒🏿 | child-dark-skin-tone | 👦 | boy 
-| 👦🏻 | boy-light-skin-tone | 👦🏼 | boy-medium-light-skin-tone 
-| 👦🏽 | boy-medium-skin-tone | 👦🏾 | boy-medium-dark-skin-tone 
-| 👦🏿 | boy-dark-skin-tone | 👧 | girl 
-| 👧🏻 | girl-light-skin-tone | 👧🏼 | girl-medium-light-skin-tone 
-| 👧🏽 | girl-medium-skin-tone | 👧🏾 | girl-medium-dark-skin-tone 
-| 👧🏿 | girl-dark-skin-tone | 🧑 | person 
-| 🧑🏻 | person-light-skin-tone | 🧑🏼 | person-medium-light-skin-tone 
-| 🧑🏽 | person-medium-skin-tone | 🧑🏾 | person-medium-dark-skin-tone 
-| 🧑🏿 | person-dark-skin-tone | 👱 | person-blond-hair 
-| 👱🏻 | person-light-skin-tone-blond-hair | 👱🏼 | person-medium-light-skin-tone-blond-hair 
-| 👱🏽 | person-medium-skin-tone-blond-hair | 👱🏾 | person-medium-dark-skin-tone-blond-hair 
-| 👱🏿 | person-dark-skin-tone-blond-hair | 👨 | man 
-| 👨🏻 | man-light-skin-tone | 👨🏼 | man-medium-light-skin-tone 
-| 👨🏽 | man-medium-skin-tone | 👨🏾 | man-medium-dark-skin-tone 
-| 👨🏿 | man-dark-skin-tone | 🧔 | man-beard 
-| 🧔🏻 | man-light-skin-tone-beard | 🧔🏼 | man-medium-light-skin-tone-beard 
-| 🧔🏽 | man-medium-skin-tone-beard | 🧔🏾 | man-medium-dark-skin-tone-beard 
-| 🧔🏿 | man-dark-skin-tone-beard | 👨‍🦰 | man-red-hair 
-| 👨🏻‍🦰 | man-light-skin-tone-red-hair | 👨🏼‍🦰 | man-medium-light-skin-tone-red-hair 
-| 👨🏽‍🦰 | man-medium-skin-tone-red-hair | 👨🏾‍🦰 | man-medium-dark-skin-tone-red-hair 
-| 👨🏿‍🦰 | man-dark-skin-tone-red-hair | 👨‍🦱 | man-curly-hair 
-| 👨🏻‍🦱 | man-light-skin-tone-curly-hair | 👨🏼‍🦱 | man-medium-light-skin-tone-curly-hair 
-| 👨🏽‍🦱 | man-medium-skin-tone-curly-hair | 👨🏾‍🦱 | man-medium-dark-skin-tone-curly-hair 
-| 👨🏿‍🦱 | man-dark-skin-tone-curly-hair | 👨‍🦳 | man-white-hair 
-| 👨🏻‍🦳 | man-light-skin-tone-white-hair | 👨🏼‍🦳 | man-medium-light-skin-tone-white-hair 
-| 👨🏽‍🦳 | man-medium-skin-tone-white-hair | 👨🏾‍🦳 | man-medium-dark-skin-tone-white-hair 
-| 👨🏿‍🦳 | man-dark-skin-tone-white-hair | 👨‍🦲 | man-bald 
-| 👨🏻‍🦲 | man-light-skin-tone-bald | 👨🏼‍🦲 | man-medium-light-skin-tone-bald 
-| 👨🏽‍🦲 | man-medium-skin-tone-bald | 👨🏾‍🦲 | man-medium-dark-skin-tone-bald 
-| 👨🏿‍🦲 | man-dark-skin-tone-bald | 👩 | woman 
-| 👩🏻 | woman-light-skin-tone | 👩🏼 | woman-medium-light-skin-tone 
-| 👩🏽 | woman-medium-skin-tone | 👩🏾 | woman-medium-dark-skin-tone 
-| 👩🏿 | woman-dark-skin-tone | 👩‍🦰 | woman-red-hair 
-| 👩🏻‍🦰 | woman-light-skin-tone-red-hair | 👩🏼‍🦰 | woman-medium-light-skin-tone-red-hair 
-| 👩🏽‍🦰 | woman-medium-skin-tone-red-hair | 👩🏾‍🦰 | woman-medium-dark-skin-tone-red-hair 
-| 👩🏿‍🦰 | woman-dark-skin-tone-red-hair | 🧑‍🦰 | person-red-hair 
-| 🧑🏻‍🦰 | person-light-skin-tone-red-hair | 🧑🏼‍🦰 | person-medium-light-skin-tone-red-hair 
-| 🧑🏽‍🦰 | person-medium-skin-tone-red-hair | 🧑🏾‍🦰 | person-medium-dark-skin-tone-red-hair 
-| 🧑🏿‍🦰 | person-dark-skin-tone-red-hair | 👩‍🦱 | woman-curly-hair 
-| 👩🏻‍🦱 | woman-light-skin-tone-curly-hair | 👩🏼‍🦱 | woman-medium-light-skin-tone-curly-hair 
-| 👩🏽‍🦱 | woman-medium-skin-tone-curly-hair | 👩🏾‍🦱 | woman-medium-dark-skin-tone-curly-hair 
-| 👩🏿‍🦱 | woman-dark-skin-tone-curly-hair | 🧑‍🦱 | person-curly-hair 
-| 🧑🏻‍🦱 | person-light-skin-tone-curly-hair | 🧑🏼‍🦱 | person-medium-light-skin-tone-curly-hair 
-| 🧑🏽‍🦱 | person-medium-skin-tone-curly-hair | 🧑🏾‍🦱 | person-medium-dark-skin-tone-curly-hair 
-| 🧑🏿‍🦱 | person-dark-skin-tone-curly-hair | 👩‍🦳 | woman-white-hair 
-| 👩🏻‍🦳 | woman-light-skin-tone-white-hair | 👩🏼‍🦳 | woman-medium-light-skin-tone-white-hair 
-| 👩🏽‍🦳 | woman-medium-skin-tone-white-hair | 👩🏾‍🦳 | woman-medium-dark-skin-tone-white-hair 
-| 👩🏿‍🦳 | woman-dark-skin-tone-white-hair | 🧑‍🦳 | person-white-hair 
-| 🧑🏻‍🦳 | person-light-skin-tone-white-hair | 🧑🏼‍🦳 | person-medium-light-skin-tone-white-hair 
-| 🧑🏽‍🦳 | person-medium-skin-tone-white-hair | 🧑🏾‍🦳 | person-medium-dark-skin-tone-white-hair 
-| 🧑🏿‍🦳 | person-dark-skin-tone-white-hair | 👩‍🦲 | woman-bald 
-| 👩🏻‍🦲 | woman-light-skin-tone-bald | 👩🏼‍🦲 | woman-medium-light-skin-tone-bald 
-| 👩🏽‍🦲 | woman-medium-skin-tone-bald | 👩🏾‍🦲 | woman-medium-dark-skin-tone-bald 
-| 👩🏿‍🦲 | woman-dark-skin-tone-bald | 🧑‍🦲 | person-bald 
-| 🧑🏻‍🦲 | person-light-skin-tone-bald | 🧑🏼‍🦲 | person-medium-light-skin-tone-bald 
-| 🧑🏽‍🦲 | person-medium-skin-tone-bald | 🧑🏾‍🦲 | person-medium-dark-skin-tone-bald 
-| 🧑🏿‍🦲 | person-dark-skin-tone-bald | 👱‍♀️ | woman-blond-hair 
-| 👱‍♀ | woman-blond-hair | 👱🏻‍♀️ | woman-light-skin-tone-blond-hair 
-| 👱🏻‍♀ | woman-light-skin-tone-blond-hair | 👱🏼‍♀️ | woman-medium-light-skin-tone-blond-hair 
-| 👱🏼‍♀ | woman-medium-light-skin-tone-blond-hair | 👱🏽‍♀️ | woman-medium-skin-tone-blond-hair 
-| 👱🏽‍♀ | woman-medium-skin-tone-blond-hair | 👱🏾‍♀️ | woman-medium-dark-skin-tone-blond-hair 
-| 👱🏾‍♀ | woman-medium-dark-skin-tone-blond-hair | 👱🏿‍♀️ | woman-dark-skin-tone-blond-hair 
-| 👱🏿‍♀ | woman-dark-skin-tone-blond-hair | 👱‍♂️ | man-blond-hair 
-| 👱‍♂ | man-blond-hair | 👱🏻‍♂️ | man-light-skin-tone-blond-hair 
-| 👱🏻‍♂ | man-light-skin-tone-blond-hair | 👱🏼‍♂️ | man-medium-light-skin-tone-blond-hair 
-| 👱🏼‍♂ | man-medium-light-skin-tone-blond-hair | 👱🏽‍♂️ | man-medium-skin-tone-blond-hair 
-| 👱🏽‍♂ | man-medium-skin-tone-blond-hair | 👱🏾‍♂️ | man-medium-dark-skin-tone-blond-hair 
-| 👱🏾‍♂ | man-medium-dark-skin-tone-blond-hair | 👱🏿‍♂️ | man-dark-skin-tone-blond-hair 
-| 👱🏿‍♂ | man-dark-skin-tone-blond-hair | 🧓 | older-person 
-| 🧓🏻 | older-person-light-skin-tone | 🧓🏼 | older-person-medium-light-skin-tone 
-| 🧓🏽 | older-person-medium-skin-tone | 🧓🏾 | older-person-medium-dark-skin-tone 
-| 🧓🏿 | older-person-dark-skin-tone | 👴 | old-man 
-| 👴🏻 | old-man-light-skin-tone | 👴🏼 | old-man-medium-light-skin-tone 
-| 👴🏽 | old-man-medium-skin-tone | 👴🏾 | old-man-medium-dark-skin-tone 
-| 👴🏿 | old-man-dark-skin-tone | 👵 | old-woman 
-| 👵🏻 | old-woman-light-skin-tone | 👵🏼 | old-woman-medium-light-skin-tone 
-| 👵🏽 | old-woman-medium-skin-tone | 👵🏾 | old-woman-medium-dark-skin-tone 
-| 👵🏿 | old-woman-dark-skin-tone | 🙍 | person-frowning 
-| 🙍🏻 | person-frowning-light-skin-tone | 🙍🏼 | person-frowning-medium-light-skin-tone 
-| 🙍🏽 | person-frowning-medium-skin-tone | 🙍🏾 | person-frowning-medium-dark-skin-tone 
-| 🙍🏿 | person-frowning-dark-skin-tone | 🙍‍♂️ | man-frowning 
-| 🙍‍♂ | man-frowning | 🙍🏻‍♂️ | man-frowning-light-skin-tone 
-| 🙍🏻‍♂ | man-frowning-light-skin-tone | 🙍🏼‍♂️ | man-frowning-medium-light-skin-tone 
-| 🙍🏼‍♂ | man-frowning-medium-light-skin-tone | 🙍🏽‍♂️ | man-frowning-medium-skin-tone 
-| 🙍🏽‍♂ | man-frowning-medium-skin-tone | 🙍🏾‍♂️ | man-frowning-medium-dark-skin-tone 
-| 🙍🏾‍♂ | man-frowning-medium-dark-skin-tone | 🙍🏿‍♂️ | man-frowning-dark-skin-tone 
-| 🙍🏿‍♂ | man-frowning-dark-skin-tone | 🙍‍♀️ | woman-frowning 
-| 🙍‍♀ | woman-frowning | 🙍🏻‍♀️ | woman-frowning-light-skin-tone 
-| 🙍🏻‍♀ | woman-frowning-light-skin-tone | 🙍🏼‍♀️ | woman-frowning-medium-light-skin-tone 
-| 🙍🏼‍♀ | woman-frowning-medium-light-skin-tone | 🙍🏽‍♀️ | woman-frowning-medium-skin-tone 
-| 🙍🏽‍♀ | woman-frowning-medium-skin-tone | 🙍🏾‍♀️ | woman-frowning-medium-dark-skin-tone 
-| 🙍🏾‍♀ | woman-frowning-medium-dark-skin-tone | 🙍🏿‍♀️ | woman-frowning-dark-skin-tone 
-| 🙍🏿‍♀ | woman-frowning-dark-skin-tone | 🙎 | person-pouting 
-| 🙎🏻 | person-pouting-light-skin-tone | 🙎🏼 | person-pouting-medium-light-skin-tone 
-| 🙎🏽 | person-pouting-medium-skin-tone | 🙎🏾 | person-pouting-medium-dark-skin-tone 
-| 🙎🏿 | person-pouting-dark-skin-tone | 🙎‍♂️ | man-pouting 
-| 🙎‍♂ | man-pouting | 🙎🏻‍♂️ | man-pouting-light-skin-tone 
-| 🙎🏻‍♂ | man-pouting-light-skin-tone | 🙎🏼‍♂️ | man-pouting-medium-light-skin-tone 
-| 🙎🏼‍♂ | man-pouting-medium-light-skin-tone | 🙎🏽‍♂️ | man-pouting-medium-skin-tone 
-| 🙎🏽‍♂ | man-pouting-medium-skin-tone | 🙎🏾‍♂️ | man-pouting-medium-dark-skin-tone 
-| 🙎🏾‍♂ | man-pouting-medium-dark-skin-tone | 🙎🏿‍♂️ | man-pouting-dark-skin-tone 
-| 🙎🏿‍♂ | man-pouting-dark-skin-tone | 🙎‍♀️ | woman-pouting 
-| 🙎‍♀ | woman-pouting | 🙎🏻‍♀️ | woman-pouting-light-skin-tone 
-| 🙎🏻‍♀ | woman-pouting-light-skin-tone | 🙎🏼‍♀️ | woman-pouting-medium-light-skin-tone 
-| 🙎🏼‍♀ | woman-pouting-medium-light-skin-tone | 🙎🏽‍♀️ | woman-pouting-medium-skin-tone 
-| 🙎🏽‍♀ | woman-pouting-medium-skin-tone | 🙎🏾‍♀️ | woman-pouting-medium-dark-skin-tone 
-| 🙎🏾‍♀ | woman-pouting-medium-dark-skin-tone | 🙎🏿‍♀️ | woman-pouting-dark-skin-tone 
-| 🙎🏿‍♀ | woman-pouting-dark-skin-tone | 🙅 | person-gesturing-no 
-| 🙅🏻 | person-gesturing-no-light-skin-tone | 🙅🏼 | person-gesturing-no-medium-light-skin-tone 
-| 🙅🏽 | person-gesturing-no-medium-skin-tone | 🙅🏾 | person-gesturing-no-medium-dark-skin-tone 
-| 🙅🏿 | person-gesturing-no-dark-skin-tone | 🙅‍♂️ | man-gesturing-no 
-| 🙅‍♂ | man-gesturing-no | 🙅🏻‍♂️ | man-gesturing-no-light-skin-tone 
-| 🙅🏻‍♂ | man-gesturing-no-light-skin-tone | 🙅🏼‍♂️ | man-gesturing-no-medium-light-skin-tone 
-| 🙅🏼‍♂ | man-gesturing-no-medium-light-skin-tone | 🙅🏽‍♂️ | man-gesturing-no-medium-skin-tone 
-| 🙅🏽‍♂ | man-gesturing-no-medium-skin-tone | 🙅🏾‍♂️ | man-gesturing-no-medium-dark-skin-tone 
-| 🙅🏾‍♂ | man-gesturing-no-medium-dark-skin-tone | 🙅🏿‍♂️ | man-gesturing-no-dark-skin-tone 
-| 🙅🏿‍♂ | man-gesturing-no-dark-skin-tone | 🙅‍♀️ | woman-gesturing-no 
-| 🙅‍♀ | woman-gesturing-no | 🙅🏻‍♀️ | woman-gesturing-no-light-skin-tone 
-| 🙅🏻‍♀ | woman-gesturing-no-light-skin-tone | 🙅🏼‍♀️ | woman-gesturing-no-medium-light-skin-tone 
-| 🙅🏼‍♀ | woman-gesturing-no-medium-light-skin-tone | 🙅🏽‍♀️ | woman-gesturing-no-medium-skin-tone 
-| 🙅🏽‍♀ | woman-gesturing-no-medium-skin-tone | 🙅🏾‍♀️ | woman-gesturing-no-medium-dark-skin-tone 
-| 🙅🏾‍♀ | woman-gesturing-no-medium-dark-skin-tone | 🙅🏿‍♀️ | woman-gesturing-no-dark-skin-tone 
-| 🙅🏿‍♀ | woman-gesturing-no-dark-skin-tone | 🙆 | person-gesturing-ok 
-| 🙆🏻 | person-gesturing-ok-light-skin-tone | 🙆🏼 | person-gesturing-ok-medium-light-skin-tone 
-| 🙆🏽 | person-gesturing-ok-medium-skin-tone | 🙆🏾 | person-gesturing-ok-medium-dark-skin-tone 
-| 🙆🏿 | person-gesturing-ok-dark-skin-tone | 🙆‍♂️ | man-gesturing-ok 
-| 🙆‍♂ | man-gesturing-ok | 🙆🏻‍♂️ | man-gesturing-ok-light-skin-tone 
-| 🙆🏻‍♂ | man-gesturing-ok-light-skin-tone | 🙆🏼‍♂️ | man-gesturing-ok-medium-light-skin-tone 
-| 🙆🏼‍♂ | man-gesturing-ok-medium-light-skin-tone | 🙆🏽‍♂️ | man-gesturing-ok-medium-skin-tone 
-| 🙆🏽‍♂ | man-gesturing-ok-medium-skin-tone | 🙆🏾‍♂️ | man-gesturing-ok-medium-dark-skin-tone 
-| 🙆🏾‍♂ | man-gesturing-ok-medium-dark-skin-tone | 🙆🏿‍♂️ | man-gesturing-ok-dark-skin-tone 
-| 🙆🏿‍♂ | man-gesturing-ok-dark-skin-tone | 🙆‍♀️ | woman-gesturing-ok 
-| 🙆‍♀ | woman-gesturing-ok | 🙆🏻‍♀️ | woman-gesturing-ok-light-skin-tone 
-| 🙆🏻‍♀ | woman-gesturing-ok-light-skin-tone | 🙆🏼‍♀️ | woman-gesturing-ok-medium-light-skin-tone 
-| 🙆🏼‍♀ | woman-gesturing-ok-medium-light-skin-tone | 🙆🏽‍♀️ | woman-gesturing-ok-medium-skin-tone 
-| 🙆🏽‍♀ | woman-gesturing-ok-medium-skin-tone | 🙆🏾‍♀️ | woman-gesturing-ok-medium-dark-skin-tone 
-| 🙆🏾‍♀ | woman-gesturing-ok-medium-dark-skin-tone | 🙆🏿‍♀️ | woman-gesturing-ok-dark-skin-tone 
-| 🙆🏿‍♀ | woman-gesturing-ok-dark-skin-tone | 💁 | person-tipping-hand 
-| 💁🏻 | person-tipping-hand-light-skin-tone | 💁🏼 | person-tipping-hand-medium-light-skin-tone 
-| 💁🏽 | person-tipping-hand-medium-skin-tone | 💁🏾 | person-tipping-hand-medium-dark-skin-tone 
-| 💁🏿 | person-tipping-hand-dark-skin-tone | 💁‍♂️ | man-tipping-hand 
-| 💁‍♂ | man-tipping-hand | 💁🏻‍♂️ | man-tipping-hand-light-skin-tone 
-| 💁🏻‍♂ | man-tipping-hand-light-skin-tone | 💁🏼‍♂️ | man-tipping-hand-medium-light-skin-tone 
-| 💁🏼‍♂ | man-tipping-hand-medium-light-skin-tone | 💁🏽‍♂️ | man-tipping-hand-medium-skin-tone 
-| 💁🏽‍♂ | man-tipping-hand-medium-skin-tone | 💁🏾‍♂️ | man-tipping-hand-medium-dark-skin-tone 
-| 💁🏾‍♂ | man-tipping-hand-medium-dark-skin-tone | 💁🏿‍♂️ | man-tipping-hand-dark-skin-tone 
-| 💁🏿‍♂ | man-tipping-hand-dark-skin-tone | 💁‍♀️ | woman-tipping-hand 
-| 💁‍♀ | woman-tipping-hand | 💁🏻‍♀️ | woman-tipping-hand-light-skin-tone 
-| 💁🏻‍♀ | woman-tipping-hand-light-skin-tone | 💁🏼‍♀️ | woman-tipping-hand-medium-light-skin-tone 
-| 💁🏼‍♀ | woman-tipping-hand-medium-light-skin-tone | 💁🏽‍♀️ | woman-tipping-hand-medium-skin-tone 
-| 💁🏽‍♀ | woman-tipping-hand-medium-skin-tone | 💁🏾‍♀️ | woman-tipping-hand-medium-dark-skin-tone 
-| 💁🏾‍♀ | woman-tipping-hand-medium-dark-skin-tone | 💁🏿‍♀️ | woman-tipping-hand-dark-skin-tone 
-| 💁🏿‍♀ | woman-tipping-hand-dark-skin-tone | 🙋 | person-raising-hand 
-| 🙋🏻 | person-raising-hand-light-skin-tone | 🙋🏼 | person-raising-hand-medium-light-skin-tone 
-| 🙋🏽 | person-raising-hand-medium-skin-tone | 🙋🏾 | person-raising-hand-medium-dark-skin-tone 
-| 🙋🏿 | person-raising-hand-dark-skin-tone | 🙋‍♂️ | man-raising-hand 
-| 🙋‍♂ | man-raising-hand | 🙋🏻‍♂️ | man-raising-hand-light-skin-tone 
-| 🙋🏻‍♂ | man-raising-hand-light-skin-tone | 🙋🏼‍♂️ | man-raising-hand-medium-light-skin-tone 
-| 🙋🏼‍♂ | man-raising-hand-medium-light-skin-tone | 🙋🏽‍♂️ | man-raising-hand-medium-skin-tone 
-| 🙋🏽‍♂ | man-raising-hand-medium-skin-tone | 🙋🏾‍♂️ | man-raising-hand-medium-dark-skin-tone 
-| 🙋🏾‍♂ | man-raising-hand-medium-dark-skin-tone | 🙋🏿‍♂️ | man-raising-hand-dark-skin-tone 
-| 🙋🏿‍♂ | man-raising-hand-dark-skin-tone | 🙋‍♀️ | woman-raising-hand 
-| 🙋‍♀ | woman-raising-hand | 🙋🏻‍♀️ | woman-raising-hand-light-skin-tone 
-| 🙋🏻‍♀ | woman-raising-hand-light-skin-tone | 🙋🏼‍♀️ | woman-raising-hand-medium-light-skin-tone 
-| 🙋🏼‍♀ | woman-raising-hand-medium-light-skin-tone | 🙋🏽‍♀️ | woman-raising-hand-medium-skin-tone 
-| 🙋🏽‍♀ | woman-raising-hand-medium-skin-tone | 🙋🏾‍♀️ | woman-raising-hand-medium-dark-skin-tone 
-| 🙋🏾‍♀ | woman-raising-hand-medium-dark-skin-tone | 🙋🏿‍♀️ | woman-raising-hand-dark-skin-tone 
-| 🙋🏿‍♀ | woman-raising-hand-dark-skin-tone | 🧏 | deaf-person 
-| 🧏🏻 | deaf-person-light-skin-tone | 🧏🏼 | deaf-person-medium-light-skin-tone 
-| 🧏🏽 | deaf-person-medium-skin-tone | 🧏🏾 | deaf-person-medium-dark-skin-tone 
-| 🧏🏿 | deaf-person-dark-skin-tone | 🧏‍♂️ | deaf-man 
-| 🧏‍♂ | deaf-man | 🧏🏻‍♂️ | deaf-man-light-skin-tone 
-| 🧏🏻‍♂ | deaf-man-light-skin-tone | 🧏🏼‍♂️ | deaf-man-medium-light-skin-tone 
-| 🧏🏼‍♂ | deaf-man-medium-light-skin-tone | 🧏🏽‍♂️ | deaf-man-medium-skin-tone 
-| 🧏🏽‍♂ | deaf-man-medium-skin-tone | 🧏🏾‍♂️ | deaf-man-medium-dark-skin-tone 
-| 🧏🏾‍♂ | deaf-man-medium-dark-skin-tone | 🧏🏿‍♂️ | deaf-man-dark-skin-tone 
-| 🧏🏿‍♂ | deaf-man-dark-skin-tone | 🧏‍♀️ | deaf-woman 
-| 🧏‍♀ | deaf-woman | 🧏🏻‍♀️ | deaf-woman-light-skin-tone 
-| 🧏🏻‍♀ | deaf-woman-light-skin-tone | 🧏🏼‍♀️ | deaf-woman-medium-light-skin-tone 
-| 🧏🏼‍♀ | deaf-woman-medium-light-skin-tone | 🧏🏽‍♀️ | deaf-woman-medium-skin-tone 
-| 🧏🏽‍♀ | deaf-woman-medium-skin-tone | 🧏🏾‍♀️ | deaf-woman-medium-dark-skin-tone 
-| 🧏🏾‍♀ | deaf-woman-medium-dark-skin-tone | 🧏🏿‍♀️ | deaf-woman-dark-skin-tone 
-| 🧏🏿‍♀ | deaf-woman-dark-skin-tone | 🙇 | person-bowing 
-| 🙇🏻 | person-bowing-light-skin-tone | 🙇🏼 | person-bowing-medium-light-skin-tone 
-| 🙇🏽 | person-bowing-medium-skin-tone | 🙇🏾 | person-bowing-medium-dark-skin-tone 
-| 🙇🏿 | person-bowing-dark-skin-tone | 🙇‍♂️ | man-bowing 
-| 🙇‍♂ | man-bowing | 🙇🏻‍♂️ | man-bowing-light-skin-tone 
-| 🙇🏻‍♂ | man-bowing-light-skin-tone | 🙇🏼‍♂️ | man-bowing-medium-light-skin-tone 
-| 🙇🏼‍♂ | man-bowing-medium-light-skin-tone | 🙇🏽‍♂️ | man-bowing-medium-skin-tone 
-| 🙇🏽‍♂ | man-bowing-medium-skin-tone | 🙇🏾‍♂️ | man-bowing-medium-dark-skin-tone 
-| 🙇🏾‍♂ | man-bowing-medium-dark-skin-tone | 🙇🏿‍♂️ | man-bowing-dark-skin-tone 
-| 🙇🏿‍♂ | man-bowing-dark-skin-tone | 🙇‍♀️ | woman-bowing 
-| 🙇‍♀ | woman-bowing | 🙇🏻‍♀️ | woman-bowing-light-skin-tone 
-| 🙇🏻‍♀ | woman-bowing-light-skin-tone | 🙇🏼‍♀️ | woman-bowing-medium-light-skin-tone 
-| 🙇🏼‍♀ | woman-bowing-medium-light-skin-tone | 🙇🏽‍♀️ | woman-bowing-medium-skin-tone 
-| 🙇🏽‍♀ | woman-bowing-medium-skin-tone | 🙇🏾‍♀️ | woman-bowing-medium-dark-skin-tone 
-| 🙇🏾‍♀ | woman-bowing-medium-dark-skin-tone | 🙇🏿‍♀️ | woman-bowing-dark-skin-tone 
-| 🙇🏿‍♀ | woman-bowing-dark-skin-tone | 🤦 | person-facepalming 
-| 🤦🏻 | person-facepalming-light-skin-tone | 🤦🏼 | person-facepalming-medium-light-skin-tone 
-| 🤦🏽 | person-facepalming-medium-skin-tone | 🤦🏾 | person-facepalming-medium-dark-skin-tone 
-| 🤦🏿 | person-facepalming-dark-skin-tone | 🤦‍♂️ | man-facepalming 
-| 🤦‍♂ | man-facepalming | 🤦🏻‍♂️ | man-facepalming-light-skin-tone 
-| 🤦🏻‍♂ | man-facepalming-light-skin-tone | 🤦🏼‍♂️ | man-facepalming-medium-light-skin-tone 
-| 🤦🏼‍♂ | man-facepalming-medium-light-skin-tone | 🤦🏽‍♂️ | man-facepalming-medium-skin-tone 
-| 🤦🏽‍♂ | man-facepalming-medium-skin-tone | 🤦🏾‍♂️ | man-facepalming-medium-dark-skin-tone 
-| 🤦🏾‍♂ | man-facepalming-medium-dark-skin-tone | 🤦🏿‍♂️ | man-facepalming-dark-skin-tone 
-| 🤦🏿‍♂ | man-facepalming-dark-skin-tone | 🤦‍♀️ | woman-facepalming 
-| 🤦‍♀ | woman-facepalming | 🤦🏻‍♀️ | woman-facepalming-light-skin-tone 
-| 🤦🏻‍♀ | woman-facepalming-light-skin-tone | 🤦🏼‍♀️ | woman-facepalming-medium-light-skin-tone 
-| 🤦🏼‍♀ | woman-facepalming-medium-light-skin-tone | 🤦🏽‍♀️ | woman-facepalming-medium-skin-tone 
-| 🤦🏽‍♀ | woman-facepalming-medium-skin-tone | 🤦🏾‍♀️ | woman-facepalming-medium-dark-skin-tone 
-| 🤦🏾‍♀ | woman-facepalming-medium-dark-skin-tone | 🤦🏿‍♀️ | woman-facepalming-dark-skin-tone 
-| 🤦🏿‍♀ | woman-facepalming-dark-skin-tone | 🤷 | person-shrugging 
-| 🤷🏻 | person-shrugging-light-skin-tone | 🤷🏼 | person-shrugging-medium-light-skin-tone 
-| 🤷🏽 | person-shrugging-medium-skin-tone | 🤷🏾 | person-shrugging-medium-dark-skin-tone 
-| 🤷🏿 | person-shrugging-dark-skin-tone | 🤷‍♂️ | man-shrugging 
-| 🤷‍♂ | man-shrugging | 🤷🏻‍♂️ | man-shrugging-light-skin-tone 
-| 🤷🏻‍♂ | man-shrugging-light-skin-tone | 🤷🏼‍♂️ | man-shrugging-medium-light-skin-tone 
-| 🤷🏼‍♂ | man-shrugging-medium-light-skin-tone | 🤷🏽‍♂️ | man-shrugging-medium-skin-tone 
-| 🤷🏽‍♂ | man-shrugging-medium-skin-tone | 🤷🏾‍♂️ | man-shrugging-medium-dark-skin-tone 
-| 🤷🏾‍♂ | man-shrugging-medium-dark-skin-tone | 🤷🏿‍♂️ | man-shrugging-dark-skin-tone 
-| 🤷🏿‍♂ | man-shrugging-dark-skin-tone | 🤷‍♀️ | woman-shrugging 
-| 🤷‍♀ | woman-shrugging | 🤷🏻‍♀️ | woman-shrugging-light-skin-tone 
-| 🤷🏻‍♀ | woman-shrugging-light-skin-tone | 🤷🏼‍♀️ | woman-shrugging-medium-light-skin-tone 
-| 🤷🏼‍♀ | woman-shrugging-medium-light-skin-tone | 🤷🏽‍♀️ | woman-shrugging-medium-skin-tone 
-| 🤷🏽‍♀ | woman-shrugging-medium-skin-tone | 🤷🏾‍♀️ | woman-shrugging-medium-dark-skin-tone 
-| 🤷🏾‍♀ | woman-shrugging-medium-dark-skin-tone | 🤷🏿‍♀️ | woman-shrugging-dark-skin-tone 
-| 🤷🏿‍♀ | woman-shrugging-dark-skin-tone | 🧑‍⚕️ | health-worker 
-| 🧑‍⚕ | health-worker | 🧑🏻‍⚕️ | health-worker-light-skin-tone 
-| 🧑🏻‍⚕ | health-worker-light-skin-tone | 🧑🏼‍⚕️ | health-worker-medium-light-skin-tone 
-| 🧑🏼‍⚕ | health-worker-medium-light-skin-tone | 🧑🏽‍⚕️ | health-worker-medium-skin-tone 
-| 🧑🏽‍⚕ | health-worker-medium-skin-tone | 🧑🏾‍⚕️ | health-worker-medium-dark-skin-tone 
-| 🧑🏾‍⚕ | health-worker-medium-dark-skin-tone | 🧑🏿‍⚕️ | health-worker-dark-skin-tone 
-| 🧑🏿‍⚕ | health-worker-dark-skin-tone | 👨‍⚕️ | man-health-worker 
-| 👨‍⚕ | man-health-worker | 👨🏻‍⚕️ | man-health-worker-light-skin-tone 
-| 👨🏻‍⚕ | man-health-worker-light-skin-tone | 👨🏼‍⚕️ | man-health-worker-medium-light-skin-tone 
-| 👨🏼‍⚕ | man-health-worker-medium-light-skin-tone | 👨🏽‍⚕️ | man-health-worker-medium-skin-tone 
-| 👨🏽‍⚕ | man-health-worker-medium-skin-tone | 👨🏾‍⚕️ | man-health-worker-medium-dark-skin-tone 
-| 👨🏾‍⚕ | man-health-worker-medium-dark-skin-tone | 👨🏿‍⚕️ | man-health-worker-dark-skin-tone 
-| 👨🏿‍⚕ | man-health-worker-dark-skin-tone | 👩‍⚕️ | woman-health-worker 
-| 👩‍⚕ | woman-health-worker | 👩🏻‍⚕️ | woman-health-worker-light-skin-tone 
-| 👩🏻‍⚕ | woman-health-worker-light-skin-tone | 👩🏼‍⚕️ | woman-health-worker-medium-light-skin-tone 
-| 👩🏼‍⚕ | woman-health-worker-medium-light-skin-tone | 👩🏽‍⚕️ | woman-health-worker-medium-skin-tone 
-| 👩🏽‍⚕ | woman-health-worker-medium-skin-tone | 👩🏾‍⚕️ | woman-health-worker-medium-dark-skin-tone 
-| 👩🏾‍⚕ | woman-health-worker-medium-dark-skin-tone | 👩🏿‍⚕️ | woman-health-worker-dark-skin-tone 
-| 👩🏿‍⚕ | woman-health-worker-dark-skin-tone | 🧑‍🎓 | student 
-| 🧑🏻‍🎓 | student-light-skin-tone | 🧑🏼‍🎓 | student-medium-light-skin-tone 
-| 🧑🏽‍🎓 | student-medium-skin-tone | 🧑🏾‍🎓 | student-medium-dark-skin-tone 
-| 🧑🏿‍🎓 | student-dark-skin-tone | 👨‍🎓 | man-student 
-| 👨🏻‍🎓 | man-student-light-skin-tone | 👨🏼‍🎓 | man-student-medium-light-skin-tone 
-| 👨🏽‍🎓 | man-student-medium-skin-tone | 👨🏾‍🎓 | man-student-medium-dark-skin-tone 
-| 👨🏿‍🎓 | man-student-dark-skin-tone | 👩‍🎓 | woman-student 
-| 👩🏻‍🎓 | woman-student-light-skin-tone | 👩🏼‍🎓 | woman-student-medium-light-skin-tone 
-| 👩🏽‍🎓 | woman-student-medium-skin-tone | 👩🏾‍🎓 | woman-student-medium-dark-skin-tone 
-| 👩🏿‍🎓 | woman-student-dark-skin-tone | 🧑‍🏫 | teacher 
-| 🧑🏻‍🏫 | teacher-light-skin-tone | 🧑🏼‍🏫 | teacher-medium-light-skin-tone 
-| 🧑🏽‍🏫 | teacher-medium-skin-tone | 🧑🏾‍🏫 | teacher-medium-dark-skin-tone 
-| 🧑🏿‍🏫 | teacher-dark-skin-tone | 👨‍🏫 | man-teacher 
-| 👨🏻‍🏫 | man-teacher-light-skin-tone | 👨🏼‍🏫 | man-teacher-medium-light-skin-tone 
-| 👨🏽‍🏫 | man-teacher-medium-skin-tone | 👨🏾‍🏫 | man-teacher-medium-dark-skin-tone 
-| 👨🏿‍🏫 | man-teacher-dark-skin-tone | 👩‍🏫 | woman-teacher 
-| 👩🏻‍🏫 | woman-teacher-light-skin-tone | 👩🏼‍🏫 | woman-teacher-medium-light-skin-tone 
-| 👩🏽‍🏫 | woman-teacher-medium-skin-tone | 👩🏾‍🏫 | woman-teacher-medium-dark-skin-tone 
-| 👩🏿‍🏫 | woman-teacher-dark-skin-tone | 🧑‍⚖️ | judge 
-| 🧑‍⚖ | judge | 🧑🏻‍⚖️ | judge-light-skin-tone 
-| 🧑🏻‍⚖ | judge-light-skin-tone | 🧑🏼‍⚖️ | judge-medium-light-skin-tone 
-| 🧑🏼‍⚖ | judge-medium-light-skin-tone | 🧑🏽‍⚖️ | judge-medium-skin-tone 
-| 🧑🏽‍⚖ | judge-medium-skin-tone | 🧑🏾‍⚖️ | judge-medium-dark-skin-tone 
-| 🧑🏾‍⚖ | judge-medium-dark-skin-tone | 🧑🏿‍⚖️ | judge-dark-skin-tone 
-| 🧑🏿‍⚖ | judge-dark-skin-tone | 👨‍⚖️ | man-judge 
-| 👨‍⚖ | man-judge | 👨🏻‍⚖️ | man-judge-light-skin-tone 
-| 👨🏻‍⚖ | man-judge-light-skin-tone | 👨🏼‍⚖️ | man-judge-medium-light-skin-tone 
-| 👨🏼‍⚖ | man-judge-medium-light-skin-tone | 👨🏽‍⚖️ | man-judge-medium-skin-tone 
-| 👨🏽‍⚖ | man-judge-medium-skin-tone | 👨🏾‍⚖️ | man-judge-medium-dark-skin-tone 
-| 👨🏾‍⚖ | man-judge-medium-dark-skin-tone | 👨🏿‍⚖️ | man-judge-dark-skin-tone 
-| 👨🏿‍⚖ | man-judge-dark-skin-tone | 👩‍⚖️ | woman-judge 
-| 👩‍⚖ | woman-judge | 👩🏻‍⚖️ | woman-judge-light-skin-tone 
-| 👩🏻‍⚖ | woman-judge-light-skin-tone | 👩🏼‍⚖️ | woman-judge-medium-light-skin-tone 
-| 👩🏼‍⚖ | woman-judge-medium-light-skin-tone | 👩🏽‍⚖️ | woman-judge-medium-skin-tone 
-| 👩🏽‍⚖ | woman-judge-medium-skin-tone | 👩🏾‍⚖️ | woman-judge-medium-dark-skin-tone 
-| 👩🏾‍⚖ | woman-judge-medium-dark-skin-tone | 👩🏿‍⚖️ | woman-judge-dark-skin-tone 
-| 👩🏿‍⚖ | woman-judge-dark-skin-tone | 🧑‍🌾 | farmer 
-| 🧑🏻‍🌾 | farmer-light-skin-tone | 🧑🏼‍🌾 | farmer-medium-light-skin-tone 
-| 🧑🏽‍🌾 | farmer-medium-skin-tone | 🧑🏾‍🌾 | farmer-medium-dark-skin-tone 
-| 🧑🏿‍🌾 | farmer-dark-skin-tone | 👨‍🌾 | man-farmer 
-| 👨🏻‍🌾 | man-farmer-light-skin-tone | 👨🏼‍🌾 | man-farmer-medium-light-skin-tone 
-| 👨🏽‍🌾 | man-farmer-medium-skin-tone | 👨🏾‍🌾 | man-farmer-medium-dark-skin-tone 
-| 👨🏿‍🌾 | man-farmer-dark-skin-tone | 👩‍🌾 | woman-farmer 
-| 👩🏻‍🌾 | woman-farmer-light-skin-tone | 👩🏼‍🌾 | woman-farmer-medium-light-skin-tone 
-| 👩🏽‍🌾 | woman-farmer-medium-skin-tone | 👩🏾‍🌾 | woman-farmer-medium-dark-skin-tone 
-| 👩🏿‍🌾 | woman-farmer-dark-skin-tone | 🧑‍🍳 | cook 
-| 🧑🏻‍🍳 | cook-light-skin-tone | 🧑🏼‍🍳 | cook-medium-light-skin-tone 
-| 🧑🏽‍🍳 | cook-medium-skin-tone | 🧑🏾‍🍳 | cook-medium-dark-skin-tone 
-| 🧑🏿‍🍳 | cook-dark-skin-tone | 👨‍🍳 | man-cook 
-| 👨🏻‍🍳 | man-cook-light-skin-tone | 👨🏼‍🍳 | man-cook-medium-light-skin-tone 
-| 👨🏽‍🍳 | man-cook-medium-skin-tone | 👨🏾‍🍳 | man-cook-medium-dark-skin-tone 
-| 👨🏿‍🍳 | man-cook-dark-skin-tone | 👩‍🍳 | woman-cook 
-| 👩🏻‍🍳 | woman-cook-light-skin-tone | 👩🏼‍🍳 | woman-cook-medium-light-skin-tone 
-| 👩🏽‍🍳 | woman-cook-medium-skin-tone | 👩🏾‍🍳 | woman-cook-medium-dark-skin-tone 
-| 👩🏿‍🍳 | woman-cook-dark-skin-tone | 🧑‍🔧 | mechanic 
-| 🧑🏻‍🔧 | mechanic-light-skin-tone | 🧑🏼‍🔧 | mechanic-medium-light-skin-tone 
-| 🧑🏽‍🔧 | mechanic-medium-skin-tone | 🧑🏾‍🔧 | mechanic-medium-dark-skin-tone 
-| 🧑🏿‍🔧 | mechanic-dark-skin-tone | 👨‍🔧 | man-mechanic 
-| 👨🏻‍🔧 | man-mechanic-light-skin-tone | 👨🏼‍🔧 | man-mechanic-medium-light-skin-tone 
-| 👨🏽‍🔧 | man-mechanic-medium-skin-tone | 👨🏾‍🔧 | man-mechanic-medium-dark-skin-tone 
-| 👨🏿‍🔧 | man-mechanic-dark-skin-tone | 👩‍🔧 | woman-mechanic 
-| 👩🏻‍🔧 | woman-mechanic-light-skin-tone | 👩🏼‍🔧 | woman-mechanic-medium-light-skin-tone 
-| 👩🏽‍🔧 | woman-mechanic-medium-skin-tone | 👩🏾‍🔧 | woman-mechanic-medium-dark-skin-tone 
-| 👩🏿‍🔧 | woman-mechanic-dark-skin-tone | 🧑‍🏭 | factory-worker 
-| 🧑🏻‍🏭 | factory-worker-light-skin-tone | 🧑🏼‍🏭 | factory-worker-medium-light-skin-tone 
-| 🧑🏽‍🏭 | factory-worker-medium-skin-tone | 🧑🏾‍🏭 | factory-worker-medium-dark-skin-tone 
-| 🧑🏿‍🏭 | factory-worker-dark-skin-tone | 👨‍🏭 | man-factory-worker 
-| 👨🏻‍🏭 | man-factory-worker-light-skin-tone | 👨🏼‍🏭 | man-factory-worker-medium-light-skin-tone 
-| 👨🏽‍🏭 | man-factory-worker-medium-skin-tone | 👨🏾‍🏭 | man-factory-worker-medium-dark-skin-tone 
-| 👨🏿‍🏭 | man-factory-worker-dark-skin-tone | 👩‍🏭 | woman-factory-worker 
-| 👩🏻‍🏭 | woman-factory-worker-light-skin-tone | 👩🏼‍🏭 | woman-factory-worker-medium-light-skin-tone 
-| 👩🏽‍🏭 | woman-factory-worker-medium-skin-tone | 👩🏾‍🏭 | woman-factory-worker-medium-dark-skin-tone 
-| 👩🏿‍🏭 | woman-factory-worker-dark-skin-tone | 🧑‍💼 | office-worker 
-| 🧑🏻‍💼 | office-worker-light-skin-tone | 🧑🏼‍💼 | office-worker-medium-light-skin-tone 
-| 🧑🏽‍💼 | office-worker-medium-skin-tone | 🧑🏾‍💼 | office-worker-medium-dark-skin-tone 
-| 🧑🏿‍💼 | office-worker-dark-skin-tone | 👨‍💼 | man-office-worker 
-| 👨🏻‍💼 | man-office-worker-light-skin-tone | 👨🏼‍💼 | man-office-worker-medium-light-skin-tone 
-| 👨🏽‍💼 | man-office-worker-medium-skin-tone | 👨🏾‍💼 | man-office-worker-medium-dark-skin-tone 
-| 👨🏿‍💼 | man-office-worker-dark-skin-tone | 👩‍💼 | woman-office-worker 
-| 👩🏻‍💼 | woman-office-worker-light-skin-tone | 👩🏼‍💼 | woman-office-worker-medium-light-skin-tone 
-| 👩🏽‍💼 | woman-office-worker-medium-skin-tone | 👩🏾‍💼 | woman-office-worker-medium-dark-skin-tone 
-| 👩🏿‍💼 | woman-office-worker-dark-skin-tone | 🧑‍🔬 | scientist 
-| 🧑🏻‍🔬 | scientist-light-skin-tone | 🧑🏼‍🔬 | scientist-medium-light-skin-tone 
-| 🧑🏽‍🔬 | scientist-medium-skin-tone | 🧑🏾‍🔬 | scientist-medium-dark-skin-tone 
-| 🧑🏿‍🔬 | scientist-dark-skin-tone | 👨‍🔬 | man-scientist 
-| 👨🏻‍🔬 | man-scientist-light-skin-tone | 👨🏼‍🔬 | man-scientist-medium-light-skin-tone 
-| 👨🏽‍🔬 | man-scientist-medium-skin-tone | 👨🏾‍🔬 | man-scientist-medium-dark-skin-tone 
-| 👨🏿‍🔬 | man-scientist-dark-skin-tone | 👩‍🔬 | woman-scientist 
-| 👩🏻‍🔬 | woman-scientist-light-skin-tone | 👩🏼‍🔬 | woman-scientist-medium-light-skin-tone 
-| 👩🏽‍🔬 | woman-scientist-medium-skin-tone | 👩🏾‍🔬 | woman-scientist-medium-dark-skin-tone 
-| 👩🏿‍🔬 | woman-scientist-dark-skin-tone | 🧑‍💻 | technologist 
-| 🧑🏻‍💻 | technologist-light-skin-tone | 🧑🏼‍💻 | technologist-medium-light-skin-tone 
-| 🧑🏽‍💻 | technologist-medium-skin-tone | 🧑🏾‍💻 | technologist-medium-dark-skin-tone 
-| 🧑🏿‍💻 | technologist-dark-skin-tone | 👨‍💻 | man-technologist 
-| 👨🏻‍💻 | man-technologist-light-skin-tone | 👨🏼‍💻 | man-technologist-medium-light-skin-tone 
-| 👨🏽‍💻 | man-technologist-medium-skin-tone | 👨🏾‍💻 | man-technologist-medium-dark-skin-tone 
-| 👨🏿‍💻 | man-technologist-dark-skin-tone | 👩‍💻 | woman-technologist 
-| 👩🏻‍💻 | woman-technologist-light-skin-tone | 👩🏼‍💻 | woman-technologist-medium-light-skin-tone 
-| 👩🏽‍💻 | woman-technologist-medium-skin-tone | 👩🏾‍💻 | woman-technologist-medium-dark-skin-tone 
-| 👩🏿‍💻 | woman-technologist-dark-skin-tone | 🧑‍🎤 | singer 
-| 🧑🏻‍🎤 | singer-light-skin-tone | 🧑🏼‍🎤 | singer-medium-light-skin-tone 
-| 🧑🏽‍🎤 | singer-medium-skin-tone | 🧑🏾‍🎤 | singer-medium-dark-skin-tone 
-| 🧑🏿‍🎤 | singer-dark-skin-tone | 👨‍🎤 | man-singer 
-| 👨🏻‍🎤 | man-singer-light-skin-tone | 👨🏼‍🎤 | man-singer-medium-light-skin-tone 
-| 👨🏽‍🎤 | man-singer-medium-skin-tone | 👨🏾‍🎤 | man-singer-medium-dark-skin-tone 
-| 👨🏿‍🎤 | man-singer-dark-skin-tone | 👩‍🎤 | woman-singer 
-| 👩🏻‍🎤 | woman-singer-light-skin-tone | 👩🏼‍🎤 | woman-singer-medium-light-skin-tone 
-| 👩🏽‍🎤 | woman-singer-medium-skin-tone | 👩🏾‍🎤 | woman-singer-medium-dark-skin-tone 
-| 👩🏿‍🎤 | woman-singer-dark-skin-tone | 🧑‍🎨 | artist 
-| 🧑🏻‍🎨 | artist-light-skin-tone | 🧑🏼‍🎨 | artist-medium-light-skin-tone 
-| 🧑🏽‍🎨 | artist-medium-skin-tone | 🧑🏾‍🎨 | artist-medium-dark-skin-tone 
-| 🧑🏿‍🎨 | artist-dark-skin-tone | 👨‍🎨 | man-artist 
-| 👨🏻‍🎨 | man-artist-light-skin-tone | 👨🏼‍🎨 | man-artist-medium-light-skin-tone 
-| 👨🏽‍🎨 | man-artist-medium-skin-tone | 👨🏾‍🎨 | man-artist-medium-dark-skin-tone 
-| 👨🏿‍🎨 | man-artist-dark-skin-tone | 👩‍🎨 | woman-artist 
-| 👩🏻‍🎨 | woman-artist-light-skin-tone | 👩🏼‍🎨 | woman-artist-medium-light-skin-tone 
-| 👩🏽‍🎨 | woman-artist-medium-skin-tone | 👩🏾‍🎨 | woman-artist-medium-dark-skin-tone 
-| 👩🏿‍🎨 | woman-artist-dark-skin-tone | 🧑‍✈️ | pilot 
-| 🧑‍✈ | pilot | 🧑🏻‍✈️ | pilot-light-skin-tone 
-| 🧑🏻‍✈ | pilot-light-skin-tone | 🧑🏼‍✈️ | pilot-medium-light-skin-tone 
-| 🧑🏼‍✈ | pilot-medium-light-skin-tone | 🧑🏽‍✈️ | pilot-medium-skin-tone 
-| 🧑🏽‍✈ | pilot-medium-skin-tone | 🧑🏾‍✈️ | pilot-medium-dark-skin-tone 
-| 🧑🏾‍✈ | pilot-medium-dark-skin-tone | 🧑🏿‍✈️ | pilot-dark-skin-tone 
-| 🧑🏿‍✈ | pilot-dark-skin-tone | 👨‍✈️ | man-pilot 
-| 👨‍✈ | man-pilot | 👨🏻‍✈️ | man-pilot-light-skin-tone 
-| 👨🏻‍✈ | man-pilot-light-skin-tone | 👨🏼‍✈️ | man-pilot-medium-light-skin-tone 
-| 👨🏼‍✈ | man-pilot-medium-light-skin-tone | 👨🏽‍✈️ | man-pilot-medium-skin-tone 
-| 👨🏽‍✈ | man-pilot-medium-skin-tone | 👨🏾‍✈️ | man-pilot-medium-dark-skin-tone 
-| 👨🏾‍✈ | man-pilot-medium-dark-skin-tone | 👨🏿‍✈️ | man-pilot-dark-skin-tone 
-| 👨🏿‍✈ | man-pilot-dark-skin-tone | 👩‍✈️ | woman-pilot 
-| 👩‍✈ | woman-pilot | 👩🏻‍✈️ | woman-pilot-light-skin-tone 
-| 👩🏻‍✈ | woman-pilot-light-skin-tone | 👩🏼‍✈️ | woman-pilot-medium-light-skin-tone 
-| 👩🏼‍✈ | woman-pilot-medium-light-skin-tone | 👩🏽‍✈️ | woman-pilot-medium-skin-tone 
-| 👩🏽‍✈ | woman-pilot-medium-skin-tone | 👩🏾‍✈️ | woman-pilot-medium-dark-skin-tone 
-| 👩🏾‍✈ | woman-pilot-medium-dark-skin-tone | 👩🏿‍✈️ | woman-pilot-dark-skin-tone 
-| 👩🏿‍✈ | woman-pilot-dark-skin-tone | 🧑‍🚀 | astronaut 
-| 🧑🏻‍🚀 | astronaut-light-skin-tone | 🧑🏼‍🚀 | astronaut-medium-light-skin-tone 
-| 🧑🏽‍🚀 | astronaut-medium-skin-tone | 🧑🏾‍🚀 | astronaut-medium-dark-skin-tone 
-| 🧑🏿‍🚀 | astronaut-dark-skin-tone | 👨‍🚀 | man-astronaut 
-| 👨🏻‍🚀 | man-astronaut-light-skin-tone | 👨🏼‍🚀 | man-astronaut-medium-light-skin-tone 
-| 👨🏽‍🚀 | man-astronaut-medium-skin-tone | 👨🏾‍🚀 | man-astronaut-medium-dark-skin-tone 
-| 👨🏿‍🚀 | man-astronaut-dark-skin-tone | 👩‍🚀 | woman-astronaut 
-| 👩🏻‍🚀 | woman-astronaut-light-skin-tone | 👩🏼‍🚀 | woman-astronaut-medium-light-skin-tone 
-| 👩🏽‍🚀 | woman-astronaut-medium-skin-tone | 👩🏾‍🚀 | woman-astronaut-medium-dark-skin-tone 
-| 👩🏿‍🚀 | woman-astronaut-dark-skin-tone | 🧑‍🚒 | firefighter 
-| 🧑🏻‍🚒 | firefighter-light-skin-tone | 🧑🏼‍🚒 | firefighter-medium-light-skin-tone 
-| 🧑🏽‍🚒 | firefighter-medium-skin-tone | 🧑🏾‍🚒 | firefighter-medium-dark-skin-tone 
-| 🧑🏿‍🚒 | firefighter-dark-skin-tone | 👨‍🚒 | man-firefighter 
-| 👨🏻‍🚒 | man-firefighter-light-skin-tone | 👨🏼‍🚒 | man-firefighter-medium-light-skin-tone 
-| 👨🏽‍🚒 | man-firefighter-medium-skin-tone | 👨🏾‍🚒 | man-firefighter-medium-dark-skin-tone 
-| 👨🏿‍🚒 | man-firefighter-dark-skin-tone | 👩‍🚒 | woman-firefighter 
-| 👩🏻‍🚒 | woman-firefighter-light-skin-tone | 👩🏼‍🚒 | woman-firefighter-medium-light-skin-tone 
-| 👩🏽‍🚒 | woman-firefighter-medium-skin-tone | 👩🏾‍🚒 | woman-firefighter-medium-dark-skin-tone 
-| 👩🏿‍🚒 | woman-firefighter-dark-skin-tone | 👮 | police-officer 
-| 👮🏻 | police-officer-light-skin-tone | 👮🏼 | police-officer-medium-light-skin-tone 
-| 👮🏽 | police-officer-medium-skin-tone | 👮🏾 | police-officer-medium-dark-skin-tone 
-| 👮🏿 | police-officer-dark-skin-tone | 👮‍♂️ | man-police-officer 
-| 👮‍♂ | man-police-officer | 👮🏻‍♂️ | man-police-officer-light-skin-tone 
-| 👮🏻‍♂ | man-police-officer-light-skin-tone | 👮🏼‍♂️ | man-police-officer-medium-light-skin-tone 
-| 👮🏼‍♂ | man-police-officer-medium-light-skin-tone | 👮🏽‍♂️ | man-police-officer-medium-skin-tone 
-| 👮🏽‍♂ | man-police-officer-medium-skin-tone | 👮🏾‍♂️ | man-police-officer-medium-dark-skin-tone 
-| 👮🏾‍♂ | man-police-officer-medium-dark-skin-tone | 👮🏿‍♂️ | man-police-officer-dark-skin-tone 
-| 👮🏿‍♂ | man-police-officer-dark-skin-tone | 👮‍♀️ | woman-police-officer 
-| 👮‍♀ | woman-police-officer | 👮🏻‍♀️ | woman-police-officer-light-skin-tone 
-| 👮🏻‍♀ | woman-police-officer-light-skin-tone | 👮🏼‍♀️ | woman-police-officer-medium-light-skin-tone 
-| 👮🏼‍♀ | woman-police-officer-medium-light-skin-tone | 👮🏽‍♀️ | woman-police-officer-medium-skin-tone 
-| 👮🏽‍♀ | woman-police-officer-medium-skin-tone | 👮🏾‍♀️ | woman-police-officer-medium-dark-skin-tone 
-| 👮🏾‍♀ | woman-police-officer-medium-dark-skin-tone | 👮🏿‍♀️ | woman-police-officer-dark-skin-tone 
-| 👮🏿‍♀ | woman-police-officer-dark-skin-tone | 🕵️ | detective 
-| 🕵 | detective | 🕵🏻 | detective-light-skin-tone 
-| 🕵🏼 | detective-medium-light-skin-tone | 🕵🏽 | detective-medium-skin-tone 
-| 🕵🏾 | detective-medium-dark-skin-tone | 🕵🏿 | detective-dark-skin-tone 
-| 🕵️‍♂️ | man-detective | 🕵‍♂️ | man-detective 
-| 🕵️‍♂ | man-detective | 🕵‍♂ | man-detective 
-| 🕵🏻‍♂️ | man-detective-light-skin-tone | 🕵🏻‍♂ | man-detective-light-skin-tone 
-| 🕵🏼‍♂️ | man-detective-medium-light-skin-tone | 🕵🏼‍♂ | man-detective-medium-light-skin-tone 
-| 🕵🏽‍♂️ | man-detective-medium-skin-tone | 🕵🏽‍♂ | man-detective-medium-skin-tone 
-| 🕵🏾‍♂️ | man-detective-medium-dark-skin-tone | 🕵🏾‍♂ | man-detective-medium-dark-skin-tone 
-| 🕵🏿‍♂️ | man-detective-dark-skin-tone | 🕵🏿‍♂ | man-detective-dark-skin-tone 
-| 🕵️‍♀️ | woman-detective | 🕵‍♀️ | woman-detective 
-| 🕵️‍♀ | woman-detective | 🕵‍♀ | woman-detective 
-| 🕵🏻‍♀️ | woman-detective-light-skin-tone | 🕵🏻‍♀ | woman-detective-light-skin-tone 
-| 🕵🏼‍♀️ | woman-detective-medium-light-skin-tone | 🕵🏼‍♀ | woman-detective-medium-light-skin-tone 
-| 🕵🏽‍♀️ | woman-detective-medium-skin-tone | 🕵🏽‍♀ | woman-detective-medium-skin-tone 
-| 🕵🏾‍♀️ | woman-detective-medium-dark-skin-tone | 🕵🏾‍♀ | woman-detective-medium-dark-skin-tone 
-| 🕵🏿‍♀️ | woman-detective-dark-skin-tone | 🕵🏿‍♀ | woman-detective-dark-skin-tone 
-| 💂 | guard | 💂🏻 | guard-light-skin-tone 
-| 💂🏼 | guard-medium-light-skin-tone | 💂🏽 | guard-medium-skin-tone 
-| 💂🏾 | guard-medium-dark-skin-tone | 💂🏿 | guard-dark-skin-tone 
-| 💂‍♂️ | man-guard | 💂‍♂ | man-guard 
-| 💂🏻‍♂️ | man-guard-light-skin-tone | 💂🏻‍♂ | man-guard-light-skin-tone 
-| 💂🏼‍♂️ | man-guard-medium-light-skin-tone | 💂🏼‍♂ | man-guard-medium-light-skin-tone 
-| 💂🏽‍♂️ | man-guard-medium-skin-tone | 💂🏽‍♂ | man-guard-medium-skin-tone 
-| 💂🏾‍♂️ | man-guard-medium-dark-skin-tone | 💂🏾‍♂ | man-guard-medium-dark-skin-tone 
-| 💂🏿‍♂️ | man-guard-dark-skin-tone | 💂🏿‍♂ | man-guard-dark-skin-tone 
-| 💂‍♀️ | woman-guard | 💂‍♀ | woman-guard 
-| 💂🏻‍♀️ | woman-guard-light-skin-tone | 💂🏻‍♀ | woman-guard-light-skin-tone 
-| 💂🏼‍♀️ | woman-guard-medium-light-skin-tone | 💂🏼‍♀ | woman-guard-medium-light-skin-tone 
-| 💂🏽‍♀️ | woman-guard-medium-skin-tone | 💂🏽‍♀ | woman-guard-medium-skin-tone 
-| 💂🏾‍♀️ | woman-guard-medium-dark-skin-tone | 💂🏾‍♀ | woman-guard-medium-dark-skin-tone 
-| 💂🏿‍♀️ | woman-guard-dark-skin-tone | 💂🏿‍♀ | woman-guard-dark-skin-tone 
-| 🥷 | ninja | 🥷🏻 | ninja-light-skin-tone 
-| 🥷🏼 | ninja-medium-light-skin-tone | 🥷🏽 | ninja-medium-skin-tone 
-| 🥷🏾 | ninja-medium-dark-skin-tone | 🥷🏿 | ninja-dark-skin-tone 
-| 👷 | construction-worker | 👷🏻 | construction-worker-light-skin-tone 
-| 👷🏼 | construction-worker-medium-light-skin-tone | 👷🏽 | construction-worker-medium-skin-tone 
-| 👷🏾 | construction-worker-medium-dark-skin-tone | 👷🏿 | construction-worker-dark-skin-tone 
-| 👷‍♂️ | man-construction-worker | 👷‍♂ | man-construction-worker 
-| 👷🏻‍♂️ | man-construction-worker-light-skin-tone | 👷🏻‍♂ | man-construction-worker-light-skin-tone 
-| 👷🏼‍♂️ | man-construction-worker-medium-light-skin-tone | 👷🏼‍♂ | man-construction-worker-medium-light-skin-tone 
-| 👷🏽‍♂️ | man-construction-worker-medium-skin-tone | 👷🏽‍♂ | man-construction-worker-medium-skin-tone 
-| 👷🏾‍♂️ | man-construction-worker-medium-dark-skin-tone | 👷🏾‍♂ | man-construction-worker-medium-dark-skin-tone 
-| 👷🏿‍♂️ | man-construction-worker-dark-skin-tone | 👷🏿‍♂ | man-construction-worker-dark-skin-tone 
-| 👷‍♀️ | woman-construction-worker | 👷‍♀ | woman-construction-worker 
-| 👷🏻‍♀️ | woman-construction-worker-light-skin-tone | 👷🏻‍♀ | woman-construction-worker-light-skin-tone 
-| 👷🏼‍♀️ | woman-construction-worker-medium-light-skin-tone | 👷🏼‍♀ | woman-construction-worker-medium-light-skin-tone 
-| 👷🏽‍♀️ | woman-construction-worker-medium-skin-tone | 👷🏽‍♀ | woman-construction-worker-medium-skin-tone 
-| 👷🏾‍♀️ | woman-construction-worker-medium-dark-skin-tone | 👷🏾‍♀ | woman-construction-worker-medium-dark-skin-tone 
-| 👷🏿‍♀️ | woman-construction-worker-dark-skin-tone | 👷🏿‍♀ | woman-construction-worker-dark-skin-tone 
-| 🤴 | prince | 🤴🏻 | prince-light-skin-tone 
-| 🤴🏼 | prince-medium-light-skin-tone | 🤴🏽 | prince-medium-skin-tone 
-| 🤴🏾 | prince-medium-dark-skin-tone | 🤴🏿 | prince-dark-skin-tone 
-| 👸 | princess | 👸🏻 | princess-light-skin-tone 
-| 👸🏼 | princess-medium-light-skin-tone | 👸🏽 | princess-medium-skin-tone 
-| 👸🏾 | princess-medium-dark-skin-tone | 👸🏿 | princess-dark-skin-tone 
-| 👳 | person-wearing-turban | 👳🏻 | person-wearing-turban-light-skin-tone 
-| 👳🏼 | person-wearing-turban-medium-light-skin-tone | 👳🏽 | person-wearing-turban-medium-skin-tone 
-| 👳🏾 | person-wearing-turban-medium-dark-skin-tone | 👳🏿 | person-wearing-turban-dark-skin-tone 
-| 👳‍♂️ | man-wearing-turban | 👳‍♂ | man-wearing-turban 
-| 👳🏻‍♂️ | man-wearing-turban-light-skin-tone | 👳🏻‍♂ | man-wearing-turban-light-skin-tone 
-| 👳🏼‍♂️ | man-wearing-turban-medium-light-skin-tone | 👳🏼‍♂ | man-wearing-turban-medium-light-skin-tone 
-| 👳🏽‍♂️ | man-wearing-turban-medium-skin-tone | 👳🏽‍♂ | man-wearing-turban-medium-skin-tone 
-| 👳🏾‍♂️ | man-wearing-turban-medium-dark-skin-tone | 👳🏾‍♂ | man-wearing-turban-medium-dark-skin-tone 
-| 👳🏿‍♂️ | man-wearing-turban-dark-skin-tone | 👳🏿‍♂ | man-wearing-turban-dark-skin-tone 
-| 👳‍♀️ | woman-wearing-turban | 👳‍♀ | woman-wearing-turban 
-| 👳🏻‍♀️ | woman-wearing-turban-light-skin-tone | 👳🏻‍♀ | woman-wearing-turban-light-skin-tone 
-| 👳🏼‍♀️ | woman-wearing-turban-medium-light-skin-tone | 👳🏼‍♀ | woman-wearing-turban-medium-light-skin-tone 
-| 👳🏽‍♀️ | woman-wearing-turban-medium-skin-tone | 👳🏽‍♀ | woman-wearing-turban-medium-skin-tone 
-| 👳🏾‍♀️ | woman-wearing-turban-medium-dark-skin-tone | 👳🏾‍♀ | woman-wearing-turban-medium-dark-skin-tone 
-| 👳🏿‍♀️ | woman-wearing-turban-dark-skin-tone | 👳🏿‍♀ | woman-wearing-turban-dark-skin-tone 
-| 👲 | person-with-skullcap | 👲🏻 | person-with-skullcap-light-skin-tone 
-| 👲🏼 | person-with-skullcap-medium-light-skin-tone | 👲🏽 | person-with-skullcap-medium-skin-tone 
-| 👲🏾 | person-with-skullcap-medium-dark-skin-tone | 👲🏿 | person-with-skullcap-dark-skin-tone 
-| 🧕 | woman-with-headscarf | 🧕🏻 | woman-with-headscarf-light-skin-tone 
-| 🧕🏼 | woman-with-headscarf-medium-light-skin-tone | 🧕🏽 | woman-with-headscarf-medium-skin-tone 
-| 🧕🏾 | woman-with-headscarf-medium-dark-skin-tone | 🧕🏿 | woman-with-headscarf-dark-skin-tone 
-| 🤵 | person-in-tuxedo | 🤵🏻 | person-in-tuxedo-light-skin-tone 
-| 🤵🏼 | person-in-tuxedo-medium-light-skin-tone | 🤵🏽 | person-in-tuxedo-medium-skin-tone 
-| 🤵🏾 | person-in-tuxedo-medium-dark-skin-tone | 🤵🏿 | person-in-tuxedo-dark-skin-tone 
-| 🤵‍♂️ | man-in-tuxedo | 🤵‍♂ | man-in-tuxedo 
-| 🤵🏻‍♂️ | man-in-tuxedo-light-skin-tone | 🤵🏻‍♂ | man-in-tuxedo-light-skin-tone 
-| 🤵🏼‍♂️ | man-in-tuxedo-medium-light-skin-tone | 🤵🏼‍♂ | man-in-tuxedo-medium-light-skin-tone 
-| 🤵🏽‍♂️ | man-in-tuxedo-medium-skin-tone | 🤵🏽‍♂ | man-in-tuxedo-medium-skin-tone 
-| 🤵🏾‍♂️ | man-in-tuxedo-medium-dark-skin-tone | 🤵🏾‍♂ | man-in-tuxedo-medium-dark-skin-tone 
-| 🤵🏿‍♂️ | man-in-tuxedo-dark-skin-tone | 🤵🏿‍♂ | man-in-tuxedo-dark-skin-tone 
-| 🤵‍♀️ | woman-in-tuxedo | 🤵‍♀ | woman-in-tuxedo 
-| 🤵🏻‍♀️ | woman-in-tuxedo-light-skin-tone | 🤵🏻‍♀ | woman-in-tuxedo-light-skin-tone 
-| 🤵🏼‍♀️ | woman-in-tuxedo-medium-light-skin-tone | 🤵🏼‍♀ | woman-in-tuxedo-medium-light-skin-tone 
-| 🤵🏽‍♀️ | woman-in-tuxedo-medium-skin-tone | 🤵🏽‍♀ | woman-in-tuxedo-medium-skin-tone 
-| 🤵🏾‍♀️ | woman-in-tuxedo-medium-dark-skin-tone | 🤵🏾‍♀ | woman-in-tuxedo-medium-dark-skin-tone 
-| 🤵🏿‍♀️ | woman-in-tuxedo-dark-skin-tone | 🤵🏿‍♀ | woman-in-tuxedo-dark-skin-tone 
-| 👰 | person-with-veil | 👰🏻 | person-with-veil-light-skin-tone 
-| 👰🏼 | person-with-veil-medium-light-skin-tone | 👰🏽 | person-with-veil-medium-skin-tone 
-| 👰🏾 | person-with-veil-medium-dark-skin-tone | 👰🏿 | person-with-veil-dark-skin-tone 
-| 👰‍♂️ | man-with-veil | 👰‍♂ | man-with-veil 
-| 👰🏻‍♂️ | man-with-veil-light-skin-tone | 👰🏻‍♂ | man-with-veil-light-skin-tone 
-| 👰🏼‍♂️ | man-with-veil-medium-light-skin-tone | 👰🏼‍♂ | man-with-veil-medium-light-skin-tone 
-| 👰🏽‍♂️ | man-with-veil-medium-skin-tone | 👰🏽‍♂ | man-with-veil-medium-skin-tone 
-| 👰🏾‍♂️ | man-with-veil-medium-dark-skin-tone | 👰🏾‍♂ | man-with-veil-medium-dark-skin-tone 
-| 👰🏿‍♂️ | man-with-veil-dark-skin-tone | 👰🏿‍♂ | man-with-veil-dark-skin-tone 
-| 👰‍♀️ | woman-with-veil | 👰‍♀ | woman-with-veil 
-| 👰🏻‍♀️ | woman-with-veil-light-skin-tone | 👰🏻‍♀ | woman-with-veil-light-skin-tone 
-| 👰🏼‍♀️ | woman-with-veil-medium-light-skin-tone | 👰🏼‍♀ | woman-with-veil-medium-light-skin-tone 
-| 👰🏽‍♀️ | woman-with-veil-medium-skin-tone | 👰🏽‍♀ | woman-with-veil-medium-skin-tone 
-| 👰🏾‍♀️ | woman-with-veil-medium-dark-skin-tone | 👰🏾‍♀ | woman-with-veil-medium-dark-skin-tone 
-| 👰🏿‍♀️ | woman-with-veil-dark-skin-tone | 👰🏿‍♀ | woman-with-veil-dark-skin-tone 
-| 🤰 | pregnant-woman | 🤰🏻 | pregnant-woman-light-skin-tone 
-| 🤰🏼 | pregnant-woman-medium-light-skin-tone | 🤰🏽 | pregnant-woman-medium-skin-tone 
-| 🤰🏾 | pregnant-woman-medium-dark-skin-tone | 🤰🏿 | pregnant-woman-dark-skin-tone 
-| 🤱 | breast-feeding | 🤱🏻 | breast-feeding-light-skin-tone 
-| 🤱🏼 | breast-feeding-medium-light-skin-tone | 🤱🏽 | breast-feeding-medium-skin-tone 
-| 🤱🏾 | breast-feeding-medium-dark-skin-tone | 🤱🏿 | breast-feeding-dark-skin-tone 
-| 👩‍🍼 | woman-feeding-baby | 👩🏻‍🍼 | woman-feeding-baby-light-skin-tone 
-| 👩🏼‍🍼 | woman-feeding-baby-medium-light-skin-tone | 👩🏽‍🍼 | woman-feeding-baby-medium-skin-tone 
-| 👩🏾‍🍼 | woman-feeding-baby-medium-dark-skin-tone | 👩🏿‍🍼 | woman-feeding-baby-dark-skin-tone 
-| 👨‍🍼 | man-feeding-baby | 👨🏻‍🍼 | man-feeding-baby-light-skin-tone 
-| 👨🏼‍🍼 | man-feeding-baby-medium-light-skin-tone | 👨🏽‍🍼 | man-feeding-baby-medium-skin-tone 
-| 👨🏾‍🍼 | man-feeding-baby-medium-dark-skin-tone | 👨🏿‍🍼 | man-feeding-baby-dark-skin-tone 
-| 🧑‍🍼 | person-feeding-baby | 🧑🏻‍🍼 | person-feeding-baby-light-skin-tone 
-| 🧑🏼‍🍼 | person-feeding-baby-medium-light-skin-tone | 🧑🏽‍🍼 | person-feeding-baby-medium-skin-tone 
-| 🧑🏾‍🍼 | person-feeding-baby-medium-dark-skin-tone | 🧑🏿‍🍼 | person-feeding-baby-dark-skin-tone 
-| 👼 | baby-angel | 👼🏻 | baby-angel-light-skin-tone 
-| 👼🏼 | baby-angel-medium-light-skin-tone | 👼🏽 | baby-angel-medium-skin-tone 
-| 👼🏾 | baby-angel-medium-dark-skin-tone | 👼🏿 | baby-angel-dark-skin-tone 
-| 🎅 | santa-claus | 🎅🏻 | santa-claus-light-skin-tone 
-| 🎅🏼 | santa-claus-medium-light-skin-tone | 🎅🏽 | santa-claus-medium-skin-tone 
-| 🎅🏾 | santa-claus-medium-dark-skin-tone | 🎅🏿 | santa-claus-dark-skin-tone 
-| 🤶 | mrs-claus | 🤶🏻 | mrs-claus-light-skin-tone 
-| 🤶🏼 | mrs-claus-medium-light-skin-tone | 🤶🏽 | mrs-claus-medium-skin-tone 
-| 🤶🏾 | mrs-claus-medium-dark-skin-tone | 🤶🏿 | mrs-claus-dark-skin-tone 
-| 🧑‍🎄 | mx-claus | 🧑🏻‍🎄 | mx-claus-light-skin-tone 
-| 🧑🏼‍🎄 | mx-claus-medium-light-skin-tone | 🧑🏽‍🎄 | mx-claus-medium-skin-tone 
-| 🧑🏾‍🎄 | mx-claus-medium-dark-skin-tone | 🧑🏿‍🎄 | mx-claus-dark-skin-tone 
-| 🦸 | superhero | 🦸🏻 | superhero-light-skin-tone 
-| 🦸🏼 | superhero-medium-light-skin-tone | 🦸🏽 | superhero-medium-skin-tone 
-| 🦸🏾 | superhero-medium-dark-skin-tone | 🦸🏿 | superhero-dark-skin-tone 
-| 🦸‍♂️ | man-superhero | 🦸‍♂ | man-superhero 
-| 🦸🏻‍♂️ | man-superhero-light-skin-tone | 🦸🏻‍♂ | man-superhero-light-skin-tone 
-| 🦸🏼‍♂️ | man-superhero-medium-light-skin-tone | 🦸🏼‍♂ | man-superhero-medium-light-skin-tone 
-| 🦸🏽‍♂️ | man-superhero-medium-skin-tone | 🦸🏽‍♂ | man-superhero-medium-skin-tone 
-| 🦸🏾‍♂️ | man-superhero-medium-dark-skin-tone | 🦸🏾‍♂ | man-superhero-medium-dark-skin-tone 
-| 🦸🏿‍♂️ | man-superhero-dark-skin-tone | 🦸🏿‍♂ | man-superhero-dark-skin-tone 
-| 🦸‍♀️ | woman-superhero | 🦸‍♀ | woman-superhero 
-| 🦸🏻‍♀️ | woman-superhero-light-skin-tone | 🦸🏻‍♀ | woman-superhero-light-skin-tone 
-| 🦸🏼‍♀️ | woman-superhero-medium-light-skin-tone | 🦸🏼‍♀ | woman-superhero-medium-light-skin-tone 
-| 🦸🏽‍♀️ | woman-superhero-medium-skin-tone | 🦸🏽‍♀ | woman-superhero-medium-skin-tone 
-| 🦸🏾‍♀️ | woman-superhero-medium-dark-skin-tone | 🦸🏾‍♀ | woman-superhero-medium-dark-skin-tone 
-| 🦸🏿‍♀️ | woman-superhero-dark-skin-tone | 🦸🏿‍♀ | woman-superhero-dark-skin-tone 
-| 🦹 | supervillain | 🦹🏻 | supervillain-light-skin-tone 
-| 🦹🏼 | supervillain-medium-light-skin-tone | 🦹🏽 | supervillain-medium-skin-tone 
-| 🦹🏾 | supervillain-medium-dark-skin-tone | 🦹🏿 | supervillain-dark-skin-tone 
-| 🦹‍♂️ | man-supervillain | 🦹‍♂ | man-supervillain 
-| 🦹🏻‍♂️ | man-supervillain-light-skin-tone | 🦹🏻‍♂ | man-supervillain-light-skin-tone 
-| 🦹🏼‍♂️ | man-supervillain-medium-light-skin-tone | 🦹🏼‍♂ | man-supervillain-medium-light-skin-tone 
-| 🦹🏽‍♂️ | man-supervillain-medium-skin-tone | 🦹🏽‍♂ | man-supervillain-medium-skin-tone 
-| 🦹🏾‍♂️ | man-supervillain-medium-dark-skin-tone | 🦹🏾‍♂ | man-supervillain-medium-dark-skin-tone 
-| 🦹🏿‍♂️ | man-supervillain-dark-skin-tone | 🦹🏿‍♂ | man-supervillain-dark-skin-tone 
-| 🦹‍♀️ | woman-supervillain | 🦹‍♀ | woman-supervillain 
-| 🦹🏻‍♀️ | woman-supervillain-light-skin-tone | 🦹🏻‍♀ | woman-supervillain-light-skin-tone 
-| 🦹🏼‍♀️ | woman-supervillain-medium-light-skin-tone | 🦹🏼‍♀ | woman-supervillain-medium-light-skin-tone 
-| 🦹🏽‍♀️ | woman-supervillain-medium-skin-tone | 🦹🏽‍♀ | woman-supervillain-medium-skin-tone 
-| 🦹🏾‍♀️ | woman-supervillain-medium-dark-skin-tone | 🦹🏾‍♀ | woman-supervillain-medium-dark-skin-tone 
-| 🦹🏿‍♀️ | woman-supervillain-dark-skin-tone | 🦹🏿‍♀ | woman-supervillain-dark-skin-tone 
-| 🧙 | mage | 🧙🏻 | mage-light-skin-tone 
-| 🧙🏼 | mage-medium-light-skin-tone | 🧙🏽 | mage-medium-skin-tone 
-| 🧙🏾 | mage-medium-dark-skin-tone | 🧙🏿 | mage-dark-skin-tone 
-| 🧙‍♂️ | man-mage | 🧙‍♂ | man-mage 
-| 🧙🏻‍♂️ | man-mage-light-skin-tone | 🧙🏻‍♂ | man-mage-light-skin-tone 
-| 🧙🏼‍♂️ | man-mage-medium-light-skin-tone | 🧙🏼‍♂ | man-mage-medium-light-skin-tone 
-| 🧙🏽‍♂️ | man-mage-medium-skin-tone | 🧙🏽‍♂ | man-mage-medium-skin-tone 
-| 🧙🏾‍♂️ | man-mage-medium-dark-skin-tone | 🧙🏾‍♂ | man-mage-medium-dark-skin-tone 
-| 🧙🏿‍♂️ | man-mage-dark-skin-tone | 🧙🏿‍♂ | man-mage-dark-skin-tone 
-| 🧙‍♀️ | woman-mage | 🧙‍♀ | woman-mage 
-| 🧙🏻‍♀️ | woman-mage-light-skin-tone | 🧙🏻‍♀ | woman-mage-light-skin-tone 
-| 🧙🏼‍♀️ | woman-mage-medium-light-skin-tone | 🧙🏼‍♀ | woman-mage-medium-light-skin-tone 
-| 🧙🏽‍♀️ | woman-mage-medium-skin-tone | 🧙🏽‍♀ | woman-mage-medium-skin-tone 
-| 🧙🏾‍♀️ | woman-mage-medium-dark-skin-tone | 🧙🏾‍♀ | woman-mage-medium-dark-skin-tone 
-| 🧙🏿‍♀️ | woman-mage-dark-skin-tone | 🧙🏿‍♀ | woman-mage-dark-skin-tone 
-| 🧚 | fairy | 🧚🏻 | fairy-light-skin-tone 
-| 🧚🏼 | fairy-medium-light-skin-tone | 🧚🏽 | fairy-medium-skin-tone 
-| 🧚🏾 | fairy-medium-dark-skin-tone | 🧚🏿 | fairy-dark-skin-tone 
-| 🧚‍♂️ | man-fairy | 🧚‍♂ | man-fairy 
-| 🧚🏻‍♂️ | man-fairy-light-skin-tone | 🧚🏻‍♂ | man-fairy-light-skin-tone 
-| 🧚🏼‍♂️ | man-fairy-medium-light-skin-tone | 🧚🏼‍♂ | man-fairy-medium-light-skin-tone 
-| 🧚🏽‍♂️ | man-fairy-medium-skin-tone | 🧚🏽‍♂ | man-fairy-medium-skin-tone 
-| 🧚🏾‍♂️ | man-fairy-medium-dark-skin-tone | 🧚🏾‍♂ | man-fairy-medium-dark-skin-tone 
-| 🧚🏿‍♂️ | man-fairy-dark-skin-tone | 🧚🏿‍♂ | man-fairy-dark-skin-tone 
-| 🧚‍♀️ | woman-fairy | 🧚‍♀ | woman-fairy 
-| 🧚🏻‍♀️ | woman-fairy-light-skin-tone | 🧚🏻‍♀ | woman-fairy-light-skin-tone 
-| 🧚🏼‍♀️ | woman-fairy-medium-light-skin-tone | 🧚🏼‍♀ | woman-fairy-medium-light-skin-tone 
-| 🧚🏽‍♀️ | woman-fairy-medium-skin-tone | 🧚🏽‍♀ | woman-fairy-medium-skin-tone 
-| 🧚🏾‍♀️ | woman-fairy-medium-dark-skin-tone | 🧚🏾‍♀ | woman-fairy-medium-dark-skin-tone 
-| 🧚🏿‍♀️ | woman-fairy-dark-skin-tone | 🧚🏿‍♀ | woman-fairy-dark-skin-tone 
-| 🧛 | vampire | 🧛🏻 | vampire-light-skin-tone 
-| 🧛🏼 | vampire-medium-light-skin-tone | 🧛🏽 | vampire-medium-skin-tone 
-| 🧛🏾 | vampire-medium-dark-skin-tone | 🧛🏿 | vampire-dark-skin-tone 
-| 🧛‍♂️ | man-vampire | 🧛‍♂ | man-vampire 
-| 🧛🏻‍♂️ | man-vampire-light-skin-tone | 🧛🏻‍♂ | man-vampire-light-skin-tone 
-| 🧛🏼‍♂️ | man-vampire-medium-light-skin-tone | 🧛🏼‍♂ | man-vampire-medium-light-skin-tone 
-| 🧛🏽‍♂️ | man-vampire-medium-skin-tone | 🧛🏽‍♂ | man-vampire-medium-skin-tone 
-| 🧛🏾‍♂️ | man-vampire-medium-dark-skin-tone | 🧛🏾‍♂ | man-vampire-medium-dark-skin-tone 
-| 🧛🏿‍♂️ | man-vampire-dark-skin-tone | 🧛🏿‍♂ | man-vampire-dark-skin-tone 
-| 🧛‍♀️ | woman-vampire | 🧛‍♀ | woman-vampire 
-| 🧛🏻‍♀️ | woman-vampire-light-skin-tone | 🧛🏻‍♀ | woman-vampire-light-skin-tone 
-| 🧛🏼‍♀️ | woman-vampire-medium-light-skin-tone | 🧛🏼‍♀ | woman-vampire-medium-light-skin-tone 
-| 🧛🏽‍♀️ | woman-vampire-medium-skin-tone | 🧛🏽‍♀ | woman-vampire-medium-skin-tone 
-| 🧛🏾‍♀️ | woman-vampire-medium-dark-skin-tone | 🧛🏾‍♀ | woman-vampire-medium-dark-skin-tone 
-| 🧛🏿‍♀️ | woman-vampire-dark-skin-tone | 🧛🏿‍♀ | woman-vampire-dark-skin-tone 
-| 🧜 | merperson | 🧜🏻 | merperson-light-skin-tone 
-| 🧜🏼 | merperson-medium-light-skin-tone | 🧜🏽 | merperson-medium-skin-tone 
-| 🧜🏾 | merperson-medium-dark-skin-tone | 🧜🏿 | merperson-dark-skin-tone 
-| 🧜‍♂️ | merman | 🧜‍♂ | merman 
-| 🧜🏻‍♂️ | merman-light-skin-tone | 🧜🏻‍♂ | merman-light-skin-tone 
-| 🧜🏼‍♂️ | merman-medium-light-skin-tone | 🧜🏼‍♂ | merman-medium-light-skin-tone 
-| 🧜🏽‍♂️ | merman-medium-skin-tone | 🧜🏽‍♂ | merman-medium-skin-tone 
-| 🧜🏾‍♂️ | merman-medium-dark-skin-tone | 🧜🏾‍♂ | merman-medium-dark-skin-tone 
-| 🧜🏿‍♂️ | merman-dark-skin-tone | 🧜🏿‍♂ | merman-dark-skin-tone 
-| 🧜‍♀️ | mermaid | 🧜‍♀ | mermaid 
-| 🧜🏻‍♀️ | mermaid-light-skin-tone | 🧜🏻‍♀ | mermaid-light-skin-tone 
-| 🧜🏼‍♀️ | mermaid-medium-light-skin-tone | 🧜🏼‍♀ | mermaid-medium-light-skin-tone 
-| 🧜🏽‍♀️ | mermaid-medium-skin-tone | 🧜🏽‍♀ | mermaid-medium-skin-tone 
-| 🧜🏾‍♀️ | mermaid-medium-dark-skin-tone | 🧜🏾‍♀ | mermaid-medium-dark-skin-tone 
-| 🧜🏿‍♀️ | mermaid-dark-skin-tone | 🧜🏿‍♀ | mermaid-dark-skin-tone 
-| 🧝 | elf | 🧝🏻 | elf-light-skin-tone 
-| 🧝🏼 | elf-medium-light-skin-tone | 🧝🏽 | elf-medium-skin-tone 
-| 🧝🏾 | elf-medium-dark-skin-tone | 🧝🏿 | elf-dark-skin-tone 
-| 🧝‍♂️ | man-elf | 🧝‍♂ | man-elf 
-| 🧝🏻‍♂️ | man-elf-light-skin-tone | 🧝🏻‍♂ | man-elf-light-skin-tone 
-| 🧝🏼‍♂️ | man-elf-medium-light-skin-tone | 🧝🏼‍♂ | man-elf-medium-light-skin-tone 
-| 🧝🏽‍♂️ | man-elf-medium-skin-tone | 🧝🏽‍♂ | man-elf-medium-skin-tone 
-| 🧝🏾‍♂️ | man-elf-medium-dark-skin-tone | 🧝🏾‍♂ | man-elf-medium-dark-skin-tone 
-| 🧝🏿‍♂️ | man-elf-dark-skin-tone | 🧝🏿‍♂ | man-elf-dark-skin-tone 
-| 🧝‍♀️ | woman-elf | 🧝‍♀ | woman-elf 
-| 🧝🏻‍♀️ | woman-elf-light-skin-tone | 🧝🏻‍♀ | woman-elf-light-skin-tone 
-| 🧝🏼‍♀️ | woman-elf-medium-light-skin-tone | 🧝🏼‍♀ | woman-elf-medium-light-skin-tone 
-| 🧝🏽‍♀️ | woman-elf-medium-skin-tone | 🧝🏽‍♀ | woman-elf-medium-skin-tone 
-| 🧝🏾‍♀️ | woman-elf-medium-dark-skin-tone | 🧝🏾‍♀ | woman-elf-medium-dark-skin-tone 
-| 🧝🏿‍♀️ | woman-elf-dark-skin-tone | 🧝🏿‍♀ | woman-elf-dark-skin-tone 
-| 🧞 | genie | 🧞‍♂️ | man-genie 
-| 🧞‍♂ | man-genie | 🧞‍♀️ | woman-genie 
-| 🧞‍♀ | woman-genie | 🧟 | zombie 
-| 🧟‍♂️ | man-zombie | 🧟‍♂ | man-zombie 
-| 🧟‍♀️ | woman-zombie | 🧟‍♀ | woman-zombie 
-| 💆 | person-getting-massage | 💆🏻 | person-getting-massage-light-skin-tone 
-| 💆🏼 | person-getting-massage-medium-light-skin-tone | 💆🏽 | person-getting-massage-medium-skin-tone 
-| 💆🏾 | person-getting-massage-medium-dark-skin-tone | 💆🏿 | person-getting-massage-dark-skin-tone 
-| 💆‍♂️ | man-getting-massage | 💆‍♂ | man-getting-massage 
-| 💆🏻‍♂️ | man-getting-massage-light-skin-tone | 💆🏻‍♂ | man-getting-massage-light-skin-tone 
-| 💆🏼‍♂️ | man-getting-massage-medium-light-skin-tone | 💆🏼‍♂ | man-getting-massage-medium-light-skin-tone 
-| 💆🏽‍♂️ | man-getting-massage-medium-skin-tone | 💆🏽‍♂ | man-getting-massage-medium-skin-tone 
-| 💆🏾‍♂️ | man-getting-massage-medium-dark-skin-tone | 💆🏾‍♂ | man-getting-massage-medium-dark-skin-tone 
-| 💆🏿‍♂️ | man-getting-massage-dark-skin-tone | 💆🏿‍♂ | man-getting-massage-dark-skin-tone 
-| 💆‍♀️ | woman-getting-massage | 💆‍♀ | woman-getting-massage 
-| 💆🏻‍♀️ | woman-getting-massage-light-skin-tone | 💆🏻‍♀ | woman-getting-massage-light-skin-tone 
-| 💆🏼‍♀️ | woman-getting-massage-medium-light-skin-tone | 💆🏼‍♀ | woman-getting-massage-medium-light-skin-tone 
-| 💆🏽‍♀️ | woman-getting-massage-medium-skin-tone | 💆🏽‍♀ | woman-getting-massage-medium-skin-tone 
-| 💆🏾‍♀️ | woman-getting-massage-medium-dark-skin-tone | 💆🏾‍♀ | woman-getting-massage-medium-dark-skin-tone 
-| 💆🏿‍♀️ | woman-getting-massage-dark-skin-tone | 💆🏿‍♀ | woman-getting-massage-dark-skin-tone 
-| 💇 | person-getting-haircut | 💇🏻 | person-getting-haircut-light-skin-tone 
-| 💇🏼 | person-getting-haircut-medium-light-skin-tone | 💇🏽 | person-getting-haircut-medium-skin-tone 
-| 💇🏾 | person-getting-haircut-medium-dark-skin-tone | 💇🏿 | person-getting-haircut-dark-skin-tone 
-| 💇‍♂️ | man-getting-haircut | 💇‍♂ | man-getting-haircut 
-| 💇🏻‍♂️ | man-getting-haircut-light-skin-tone | 💇🏻‍♂ | man-getting-haircut-light-skin-tone 
-| 💇🏼‍♂️ | man-getting-haircut-medium-light-skin-tone | 💇🏼‍♂ | man-getting-haircut-medium-light-skin-tone 
-| 💇🏽‍♂️ | man-getting-haircut-medium-skin-tone | 💇🏽‍♂ | man-getting-haircut-medium-skin-tone 
-| 💇🏾‍♂️ | man-getting-haircut-medium-dark-skin-tone | 💇🏾‍♂ | man-getting-haircut-medium-dark-skin-tone 
-| 💇🏿‍♂️ | man-getting-haircut-dark-skin-tone | 💇🏿‍♂ | man-getting-haircut-dark-skin-tone 
-| 💇‍♀️ | woman-getting-haircut | 💇‍♀ | woman-getting-haircut 
-| 💇🏻‍♀️ | woman-getting-haircut-light-skin-tone | 💇🏻‍♀ | woman-getting-haircut-light-skin-tone 
-| 💇🏼‍♀️ | woman-getting-haircut-medium-light-skin-tone | 💇🏼‍♀ | woman-getting-haircut-medium-light-skin-tone 
-| 💇🏽‍♀️ | woman-getting-haircut-medium-skin-tone | 💇🏽‍♀ | woman-getting-haircut-medium-skin-tone 
-| 💇🏾‍♀️ | woman-getting-haircut-medium-dark-skin-tone | 💇🏾‍♀ | woman-getting-haircut-medium-dark-skin-tone 
-| 💇🏿‍♀️ | woman-getting-haircut-dark-skin-tone | 💇🏿‍♀ | woman-getting-haircut-dark-skin-tone 
-| 🚶 | person-walking | 🚶🏻 | person-walking-light-skin-tone 
-| 🚶🏼 | person-walking-medium-light-skin-tone | 🚶🏽 | person-walking-medium-skin-tone 
-| 🚶🏾 | person-walking-medium-dark-skin-tone | 🚶🏿 | person-walking-dark-skin-tone 
-| 🚶‍♂️ | man-walking | 🚶‍♂ | man-walking 
-| 🚶🏻‍♂️ | man-walking-light-skin-tone | 🚶🏻‍♂ | man-walking-light-skin-tone 
-| 🚶🏼‍♂️ | man-walking-medium-light-skin-tone | 🚶🏼‍♂ | man-walking-medium-light-skin-tone 
-| 🚶🏽‍♂️ | man-walking-medium-skin-tone | 🚶🏽‍♂ | man-walking-medium-skin-tone 
-| 🚶🏾‍♂️ | man-walking-medium-dark-skin-tone | 🚶🏾‍♂ | man-walking-medium-dark-skin-tone 
-| 🚶🏿‍♂️ | man-walking-dark-skin-tone | 🚶🏿‍♂ | man-walking-dark-skin-tone 
-| 🚶‍♀️ | woman-walking | 🚶‍♀ | woman-walking 
-| 🚶🏻‍♀️ | woman-walking-light-skin-tone | 🚶🏻‍♀ | woman-walking-light-skin-tone 
-| 🚶🏼‍♀️ | woman-walking-medium-light-skin-tone | 🚶🏼‍♀ | woman-walking-medium-light-skin-tone 
-| 🚶🏽‍♀️ | woman-walking-medium-skin-tone | 🚶🏽‍♀ | woman-walking-medium-skin-tone 
-| 🚶🏾‍♀️ | woman-walking-medium-dark-skin-tone | 🚶🏾‍♀ | woman-walking-medium-dark-skin-tone 
-| 🚶🏿‍♀️ | woman-walking-dark-skin-tone | 🚶🏿‍♀ | woman-walking-dark-skin-tone 
-| 🧍 | person-standing | 🧍🏻 | person-standing-light-skin-tone 
-| 🧍🏼 | person-standing-medium-light-skin-tone | 🧍🏽 | person-standing-medium-skin-tone 
-| 🧍🏾 | person-standing-medium-dark-skin-tone | 🧍🏿 | person-standing-dark-skin-tone 
-| 🧍‍♂️ | man-standing | 🧍‍♂ | man-standing 
-| 🧍🏻‍♂️ | man-standing-light-skin-tone | 🧍🏻‍♂ | man-standing-light-skin-tone 
-| 🧍🏼‍♂️ | man-standing-medium-light-skin-tone | 🧍🏼‍♂ | man-standing-medium-light-skin-tone 
-| 🧍🏽‍♂️ | man-standing-medium-skin-tone | 🧍🏽‍♂ | man-standing-medium-skin-tone 
-| 🧍🏾‍♂️ | man-standing-medium-dark-skin-tone | 🧍🏾‍♂ | man-standing-medium-dark-skin-tone 
-| 🧍🏿‍♂️ | man-standing-dark-skin-tone | 🧍🏿‍♂ | man-standing-dark-skin-tone 
-| 🧍‍♀️ | woman-standing | 🧍‍♀ | woman-standing 
-| 🧍🏻‍♀️ | woman-standing-light-skin-tone | 🧍🏻‍♀ | woman-standing-light-skin-tone 
-| 🧍🏼‍♀️ | woman-standing-medium-light-skin-tone | 🧍🏼‍♀ | woman-standing-medium-light-skin-tone 
-| 🧍🏽‍♀️ | woman-standing-medium-skin-tone | 🧍🏽‍♀ | woman-standing-medium-skin-tone 
-| 🧍🏾‍♀️ | woman-standing-medium-dark-skin-tone | 🧍🏾‍♀ | woman-standing-medium-dark-skin-tone 
-| 🧍🏿‍♀️ | woman-standing-dark-skin-tone | 🧍🏿‍♀ | woman-standing-dark-skin-tone 
-| 🧎 | person-kneeling | 🧎🏻 | person-kneeling-light-skin-tone 
-| 🧎🏼 | person-kneeling-medium-light-skin-tone | 🧎🏽 | person-kneeling-medium-skin-tone 
-| 🧎🏾 | person-kneeling-medium-dark-skin-tone | 🧎🏿 | person-kneeling-dark-skin-tone 
-| 🧎‍♂️ | man-kneeling | 🧎‍♂ | man-kneeling 
-| 🧎🏻‍♂️ | man-kneeling-light-skin-tone | 🧎🏻‍♂ | man-kneeling-light-skin-tone 
-| 🧎🏼‍♂️ | man-kneeling-medium-light-skin-tone | 🧎🏼‍♂ | man-kneeling-medium-light-skin-tone 
-| 🧎🏽‍♂️ | man-kneeling-medium-skin-tone | 🧎🏽‍♂ | man-kneeling-medium-skin-tone 
-| 🧎🏾‍♂️ | man-kneeling-medium-dark-skin-tone | 🧎🏾‍♂ | man-kneeling-medium-dark-skin-tone 
-| 🧎🏿‍♂️ | man-kneeling-dark-skin-tone | 🧎🏿‍♂ | man-kneeling-dark-skin-tone 
-| 🧎‍♀️ | woman-kneeling | 🧎‍♀ | woman-kneeling 
-| 🧎🏻‍♀️ | woman-kneeling-light-skin-tone | 🧎🏻‍♀ | woman-kneeling-light-skin-tone 
-| 🧎🏼‍♀️ | woman-kneeling-medium-light-skin-tone | 🧎🏼‍♀ | woman-kneeling-medium-light-skin-tone 
-| 🧎🏽‍♀️ | woman-kneeling-medium-skin-tone | 🧎🏽‍♀ | woman-kneeling-medium-skin-tone 
-| 🧎🏾‍♀️ | woman-kneeling-medium-dark-skin-tone | 🧎🏾‍♀ | woman-kneeling-medium-dark-skin-tone 
-| 🧎🏿‍♀️ | woman-kneeling-dark-skin-tone | 🧎🏿‍♀ | woman-kneeling-dark-skin-tone 
-| 🧑‍🦯 | person-with-white-cane | 🧑🏻‍🦯 | person-with-white-cane-light-skin-tone 
-| 🧑🏼‍🦯 | person-with-white-cane-medium-light-skin-tone | 🧑🏽‍🦯 | person-with-white-cane-medium-skin-tone 
-| 🧑🏾‍🦯 | person-with-white-cane-medium-dark-skin-tone | 🧑🏿‍🦯 | person-with-white-cane-dark-skin-tone 
-| 👨‍🦯 | man-with-white-cane | 👨🏻‍🦯 | man-with-white-cane-light-skin-tone 
-| 👨🏼‍🦯 | man-with-white-cane-medium-light-skin-tone | 👨🏽‍🦯 | man-with-white-cane-medium-skin-tone 
-| 👨🏾‍🦯 | man-with-white-cane-medium-dark-skin-tone | 👨🏿‍🦯 | man-with-white-cane-dark-skin-tone 
-| 👩‍🦯 | woman-with-white-cane | 👩🏻‍🦯 | woman-with-white-cane-light-skin-tone 
-| 👩🏼‍🦯 | woman-with-white-cane-medium-light-skin-tone | 👩🏽‍🦯 | woman-with-white-cane-medium-skin-tone 
-| 👩🏾‍🦯 | woman-with-white-cane-medium-dark-skin-tone | 👩🏿‍🦯 | woman-with-white-cane-dark-skin-tone 
-| 🧑‍🦼 | person-in-motorized-wheelchair | 🧑🏻‍🦼 | person-in-motorized-wheelchair-light-skin-tone 
-| 🧑🏼‍🦼 | person-in-motorized-wheelchair-medium-light-skin-tone | 🧑🏽‍🦼 | person-in-motorized-wheelchair-medium-skin-tone 
-| 🧑🏾‍🦼 | person-in-motorized-wheelchair-medium-dark-skin-tone | 🧑🏿‍🦼 | person-in-motorized-wheelchair-dark-skin-tone 
-| 👨‍🦼 | man-in-motorized-wheelchair | 👨🏻‍🦼 | man-in-motorized-wheelchair-light-skin-tone 
-| 👨🏼‍🦼 | man-in-motorized-wheelchair-medium-light-skin-tone | 👨🏽‍🦼 | man-in-motorized-wheelchair-medium-skin-tone 
-| 👨🏾‍🦼 | man-in-motorized-wheelchair-medium-dark-skin-tone | 👨🏿‍🦼 | man-in-motorized-wheelchair-dark-skin-tone 
-| 👩‍🦼 | woman-in-motorized-wheelchair | 👩🏻‍🦼 | woman-in-motorized-wheelchair-light-skin-tone 
-| 👩🏼‍🦼 | woman-in-motorized-wheelchair-medium-light-skin-tone | 👩🏽‍🦼 | woman-in-motorized-wheelchair-medium-skin-tone 
-| 👩🏾‍🦼 | woman-in-motorized-wheelchair-medium-dark-skin-tone | 👩🏿‍🦼 | woman-in-motorized-wheelchair-dark-skin-tone 
-| 🧑‍🦽 | person-in-manual-wheelchair | 🧑🏻‍🦽 | person-in-manual-wheelchair-light-skin-tone 
-| 🧑🏼‍🦽 | person-in-manual-wheelchair-medium-light-skin-tone | 🧑🏽‍🦽 | person-in-manual-wheelchair-medium-skin-tone 
-| 🧑🏾‍🦽 | person-in-manual-wheelchair-medium-dark-skin-tone | 🧑🏿‍🦽 | person-in-manual-wheelchair-dark-skin-tone 
-| 👨‍🦽 | man-in-manual-wheelchair | 👨🏻‍🦽 | man-in-manual-wheelchair-light-skin-tone 
-| 👨🏼‍🦽 | man-in-manual-wheelchair-medium-light-skin-tone | 👨🏽‍🦽 | man-in-manual-wheelchair-medium-skin-tone 
-| 👨🏾‍🦽 | man-in-manual-wheelchair-medium-dark-skin-tone | 👨🏿‍🦽 | man-in-manual-wheelchair-dark-skin-tone 
-| 👩‍🦽 | woman-in-manual-wheelchair | 👩🏻‍🦽 | woman-in-manual-wheelchair-light-skin-tone 
-| 👩🏼‍🦽 | woman-in-manual-wheelchair-medium-light-skin-tone | 👩🏽‍🦽 | woman-in-manual-wheelchair-medium-skin-tone 
-| 👩🏾‍🦽 | woman-in-manual-wheelchair-medium-dark-skin-tone | 👩🏿‍🦽 | woman-in-manual-wheelchair-dark-skin-tone 
-| 🏃 | person-running | 🏃🏻 | person-running-light-skin-tone 
-| 🏃🏼 | person-running-medium-light-skin-tone | 🏃🏽 | person-running-medium-skin-tone 
-| 🏃🏾 | person-running-medium-dark-skin-tone | 🏃🏿 | person-running-dark-skin-tone 
-| 🏃‍♂️ | man-running | 🏃‍♂ | man-running 
-| 🏃🏻‍♂️ | man-running-light-skin-tone | 🏃🏻‍♂ | man-running-light-skin-tone 
-| 🏃🏼‍♂️ | man-running-medium-light-skin-tone | 🏃🏼‍♂ | man-running-medium-light-skin-tone 
-| 🏃🏽‍♂️ | man-running-medium-skin-tone | 🏃🏽‍♂ | man-running-medium-skin-tone 
-| 🏃🏾‍♂️ | man-running-medium-dark-skin-tone | 🏃🏾‍♂ | man-running-medium-dark-skin-tone 
-| 🏃🏿‍♂️ | man-running-dark-skin-tone | 🏃🏿‍♂ | man-running-dark-skin-tone 
-| 🏃‍♀️ | woman-running | 🏃‍♀ | woman-running 
-| 🏃🏻‍♀️ | woman-running-light-skin-tone | 🏃🏻‍♀ | woman-running-light-skin-tone 
-| 🏃🏼‍♀️ | woman-running-medium-light-skin-tone | 🏃🏼‍♀ | woman-running-medium-light-skin-tone 
-| 🏃🏽‍♀️ | woman-running-medium-skin-tone | 🏃🏽‍♀ | woman-running-medium-skin-tone 
-| 🏃🏾‍♀️ | woman-running-medium-dark-skin-tone | 🏃🏾‍♀ | woman-running-medium-dark-skin-tone 
-| 🏃🏿‍♀️ | woman-running-dark-skin-tone | 🏃🏿‍♀ | woman-running-dark-skin-tone 
-| 💃 | woman-dancing | 💃🏻 | woman-dancing-light-skin-tone 
-| 💃🏼 | woman-dancing-medium-light-skin-tone | 💃🏽 | woman-dancing-medium-skin-tone 
-| 💃🏾 | woman-dancing-medium-dark-skin-tone | 💃🏿 | woman-dancing-dark-skin-tone 
-| 🕺 | man-dancing | 🕺🏻 | man-dancing-light-skin-tone 
-| 🕺🏼 | man-dancing-medium-light-skin-tone | 🕺🏽 | man-dancing-medium-skin-tone 
-| 🕺🏾 | man-dancing-medium-dark-skin-tone | 🕺🏿 | man-dancing-dark-skin-tone 
-| 🕴️ | person-in-suit-levitating | 🕴 | person-in-suit-levitating 
-| 🕴🏻 | person-in-suit-levitating-light-skin-tone | 🕴🏼 | person-in-suit-levitating-medium-light-skin-tone 
-| 🕴🏽 | person-in-suit-levitating-medium-skin-tone | 🕴🏾 | person-in-suit-levitating-medium-dark-skin-tone 
-| 🕴🏿 | person-in-suit-levitating-dark-skin-tone | 👯 | people-with-bunny-ears 
-| 👯‍♂️ | men-with-bunny-ears | 👯‍♂ | men-with-bunny-ears 
-| 👯‍♀️ | women-with-bunny-ears | 👯‍♀ | women-with-bunny-ears 
-| 🧖 | person-in-steamy-room | 🧖🏻 | person-in-steamy-room-light-skin-tone 
-| 🧖🏼 | person-in-steamy-room-medium-light-skin-tone | 🧖🏽 | person-in-steamy-room-medium-skin-tone 
-| 🧖🏾 | person-in-steamy-room-medium-dark-skin-tone | 🧖🏿 | person-in-steamy-room-dark-skin-tone 
-| 🧖‍♂️ | man-in-steamy-room | 🧖‍♂ | man-in-steamy-room 
-| 🧖🏻‍♂️ | man-in-steamy-room-light-skin-tone | 🧖🏻‍♂ | man-in-steamy-room-light-skin-tone 
-| 🧖🏼‍♂️ | man-in-steamy-room-medium-light-skin-tone | 🧖🏼‍♂ | man-in-steamy-room-medium-light-skin-tone 
-| 🧖🏽‍♂️ | man-in-steamy-room-medium-skin-tone | 🧖🏽‍♂ | man-in-steamy-room-medium-skin-tone 
-| 🧖🏾‍♂️ | man-in-steamy-room-medium-dark-skin-tone | 🧖🏾‍♂ | man-in-steamy-room-medium-dark-skin-tone 
-| 🧖🏿‍♂️ | man-in-steamy-room-dark-skin-tone | 🧖🏿‍♂ | man-in-steamy-room-dark-skin-tone 
-| 🧖‍♀️ | woman-in-steamy-room | 🧖‍♀ | woman-in-steamy-room 
-| 🧖🏻‍♀️ | woman-in-steamy-room-light-skin-tone | 🧖🏻‍♀ | woman-in-steamy-room-light-skin-tone 
-| 🧖🏼‍♀️ | woman-in-steamy-room-medium-light-skin-tone | 🧖🏼‍♀ | woman-in-steamy-room-medium-light-skin-tone 
-| 🧖🏽‍♀️ | woman-in-steamy-room-medium-skin-tone | 🧖🏽‍♀ | woman-in-steamy-room-medium-skin-tone 
-| 🧖🏾‍♀️ | woman-in-steamy-room-medium-dark-skin-tone | 🧖🏾‍♀ | woman-in-steamy-room-medium-dark-skin-tone 
-| 🧖🏿‍♀️ | woman-in-steamy-room-dark-skin-tone | 🧖🏿‍♀ | woman-in-steamy-room-dark-skin-tone 
-| 🧗 | person-climbing | 🧗🏻 | person-climbing-light-skin-tone 
-| 🧗🏼 | person-climbing-medium-light-skin-tone | 🧗🏽 | person-climbing-medium-skin-tone 
-| 🧗🏾 | person-climbing-medium-dark-skin-tone | 🧗🏿 | person-climbing-dark-skin-tone 
-| 🧗‍♂️ | man-climbing | 🧗‍♂ | man-climbing 
-| 🧗🏻‍♂️ | man-climbing-light-skin-tone | 🧗🏻‍♂ | man-climbing-light-skin-tone 
-| 🧗🏼‍♂️ | man-climbing-medium-light-skin-tone | 🧗🏼‍♂ | man-climbing-medium-light-skin-tone 
-| 🧗🏽‍♂️ | man-climbing-medium-skin-tone | 🧗🏽‍♂ | man-climbing-medium-skin-tone 
-| 🧗🏾‍♂️ | man-climbing-medium-dark-skin-tone | 🧗🏾‍♂ | man-climbing-medium-dark-skin-tone 
-| 🧗🏿‍♂️ | man-climbing-dark-skin-tone | 🧗🏿‍♂ | man-climbing-dark-skin-tone 
-| 🧗‍♀️ | woman-climbing | 🧗‍♀ | woman-climbing 
-| 🧗🏻‍♀️ | woman-climbing-light-skin-tone | 🧗🏻‍♀ | woman-climbing-light-skin-tone 
-| 🧗🏼‍♀️ | woman-climbing-medium-light-skin-tone | 🧗🏼‍♀ | woman-climbing-medium-light-skin-tone 
-| 🧗🏽‍♀️ | woman-climbing-medium-skin-tone | 🧗🏽‍♀ | woman-climbing-medium-skin-tone 
-| 🧗🏾‍♀️ | woman-climbing-medium-dark-skin-tone | 🧗🏾‍♀ | woman-climbing-medium-dark-skin-tone 
-| 🧗🏿‍♀️ | woman-climbing-dark-skin-tone | 🧗🏿‍♀ | woman-climbing-dark-skin-tone 
-| 🤺 | person-fencing | 🏇 | horse-racing 
-| 🏇🏻 | horse-racing-light-skin-tone | 🏇🏼 | horse-racing-medium-light-skin-tone 
-| 🏇🏽 | horse-racing-medium-skin-tone | 🏇🏾 | horse-racing-medium-dark-skin-tone 
-| 🏇🏿 | horse-racing-dark-skin-tone | ⛷️ | skier 
-| ⛷ | skier | 🏂 | snowboarder 
-| 🏂🏻 | snowboarder-light-skin-tone | 🏂🏼 | snowboarder-medium-light-skin-tone 
-| 🏂🏽 | snowboarder-medium-skin-tone | 🏂🏾 | snowboarder-medium-dark-skin-tone 
-| 🏂🏿 | snowboarder-dark-skin-tone | 🏌️ | person-golfing 
-| 🏌 | person-golfing | 🏌🏻 | person-golfing-light-skin-tone 
-| 🏌🏼 | person-golfing-medium-light-skin-tone | 🏌🏽 | person-golfing-medium-skin-tone 
-| 🏌🏾 | person-golfing-medium-dark-skin-tone | 🏌🏿 | person-golfing-dark-skin-tone 
-| 🏌️‍♂️ | man-golfing | 🏌‍♂️ | man-golfing 
-| 🏌️‍♂ | man-golfing | 🏌‍♂ | man-golfing 
-| 🏌🏻‍♂️ | man-golfing-light-skin-tone | 🏌🏻‍♂ | man-golfing-light-skin-tone 
-| 🏌🏼‍♂️ | man-golfing-medium-light-skin-tone | 🏌🏼‍♂ | man-golfing-medium-light-skin-tone 
-| 🏌🏽‍♂️ | man-golfing-medium-skin-tone | 🏌🏽‍♂ | man-golfing-medium-skin-tone 
-| 🏌🏾‍♂️ | man-golfing-medium-dark-skin-tone | 🏌🏾‍♂ | man-golfing-medium-dark-skin-tone 
-| 🏌🏿‍♂️ | man-golfing-dark-skin-tone | 🏌🏿‍♂ | man-golfing-dark-skin-tone 
-| 🏌️‍♀️ | woman-golfing | 🏌‍♀️ | woman-golfing 
-| 🏌️‍♀ | woman-golfing | 🏌‍♀ | woman-golfing 
-| 🏌🏻‍♀️ | woman-golfing-light-skin-tone | 🏌🏻‍♀ | woman-golfing-light-skin-tone 
-| 🏌🏼‍♀️ | woman-golfing-medium-light-skin-tone | 🏌🏼‍♀ | woman-golfing-medium-light-skin-tone 
-| 🏌🏽‍♀️ | woman-golfing-medium-skin-tone | 🏌🏽‍♀ | woman-golfing-medium-skin-tone 
-| 🏌🏾‍♀️ | woman-golfing-medium-dark-skin-tone | 🏌🏾‍♀ | woman-golfing-medium-dark-skin-tone 
-| 🏌🏿‍♀️ | woman-golfing-dark-skin-tone | 🏌🏿‍♀ | woman-golfing-dark-skin-tone 
-| 🏄 | person-surfing | 🏄🏻 | person-surfing-light-skin-tone 
-| 🏄🏼 | person-surfing-medium-light-skin-tone | 🏄🏽 | person-surfing-medium-skin-tone 
-| 🏄🏾 | person-surfing-medium-dark-skin-tone | 🏄🏿 | person-surfing-dark-skin-tone 
-| 🏄‍♂️ | man-surfing | 🏄‍♂ | man-surfing 
-| 🏄🏻‍♂️ | man-surfing-light-skin-tone | 🏄🏻‍♂ | man-surfing-light-skin-tone 
-| 🏄🏼‍♂️ | man-surfing-medium-light-skin-tone | 🏄🏼‍♂ | man-surfing-medium-light-skin-tone 
-| 🏄🏽‍♂️ | man-surfing-medium-skin-tone | 🏄🏽‍♂ | man-surfing-medium-skin-tone 
-| 🏄🏾‍♂️ | man-surfing-medium-dark-skin-tone | 🏄🏾‍♂ | man-surfing-medium-dark-skin-tone 
-| 🏄🏿‍♂️ | man-surfing-dark-skin-tone | 🏄🏿‍♂ | man-surfing-dark-skin-tone 
-| 🏄‍♀️ | woman-surfing | 🏄‍♀ | woman-surfing 
-| 🏄🏻‍♀️ | woman-surfing-light-skin-tone | 🏄🏻‍♀ | woman-surfing-light-skin-tone 
-| 🏄🏼‍♀️ | woman-surfing-medium-light-skin-tone | 🏄🏼‍♀ | woman-surfing-medium-light-skin-tone 
-| 🏄🏽‍♀️ | woman-surfing-medium-skin-tone | 🏄🏽‍♀ | woman-surfing-medium-skin-tone 
-| 🏄🏾‍♀️ | woman-surfing-medium-dark-skin-tone | 🏄🏾‍♀ | woman-surfing-medium-dark-skin-tone 
-| 🏄🏿‍♀️ | woman-surfing-dark-skin-tone | 🏄🏿‍♀ | woman-surfing-dark-skin-tone 
-| 🚣 | person-rowing-boat | 🚣🏻 | person-rowing-boat-light-skin-tone 
-| 🚣🏼 | person-rowing-boat-medium-light-skin-tone | 🚣🏽 | person-rowing-boat-medium-skin-tone 
-| 🚣🏾 | person-rowing-boat-medium-dark-skin-tone | 🚣🏿 | person-rowing-boat-dark-skin-tone 
-| 🚣‍♂️ | man-rowing-boat | 🚣‍♂ | man-rowing-boat 
-| 🚣🏻‍♂️ | man-rowing-boat-light-skin-tone | 🚣🏻‍♂ | man-rowing-boat-light-skin-tone 
-| 🚣🏼‍♂️ | man-rowing-boat-medium-light-skin-tone | 🚣🏼‍♂ | man-rowing-boat-medium-light-skin-tone 
-| 🚣🏽‍♂️ | man-rowing-boat-medium-skin-tone | 🚣🏽‍♂ | man-rowing-boat-medium-skin-tone 
-| 🚣🏾‍♂️ | man-rowing-boat-medium-dark-skin-tone | 🚣🏾‍♂ | man-rowing-boat-medium-dark-skin-tone 
-| 🚣🏿‍♂️ | man-rowing-boat-dark-skin-tone | 🚣🏿‍♂ | man-rowing-boat-dark-skin-tone 
-| 🚣‍♀️ | woman-rowing-boat | 🚣‍♀ | woman-rowing-boat 
-| 🚣🏻‍♀️ | woman-rowing-boat-light-skin-tone | 🚣🏻‍♀ | woman-rowing-boat-light-skin-tone 
-| 🚣🏼‍♀️ | woman-rowing-boat-medium-light-skin-tone | 🚣🏼‍♀ | woman-rowing-boat-medium-light-skin-tone 
-| 🚣🏽‍♀️ | woman-rowing-boat-medium-skin-tone | 🚣🏽‍♀ | woman-rowing-boat-medium-skin-tone 
-| 🚣🏾‍♀️ | woman-rowing-boat-medium-dark-skin-tone | 🚣🏾‍♀ | woman-rowing-boat-medium-dark-skin-tone 
-| 🚣🏿‍♀️ | woman-rowing-boat-dark-skin-tone | 🚣🏿‍♀ | woman-rowing-boat-dark-skin-tone 
-| 🏊 | person-swimming | 🏊🏻 | person-swimming-light-skin-tone 
-| 🏊🏼 | person-swimming-medium-light-skin-tone | 🏊🏽 | person-swimming-medium-skin-tone 
-| 🏊🏾 | person-swimming-medium-dark-skin-tone | 🏊🏿 | person-swimming-dark-skin-tone 
-| 🏊‍♂️ | man-swimming | 🏊‍♂ | man-swimming 
-| 🏊🏻‍♂️ | man-swimming-light-skin-tone | 🏊🏻‍♂ | man-swimming-light-skin-tone 
-| 🏊🏼‍♂️ | man-swimming-medium-light-skin-tone | 🏊🏼‍♂ | man-swimming-medium-light-skin-tone 
-| 🏊🏽‍♂️ | man-swimming-medium-skin-tone | 🏊🏽‍♂ | man-swimming-medium-skin-tone 
-| 🏊🏾‍♂️ | man-swimming-medium-dark-skin-tone | 🏊🏾‍♂ | man-swimming-medium-dark-skin-tone 
-| 🏊🏿‍♂️ | man-swimming-dark-skin-tone | 🏊🏿‍♂ | man-swimming-dark-skin-tone 
-| 🏊‍♀️ | woman-swimming | 🏊‍♀ | woman-swimming 
-| 🏊🏻‍♀️ | woman-swimming-light-skin-tone | 🏊🏻‍♀ | woman-swimming-light-skin-tone 
-| 🏊🏼‍♀️ | woman-swimming-medium-light-skin-tone | 🏊🏼‍♀ | woman-swimming-medium-light-skin-tone 
-| 🏊🏽‍♀️ | woman-swimming-medium-skin-tone | 🏊🏽‍♀ | woman-swimming-medium-skin-tone 
-| 🏊🏾‍♀️ | woman-swimming-medium-dark-skin-tone | 🏊🏾‍♀ | woman-swimming-medium-dark-skin-tone 
-| 🏊🏿‍♀️ | woman-swimming-dark-skin-tone | 🏊🏿‍♀ | woman-swimming-dark-skin-tone 
-| ⛹️ | person-bouncing-ball | ⛹ | person-bouncing-ball 
-| ⛹🏻 | person-bouncing-ball-light-skin-tone | ⛹🏼 | person-bouncing-ball-medium-light-skin-tone 
-| ⛹🏽 | person-bouncing-ball-medium-skin-tone | ⛹🏾 | person-bouncing-ball-medium-dark-skin-tone 
-| ⛹🏿 | person-bouncing-ball-dark-skin-tone | ⛹️‍♂️ | man-bouncing-ball 
-| ⛹‍♂️ | man-bouncing-ball | ⛹️‍♂ | man-bouncing-ball 
-| ⛹‍♂ | man-bouncing-ball | ⛹🏻‍♂️ | man-bouncing-ball-light-skin-tone 
-| ⛹🏻‍♂ | man-bouncing-ball-light-skin-tone | ⛹🏼‍♂️ | man-bouncing-ball-medium-light-skin-tone 
-| ⛹🏼‍♂ | man-bouncing-ball-medium-light-skin-tone | ⛹🏽‍♂️ | man-bouncing-ball-medium-skin-tone 
-| ⛹🏽‍♂ | man-bouncing-ball-medium-skin-tone | ⛹🏾‍♂️ | man-bouncing-ball-medium-dark-skin-tone 
-| ⛹🏾‍♂ | man-bouncing-ball-medium-dark-skin-tone | ⛹🏿‍♂️ | man-bouncing-ball-dark-skin-tone 
-| ⛹🏿‍♂ | man-bouncing-ball-dark-skin-tone | ⛹️‍♀️ | woman-bouncing-ball 
-| ⛹‍♀️ | woman-bouncing-ball | ⛹️‍♀ | woman-bouncing-ball 
-| ⛹‍♀ | woman-bouncing-ball | ⛹🏻‍♀️ | woman-bouncing-ball-light-skin-tone 
-| ⛹🏻‍♀ | woman-bouncing-ball-light-skin-tone | ⛹🏼‍♀️ | woman-bouncing-ball-medium-light-skin-tone 
-| ⛹🏼‍♀ | woman-bouncing-ball-medium-light-skin-tone | ⛹🏽‍♀️ | woman-bouncing-ball-medium-skin-tone 
-| ⛹🏽‍♀ | woman-bouncing-ball-medium-skin-tone | ⛹🏾‍♀️ | woman-bouncing-ball-medium-dark-skin-tone 
-| ⛹🏾‍♀ | woman-bouncing-ball-medium-dark-skin-tone | ⛹🏿‍♀️ | woman-bouncing-ball-dark-skin-tone 
-| ⛹🏿‍♀ | woman-bouncing-ball-dark-skin-tone | 🏋️ | person-lifting-weights 
-| 🏋 | person-lifting-weights | 🏋🏻 | person-lifting-weights-light-skin-tone 
-| 🏋🏼 | person-lifting-weights-medium-light-skin-tone | 🏋🏽 | person-lifting-weights-medium-skin-tone 
-| 🏋🏾 | person-lifting-weights-medium-dark-skin-tone | 🏋🏿 | person-lifting-weights-dark-skin-tone 
-| 🏋️‍♂️ | man-lifting-weights | 🏋‍♂️ | man-lifting-weights 
-| 🏋️‍♂ | man-lifting-weights | 🏋‍♂ | man-lifting-weights 
-| 🏋🏻‍♂️ | man-lifting-weights-light-skin-tone | 🏋🏻‍♂ | man-lifting-weights-light-skin-tone 
-| 🏋🏼‍♂️ | man-lifting-weights-medium-light-skin-tone | 🏋🏼‍♂ | man-lifting-weights-medium-light-skin-tone 
-| 🏋🏽‍♂️ | man-lifting-weights-medium-skin-tone | 🏋🏽‍♂ | man-lifting-weights-medium-skin-tone 
-| 🏋🏾‍♂️ | man-lifting-weights-medium-dark-skin-tone | 🏋🏾‍♂ | man-lifting-weights-medium-dark-skin-tone 
-| 🏋🏿‍♂️ | man-lifting-weights-dark-skin-tone | 🏋🏿‍♂ | man-lifting-weights-dark-skin-tone 
-| 🏋️‍♀️ | woman-lifting-weights | 🏋‍♀️ | woman-lifting-weights 
-| 🏋️‍♀ | woman-lifting-weights | 🏋‍♀ | woman-lifting-weights 
-| 🏋🏻‍♀️ | woman-lifting-weights-light-skin-tone | 🏋🏻‍♀ | woman-lifting-weights-light-skin-tone 
-| 🏋🏼‍♀️ | woman-lifting-weights-medium-light-skin-tone | 🏋🏼‍♀ | woman-lifting-weights-medium-light-skin-tone 
-| 🏋🏽‍♀️ | woman-lifting-weights-medium-skin-tone | 🏋🏽‍♀ | woman-lifting-weights-medium-skin-tone 
-| 🏋🏾‍♀️ | woman-lifting-weights-medium-dark-skin-tone | 🏋🏾‍♀ | woman-lifting-weights-medium-dark-skin-tone 
-| 🏋🏿‍♀️ | woman-lifting-weights-dark-skin-tone | 🏋🏿‍♀ | woman-lifting-weights-dark-skin-tone 
-| 🚴 | person-biking | 🚴🏻 | person-biking-light-skin-tone 
-| 🚴🏼 | person-biking-medium-light-skin-tone | 🚴🏽 | person-biking-medium-skin-tone 
-| 🚴🏾 | person-biking-medium-dark-skin-tone | 🚴🏿 | person-biking-dark-skin-tone 
-| 🚴‍♂️ | man-biking | 🚴‍♂ | man-biking 
-| 🚴🏻‍♂️ | man-biking-light-skin-tone | 🚴🏻‍♂ | man-biking-light-skin-tone 
-| 🚴🏼‍♂️ | man-biking-medium-light-skin-tone | 🚴🏼‍♂ | man-biking-medium-light-skin-tone 
-| 🚴🏽‍♂️ | man-biking-medium-skin-tone | 🚴🏽‍♂ | man-biking-medium-skin-tone 
-| 🚴🏾‍♂️ | man-biking-medium-dark-skin-tone | 🚴🏾‍♂ | man-biking-medium-dark-skin-tone 
-| 🚴🏿‍♂️ | man-biking-dark-skin-tone | 🚴🏿‍♂ | man-biking-dark-skin-tone 
-| 🚴‍♀️ | woman-biking | 🚴‍♀ | woman-biking 
-| 🚴🏻‍♀️ | woman-biking-light-skin-tone | 🚴🏻‍♀ | woman-biking-light-skin-tone 
-| 🚴🏼‍♀️ | woman-biking-medium-light-skin-tone | 🚴🏼‍♀ | woman-biking-medium-light-skin-tone 
-| 🚴🏽‍♀️ | woman-biking-medium-skin-tone | 🚴🏽‍♀ | woman-biking-medium-skin-tone 
-| 🚴🏾‍♀️ | woman-biking-medium-dark-skin-tone | 🚴🏾‍♀ | woman-biking-medium-dark-skin-tone 
-| 🚴🏿‍♀️ | woman-biking-dark-skin-tone | 🚴🏿‍♀ | woman-biking-dark-skin-tone 
-| 🚵 | person-mountain-biking | 🚵🏻 | person-mountain-biking-light-skin-tone 
-| 🚵🏼 | person-mountain-biking-medium-light-skin-tone | 🚵🏽 | person-mountain-biking-medium-skin-tone 
-| 🚵🏾 | person-mountain-biking-medium-dark-skin-tone | 🚵🏿 | person-mountain-biking-dark-skin-tone 
-| 🚵‍♂️ | man-mountain-biking | 🚵‍♂ | man-mountain-biking 
-| 🚵🏻‍♂️ | man-mountain-biking-light-skin-tone | 🚵🏻‍♂ | man-mountain-biking-light-skin-tone 
-| 🚵🏼‍♂️ | man-mountain-biking-medium-light-skin-tone | 🚵🏼‍♂ | man-mountain-biking-medium-light-skin-tone 
-| 🚵🏽‍♂️ | man-mountain-biking-medium-skin-tone | 🚵🏽‍♂ | man-mountain-biking-medium-skin-tone 
-| 🚵🏾‍♂️ | man-mountain-biking-medium-dark-skin-tone | 🚵🏾‍♂ | man-mountain-biking-medium-dark-skin-tone 
-| 🚵🏿‍♂️ | man-mountain-biking-dark-skin-tone | 🚵🏿‍♂ | man-mountain-biking-dark-skin-tone 
-| 🚵‍♀️ | woman-mountain-biking | 🚵‍♀ | woman-mountain-biking 
-| 🚵🏻‍♀️ | woman-mountain-biking-light-skin-tone | 🚵🏻‍♀ | woman-mountain-biking-light-skin-tone 
-| 🚵🏼‍♀️ | woman-mountain-biking-medium-light-skin-tone | 🚵🏼‍♀ | woman-mountain-biking-medium-light-skin-tone 
-| 🚵🏽‍♀️ | woman-mountain-biking-medium-skin-tone | 🚵🏽‍♀ | woman-mountain-biking-medium-skin-tone 
-| 🚵🏾‍♀️ | woman-mountain-biking-medium-dark-skin-tone | 🚵🏾‍♀ | woman-mountain-biking-medium-dark-skin-tone 
-| 🚵🏿‍♀️ | woman-mountain-biking-dark-skin-tone | 🚵🏿‍♀ | woman-mountain-biking-dark-skin-tone 
-| 🤸 | person-cartwheeling | 🤸🏻 | person-cartwheeling-light-skin-tone 
-| 🤸🏼 | person-cartwheeling-medium-light-skin-tone | 🤸🏽 | person-cartwheeling-medium-skin-tone 
-| 🤸🏾 | person-cartwheeling-medium-dark-skin-tone | 🤸🏿 | person-cartwheeling-dark-skin-tone 
-| 🤸‍♂️ | man-cartwheeling | 🤸‍♂ | man-cartwheeling 
-| 🤸🏻‍♂️ | man-cartwheeling-light-skin-tone | 🤸🏻‍♂ | man-cartwheeling-light-skin-tone 
-| 🤸🏼‍♂️ | man-cartwheeling-medium-light-skin-tone | 🤸🏼‍♂ | man-cartwheeling-medium-light-skin-tone 
-| 🤸🏽‍♂️ | man-cartwheeling-medium-skin-tone | 🤸🏽‍♂ | man-cartwheeling-medium-skin-tone 
-| 🤸🏾‍♂️ | man-cartwheeling-medium-dark-skin-tone | 🤸🏾‍♂ | man-cartwheeling-medium-dark-skin-tone 
-| 🤸🏿‍♂️ | man-cartwheeling-dark-skin-tone | 🤸🏿‍♂ | man-cartwheeling-dark-skin-tone 
-| 🤸‍♀️ | woman-cartwheeling | 🤸‍♀ | woman-cartwheeling 
-| 🤸🏻‍♀️ | woman-cartwheeling-light-skin-tone | 🤸🏻‍♀ | woman-cartwheeling-light-skin-tone 
-| 🤸🏼‍♀️ | woman-cartwheeling-medium-light-skin-tone | 🤸🏼‍♀ | woman-cartwheeling-medium-light-skin-tone 
-| 🤸🏽‍♀️ | woman-cartwheeling-medium-skin-tone | 🤸🏽‍♀ | woman-cartwheeling-medium-skin-tone 
-| 🤸🏾‍♀️ | woman-cartwheeling-medium-dark-skin-tone | 🤸🏾‍♀ | woman-cartwheeling-medium-dark-skin-tone 
-| 🤸🏿‍♀️ | woman-cartwheeling-dark-skin-tone | 🤸🏿‍♀ | woman-cartwheeling-dark-skin-tone 
-| 🤼 | people-wrestling | 🤼‍♂️ | men-wrestling 
-| 🤼‍♂ | men-wrestling | 🤼‍♀️ | women-wrestling 
-| 🤼‍♀ | women-wrestling | 🤽 | person-playing-water-polo 
-| 🤽🏻 | person-playing-water-polo-light-skin-tone | 🤽🏼 | person-playing-water-polo-medium-light-skin-tone 
-| 🤽🏽 | person-playing-water-polo-medium-skin-tone | 🤽🏾 | person-playing-water-polo-medium-dark-skin-tone 
-| 🤽🏿 | person-playing-water-polo-dark-skin-tone | 🤽‍♂️ | man-playing-water-polo 
-| 🤽‍♂ | man-playing-water-polo | 🤽🏻‍♂️ | man-playing-water-polo-light-skin-tone 
-| 🤽🏻‍♂ | man-playing-water-polo-light-skin-tone | 🤽🏼‍♂️ | man-playing-water-polo-medium-light-skin-tone 
-| 🤽🏼‍♂ | man-playing-water-polo-medium-light-skin-tone | 🤽🏽‍♂️ | man-playing-water-polo-medium-skin-tone 
-| 🤽🏽‍♂ | man-playing-water-polo-medium-skin-tone | 🤽🏾‍♂️ | man-playing-water-polo-medium-dark-skin-tone 
-| 🤽🏾‍♂ | man-playing-water-polo-medium-dark-skin-tone | 🤽🏿‍♂️ | man-playing-water-polo-dark-skin-tone 
-| 🤽🏿‍♂ | man-playing-water-polo-dark-skin-tone | 🤽‍♀️ | woman-playing-water-polo 
-| 🤽‍♀ | woman-playing-water-polo | 🤽🏻‍♀️ | woman-playing-water-polo-light-skin-tone 
-| 🤽🏻‍♀ | woman-playing-water-polo-light-skin-tone | 🤽🏼‍♀️ | woman-playing-water-polo-medium-light-skin-tone 
-| 🤽🏼‍♀ | woman-playing-water-polo-medium-light-skin-tone | 🤽🏽‍♀️ | woman-playing-water-polo-medium-skin-tone 
-| 🤽🏽‍♀ | woman-playing-water-polo-medium-skin-tone | 🤽🏾‍♀️ | woman-playing-water-polo-medium-dark-skin-tone 
-| 🤽🏾‍♀ | woman-playing-water-polo-medium-dark-skin-tone | 🤽🏿‍♀️ | woman-playing-water-polo-dark-skin-tone 
-| 🤽🏿‍♀ | woman-playing-water-polo-dark-skin-tone | 🤾 | person-playing-handball 
-| 🤾🏻 | person-playing-handball-light-skin-tone | 🤾🏼 | person-playing-handball-medium-light-skin-tone 
-| 🤾🏽 | person-playing-handball-medium-skin-tone | 🤾🏾 | person-playing-handball-medium-dark-skin-tone 
-| 🤾🏿 | person-playing-handball-dark-skin-tone | 🤾‍♂️ | man-playing-handball 
-| 🤾‍♂ | man-playing-handball | 🤾🏻‍♂️ | man-playing-handball-light-skin-tone 
-| 🤾🏻‍♂ | man-playing-handball-light-skin-tone | 🤾🏼‍♂️ | man-playing-handball-medium-light-skin-tone 
-| 🤾🏼‍♂ | man-playing-handball-medium-light-skin-tone | 🤾🏽‍♂️ | man-playing-handball-medium-skin-tone 
-| 🤾🏽‍♂ | man-playing-handball-medium-skin-tone | 🤾🏾‍♂️ | man-playing-handball-medium-dark-skin-tone 
-| 🤾🏾‍♂ | man-playing-handball-medium-dark-skin-tone | 🤾🏿‍♂️ | man-playing-handball-dark-skin-tone 
-| 🤾🏿‍♂ | man-playing-handball-dark-skin-tone | 🤾‍♀️ | woman-playing-handball 
-| 🤾‍♀ | woman-playing-handball | 🤾🏻‍♀️ | woman-playing-handball-light-skin-tone 
-| 🤾🏻‍♀ | woman-playing-handball-light-skin-tone | 🤾🏼‍♀️ | woman-playing-handball-medium-light-skin-tone 
-| 🤾🏼‍♀ | woman-playing-handball-medium-light-skin-tone | 🤾🏽‍♀️ | woman-playing-handball-medium-skin-tone 
-| 🤾🏽‍♀ | woman-playing-handball-medium-skin-tone | 🤾🏾‍♀️ | woman-playing-handball-medium-dark-skin-tone 
-| 🤾🏾‍♀ | woman-playing-handball-medium-dark-skin-tone | 🤾🏿‍♀️ | woman-playing-handball-dark-skin-tone 
-| 🤾🏿‍♀ | woman-playing-handball-dark-skin-tone | 🤹 | person-juggling 
-| 🤹🏻 | person-juggling-light-skin-tone | 🤹🏼 | person-juggling-medium-light-skin-tone 
-| 🤹🏽 | person-juggling-medium-skin-tone | 🤹🏾 | person-juggling-medium-dark-skin-tone 
-| 🤹🏿 | person-juggling-dark-skin-tone | 🤹‍♂️ | man-juggling 
-| 🤹‍♂ | man-juggling | 🤹🏻‍♂️ | man-juggling-light-skin-tone 
-| 🤹🏻‍♂ | man-juggling-light-skin-tone | 🤹🏼‍♂️ | man-juggling-medium-light-skin-tone 
-| 🤹🏼‍♂ | man-juggling-medium-light-skin-tone | 🤹🏽‍♂️ | man-juggling-medium-skin-tone 
-| 🤹🏽‍♂ | man-juggling-medium-skin-tone | 🤹🏾‍♂️ | man-juggling-medium-dark-skin-tone 
-| 🤹🏾‍♂ | man-juggling-medium-dark-skin-tone | 🤹🏿‍♂️ | man-juggling-dark-skin-tone 
-| 🤹🏿‍♂ | man-juggling-dark-skin-tone | 🤹‍♀️ | woman-juggling 
-| 🤹‍♀ | woman-juggling | 🤹🏻‍♀️ | woman-juggling-light-skin-tone 
-| 🤹🏻‍♀ | woman-juggling-light-skin-tone | 🤹🏼‍♀️ | woman-juggling-medium-light-skin-tone 
-| 🤹🏼‍♀ | woman-juggling-medium-light-skin-tone | 🤹🏽‍♀️ | woman-juggling-medium-skin-tone 
-| 🤹🏽‍♀ | woman-juggling-medium-skin-tone | 🤹🏾‍♀️ | woman-juggling-medium-dark-skin-tone 
-| 🤹🏾‍♀ | woman-juggling-medium-dark-skin-tone | 🤹🏿‍♀️ | woman-juggling-dark-skin-tone 
-| 🤹🏿‍♀ | woman-juggling-dark-skin-tone | 🧘 | person-in-lotus-position 
-| 🧘🏻 | person-in-lotus-position-light-skin-tone | 🧘🏼 | person-in-lotus-position-medium-light-skin-tone 
-| 🧘🏽 | person-in-lotus-position-medium-skin-tone | 🧘🏾 | person-in-lotus-position-medium-dark-skin-tone 
-| 🧘🏿 | person-in-lotus-position-dark-skin-tone | 🧘‍♂️ | man-in-lotus-position 
-| 🧘‍♂ | man-in-lotus-position | 🧘🏻‍♂️ | man-in-lotus-position-light-skin-tone 
-| 🧘🏻‍♂ | man-in-lotus-position-light-skin-tone | 🧘🏼‍♂️ | man-in-lotus-position-medium-light-skin-tone 
-| 🧘🏼‍♂ | man-in-lotus-position-medium-light-skin-tone | 🧘🏽‍♂️ | man-in-lotus-position-medium-skin-tone 
-| 🧘🏽‍♂ | man-in-lotus-position-medium-skin-tone | 🧘🏾‍♂️ | man-in-lotus-position-medium-dark-skin-tone 
-| 🧘🏾‍♂ | man-in-lotus-position-medium-dark-skin-tone | 🧘🏿‍♂️ | man-in-lotus-position-dark-skin-tone 
-| 🧘🏿‍♂ | man-in-lotus-position-dark-skin-tone | 🧘‍♀️ | woman-in-lotus-position 
-| 🧘‍♀ | woman-in-lotus-position | 🧘🏻‍♀️ | woman-in-lotus-position-light-skin-tone 
-| 🧘🏻‍♀ | woman-in-lotus-position-light-skin-tone | 🧘🏼‍♀️ | woman-in-lotus-position-medium-light-skin-tone 
-| 🧘🏼‍♀ | woman-in-lotus-position-medium-light-skin-tone | 🧘🏽‍♀️ | woman-in-lotus-position-medium-skin-tone 
-| 🧘🏽‍♀ | woman-in-lotus-position-medium-skin-tone | 🧘🏾‍♀️ | woman-in-lotus-position-medium-dark-skin-tone 
-| 🧘🏾‍♀ | woman-in-lotus-position-medium-dark-skin-tone | 🧘🏿‍♀️ | woman-in-lotus-position-dark-skin-tone 
-| 🧘🏿‍♀ | woman-in-lotus-position-dark-skin-tone | 🛀 | person-taking-bath 
-| 🛀🏻 | person-taking-bath-light-skin-tone | 🛀🏼 | person-taking-bath-medium-light-skin-tone 
-| 🛀🏽 | person-taking-bath-medium-skin-tone | 🛀🏾 | person-taking-bath-medium-dark-skin-tone 
-| 🛀🏿 | person-taking-bath-dark-skin-tone | 🛌 | person-in-bed 
-| 🛌🏻 | person-in-bed-light-skin-tone | 🛌🏼 | person-in-bed-medium-light-skin-tone 
-| 🛌🏽 | person-in-bed-medium-skin-tone | 🛌🏾 | person-in-bed-medium-dark-skin-tone 
-| 🛌🏿 | person-in-bed-dark-skin-tone | 🧑‍🤝‍🧑 | people-holding-hands 
-| 🧑🏻‍🤝‍🧑🏻 | people-holding-hands-light-skin-tone | 🧑🏻‍🤝‍🧑🏼 | people-holding-hands-light-skin-tone-medium-light-skin-tone 
-| 🧑🏻‍🤝‍🧑🏽 | people-holding-hands-light-skin-tone-medium-skin-tone | 🧑🏻‍🤝‍🧑🏾 | people-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| 🧑🏻‍🤝‍🧑🏿 | people-holding-hands-light-skin-tone-dark-skin-tone | 🧑🏼‍🤝‍🧑🏻 | people-holding-hands-medium-light-skin-tone-light-skin-tone 
-| 🧑🏼‍🤝‍🧑🏼 | people-holding-hands-medium-light-skin-tone | 🧑🏼‍🤝‍🧑🏽 | people-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| 🧑🏼‍🤝‍🧑🏾 | people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | 🧑🏼‍🤝‍🧑🏿 | people-holding-hands-medium-light-skin-tone-dark-skin-tone 
-| 🧑🏽‍🤝‍🧑🏻 | people-holding-hands-medium-skin-tone-light-skin-tone | 🧑🏽‍🤝‍🧑🏼 | people-holding-hands-medium-skin-tone-medium-light-skin-tone 
-| 🧑🏽‍🤝‍🧑🏽 | people-holding-hands-medium-skin-tone | 🧑🏽‍🤝‍🧑🏾 | people-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| 🧑🏽‍🤝‍🧑🏿 | people-holding-hands-medium-skin-tone-dark-skin-tone | 🧑🏾‍🤝‍🧑🏻 | people-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| 🧑🏾‍🤝‍🧑🏼 | people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | 🧑🏾‍🤝‍🧑🏽 | people-holding-hands-medium-dark-skin-tone-medium-skin-tone 
-| 🧑🏾‍🤝‍🧑🏾 | people-holding-hands-medium-dark-skin-tone | 🧑🏾‍🤝‍🧑🏿 | people-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| 🧑🏿‍🤝‍🧑🏻 | people-holding-hands-dark-skin-tone-light-skin-tone | 🧑🏿‍🤝‍🧑🏼 | people-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| 🧑🏿‍🤝‍🧑🏽 | people-holding-hands-dark-skin-tone-medium-skin-tone | 🧑🏿‍🤝‍🧑🏾 | people-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| 🧑🏿‍🤝‍🧑🏿 | people-holding-hands-dark-skin-tone | 👭 | women-holding-hands 
-| 👭🏻 | women-holding-hands-light-skin-tone | 👩🏻‍🤝‍👩🏼 | women-holding-hands-light-skin-tone-medium-light-skin-tone 
-| 👩🏻‍🤝‍👩🏽 | women-holding-hands-light-skin-tone-medium-skin-tone | 👩🏻‍🤝‍👩🏾 | women-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| 👩🏻‍🤝‍👩🏿 | women-holding-hands-light-skin-tone-dark-skin-tone | 👩🏼‍🤝‍👩🏻 | women-holding-hands-medium-light-skin-tone-light-skin-tone 
-| 👭🏼 | women-holding-hands-medium-light-skin-tone | 👩🏼‍🤝‍👩🏽 | women-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| 👩🏼‍🤝‍👩🏾 | women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | 👩🏼‍🤝‍👩🏿 | women-holding-hands-medium-light-skin-tone-dark-skin-tone 
-| 👩🏽‍🤝‍👩🏻 | women-holding-hands-medium-skin-tone-light-skin-tone | 👩🏽‍🤝‍👩🏼 | women-holding-hands-medium-skin-tone-medium-light-skin-tone 
-| 👭🏽 | women-holding-hands-medium-skin-tone | 👩🏽‍🤝‍👩🏾 | women-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| 👩🏽‍🤝‍👩🏿 | women-holding-hands-medium-skin-tone-dark-skin-tone | 👩🏾‍🤝‍👩🏻 | women-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| 👩🏾‍🤝‍👩🏼 | women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | 👩🏾‍🤝‍👩🏽 | women-holding-hands-medium-dark-skin-tone-medium-skin-tone 
-| 👭🏾 | women-holding-hands-medium-dark-skin-tone | 👩🏾‍🤝‍👩🏿 | women-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| 👩🏿‍🤝‍👩🏻 | women-holding-hands-dark-skin-tone-light-skin-tone | 👩🏿‍🤝‍👩🏼 | women-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| 👩🏿‍🤝‍👩🏽 | women-holding-hands-dark-skin-tone-medium-skin-tone | 👩🏿‍🤝‍👩🏾 | women-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| 👭🏿 | women-holding-hands-dark-skin-tone | 👫 | woman-and-man-holding-hands 
-| 👫🏻 | woman-and-man-holding-hands-light-skin-tone | 👩🏻‍🤝‍👨🏼 | woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone 
-| 👩🏻‍🤝‍👨🏽 | woman-and-man-holding-hands-light-skin-tone-medium-skin-tone | 👩🏻‍🤝‍👨🏾 | woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| 👩🏻‍🤝‍👨🏿 | woman-and-man-holding-hands-light-skin-tone-dark-skin-tone | 👩🏼‍🤝‍👨🏻 | woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone 
-| 👫🏼 | woman-and-man-holding-hands-medium-light-skin-tone | 👩🏼‍🤝‍👨🏽 | woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| 👩🏼‍🤝‍👨🏾 | woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | 👩🏼‍🤝‍👨🏿 | woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone 
-| 👩🏽‍🤝‍👨🏻 | woman-and-man-holding-hands-medium-skin-tone-light-skin-tone | 👩🏽‍🤝‍👨🏼 | woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone 
-| 👫🏽 | woman-and-man-holding-hands-medium-skin-tone | 👩🏽‍🤝‍👨🏾 | woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| 👩🏽‍🤝‍👨🏿 | woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone | 👩🏾‍🤝‍👨🏻 | woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| 👩🏾‍🤝‍👨🏼 | woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | 👩🏾‍🤝‍👨🏽 | woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone 
-| 👫🏾 | woman-and-man-holding-hands-medium-dark-skin-tone | 👩🏾‍🤝‍👨🏿 | woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| 👩🏿‍🤝‍👨🏻 | woman-and-man-holding-hands-dark-skin-tone-light-skin-tone | 👩🏿‍🤝‍👨🏼 | woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| 👩🏿‍🤝‍👨🏽 | woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone | 👩🏿‍🤝‍👨🏾 | woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| 👫🏿 | woman-and-man-holding-hands-dark-skin-tone | 👬 | men-holding-hands 
-| 👬🏻 | men-holding-hands-light-skin-tone | 👨🏻‍🤝‍👨🏼 | men-holding-hands-light-skin-tone-medium-light-skin-tone 
-| 👨🏻‍🤝‍👨🏽 | men-holding-hands-light-skin-tone-medium-skin-tone | 👨🏻‍🤝‍👨🏾 | men-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| 👨🏻‍🤝‍👨🏿 | men-holding-hands-light-skin-tone-dark-skin-tone | 👨🏼‍🤝‍👨🏻 | men-holding-hands-medium-light-skin-tone-light-skin-tone 
-| 👬🏼 | men-holding-hands-medium-light-skin-tone | 👨🏼‍🤝‍👨🏽 | men-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| 👨🏼‍🤝‍👨🏾 | men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | 👨🏼‍🤝‍👨🏿 | men-holding-hands-medium-light-skin-tone-dark-skin-tone 
-| 👨🏽‍🤝‍👨🏻 | men-holding-hands-medium-skin-tone-light-skin-tone | 👨🏽‍🤝‍👨🏼 | men-holding-hands-medium-skin-tone-medium-light-skin-tone 
-| 👬🏽 | men-holding-hands-medium-skin-tone | 👨🏽‍🤝‍👨🏾 | men-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| 👨🏽‍🤝‍👨🏿 | men-holding-hands-medium-skin-tone-dark-skin-tone | 👨🏾‍🤝‍👨🏻 | men-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| 👨🏾‍🤝‍👨🏼 | men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | 👨🏾‍🤝‍👨🏽 | men-holding-hands-medium-dark-skin-tone-medium-skin-tone 
-| 👬🏾 | men-holding-hands-medium-dark-skin-tone | 👨🏾‍🤝‍👨🏿 | men-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| 👨🏿‍🤝‍👨🏻 | men-holding-hands-dark-skin-tone-light-skin-tone | 👨🏿‍🤝‍👨🏼 | men-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| 👨🏿‍🤝‍👨🏽 | men-holding-hands-dark-skin-tone-medium-skin-tone | 👨🏿‍🤝‍👨🏾 | men-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| 👬🏿 | men-holding-hands-dark-skin-tone | 💏 | kiss 
-| 👩‍❤️‍💋‍👨 | kiss-woman-man | 👩‍❤‍💋‍👨 | kiss-woman-man 
-| 👨‍❤️‍💋‍👨 | kiss-man-man | 👨‍❤‍💋‍👨 | kiss-man-man 
-| 👩‍❤️‍💋‍👩 | kiss-woman-woman | 👩‍❤‍💋‍👩 | kiss-woman-woman 
-| 💑 | couple-with-heart | 👩‍❤️‍👨 | couple-with-heart-woman-man 
-| 👩‍❤‍👨 | couple-with-heart-woman-man | 👨‍❤️‍👨 | couple-with-heart-man-man 
-| 👨‍❤‍👨 | couple-with-heart-man-man | 👩‍❤️‍👩 | couple-with-heart-woman-woman 
-| 👩‍❤‍👩 | couple-with-heart-woman-woman | 👪 | family 
-| 👨‍👩‍👦 | family-man-woman-boy | 👨‍👩‍👧 | family-man-woman-girl 
-| 👨‍👩‍👧‍👦 | family-man-woman-girl-boy | 👨‍👩‍👦‍👦 | family-man-woman-boy-boy 
-| 👨‍👩‍👧‍👧 | family-man-woman-girl-girl | 👨‍👨‍👦 | family-man-man-boy 
-| 👨‍👨‍👧 | family-man-man-girl | 👨‍👨‍👧‍👦 | family-man-man-girl-boy 
-| 👨‍👨‍👦‍👦 | family-man-man-boy-boy | 👨‍👨‍👧‍👧 | family-man-man-girl-girl 
-| 👩‍👩‍👦 | family-woman-woman-boy | 👩‍👩‍👧 | family-woman-woman-girl 
-| 👩‍👩‍👧‍👦 | family-woman-woman-girl-boy | 👩‍👩‍👦‍👦 | family-woman-woman-boy-boy 
-| 👩‍👩‍👧‍👧 | family-woman-woman-girl-girl | 👨‍👦 | family-man-boy 
-| 👨‍👦‍👦 | family-man-boy-boy | 👨‍👧 | family-man-girl 
-| 👨‍👧‍👦 | family-man-girl-boy | 👨‍👧‍👧 | family-man-girl-girl 
-| 👩‍👦 | family-woman-boy | 👩‍👦‍👦 | family-woman-boy-boy 
-| 👩‍👧 | family-woman-girl | 👩‍👧‍👦 | family-woman-girl-boy 
-| 👩‍👧‍👧 | family-woman-girl-girl | 🗣️ | speaking-head 
-| 🗣 | speaking-head | 👤 | bust-in-silhouette 
-| 👥 | busts-in-silhouette | 🫂 | people-hugging 
-| 👣 | footprints 
-## Component
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 🏻 | light-skin-tone 
-| 🏼 | medium-light-skin-tone | 🏽 | medium-skin-tone 
-| 🏾 | medium-dark-skin-tone | 🏿 | dark-skin-tone 
-| 🦰 | red-hair | 🦱 | curly-hair 
-| 🦳 | white-hair | 🦲 | bald 
-
-## Animals and Nature
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 🐵 | monkey-face | 🐒 | monkey 
-| 🦍 | gorilla | 🦧 | orangutan 
-| 🐶 | dog-face | 🐕 | dog 
-| 🦮 | guide-dog | 🐕‍🦺 | service-dog 
-| 🐩 | poodle | 🐺 | wolf 
-| 🦊 | fox | 🦝 | raccoon 
-| 🐱 | cat-face | 🐈 | cat 
-| 🐈‍⬛ | black-cat | 🦁 | lion 
-| 🐯 | tiger-face | 🐅 | tiger 
-| 🐆 | leopard | 🐴 | horse-face 
-| 🐎 | horse | 🦄 | unicorn 
-| 🦓 | zebra | 🦌 | deer 
-| 🦬 | bison | 🐮 | cow-face 
-| 🐂 | ox | 🐃 | water-buffalo 
-| 🐄 | cow | 🐷 | pig-face 
-| 🐖 | pig | 🐗 | boar 
-| 🐽 | pig-nose | 🐏 | ram 
-| 🐑 | ewe | 🐐 | goat 
-| 🐪 | camel | 🐫 | two-hump-camel 
-| 🦙 | llama | 🦒 | giraffe 
-| 🐘 | elephant | 🦣 | mammoth 
-| 🦏 | rhinoceros | 🦛 | hippopotamus 
-| 🐭 | mouse-face | 🐁 | mouse 
-| 🐀 | rat | 🐹 | hamster 
-| 🐰 | rabbit-face | 🐇 | rabbit 
-| 🐿️ | chipmunk | 🐿 | chipmunk 
-| 🦫 | beaver | 🦔 | hedgehog 
-| 🦇 | bat | 🐻 | bear 
-| 🐻‍❄️ | polar-bear | 🐻‍❄ | polar-bear 
-| 🐨 | koala | 🐼 | panda 
-| 🦥 | sloth | 🦦 | otter 
-| 🦨 | skunk | 🦘 | kangaroo 
-| 🦡 | badger | 🐾 | paw-prints 
-| 🦃 | turkey | 🐔 | chicken 
-| 🐓 | rooster | 🐣 | hatching-chick 
-| 🐤 | baby-chick | 🐥 | front-facing-baby-chick 
-| 🐦 | bird | 🐧 | penguin 
-| 🕊️ | dove | 🕊 | dove 
-| 🦅 | eagle | 🦆 | duck 
-| 🦢 | swan | 🦉 | owl 
-| 🦤 | dodo | 🪶 | feather 
-| 🦩 | flamingo | 🦚 | peacock 
-| 🦜 | parrot | 🐸 | frog 
-| 🐊 | crocodile | 🐢 | turtle 
-| 🦎 | lizard | 🐍 | snake 
-| 🐲 | dragon-face | 🐉 | dragon 
-| 🦕 | sauropod | 🦖 | t-rex 
-| 🐳 | spouting-whale | 🐋 | whale 
-| 🐬 | dolphin | 🦭 | seal 
-| 🐟 | fish | 🐠 | tropical-fish 
-| 🐡 | blowfish | 🦈 | shark 
-| 🐙 | octopus | 🐚 | spiral-shell 
-| 🐌 | snail | 🦋 | butterfly 
-| 🐛 | bug | 🐜 | ant 
-| 🐝 | honeybee | 🪲 | beetle 
-| 🐞 | lady-beetle | 🦗 | cricket 
-| 🪳 | cockroach | 🕷️ | spider 
-| 🕷 | spider | 🕸️ | spider-web 
-| 🕸 | spider-web | 🦂 | scorpion 
-| 🦟 | mosquito | 🪰 | fly 
-| 🪱 | worm | 🦠 | microbe 
-| 💐 | bouquet | 🌸 | cherry-blossom 
-| 💮 | white-flower | 🏵️ | rosette 
-| 🏵 | rosette | 🌹 | rose 
-| 🥀 | wilted-flower | 🌺 | hibiscus 
-| 🌻 | sunflower | 🌼 | blossom 
-| 🌷 | tulip | 🌱 | seedling 
-| 🪴 | potted-plant | 🌲 | evergreen-tree 
-| 🌳 | deciduous-tree | 🌴 | palm-tree 
-| 🌵 | cactus | 🌾 | sheaf-of-rice 
-| 🌿 | herb | ☘️ | shamrock 
-| ☘ | shamrock | 🍀 | four-leaf-clover 
-| 🍁 | maple-leaf | 🍂 | fallen-leaf 
-| 🍃 | leaf-fluttering-in-wind 
-## Food and Drink
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 🍇 | grapes 
-| 🍈 | melon | 🍉 | watermelon 
-| 🍊 | tangerine | 🍋 | lemon 
-| 🍌 | banana | 🍍 | pineapple 
-| 🥭 | mango | 🍎 | red-apple 
-| 🍏 | green-apple | 🍐 | pear 
-| 🍑 | peach | 🍒 | cherries 
-| 🍓 | strawberry | 🫐 | blueberries 
-| 🥝 | kiwi-fruit | 🍅 | tomato 
-| 🫒 | olive | 🥥 | coconut 
-| 🥑 | avocado | 🍆 | eggplant 
-| 🥔 | potato | 🥕 | carrot 
-| 🌽 | ear-of-corn | 🌶️ | hot-pepper 
-| 🌶 | hot-pepper | 🫑 | bell-pepper 
-| 🥒 | cucumber | 🥬 | leafy-green 
-| 🥦 | broccoli | 🧄 | garlic 
-| 🧅 | onion | 🍄 | mushroom 
-| 🥜 | peanuts | 🌰 | chestnut 
-| 🍞 | bread | 🥐 | croissant 
-| 🥖 | baguette-bread | 🫓 | flatbread 
-| 🥨 | pretzel | 🥯 | bagel 
-| 🥞 | pancakes | 🧇 | waffle 
-| 🧀 | cheese-wedge | 🍖 | meat-on-bone 
-| 🍗 | poultry-leg | 🥩 | cut-of-meat 
-| 🥓 | bacon | 🍔 | hamburger 
-| 🍟 | french-fries | 🍕 | pizza 
-| 🌭 | hot-dog | 🥪 | sandwich 
-| 🌮 | taco | 🌯 | burrito 
-| 🫔 | tamale | 🥙 | stuffed-flatbread 
-| 🧆 | falafel | 🥚 | egg 
-| 🍳 | cooking | 🥘 | shallow-pan-of-food 
-| 🍲 | pot-of-food | 🫕 | fondue 
-| 🥣 | bowl-with-spoon | 🥗 | green-salad 
-| 🍿 | popcorn | 🧈 | butter 
-| 🧂 | salt | 🥫 | canned-food 
-| 🍱 | bento-box | 🍘 | rice-cracker 
-| 🍙 | rice-ball | 🍚 | cooked-rice 
-| 🍛 | curry-rice | 🍜 | steaming-bowl 
-| 🍝 | spaghetti | 🍠 | roasted-sweet-potato 
-| 🍢 | oden | 🍣 | sushi 
-| 🍤 | fried-shrimp | 🍥 | fish-cake-with-swirl 
-| 🥮 | moon-cake | 🍡 | dango 
-| 🥟 | dumpling | 🥠 | fortune-cookie 
-| 🥡 | takeout-box | 🦀 | crab 
-| 🦞 | lobster | 🦐 | shrimp 
-| 🦑 | squid | 🦪 | oyster 
-| 🍦 | soft-ice-cream | 🍧 | shaved-ice 
-| 🍨 | ice-cream | 🍩 | doughnut 
-| 🍪 | cookie | 🎂 | birthday-cake 
-| 🍰 | shortcake | 🧁 | cupcake 
-| 🥧 | pie | 🍫 | chocolate-bar 
-| 🍬 | candy | 🍭 | lollipop 
-| 🍮 | custard | 🍯 | honey-pot 
-| 🍼 | baby-bottle | 🥛 | glass-of-milk 
-| ☕ | hot-beverage | 🫖 | teapot 
-| 🍵 | teacup-without-handle | 🍶 | sake 
-| 🍾 | bottle-with-popping-cork | 🍷 | wine-glass 
-| 🍸 | cocktail-glass | 🍹 | tropical-drink 
-| 🍺 | beer-mug | 🍻 | clinking-beer-mugs 
-| 🥂 | clinking-glasses | 🥃 | tumbler-glass 
-| 🥤 | cup-with-straw | 🧋 | bubble-tea 
-| 🧃 | beverage-box | 🧉 | mate 
-| 🧊 | ice | 🥢 | chopsticks 
-| 🍽️ | fork-and-knife-with-plate | 🍽 | fork-and-knife-with-plate 
-| 🍴 | fork-and-knife | 🥄 | spoon 
-| 🔪 | kitchen-knife | 🏺 | amphora 
-
-## Travel and Places
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 🌍 | globe-showing-europe-africa | 🌎 | globe-showing-americas 
-| 🌏 | globe-showing-asia-australia | 🌐 | globe-with-meridians 
-| 🗺️ | world-map | 🗺 | world-map 
-| 🗾 | map-of-japan | 🧭 | compass 
-| 🏔️ | snow-capped-mountain | 🏔 | snow-capped-mountain 
-| ⛰️ | mountain | ⛰ | mountain 
-| 🌋 | volcano | 🗻 | mount-fuji 
-| 🏕️ | camping | 🏕 | camping 
-| 🏖️ | beach-with-umbrella | 🏖 | beach-with-umbrella 
-| 🏜️ | desert | 🏜 | desert 
-| 🏝️ | desert-island | 🏝 | desert-island 
-| 🏞️ | national-park | 🏞 | national-park 
-| 🏟️ | stadium | 🏟 | stadium 
-| 🏛️ | classical-building | 🏛 | classical-building 
-| 🏗️ | building-construction | 🏗 | building-construction 
-| 🧱 | brick | 🪨 | rock 
-| 🪵 | wood | 🛖 | hut 
-| 🏘️ | houses | 🏘 | houses 
-| 🏚️ | derelict-house | 🏚 | derelict-house 
-| 🏠 | house | 🏡 | house-with-garden 
-| 🏢 | office-building | 🏣 | japanese-post-office 
-| 🏤 | post-office | 🏥 | hospital 
-| 🏦 | bank | 🏨 | hotel 
-| 🏩 | love-hotel | 🏪 | convenience-store 
-| 🏫 | school | 🏬 | department-store 
-| 🏭 | factory | 🏯 | japanese-castle 
-| 🏰 | castle | 💒 | wedding 
-| 🗼 | tokyo-tower | 🗽 | statue-of-liberty 
-| ⛪ | church | 🕌 | mosque 
-| 🛕 | hindu-temple | 🕍 | synagogue 
-| ⛩️ | shinto-shrine | ⛩ | shinto-shrine 
-| 🕋 | kaaba | ⛲ | fountain 
-| ⛺ | tent | 🌁 | foggy 
-| 🌃 | night-with-stars | 🏙️ | cityscape 
-| 🏙 | cityscape | 🌄 | sunrise-over-mountains 
-| 🌅 | sunrise | 🌆 | cityscape-at-dusk 
-| 🌇 | sunset | 🌉 | bridge-at-night 
-| ♨️ | hot-springs | ♨ | hot-springs 
-| 🎠 | carousel-horse | 🎡 | ferris-wheel 
-| 🎢 | roller-coaster | 💈 | barber-pole 
-| 🎪 | circus-tent | 🚂 | locomotive 
-| 🚃 | railway-car | 🚄 | high-speed-train 
-| 🚅 | bullet-train | 🚆 | train 
-| 🚇 | metro | 🚈 | light-rail 
-| 🚉 | station | 🚊 | tram 
-| 🚝 | monorail | 🚞 | mountain-railway 
-| 🚋 | tram-car | 🚌 | bus 
-| 🚍 | oncoming-bus | 🚎 | trolleybus 
-| 🚐 | minibus | 🚑 | ambulance 
-| 🚒 | fire-engine | 🚓 | police-car 
-| 🚔 | oncoming-police-car | 🚕 | taxi 
-| 🚖 | oncoming-taxi | 🚗 | automobile 
-| 🚘 | oncoming-automobile | 🚙 | sport-utility-vehicle 
-| 🛻 | pickup-truck | 🚚 | delivery-truck 
-| 🚛 | articulated-lorry | 🚜 | tractor 
-| 🏎️ | racing-car | 🏎 | racing-car 
-| 🏍️ | motorcycle | 🏍 | motorcycle 
-| 🛵 | motor-scooter | 🦽 | manual-wheelchair 
-| 🦼 | motorized-wheelchair | 🛺 | auto-rickshaw 
-| 🚲 | bicycle | 🛴 | kick-scooter 
-| 🛹 | skateboard | 🛼 | roller-skate 
-| 🚏 | bus-stop | 🛣️ | motorway 
-| 🛣 | motorway | 🛤️ | railway-track 
-| 🛤 | railway-track | 🛢️ | oil-drum 
-| 🛢 | oil-drum | ⛽ | fuel-pump 
-| 🚨 | police-car-light | 🚥 | horizontal-traffic-light 
-| 🚦 | vertical-traffic-light | 🛑 | stop-sign 
-| 🚧 | construction | ⚓ | anchor 
-| ⛵ | sailboat | 🛶 | canoe 
-| 🚤 | speedboat | 🛳️ | passenger-ship 
-| 🛳 | passenger-ship | ⛴️ | ferry 
-| ⛴ | ferry | 🛥️ | motor-boat 
-| 🛥 | motor-boat | 🚢 | ship 
-| ✈️ | airplane | ✈ | airplane 
-| 🛩️ | small-airplane | 🛩 | small-airplane 
-| 🛫 | airplane-departure | 🛬 | airplane-arrival 
-| 🪂 | parachute | 💺 | seat 
-| 🚁 | helicopter | 🚟 | suspension-railway 
-| 🚠 | mountain-cableway | 🚡 | aerial-tramway 
-| 🛰️ | satellite | 🛰 | satellite 
-| 🚀 | rocket | 🛸 | flying-saucer 
-| 🛎️ | bellhop-bell | 🛎 | bellhop-bell 
-| 🧳 | luggage | ⌛ | hourglass-done 
-| ⏳ | hourglass-not-done | ⌚ | watch 
-| ⏰ | alarm-clock | ⏱️ | stopwatch 
-| ⏱ | stopwatch | ⏲️ | timer-clock 
-| ⏲ | timer-clock | 🕰️ | mantelpiece-clock 
-| 🕰 | mantelpiece-clock | 🕛 | twelve-oclock 
-| 🕧 | twelve-thirty | 🕐 | one-oclock 
-| 🕜 | one-thirty | 🕑 | two-oclock 
-| 🕝 | two-thirty | 🕒 | three-oclock 
-| 🕞 | three-thirty | 🕓 | four-oclock 
-| 🕟 | four-thirty | 🕔 | five-oclock 
-| 🕠 | five-thirty | 🕕 | six-oclock 
-| 🕡 | six-thirty | 🕖 | seven-oclock 
-| 🕢 | seven-thirty | 🕗 | eight-oclock 
-| 🕣 | eight-thirty | 🕘 | nine-oclock 
-| 🕤 | nine-thirty | 🕙 | ten-oclock 
-| 🕥 | ten-thirty | 🕚 | eleven-oclock 
-| 🕦 | eleven-thirty | 🌑 | new-moon 
-| 🌒 | waxing-crescent-moon | 🌓 | first-quarter-moon 
-| 🌔 | waxing-gibbous-moon | 🌕 | full-moon 
-| 🌖 | waning-gibbous-moon | 🌗 | last-quarter-moon 
-| 🌘 | waning-crescent-moon | 🌙 | crescent-moon 
-| 🌚 | new-moon-face | 🌛 | first-quarter-moon-face 
-| 🌜 | last-quarter-moon-face | 🌡️ | thermometer 
-| 🌡 | thermometer | ☀️ | sun 
-| ☀ | sun | 🌝 | full-moon-face 
-| 🌞 | sun-with-face | 🪐 | ringed-planet 
-| ⭐ | star | 🌟 | glowing-star 
-| 🌠 | shooting-star | 🌌 | milky-way 
-| ☁️ | cloud | ☁ | cloud 
-| ⛅ | sun-behind-cloud | ⛈️ | cloud-with-lightning-and-rain 
-| ⛈ | cloud-with-lightning-and-rain | 🌤️ | sun-behind-small-cloud 
-| 🌤 | sun-behind-small-cloud | 🌥️ | sun-behind-large-cloud 
-| 🌥 | sun-behind-large-cloud | 🌦️ | sun-behind-rain-cloud 
-| 🌦 | sun-behind-rain-cloud | 🌧️ | cloud-with-rain 
-| 🌧 | cloud-with-rain | 🌨️ | cloud-with-snow 
-| 🌨 | cloud-with-snow | 🌩️ | cloud-with-lightning 
-| 🌩 | cloud-with-lightning | 🌪️ | tornado 
-| 🌪 | tornado | 🌫️ | fog 
-| 🌫 | fog | 🌬️ | wind-face 
-| 🌬 | wind-face | 🌀 | cyclone 
-| 🌈 | rainbow | 🌂 | closed-umbrella 
-| ☂️ | umbrella | ☂ | umbrella 
-| ☔ | umbrella-with-rain-drops | ⛱️ | umbrella-on-ground 
-| ⛱ | umbrella-on-ground | ⚡ | high-voltage 
-| ❄️ | snowflake | ❄ | snowflake 
-| ☃️ | snowman | ☃ | snowman 
-| ⛄ | snowman-without-snow | ☄️ | comet 
-| ☄ | comet | 🔥 | fire 
-| 💧 | droplet | 🌊 | water-wave 
+- [Food & Drink](#Food-and-Drink)
+- [Objects](#Objects)
+- [People & Body](#People-and-Body)
+- [Smileys & Emotion](#Smileys-and-Emotion)
+- [Symbols](#Symbols)
+- [Travel & Places](#Travel-and-Places)
 
 ## Activities
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| 🎃 | jack-o-lantern | 🎄 | christmas-tree 
-| 🎆 | fireworks | 🎇 | sparkler 
-| 🧨 | firecracker | ✨ | sparkles 
-| 🎈 | balloon | 🎉 | party-popper 
-| 🎊 | confetti-ball | 🎋 | tanabata-tree 
-| 🎍 | pine-decoration | 🎎 | japanese-dolls 
-| 🎏 | carp-streamer | 🎐 | wind-chime 
-| 🎑 | moon-viewing-ceremony | 🧧 | red-envelope 
-| 🎀 | ribbon | 🎁 | wrapped-gift 
-| 🎗️ | reminder-ribbon | 🎗 | reminder-ribbon 
-| 🎟️ | admission-tickets | 🎟 | admission-tickets 
-| 🎫 | ticket | 🎖️ | military-medal 
-| 🎖 | military-medal | 🏆 | trophy 
-| 🏅 | sports-medal | 🥇 | 1st-place-medal 
-| 🥈 | 2nd-place-medal | 🥉 | 3rd-place-medal 
-| ⚽ | soccer-ball | ⚾ | baseball 
-| 🥎 | softball | 🏀 | basketball 
-| 🏐 | volleyball | 🏈 | american-football 
-| 🏉 | rugby-football | 🎾 | tennis 
-| 🥏 | flying-disc | 🎳 | bowling 
-| 🏏 | cricket-game | 🏑 | field-hockey 
-| 🏒 | ice-hockey | 🥍 | lacrosse 
-| 🏓 | ping-pong | 🏸 | badminton 
-| 🥊 | boxing-glove | 🥋 | martial-arts-uniform 
-| 🥅 | goal-net | ⛳ | flag-in-hole 
-| ⛸️ | ice-skate | ⛸ | ice-skate 
-| 🎣 | fishing-pole | 🤿 | diving-mask 
-| 🎽 | running-shirt | 🎿 | skis 
-| 🛷 | sled | 🥌 | curling-stone 
-| 🎯 | direct-hit | 🪀 | yo-yo 
-| 🪁 | kite | 🎱 | pool-8-ball 
-| 🔮 | crystal-ball | 🪄 | magic-wand 
-| 🧿 | nazar-amulet | 🎮 | video-game 
-| 🕹️ | joystick | 🕹 | joystick 
-| 🎰 | slot-machine | 🎲 | game-die 
-| 🧩 | puzzle-piece | 🧸 | teddy-bear 
-| 🪅 | pinata | 🪆 | nesting-dolls 
-| ♠️ | spade-suit | ♠ | spade-suit 
-| ♥️ | heart-suit | ♥ | heart-suit 
-| ♦️ | diamond-suit | ♦ | diamond-suit 
-| ♣️ | club-suit | ♣ | club-suit 
-| ♟️ | chess-pawn | ♟ | chess-pawn 
-| 🃏 | joker | 🀄 | mahjong-red-dragon 
-| 🎴 | flower-playing-cards | 🎭 | performing-arts 
-| 🖼️ | framed-picture | 🖼 | framed-picture 
-| 🎨 | artist-palette | 🧵 | thread 
-| 🪡 | sewing-needle | 🧶 | yarn 
-| 🪢 | knot 
-## Objects
-emoji | shortcode | emoji | shortcode
---- | --- | --- | ---
-| 👓 | glasses 
-| 🕶️ | sunglasses | 🕶 | sunglasses 
-| 🥽 | goggles | 🥼 | lab-coat 
-| 🦺 | safety-vest | 👔 | necktie 
-| 👕 | t-shirt | 👖 | jeans 
-| 🧣 | scarf | 🧤 | gloves 
-| 🧥 | coat | 🧦 | socks 
-| 👗 | dress | 👘 | kimono 
-| 🥻 | sari | 🩱 | one-piece-swimsuit 
-| 🩲 | briefs | 🩳 | shorts 
-| 👙 | bikini | 👚 | womans-clothes 
-| 👛 | purse | 👜 | handbag 
-| 👝 | clutch-bag | 🛍️ | shopping-bags 
-| 🛍 | shopping-bags | 🎒 | backpack 
-| 🩴 | thong-sandal | 👞 | mans-shoe 
-| 👟 | running-shoe | 🥾 | hiking-boot 
-| 🥿 | flat-shoe | 👠 | high-heeled-shoe 
-| 👡 | womans-sandal | 🩰 | ballet-shoes 
-| 👢 | womans-boot | 👑 | crown 
-| 👒 | womans-hat | 🎩 | top-hat 
-| 🎓 | graduation-cap | 🧢 | billed-cap 
-| 🪖 | military-helmet | ⛑️ | rescue-workers-helmet 
-| ⛑ | rescue-workers-helmet | 📿 | prayer-beads 
-| 💄 | lipstick | 💍 | ring 
-| 💎 | gem-stone | 🔇 | muted-speaker 
-| 🔈 | speaker-low-volume | 🔉 | speaker-medium-volume 
-| 🔊 | speaker-high-volume | 📢 | loudspeaker 
-| 📣 | megaphone | 📯 | postal-horn 
-| 🔔 | bell | 🔕 | bell-with-slash 
-| 🎼 | musical-score | 🎵 | musical-note 
-| 🎶 | musical-notes | 🎙️ | studio-microphone 
-| 🎙 | studio-microphone | 🎚️ | level-slider 
-| 🎚 | level-slider | 🎛️ | control-knobs 
-| 🎛 | control-knobs | 🎤 | microphone 
-| 🎧 | headphone | 📻 | radio 
-| 🎷 | saxophone | 🪗 | accordion 
-| 🎸 | guitar | 🎹 | musical-keyboard 
-| 🎺 | trumpet | 🎻 | violin 
-| 🪕 | banjo | 🥁 | drum 
-| 🪘 | long-drum | 📱 | mobile-phone 
-| 📲 | mobile-phone-with-arrow | ☎️ | telephone 
-| ☎ | telephone | 📞 | telephone-receiver 
-| 📟 | pager | 📠 | fax-machine 
-| 🔋 | battery | 🔌 | electric-plug 
-| 💻 | laptop | 🖥️ | desktop-computer 
-| 🖥 | desktop-computer | 🖨️ | printer 
-| 🖨 | printer | ⌨️ | keyboard 
-| ⌨ | keyboard | 🖱️ | computer-mouse 
-| 🖱 | computer-mouse | 🖲️ | trackball 
-| 🖲 | trackball | 💽 | computer-disk 
-| 💾 | floppy-disk | 💿 | optical-disk 
-| 📀 | dvd | 🧮 | abacus 
-| 🎥 | movie-camera | 🎞️ | film-frames 
-| 🎞 | film-frames | 📽️ | film-projector 
-| 📽 | film-projector | 🎬 | clapper-board 
-| 📺 | television | 📷 | camera 
-| 📸 | camera-with-flash | 📹 | video-camera 
-| 📼 | videocassette | 🔍 | magnifying-glass-tilted-left 
-| 🔎 | magnifying-glass-tilted-right | 🕯️ | candle 
-| 🕯 | candle | 💡 | light-bulb 
-| 🔦 | flashlight | 🏮 | red-paper-lantern 
-| 🪔 | diya-lamp | 📔 | notebook-with-decorative-cover 
-| 📕 | closed-book | 📖 | open-book 
-| 📗 | green-book | 📘 | blue-book 
-| 📙 | orange-book | 📚 | books 
-| 📓 | notebook | 📒 | ledger 
-| 📃 | page-with-curl | 📜 | scroll 
-| 📄 | page-facing-up | 📰 | newspaper 
-| 🗞️ | rolled-up-newspaper | 🗞 | rolled-up-newspaper 
-| 📑 | bookmark-tabs | 🔖 | bookmark 
-| 🏷️ | label | 🏷 | label 
-| 💰 | money-bag | 🪙 | coin 
-| 💴 | yen-banknote | 💵 | dollar-banknote 
-| 💶 | euro-banknote | 💷 | pound-banknote 
-| 💸 | money-with-wings | 💳 | credit-card 
-| 🧾 | receipt | 💹 | chart-increasing-with-yen 
-| ✉️ | envelope | ✉ | envelope 
-| 📧 | e-mail | 📨 | incoming-envelope 
-| 📩 | envelope-with-arrow | 📤 | outbox-tray 
-| 📥 | inbox-tray | 📦 | package 
-| 📫 | closed-mailbox-with-raised-flag | 📪 | closed-mailbox-with-lowered-flag 
-| 📬 | open-mailbox-with-raised-flag | 📭 | open-mailbox-with-lowered-flag 
-| 📮 | postbox | 🗳️ | ballot-box-with-ballot 
-| 🗳 | ballot-box-with-ballot | ✏️ | pencil 
-| ✏ | pencil | ✒️ | black-nib 
-| ✒ | black-nib | 🖋️ | fountain-pen 
-| 🖋 | fountain-pen | 🖊️ | pen 
-| 🖊 | pen | 🖌️ | paintbrush 
-| 🖌 | paintbrush | 🖍️ | crayon 
-| 🖍 | crayon | 📝 | memo 
-| 💼 | briefcase | 📁 | file-folder 
-| 📂 | open-file-folder | 🗂️ | card-index-dividers 
-| 🗂 | card-index-dividers | 📅 | calendar 
-| 📆 | tear-off-calendar | 🗒️ | spiral-notepad 
-| 🗒 | spiral-notepad | 🗓️ | spiral-calendar 
-| 🗓 | spiral-calendar | 📇 | card-index 
-| 📈 | chart-increasing | 📉 | chart-decreasing 
-| 📊 | bar-chart | 📋 | clipboard 
-| 📌 | pushpin | 📍 | round-pushpin 
-| 📎 | paperclip | 🖇️ | linked-paperclips 
-| 🖇 | linked-paperclips | 📏 | straight-ruler 
-| 📐 | triangular-ruler | ✂️ | scissors 
-| ✂ | scissors | 🗃️ | card-file-box 
-| 🗃 | card-file-box | 🗄️ | file-cabinet 
-| 🗄 | file-cabinet | 🗑️ | wastebasket 
-| 🗑 | wastebasket | 🔒 | locked 
-| 🔓 | unlocked | 🔏 | locked-with-pen 
-| 🔐 | locked-with-key | 🔑 | key 
-| 🗝️ | old-key | 🗝 | old-key 
-| 🔨 | hammer | 🪓 | axe 
-| ⛏️ | pick | ⛏ | pick 
-| ⚒️ | hammer-and-pick | ⚒ | hammer-and-pick 
-| 🛠️ | hammer-and-wrench | 🛠 | hammer-and-wrench 
-| 🗡️ | dagger | 🗡 | dagger 
-| ⚔️ | crossed-swords | ⚔ | crossed-swords 
-| 🔫 | pistol | 🪃 | boomerang 
-| 🏹 | bow-and-arrow | 🛡️ | shield 
-| 🛡 | shield | 🪚 | carpentry-saw 
-| 🔧 | wrench | 🪛 | screwdriver 
-| 🔩 | nut-and-bolt | ⚙️ | gear 
-| ⚙ | gear | 🗜️ | clamp 
-| 🗜 | clamp | ⚖️ | balance-scale 
-| ⚖ | balance-scale | 🦯 | white-cane 
-| 🔗 | link | ⛓️ | chains 
-| ⛓ | chains | 🪝 | hook 
-| 🧰 | toolbox | 🧲 | magnet 
-| 🪜 | ladder | ⚗️ | alembic 
-| ⚗ | alembic | 🧪 | test-tube 
-| 🧫 | petri-dish | 🧬 | dna 
-| 🔬 | microscope | 🔭 | telescope 
-| 📡 | satellite-antenna | 💉 | syringe 
-| 🩸 | drop-of-blood | 💊 | pill 
-| 🩹 | adhesive-bandage | 🩺 | stethoscope 
-| 🚪 | door | 🛗 | elevator 
-| 🪞 | mirror | 🪟 | window 
-| 🛏️ | bed | 🛏 | bed 
-| 🛋️ | couch-and-lamp | 🛋 | couch-and-lamp 
-| 🪑 | chair | 🚽 | toilet 
-| 🪠 | plunger | 🚿 | shower 
-| 🛁 | bathtub | 🪤 | mouse-trap 
-| 🪒 | razor | 🧴 | lotion-bottle 
-| 🧷 | safety-pin | 🧹 | broom 
-| 🧺 | basket | 🧻 | roll-of-paper 
-| 🪣 | bucket | 🧼 | soap 
-| 🪥 | toothbrush | 🧽 | sponge 
-| 🧯 | fire-extinguisher | 🛒 | shopping-cart 
-| 🚬 | cigarette | ⚰️ | coffin 
-| ⚰ | coffin | 🪦 | headstone 
-| ⚱️ | funeral-urn | ⚱ | funeral-urn 
-| 🗿 | moai | 🪧 | placard 
+| <i class="twa twa-firecracker"></i> | firecracker | <i class="twa twa-fireworks"></i> | fireworks 
+| <i class="twa twa-sparkles"></i> | sparkles | <i class="twa twa-confetti-ball"></i> | confetti-ball 
+| <i class="twa twa-pine-decoration"></i> | pine-decoration | <i class="twa twa-carp-streamer"></i> | carp-streamer 
+| <i class="twa twa-ribbon"></i> | ribbon | <i class="twa twa-american-football"></i> | american-football 
+| <i class="twa twa-party-popper"></i> | party-popper | <i class="twa twa-flag-in-hole"></i> | flag-in-hole 
+| <i class="twa twa-balloon"></i> | balloon | <i class="twa twa-reminder-ribbon"></i> | reminder-ribbon 
+| <i class="twa twa-admission-tickets"></i> | admission-tickets | <i class="twa twa-tennis"></i> | tennis 
+| <i class="twa twa-kite"></i> | kite | <i class="twa twa-club-suit"></i> | club-suit 
+| <i class="twa twa-flower-playing-cards"></i> | flower-playing-cards | <i class="twa twa-slot-machine"></i> | slot-machine 
+| <i class="twa twa-teddy-bear"></i> | teddy-bear | <i class="twa twa-puzzle-piece"></i> | puzzle-piece 
+| <i class="twa twa-nesting-dolls"></i> | nesting-dolls | <i class="twa twa-magic-wand"></i> | magic-wand 
+| <i class="twa twa-video-game"></i> | video-game | <i class="twa twa-pinata"></i> | pinata 
+| <i class="twa twa-ice-skate"></i> | ice-skate | <i class="twa twa-sled"></i> | sled 
+| <i class="twa twa-skis"></i> | skis | <i class="twa twa-running-shirt"></i> | running-shirt 
+| <i class="twa twa-soccer-ball"></i> | soccer-ball | <i class="twa twa-baseball"></i> | baseball 
+| <i class="twa twa-volleyball"></i> | volleyball | <i class="twa twa-rugby-football"></i> | rugby-football 
+| <i class="twa twa-ping-pong"></i> | ping-pong | <i class="twa twa-sports-medal"></i> | sports-medal 
+| <i class="twa twa-framed-picture"></i> | framed-picture | <i class="twa twa-red-envelope"></i> | red-envelope 
+| <i class="twa twa-ice-hockey"></i> | ice-hockey | <i class="twa twa-thread"></i> | thread 
+| <i class="twa twa-sewing-needle"></i> | sewing-needle | <i class="twa twa-mahjong-red-dragon"></i> | mahjong-red-dragon 
+| <i class="twa twa-game-die"></i> | game-die | <i class="twa twa-chess-pawn"></i> | chess-pawn 
+| <i class="twa twa-heart-suit"></i> | heart-suit | <i class="twa twa-spade-suit"></i> | spade-suit 
+| <i class="twa twa-diamond-suit"></i> | diamond-suit | <i class="twa twa-joystick"></i> | joystick 
+| <i class="twa twa-fishing-pole"></i> | fishing-pole | <i class="twa twa-softball"></i> | softball 
+| <i class="twa twa-flying-disc"></i> | flying-disc | <i class="twa twa-yo-yo"></i> | yo-yo 
+| <i class="twa twa-yarn"></i> | yarn | <i class="twa twa-joker"></i> | joker 
+| <i class="twa twa-knot"></i> | knot | <i class="twa twa-field-hockey"></i> | field-hockey 
+| <i class="twa twa-wind-chime"></i> | wind-chime | <i class="twa twa-military-medal"></i> | military-medal 
+| <i class="twa twa-japanese-dolls"></i> | japanese-dolls | <i class="twa twa-trophy"></i> | trophy 
+| <i class="twa twa-1st-place-medal"></i> | 1st-place-medal | <i class="twa twa-direct-hit"></i> | direct-hit 
+| <i class="twa twa-wrapped-gift"></i> | wrapped-gift | <i class="twa twa-bowling"></i> | bowling 
+| <i class="twa twa-basketball"></i> | basketball | <i class="twa twa-badminton"></i> | badminton 
+| <i class="twa twa-lacrosse"></i> | lacrosse | <i class="twa twa-curling-stone"></i> | curling-stone 
+| <i class="twa twa-goal-net"></i> | goal-net | <i class="twa twa-martial-arts-uniform"></i> | martial-arts-uniform 
+| <i class="twa twa-pool-8-ball"></i> | pool-8-ball | <i class="twa twa-sparkler"></i> | sparkler 
+| <i class="twa twa-christmas-tree"></i> | christmas-tree | <i class="twa twa-artist-palette"></i> | artist-palette 
+| <i class="twa twa-performing-arts"></i> | performing-arts | <i class="twa twa-jack-o-lantern"></i> | jack-o-lantern 
+| <i class="twa twa-2nd-place-medal"></i> | 2nd-place-medal | <i class="twa twa-diving-mask"></i> | diving-mask 
+| <i class="twa twa-cricket-game"></i> | cricket-game | <i class="twa twa-boxing-glove"></i> | boxing-glove 
+| <i class="twa twa-nazar-amulet"></i> | nazar-amulet | <i class="twa twa-crystal-ball"></i> | crystal-ball 
+| <i class="twa twa-moon-viewing-ceremony"></i> | moon-viewing-ceremony | <i class="twa twa-3rd-place-medal"></i> | 3rd-place-medal 
+| <i class="twa twa-ticket"></i> | ticket | <i class="twa twa-tanabata-tree"></i> | tanabata-tree 
 
-## Symbols
+## Animals and Nature
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| 🏧 | atm-sign | 🚮 | litter-in-bin-sign 
-| 🚰 | potable-water | ♿ | wheelchair-symbol 
-| 🚹 | mens-room | 🚺 | womens-room 
-| 🚻 | restroom | 🚼 | baby-symbol 
-| 🚾 | water-closet | 🛂 | passport-control 
-| 🛃 | customs | 🛄 | baggage-claim 
-| 🛅 | left-luggage | ⚠️ | warning 
-| ⚠ | warning | 🚸 | children-crossing 
-| ⛔ | no-entry | 🚫 | prohibited 
-| 🚳 | no-bicycles | 🚭 | no-smoking 
-| 🚯 | no-littering | 🚱 | non-potable-water 
-| 🚷 | no-pedestrians | 📵 | no-mobile-phones 
-| 🔞 | no-one-under-eighteen | ☢️ | radioactive 
-| ☢ | radioactive | ☣️ | biohazard 
-| ☣ | biohazard | ⬆️ | up-arrow 
-| ⬆ | up-arrow | ↗️ | up-right-arrow 
-| ↗ | up-right-arrow | ➡️ | right-arrow 
-| ➡ | right-arrow | ↘️ | down-right-arrow 
-| ↘ | down-right-arrow | ⬇️ | down-arrow 
-| ⬇ | down-arrow | ↙️ | down-left-arrow 
-| ↙ | down-left-arrow | ⬅️ | left-arrow 
-| ⬅ | left-arrow | ↖️ | up-left-arrow 
-| ↖ | up-left-arrow | ↕️ | up-down-arrow 
-| ↕ | up-down-arrow | ↔️ | left-right-arrow 
-| ↔ | left-right-arrow | ↩️ | right-arrow-curving-left 
-| ↩ | right-arrow-curving-left | ↪️ | left-arrow-curving-right 
-| ↪ | left-arrow-curving-right | ⤴️ | right-arrow-curving-up 
-| ⤴ | right-arrow-curving-up | ⤵️ | right-arrow-curving-down 
-| ⤵ | right-arrow-curving-down | 🔃 | clockwise-vertical-arrows 
-| 🔄 | counterclockwise-arrows-button | 🔙 | back-arrow 
-| 🔚 | end-arrow | 🔛 | on-arrow 
-| 🔜 | soon-arrow | 🔝 | top-arrow 
-| 🛐 | place-of-worship | ⚛️ | atom-symbol 
-| ⚛ | atom-symbol | 🕉️ | om 
-| 🕉 | om | ✡️ | star-of-david 
-| ✡ | star-of-david | ☸️ | wheel-of-dharma 
-| ☸ | wheel-of-dharma | ☯️ | yin-yang 
-| ☯ | yin-yang | ✝️ | latin-cross 
-| ✝ | latin-cross | ☦️ | orthodox-cross 
-| ☦ | orthodox-cross | ☪️ | star-and-crescent 
-| ☪ | star-and-crescent | ☮️ | peace-symbol 
-| ☮ | peace-symbol | 🕎 | menorah 
-| 🔯 | dotted-six-pointed-star | ♈ | aries 
-| ♉ | taurus | ♊ | gemini 
-| ♋ | cancer | ♌ | leo 
-| ♍ | virgo | ♎ | libra 
-| ♏ | scorpio | ♐ | sagittarius 
-| ♑ | capricorn | ♒ | aquarius 
-| ♓ | pisces | ⛎ | ophiuchus 
-| 🔀 | shuffle-tracks-button | 🔁 | repeat-button 
-| 🔂 | repeat-single-button | ▶️ | play-button 
-| ▶ | play-button | ⏩ | fast-forward-button 
-| ⏭️ | next-track-button | ⏭ | next-track-button 
-| ⏯️ | play-or-pause-button | ⏯ | play-or-pause-button 
-| ◀️ | reverse-button | ◀ | reverse-button 
-| ⏪ | fast-reverse-button | ⏮️ | last-track-button 
-| ⏮ | last-track-button | 🔼 | upwards-button 
-| ⏫ | fast-up-button | 🔽 | downwards-button 
-| ⏬ | fast-down-button | ⏸️ | pause-button 
-| ⏸ | pause-button | ⏹️ | stop-button 
-| ⏹ | stop-button | ⏺️ | record-button 
-| ⏺ | record-button | ⏏️ | eject-button 
-| ⏏ | eject-button | 🎦 | cinema 
-| 🔅 | dim-button | 🔆 | bright-button 
-| 📶 | antenna-bars | 📳 | vibration-mode 
-| 📴 | mobile-phone-off | ♀️ | female-sign 
-| ♀ | female-sign | ♂️ | male-sign 
-| ♂ | male-sign | ⚧️ | transgender-symbol 
-| ⚧ | transgender-symbol | ✖️ | multiply 
-| ✖ | multiply | ➕ | plus 
-| ➖ | minus | ➗ | divide 
-| ♾️ | infinity | ♾ | infinity 
-| ‼️ | double-exclamation-mark | ‼ | double-exclamation-mark 
-| ⁉️ | exclamation-question-mark | ⁉ | exclamation-question-mark 
-| ❓ | question-mark | ❔ | white-question-mark 
-| ❕ | white-exclamation-mark | ❗ | exclamation-mark 
-| 〰️ | wavy-dash | 〰 | wavy-dash 
-| 💱 | currency-exchange | 💲 | heavy-dollar-sign 
-| ⚕️ | medical-symbol | ⚕ | medical-symbol 
-| ♻️ | recycling-symbol | ♻ | recycling-symbol 
-| ⚜️ | fleur-de-lis | ⚜ | fleur-de-lis 
-| 🔱 | trident-emblem | 📛 | name-badge 
-| 🔰 | japanese-symbol-for-beginner | ⭕ | hollow-red-circle 
-| ✅ | check-mark-button | ☑️ | check-box-with-check 
-| ☑ | check-box-with-check | ✔️ | check-mark 
-| ✔ | check-mark | ❌ | cross-mark 
-| ❎ | cross-mark-button | ➰ | curly-loop 
-| ➿ | double-curly-loop | 〽️ | part-alternation-mark 
-| 〽 | part-alternation-mark | ✳️ | eight-spoked-asterisk 
-| ✳ | eight-spoked-asterisk | ✴️ | eight-pointed-star 
-| ✴ | eight-pointed-star | ❇️ | sparkle 
-| ❇ | sparkle | ©️ | copyright 
-| © | copyright | ®️ | registered 
-| ® | registered | ™️ | trade-mark 
-| ™ | trade-mark | #️⃣ | keycap 
-| #⃣ | keycap | *️⃣ | keycap- 
-| *⃣ | keycap- | 0️⃣ | keycap-0 
-| 0⃣ | keycap-0 | 1️⃣ | keycap-1 
-| 1⃣ | keycap-1 | 2️⃣ | keycap-2 
-| 2⃣ | keycap-2 | 3️⃣ | keycap-3 
-| 3⃣ | keycap-3 | 4️⃣ | keycap-4 
-| 4⃣ | keycap-4 | 5️⃣ | keycap-5 
-| 5⃣ | keycap-5 | 6️⃣ | keycap-6 
-| 6⃣ | keycap-6 | 7️⃣ | keycap-7 
-| 7⃣ | keycap-7 | 8️⃣ | keycap-8 
-| 8⃣ | keycap-8 | 9️⃣ | keycap-9 
-| 9⃣ | keycap-9 | 🔟 | keycap-10 
-| 🔠 | input-latin-uppercase | 🔡 | input-latin-lowercase 
-| 🔢 | input-numbers | 🔣 | input-symbols 
-| 🔤 | input-latin-letters | 🅰️ | a-button-blood-type 
-| 🅰 | a-button-blood-type | 🆎 | ab-button-blood-type 
-| 🅱️ | b-button-blood-type | 🅱 | b-button-blood-type 
-| 🆑 | cl-button | 🆒 | cool-button 
-| 🆓 | free-button | ℹ️ | information 
-| ℹ | information | 🆔 | id-button 
-| Ⓜ️ | circled-m | Ⓜ | circled-m 
-| 🆕 | new-button | 🆖 | ng-button 
-| 🅾️ | o-button-blood-type | 🅾 | o-button-blood-type 
-| 🆗 | ok-button | 🅿️ | p-button 
-| 🅿 | p-button | 🆘 | sos-button 
-| 🆙 | up-button | 🆚 | vs-button 
-| 🈁 | japanese-here-button | 🈂️ | japanese-service-charge-button 
-| 🈂 | japanese-service-charge-button | 🈷️ | japanese-monthly-amount-button 
-| 🈷 | japanese-monthly-amount-button | 🈶 | japanese-not-free-of-charge-button 
-| 🈯 | japanese-reserved-button | 🉐 | japanese-bargain-button 
-| 🈹 | japanese-discount-button | 🈚 | japanese-free-of-charge-button 
-| 🈲 | japanese-prohibited-button | 🉑 | japanese-acceptable-button 
-| 🈸 | japanese-application-button | 🈴 | japanese-passing-grade-button 
-| 🈳 | japanese-vacancy-button | ㊗️ | japanese-congratulations-button 
-| ㊗ | japanese-congratulations-button | ㊙️ | japanese-secret-button 
-| ㊙ | japanese-secret-button | 🈺 | japanese-open-for-business-button 
-| 🈵 | japanese-no-vacancy-button | 🔴 | red-circle 
-| 🟠 | orange-circle | 🟡 | yellow-circle 
-| 🟢 | green-circle | 🔵 | blue-circle 
-| 🟣 | purple-circle | 🟤 | brown-circle 
-| ⚫ | black-circle | ⚪ | white-circle 
-| 🟥 | red-square | 🟧 | orange-square 
-| 🟨 | yellow-square | 🟩 | green-square 
-| 🟦 | blue-square | 🟪 | purple-square 
-| 🟫 | brown-square | ⬛ | black-large-square 
-| ⬜ | white-large-square | ◼️ | black-medium-square 
-| ◼ | black-medium-square | ◻️ | white-medium-square 
-| ◻ | white-medium-square | ◾ | black-medium-small-square 
-| ◽ | white-medium-small-square | ▪️ | black-small-square 
-| ▪ | black-small-square | ▫️ | white-small-square 
-| ▫ | white-small-square | 🔶 | large-orange-diamond 
-| 🔷 | large-blue-diamond | 🔸 | small-orange-diamond 
-| 🔹 | small-blue-diamond | 🔺 | red-triangle-pointed-up 
-| 🔻 | red-triangle-pointed-down | 💠 | diamond-with-a-dot 
-| 🔘 | radio-button | 🔳 | white-square-button 
-| 🔲 | black-square-button 
+| <i class="twa twa-monkey"></i> | monkey | <i class="twa twa-orangutan"></i> | orangutan 
+| <i class="twa twa-gorilla"></i> | gorilla | <i class="twa twa-monkey-face"></i> | monkey-face 
+| <i class="twa twa-tiger-face"></i> | tiger-face | <i class="twa twa-service-dog"></i> | service-dog 
+| <i class="twa twa-dog-face"></i> | dog-face | <i class="twa twa-wolf"></i> | wolf 
+| <i class="twa twa-dog"></i> | dog | <i class="twa twa-cat-face"></i> | cat-face 
+| <i class="twa twa-raccoon"></i> | raccoon | <i class="twa twa-horse-face"></i> | horse-face 
+| <i class="twa twa-poodle"></i> | poodle | <i class="twa twa-leopard"></i> | leopard 
+| <i class="twa twa-deer"></i> | deer | <i class="twa twa-horse"></i> | horse 
+| <i class="twa twa-cat"></i> | cat | <i class="twa twa-fox"></i> | fox 
+| <i class="twa twa-cow-face"></i> | cow-face | <i class="twa twa-tiger"></i> | tiger 
+| <i class="twa twa-black-cat"></i> | black-cat | <i class="twa twa-unicorn"></i> | unicorn 
+| <i class="twa twa-koala"></i> | koala | <i class="twa twa-lion"></i> | lion 
+| <i class="twa twa-otter"></i> | otter | <i class="twa twa-baby-chick"></i> | baby-chick 
+| <i class="twa twa-badger"></i> | badger | <i class="twa twa-feather"></i> | feather 
+| <i class="twa twa-owl"></i> | owl | <i class="twa twa-paw-prints"></i> | paw-prints 
+| <i class="twa twa-turkey"></i> | turkey | <i class="twa twa-flamingo"></i> | flamingo 
+| <i class="twa twa-parrot"></i> | parrot | <i class="twa twa-peacock"></i> | peacock 
+| <i class="twa twa-kangaroo"></i> | kangaroo | <i class="twa twa-crocodile"></i> | crocodile 
+| <i class="twa twa-lizard"></i> | lizard | <i class="twa twa-whale"></i> | whale 
+| <i class="twa twa-tropical-fish"></i> | tropical-fish | <i class="twa twa-hatching-chick"></i> | hatching-chick 
+| <i class="twa twa-chicken"></i> | chicken | <i class="twa twa-dodo"></i> | dodo 
+| <i class="twa twa-spouting-whale"></i> | spouting-whale | <i class="twa twa-blowfish"></i> | blowfish 
+| <i class="twa twa-shark"></i> | shark | <i class="twa twa-octopus"></i> | octopus 
+| <i class="twa twa-spiral-shell"></i> | spiral-shell | <i class="twa twa-dolphin"></i> | dolphin 
+| <i class="twa twa-butterfly"></i> | butterfly | <i class="twa twa-snake"></i> | snake 
+| <i class="twa twa-cricket"></i> | cricket | <i class="twa twa-bug"></i> | bug 
+| <i class="twa twa-fish"></i> | fish | <i class="twa twa-ant"></i> | ant 
+| <i class="twa twa-lady-beetle"></i> | lady-beetle | <i class="twa twa-scorpion"></i> | scorpion 
+| <i class="twa twa-cockroach"></i> | cockroach | <i class="twa twa-spider"></i> | spider 
+| <i class="twa twa-spider-web"></i> | spider-web | <i class="twa twa-white-flower"></i> | white-flower 
+| <i class="twa twa-mosquito"></i> | mosquito | <i class="twa twa-bouquet"></i> | bouquet 
+| <i class="twa twa-fly"></i> | fly | <i class="twa twa-worm"></i> | worm 
+| <i class="twa twa-rose"></i> | rose | <i class="twa twa-microbe"></i> | microbe 
+| <i class="twa twa-blossom"></i> | blossom | <i class="twa twa-wilted-flower"></i> | wilted-flower 
+| <i class="twa twa-sunflower"></i> | sunflower | <i class="twa twa-seedling"></i> | seedling 
+| <i class="twa twa-fallen-leaf"></i> | fallen-leaf | <i class="twa twa-palm-tree"></i> | palm-tree 
+| <i class="twa twa-hibiscus"></i> | hibiscus | <i class="twa twa-tulip"></i> | tulip 
+| <i class="twa twa-cherry-blossom"></i> | cherry-blossom | <i class="twa twa-beetle"></i> | beetle 
+| <i class="twa twa-rosette"></i> | rosette | <i class="twa twa-honeybee"></i> | honeybee 
+| <i class="twa twa-guide-dog"></i> | guide-dog | <i class="twa twa-skunk"></i> | skunk 
+| <i class="twa twa-frog"></i> | frog | <i class="twa twa-seal"></i> | seal 
+| <i class="twa twa-snail"></i> | snail | <i class="twa twa-potted-plant"></i> | potted-plant 
+| <i class="twa twa-herb"></i> | herb | <i class="twa twa-goat"></i> | goat 
+| <i class="twa twa-evergreen-tree"></i> | evergreen-tree | <i class="twa twa-four-leaf-clover"></i> | four-leaf-clover 
+| <i class="twa twa-maple-leaf"></i> | maple-leaf | <i class="twa twa-cow"></i> | cow 
+| <i class="twa twa-rabbit-face"></i> | rabbit-face | <i class="twa twa-mammoth"></i> | mammoth 
+| <i class="twa twa-beaver"></i> | beaver | <i class="twa twa-eagle"></i> | eagle 
+| <i class="twa twa-deciduous-tree"></i> | deciduous-tree | <i class="twa twa-cactus"></i> | cactus 
+| <i class="twa twa-rhinoceros"></i> | rhinoceros | <i class="twa twa-shamrock"></i> | shamrock 
+| <i class="twa twa-pig"></i> | pig | <i class="twa twa-pig-face"></i> | pig-face 
+| <i class="twa twa-rabbit"></i> | rabbit | <i class="twa twa-two-hump-camel"></i> | two-hump-camel 
+| <i class="twa twa-sloth"></i> | sloth | <i class="twa twa-bison"></i> | bison 
+| <i class="twa twa-ox"></i> | ox | <i class="twa twa-water-buffalo"></i> | water-buffalo 
+| <i class="twa twa-dove"></i> | dove | <i class="twa twa-penguin"></i> | penguin 
+| <i class="twa twa-panda"></i> | panda | <i class="twa twa-pig-nose"></i> | pig-nose 
+| <i class="twa twa-ram"></i> | ram | <i class="twa twa-ewe"></i> | ewe 
+| <i class="twa twa-rooster"></i> | rooster | <i class="twa twa-camel"></i> | camel 
+| <i class="twa twa-bear"></i> | bear | <i class="twa twa-mouse"></i> | mouse 
+| <i class="twa twa-zebra"></i> | zebra | <i class="twa twa-dragon-face"></i> | dragon-face 
+| <i class="twa twa-llama"></i> | llama | <i class="twa twa-hamster"></i> | hamster 
+| <i class="twa twa-duck"></i> | duck | <i class="twa twa-bat"></i> | bat 
+| <i class="twa twa-mouse-face"></i> | mouse-face | <i class="twa twa-sheaf-of-rice"></i> | sheaf-of-rice 
+| <i class="twa twa-leaf-fluttering-in-wind"></i> | leaf-fluttering-in-wind | <i class="twa twa-polar-bear"></i> | polar-bear 
+| <i class="twa twa-giraffe"></i> | giraffe | <i class="twa twa-hippopotamus"></i> | hippopotamus 
+| <i class="twa twa-sauropod"></i> | sauropod | <i class="twa twa-swan"></i> | swan 
+| <i class="twa twa-boar"></i> | boar | <i class="twa twa-t-rex"></i> | t-rex 
+| <i class="twa twa-elephant"></i> | elephant | <i class="twa twa-hedgehog"></i> | hedgehog 
+| <i class="twa twa-front-facing-baby-chick"></i> | front-facing-baby-chick | <i class="twa twa-rat"></i> | rat 
+| <i class="twa twa-turtle"></i> | turtle | <i class="twa twa-dragon"></i> | dragon 
+| <i class="twa twa-bird"></i> | bird | <i class="twa twa-chipmunk"></i> | chipmunk 
+
+## Component
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-light-skin-tone"></i> | light-skin-tone | <i class="twa twa-bald"></i> | bald 
+| <i class="twa twa-white-hair"></i> | white-hair | <i class="twa twa-medium-dark-skin-tone"></i> | medium-dark-skin-tone 
+| <i class="twa twa-medium-skin-tone"></i> | medium-skin-tone | <i class="twa twa-curly-hair"></i> | curly-hair 
+| <i class="twa twa-dark-skin-tone"></i> | dark-skin-tone | <i class="twa twa-medium-light-skin-tone"></i> | medium-light-skin-tone 
+| <i class="twa twa-red-hair"></i> | red-hair 
 ## Flags
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| 🏁 | chequered-flag 
-| 🚩 | triangular-flag | 🎌 | crossed-flags 
-| 🏴 | black-flag | 🏳️ | white-flag 
-| 🏳 | white-flag | 🏳️‍🌈 | rainbow-flag 
-| 🏳‍🌈 | rainbow-flag | 🏳️‍⚧️ | transgender-flag 
-| 🏳‍⚧️ | transgender-flag | 🏳️‍⚧ | transgender-flag 
-| 🏳‍⚧ | transgender-flag | 🏴‍☠️ | pirate-flag 
-| 🏴‍☠ | pirate-flag | 🇦🇨 | flag-ascension-island 
-| 🇦🇩 | flag-andorra | 🇦🇪 | flag-united-arab-emirates 
-| 🇦🇫 | flag-afghanistan | 🇦🇬 | flag-antigua-and-barbuda 
-| 🇦🇮 | flag-anguilla | 🇦🇱 | flag-albania 
-| 🇦🇲 | flag-armenia | 🇦🇴 | flag-angola 
-| 🇦🇶 | flag-antarctica | 🇦🇷 | flag-argentina 
-| 🇦🇸 | flag-american-samoa | 🇦🇹 | flag-austria 
-| 🇦🇺 | flag-australia | 🇦🇼 | flag-aruba 
-| 🇦🇽 | flag-aland-islands | 🇦🇿 | flag-azerbaijan 
-| 🇧🇦 | flag-bosnia-and-herzegovina | 🇧🇧 | flag-barbados 
-| 🇧🇩 | flag-bangladesh | 🇧🇪 | flag-belgium 
-| 🇧🇫 | flag-burkina-faso | 🇧🇬 | flag-bulgaria 
-| 🇧🇭 | flag-bahrain | 🇧🇮 | flag-burundi 
-| 🇧🇯 | flag-benin | 🇧🇱 | flag-st-barthelemy 
-| 🇧🇲 | flag-bermuda | 🇧🇳 | flag-brunei 
-| 🇧🇴 | flag-bolivia | 🇧🇶 | flag-caribbean-netherlands 
-| 🇧🇷 | flag-brazil | 🇧🇸 | flag-bahamas 
-| 🇧🇹 | flag-bhutan | 🇧🇻 | flag-bouvet-island 
-| 🇧🇼 | flag-botswana | 🇧🇾 | flag-belarus 
-| 🇧🇿 | flag-belize | 🇨🇦 | flag-canada 
-| 🇨🇨 | flag-cocos-keeling-islands | 🇨🇩 | flag-congo-kinshasa 
-| 🇨🇫 | flag-central-african-republic | 🇨🇬 | flag-congo-brazzaville 
-| 🇨🇭 | flag-switzerland | 🇨🇮 | flag-cote-divoire 
-| 🇨🇰 | flag-cook-islands | 🇨🇱 | flag-chile 
-| 🇨🇲 | flag-cameroon | 🇨🇳 | flag-china 
-| 🇨🇴 | flag-colombia | 🇨🇵 | flag-clipperton-island 
-| 🇨🇷 | flag-costa-rica | 🇨🇺 | flag-cuba 
-| 🇨🇻 | flag-cape-verde | 🇨🇼 | flag-curacao 
-| 🇨🇽 | flag-christmas-island | 🇨🇾 | flag-cyprus 
-| 🇨🇿 | flag-czechia | 🇩🇪 | flag-germany 
-| 🇩🇬 | flag-diego-garcia | 🇩🇯 | flag-djibouti 
-| 🇩🇰 | flag-denmark | 🇩🇲 | flag-dominica 
-| 🇩🇴 | flag-dominican-republic | 🇩🇿 | flag-algeria 
-| 🇪🇦 | flag-ceuta-and-melilla | 🇪🇨 | flag-ecuador 
-| 🇪🇪 | flag-estonia | 🇪🇬 | flag-egypt 
-| 🇪🇭 | flag-western-sahara | 🇪🇷 | flag-eritrea 
-| 🇪🇸 | flag-spain | 🇪🇹 | flag-ethiopia 
-| 🇪🇺 | flag-european-union | 🇫🇮 | flag-finland 
-| 🇫🇯 | flag-fiji | 🇫🇰 | flag-falkland-islands 
-| 🇫🇲 | flag-micronesia | 🇫🇴 | flag-faroe-islands 
-| 🇫🇷 | flag-france | 🇬🇦 | flag-gabon 
-| 🇬🇧 | flag-united-kingdom | 🇬🇩 | flag-grenada 
-| 🇬🇪 | flag-georgia | 🇬🇫 | flag-french-guiana 
-| 🇬🇬 | flag-guernsey | 🇬🇭 | flag-ghana 
-| 🇬🇮 | flag-gibraltar | 🇬🇱 | flag-greenland 
-| 🇬🇲 | flag-gambia | 🇬🇳 | flag-guinea 
-| 🇬🇵 | flag-guadeloupe | 🇬🇶 | flag-equatorial-guinea 
-| 🇬🇷 | flag-greece | 🇬🇸 | flag-south-georgia-and-south-sandwich-islands 
-| 🇬🇹 | flag-guatemala | 🇬🇺 | flag-guam 
-| 🇬🇼 | flag-guinea-bissau | 🇬🇾 | flag-guyana 
-| 🇭🇰 | flag-hong-kong-sar-china | 🇭🇲 | flag-heard-and-mcdonald-islands 
-| 🇭🇳 | flag-honduras | 🇭🇷 | flag-croatia 
-| 🇭🇹 | flag-haiti | 🇭🇺 | flag-hungary 
-| 🇮🇨 | flag-canary-islands | 🇮🇩 | flag-indonesia 
-| 🇮🇪 | flag-ireland | 🇮🇱 | flag-israel 
-| 🇮🇲 | flag-isle-of-man | 🇮🇳 | flag-india 
-| 🇮🇴 | flag-british-indian-ocean-territory | 🇮🇶 | flag-iraq 
-| 🇮🇷 | flag-iran | 🇮🇸 | flag-iceland 
-| 🇮🇹 | flag-italy | 🇯🇪 | flag-jersey 
-| 🇯🇲 | flag-jamaica | 🇯🇴 | flag-jordan 
-| 🇯🇵 | flag-japan | 🇰🇪 | flag-kenya 
-| 🇰🇬 | flag-kyrgyzstan | 🇰🇭 | flag-cambodia 
-| 🇰🇮 | flag-kiribati | 🇰🇲 | flag-comoros 
-| 🇰🇳 | flag-st-kitts-and-nevis | 🇰🇵 | flag-north-korea 
-| 🇰🇷 | flag-south-korea | 🇰🇼 | flag-kuwait 
-| 🇰🇾 | flag-cayman-islands | 🇰🇿 | flag-kazakhstan 
-| 🇱🇦 | flag-laos | 🇱🇧 | flag-lebanon 
-| 🇱🇨 | flag-st-lucia | 🇱🇮 | flag-liechtenstein 
-| 🇱🇰 | flag-sri-lanka | 🇱🇷 | flag-liberia 
-| 🇱🇸 | flag-lesotho | 🇱🇹 | flag-lithuania 
-| 🇱🇺 | flag-luxembourg | 🇱🇻 | flag-latvia 
-| 🇱🇾 | flag-libya | 🇲🇦 | flag-morocco 
-| 🇲🇨 | flag-monaco | 🇲🇩 | flag-moldova 
-| 🇲🇪 | flag-montenegro | 🇲🇫 | flag-st-martin 
-| 🇲🇬 | flag-madagascar | 🇲🇭 | flag-marshall-islands 
-| 🇲🇰 | flag-north-macedonia | 🇲🇱 | flag-mali 
-| 🇲🇲 | flag-myanmar-burma | 🇲🇳 | flag-mongolia 
-| 🇲🇴 | flag-macao-sar-china | 🇲🇵 | flag-northern-mariana-islands 
-| 🇲🇶 | flag-martinique | 🇲🇷 | flag-mauritania 
-| 🇲🇸 | flag-montserrat | 🇲🇹 | flag-malta 
-| 🇲🇺 | flag-mauritius | 🇲🇻 | flag-maldives 
-| 🇲🇼 | flag-malawi | 🇲🇽 | flag-mexico 
-| 🇲🇾 | flag-malaysia | 🇲🇿 | flag-mozambique 
-| 🇳🇦 | flag-namibia | 🇳🇨 | flag-new-caledonia 
-| 🇳🇪 | flag-niger | 🇳🇫 | flag-norfolk-island 
-| 🇳🇬 | flag-nigeria | 🇳🇮 | flag-nicaragua 
-| 🇳🇱 | flag-netherlands | 🇳🇴 | flag-norway 
-| 🇳🇵 | flag-nepal | 🇳🇷 | flag-nauru 
-| 🇳🇺 | flag-niue | 🇳🇿 | flag-new-zealand 
-| 🇴🇲 | flag-oman | 🇵🇦 | flag-panama 
-| 🇵🇪 | flag-peru | 🇵🇫 | flag-french-polynesia 
-| 🇵🇬 | flag-papua-new-guinea | 🇵🇭 | flag-philippines 
-| 🇵🇰 | flag-pakistan | 🇵🇱 | flag-poland 
-| 🇵🇲 | flag-st-pierre-and-miquelon | 🇵🇳 | flag-pitcairn-islands 
-| 🇵🇷 | flag-puerto-rico | 🇵🇸 | flag-palestinian-territories 
-| 🇵🇹 | flag-portugal | 🇵🇼 | flag-palau 
-| 🇵🇾 | flag-paraguay | 🇶🇦 | flag-qatar 
-| 🇷🇪 | flag-reunion | 🇷🇴 | flag-romania 
-| 🇷🇸 | flag-serbia | 🇷🇺 | flag-russia 
-| 🇷🇼 | flag-rwanda | 🇸🇦 | flag-saudi-arabia 
-| 🇸🇧 | flag-solomon-islands | 🇸🇨 | flag-seychelles 
-| 🇸🇩 | flag-sudan | 🇸🇪 | flag-sweden 
-| 🇸🇬 | flag-singapore | 🇸🇭 | flag-st-helena 
-| 🇸🇮 | flag-slovenia | 🇸🇯 | flag-svalbard-and-jan-mayen 
-| 🇸🇰 | flag-slovakia | 🇸🇱 | flag-sierra-leone 
-| 🇸🇲 | flag-san-marino | 🇸🇳 | flag-senegal 
-| 🇸🇴 | flag-somalia | 🇸🇷 | flag-suriname 
-| 🇸🇸 | flag-south-sudan | 🇸🇹 | flag-sao-tome-and-principe 
-| 🇸🇻 | flag-el-salvador | 🇸🇽 | flag-sint-maarten 
-| 🇸🇾 | flag-syria | 🇸🇿 | flag-eswatini 
-| 🇹🇦 | flag-tristan-da-cunha | 🇹🇨 | flag-turks-and-caicos-islands 
-| 🇹🇩 | flag-chad | 🇹🇫 | flag-french-southern-territories 
-| 🇹🇬 | flag-togo | 🇹🇭 | flag-thailand 
-| 🇹🇯 | flag-tajikistan | 🇹🇰 | flag-tokelau 
-| 🇹🇱 | flag-timor-leste | 🇹🇲 | flag-turkmenistan 
-| 🇹🇳 | flag-tunisia | 🇹🇴 | flag-tonga 
-| 🇹🇷 | flag-turkey | 🇹🇹 | flag-trinidad-and-tobago 
-| 🇹🇻 | flag-tuvalu | 🇹🇼 | flag-taiwan 
-| 🇹🇿 | flag-tanzania | 🇺🇦 | flag-ukraine 
-| 🇺🇬 | flag-uganda | 🇺🇲 | flag-us-outlying-islands 
-| 🇺🇳 | flag-united-nations | 🇺🇸 | flag-united-states 
-| 🇺🇾 | flag-uruguay | 🇺🇿 | flag-uzbekistan 
-| 🇻🇦 | flag-vatican-city | 🇻🇨 | flag-st-vincent-and-grenadines 
-| 🇻🇪 | flag-venezuela | 🇻🇬 | flag-british-virgin-islands 
-| 🇻🇮 | flag-us-virgin-islands | 🇻🇳 | flag-vietnam 
-| 🇻🇺 | flag-vanuatu | 🇼🇫 | flag-wallis-and-futuna 
-| 🇼🇸 | flag-samoa | 🇽🇰 | flag-kosovo 
-| 🇾🇪 | flag-yemen | 🇾🇹 | flag-mayotte 
-| 🇿🇦 | flag-south-africa | 🇿🇲 | flag-zambia 
-| 🇿🇼 | flag-zimbabwe | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | flag-england 
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | flag-scotland | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | flag-wales 
+| <i class="twa twa-triangular-flag"></i> | triangular-flag | <i class="twa twa-chequered-flag"></i> | chequered-flag 
+| <i class="twa twa-pirate-flag"></i> | pirate-flag | <i class="twa twa-rainbow-flag"></i> | rainbow-flag 
+| <i class="twa twa-transgender-flag"></i> | transgender-flag | <i class="twa twa-flag-andorra"></i> | flag-andorra 
+| <i class="twa twa-white-flag"></i> | white-flag | <i class="twa twa-flag-antigua-and-barbuda"></i> | flag-antigua-and-barbuda 
+| <i class="twa twa-crossed-flags"></i> | crossed-flags | <i class="twa twa-flag-ascension-island"></i> | flag-ascension-island 
+| <i class="twa twa-flag-afghanistan"></i> | flag-afghanistan | <i class="twa twa-black-flag"></i> | black-flag 
+| <i class="twa twa-flag-armenia"></i> | flag-armenia | <i class="twa twa-flag-united-arab-emirates"></i> | flag-united-arab-emirates 
+| <i class="twa twa-flag-angola"></i> | flag-angola | <i class="twa twa-flag-albania"></i> | flag-albania 
+| <i class="twa twa-flag-australia"></i> | flag-australia | <i class="twa twa-flag-antarctica"></i> | flag-antarctica 
+| <i class="twa twa-flag-american-samoa"></i> | flag-american-samoa | <i class="twa twa-flag-bosnia-and-herzegovina"></i> | flag-bosnia-and-herzegovina 
+| <i class="twa twa-flag-argentina"></i> | flag-argentina | <i class="twa twa-flag-austria"></i> | flag-austria 
+| <i class="twa twa-flag-anguilla"></i> | flag-anguilla | <i class="twa twa-flag-azerbaijan"></i> | flag-azerbaijan 
+| <i class="twa twa-flag-aland-islands"></i> | flag-aland-islands | <i class="twa twa-flag-aruba"></i> | flag-aruba 
+| <i class="twa twa-flag-belgium"></i> | flag-belgium | <i class="twa twa-flag-benin"></i> | flag-benin 
+| <i class="twa twa-flag-bahrain"></i> | flag-bahrain | <i class="twa twa-flag-bangladesh"></i> | flag-bangladesh 
+| <i class="twa twa-flag-bulgaria"></i> | flag-bulgaria | <i class="twa twa-flag-burkina-faso"></i> | flag-burkina-faso 
+| <i class="twa twa-flag-barbados"></i> | flag-barbados | <i class="twa twa-flag-burundi"></i> | flag-burundi 
+| <i class="twa twa-flag-st-barthelemy"></i> | flag-st-barthelemy | <i class="twa twa-flag-bermuda"></i> | flag-bermuda 
+| <i class="twa twa-flag-brunei"></i> | flag-brunei | <i class="twa twa-flag-bolivia"></i> | flag-bolivia 
+| <i class="twa twa-flag-caribbean-netherlands"></i> | flag-caribbean-netherlands | <i class="twa twa-flag-bahamas"></i> | flag-bahamas 
+| <i class="twa twa-flag-brazil"></i> | flag-brazil | <i class="twa twa-flag-bhutan"></i> | flag-bhutan 
+| <i class="twa twa-flag-bouvet-island"></i> | flag-bouvet-island | <i class="twa twa-flag-botswana"></i> | flag-botswana 
+| <i class="twa twa-flag-belarus"></i> | flag-belarus | <i class="twa twa-flag-belize"></i> | flag-belize 
+| <i class="twa twa-flag-cocos-keeling-islands"></i> | flag-cocos-keeling-islands | <i class="twa twa-flag-congo-kinshasa"></i> | flag-congo-kinshasa 
+| <i class="twa twa-flag-central-african-republic"></i> | flag-central-african-republic | <i class="twa twa-flag-canada"></i> | flag-canada 
+| <i class="twa twa-flag-congo-brazzaville"></i> | flag-congo-brazzaville | <i class="twa twa-flag-chile"></i> | flag-chile 
+| <i class="twa twa-flag-switzerland"></i> | flag-switzerland | <i class="twa twa-flag-china"></i> | flag-china 
+| <i class="twa twa-flag-cuba"></i> | flag-cuba | <i class="twa twa-flag-colombia"></i> | flag-colombia 
+| <i class="twa twa-flag-cameroon"></i> | flag-cameroon | <i class="twa twa-flag-cook-islands"></i> | flag-cook-islands 
+| <i class="twa twa-flag-cote-divoire"></i> | flag-cote-divoire | <i class="twa twa-flag-christmas-island"></i> | flag-christmas-island 
+| <i class="twa twa-flag-clipperton-island"></i> | flag-clipperton-island | <i class="twa twa-flag-costa-rica"></i> | flag-costa-rica 
+| <i class="twa twa-flag-germany"></i> | flag-germany | <i class="twa twa-flag-djibouti"></i> | flag-djibouti 
+| <i class="twa twa-flag-cape-verde"></i> | flag-cape-verde | <i class="twa twa-flag-cyprus"></i> | flag-cyprus 
+| <i class="twa twa-flag-diego-garcia"></i> | flag-diego-garcia | <i class="twa twa-flag-dominica"></i> | flag-dominica 
+| <i class="twa twa-flag-dominican-republic"></i> | flag-dominican-republic | <i class="twa twa-flag-curacao"></i> | flag-curacao 
+| <i class="twa twa-flag-denmark"></i> | flag-denmark | <i class="twa twa-flag-czechia"></i> | flag-czechia 
+| <i class="twa twa-flag-estonia"></i> | flag-estonia | <i class="twa twa-flag-ecuador"></i> | flag-ecuador 
+| <i class="twa twa-flag-ceuta-and-melilla"></i> | flag-ceuta-and-melilla | <i class="twa twa-flag-algeria"></i> | flag-algeria 
+| <i class="twa twa-flag-egypt"></i> | flag-egypt | <i class="twa twa-flag-european-union"></i> | flag-european-union 
+| <i class="twa twa-flag-ethiopia"></i> | flag-ethiopia | <i class="twa twa-flag-eritrea"></i> | flag-eritrea 
+| <i class="twa twa-flag-spain"></i> | flag-spain | <i class="twa twa-flag-micronesia"></i> | flag-micronesia 
+| <i class="twa twa-flag-fiji"></i> | flag-fiji | <i class="twa twa-flag-finland"></i> | flag-finland 
+| <i class="twa twa-flag-faroe-islands"></i> | flag-faroe-islands | <i class="twa twa-flag-united-kingdom"></i> | flag-united-kingdom 
+| <i class="twa twa-flag-france"></i> | flag-france | <i class="twa twa-flag-falkland-islands"></i> | flag-falkland-islands 
+| <i class="twa twa-flag-gabon"></i> | flag-gabon | <i class="twa twa-flag-grenada"></i> | flag-grenada 
+| <i class="twa twa-flag-georgia"></i> | flag-georgia | <i class="twa twa-flag-guernsey"></i> | flag-guernsey 
+| <i class="twa twa-flag-french-guiana"></i> | flag-french-guiana | <i class="twa twa-flag-ghana"></i> | flag-ghana 
+| <i class="twa twa-flag-greenland"></i> | flag-greenland | <i class="twa twa-flag-gibraltar"></i> | flag-gibraltar 
+| <i class="twa twa-flag-gambia"></i> | flag-gambia | <i class="twa twa-flag-guadeloupe"></i> | flag-guadeloupe 
+| <i class="twa twa-flag-south-georgia-and-south-sandwich-islands"></i> | flag-south-georgia-and-south-sandwich-islands | <i class="twa twa-flag-guatemala"></i> | flag-guatemala 
+| <i class="twa twa-flag-equatorial-guinea"></i> | flag-equatorial-guinea | <i class="twa twa-flag-guinea"></i> | flag-guinea 
+| <i class="twa twa-flag-greece"></i> | flag-greece | <i class="twa twa-flag-guinea-bissau"></i> | flag-guinea-bissau 
+| <i class="twa twa-flag-hong-kong-sar-china"></i> | flag-hong-kong-sar-china | <i class="twa twa-flag-guam"></i> | flag-guam 
+| <i class="twa twa-flag-croatia"></i> | flag-croatia | <i class="twa twa-flag-guyana"></i> | flag-guyana 
+| <i class="twa twa-flag-haiti"></i> | flag-haiti | <i class="twa twa-flag-heard-and-mcdonald-islands"></i> | flag-heard-and-mcdonald-islands 
+| <i class="twa twa-flag-honduras"></i> | flag-honduras | <i class="twa twa-flag-ireland"></i> | flag-ireland 
+| <i class="twa twa-flag-canary-islands"></i> | flag-canary-islands | <i class="twa twa-flag-hungary"></i> | flag-hungary 
+| <i class="twa twa-flag-italy"></i> | flag-italy | <i class="twa twa-flag-iran"></i> | flag-iran 
+| <i class="twa twa-flag-iceland"></i> | flag-iceland | <i class="twa twa-flag-israel"></i> | flag-israel 
+| <i class="twa twa-flag-british-indian-ocean-territory"></i> | flag-british-indian-ocean-territory | <i class="twa twa-flag-isle-of-man"></i> | flag-isle-of-man 
+| <i class="twa twa-flag-india"></i> | flag-india | <i class="twa twa-flag-western-sahara"></i> | flag-western-sahara 
+| <i class="twa twa-flag-iraq"></i> | flag-iraq | <i class="twa twa-flag-jamaica"></i> | flag-jamaica 
+| <i class="twa twa-flag-japan"></i> | flag-japan | <i class="twa twa-flag-jordan"></i> | flag-jordan 
+| <i class="twa twa-flag-kenya"></i> | flag-kenya | <i class="twa twa-flag-cambodia"></i> | flag-cambodia 
+| <i class="twa twa-flag-kyrgyzstan"></i> | flag-kyrgyzstan | <i class="twa twa-flag-kiribati"></i> | flag-kiribati 
+| <i class="twa twa-flag-st-kitts-and-nevis"></i> | flag-st-kitts-and-nevis | <i class="twa twa-flag-south-korea"></i> | flag-south-korea 
+| <i class="twa twa-flag-north-korea"></i> | flag-north-korea | <i class="twa twa-flag-cayman-islands"></i> | flag-cayman-islands 
+| <i class="twa twa-flag-kazakhstan"></i> | flag-kazakhstan | <i class="twa twa-flag-kuwait"></i> | flag-kuwait 
+| <i class="twa twa-flag-liechtenstein"></i> | flag-liechtenstein | <i class="twa twa-flag-lebanon"></i> | flag-lebanon 
+| <i class="twa twa-flag-st-lucia"></i> | flag-st-lucia | <i class="twa twa-flag-luxembourg"></i> | flag-luxembourg 
+| <i class="twa twa-flag-libya"></i> | flag-libya | <i class="twa twa-flag-lesotho"></i> | flag-lesotho 
+| <i class="twa twa-flag-montenegro"></i> | flag-montenegro | <i class="twa twa-flag-moldova"></i> | flag-moldova 
+| <i class="twa twa-flag-monaco"></i> | flag-monaco | <i class="twa twa-flag-macao-sar-china"></i> | flag-macao-sar-china 
+| <i class="twa twa-flag-northern-mariana-islands"></i> | flag-northern-mariana-islands | <i class="twa twa-flag-myanmar-burma"></i> | flag-myanmar-burma 
+| <i class="twa twa-flag-martinique"></i> | flag-martinique | <i class="twa twa-flag-mongolia"></i> | flag-mongolia 
+| <i class="twa twa-flag-mali"></i> | flag-mali | <i class="twa twa-flag-montserrat"></i> | flag-montserrat 
+| <i class="twa twa-flag-namibia"></i> | flag-namibia | <i class="twa twa-flag-nicaragua"></i> | flag-nicaragua 
+| <i class="twa twa-flag-netherlands"></i> | flag-netherlands | <i class="twa twa-flag-maldives"></i> | flag-maldives 
+| <i class="twa twa-flag-norway"></i> | flag-norway | <i class="twa twa-flag-nepal"></i> | flag-nepal 
+| <i class="twa twa-flag-niue"></i> | flag-niue | <i class="twa twa-flag-peru"></i> | flag-peru 
+| <i class="twa twa-flag-nauru"></i> | flag-nauru | <i class="twa twa-flag-philippines"></i> | flag-philippines 
+| <i class="twa twa-flag-portugal"></i> | flag-portugal | <i class="twa twa-flag-palau"></i> | flag-palau 
+| <i class="twa twa-flag-puerto-rico"></i> | flag-puerto-rico | <i class="twa twa-flag-st-pierre-and-miquelon"></i> | flag-st-pierre-and-miquelon 
+| <i class="twa twa-flag-poland"></i> | flag-poland | <i class="twa twa-flag-pitcairn-islands"></i> | flag-pitcairn-islands 
+| <i class="twa twa-flag-palestinian-territories"></i> | flag-palestinian-territories | <i class="twa twa-flag-paraguay"></i> | flag-paraguay 
+| <i class="twa twa-flag-reunion"></i> | flag-reunion | <i class="twa twa-flag-romania"></i> | flag-romania 
+| <i class="twa twa-flag-russia"></i> | flag-russia | <i class="twa twa-flag-serbia"></i> | flag-serbia 
+| <i class="twa twa-flag-seychelles"></i> | flag-seychelles | <i class="twa twa-flag-solomon-islands"></i> | flag-solomon-islands 
+| <i class="twa twa-flag-sweden"></i> | flag-sweden | <i class="twa twa-flag-senegal"></i> | flag-senegal 
+| <i class="twa twa-flag-rwanda"></i> | flag-rwanda | <i class="twa twa-flag-singapore"></i> | flag-singapore 
+| <i class="twa twa-flag-somalia"></i> | flag-somalia | <i class="twa twa-flag-saudi-arabia"></i> | flag-saudi-arabia 
+| <i class="twa twa-flag-slovenia"></i> | flag-slovenia | <i class="twa twa-flag-st-helena"></i> | flag-st-helena 
+| <i class="twa twa-flag-svalbard-and-jan-mayen"></i> | flag-svalbard-and-jan-mayen | <i class="twa twa-flag-slovakia"></i> | flag-slovakia 
+| <i class="twa twa-flag-san-marino"></i> | flag-san-marino | <i class="twa twa-flag-sao-tome-and-principe"></i> | flag-sao-tome-and-principe 
+| <i class="twa twa-flag-eswatini"></i> | flag-eswatini | <i class="twa twa-flag-el-salvador"></i> | flag-el-salvador 
+| <i class="twa twa-flag-turks-and-caicos-islands"></i> | flag-turks-and-caicos-islands | <i class="twa twa-flag-suriname"></i> | flag-suriname 
+| <i class="twa twa-flag-tajikistan"></i> | flag-tajikistan | <i class="twa twa-flag-sierra-leone"></i> | flag-sierra-leone 
+| <i class="twa twa-flag-tokelau"></i> | flag-tokelau | <i class="twa twa-flag-syria"></i> | flag-syria 
+| <i class="twa twa-flag-south-sudan"></i> | flag-south-sudan | <i class="twa twa-flag-sint-maarten"></i> | flag-sint-maarten 
+| <i class="twa twa-flag-tristan-da-cunha"></i> | flag-tristan-da-cunha | <i class="twa twa-flag-timor-leste"></i> | flag-timor-leste 
+| <i class="twa twa-flag-french-southern-territories"></i> | flag-french-southern-territories | <i class="twa twa-flag-turkey"></i> | flag-turkey 
+| <i class="twa twa-flag-thailand"></i> | flag-thailand | <i class="twa twa-flag-tonga"></i> | flag-tonga 
+| <i class="twa twa-flag-togo"></i> | flag-togo | <i class="twa twa-flag-turkmenistan"></i> | flag-turkmenistan 
+| <i class="twa twa-flag-chad"></i> | flag-chad | <i class="twa twa-flag-tunisia"></i> | flag-tunisia 
+| <i class="twa twa-flag-trinidad-and-tobago"></i> | flag-trinidad-and-tobago | <i class="twa twa-flag-tuvalu"></i> | flag-tuvalu 
+| <i class="twa twa-flag-tanzania"></i> | flag-tanzania | <i class="twa twa-flag-taiwan"></i> | flag-taiwan 
+| <i class="twa twa-flag-uganda"></i> | flag-uganda | <i class="twa twa-flag-qatar"></i> | flag-qatar 
+| <i class="twa twa-flag-indonesia"></i> | flag-indonesia | <i class="twa twa-flag-jersey"></i> | flag-jersey 
+| <i class="twa twa-flag-comoros"></i> | flag-comoros | <i class="twa twa-flag-morocco"></i> | flag-morocco 
+| <i class="twa twa-flag-liberia"></i> | flag-liberia | <i class="twa twa-flag-marshall-islands"></i> | flag-marshall-islands 
+| <i class="twa twa-flag-madagascar"></i> | flag-madagascar | <i class="twa twa-flag-north-macedonia"></i> | flag-north-macedonia 
+| <i class="twa twa-flag-laos"></i> | flag-laos | <i class="twa twa-flag-st-martin"></i> | flag-st-martin 
+| <i class="twa twa-flag-lithuania"></i> | flag-lithuania | <i class="twa twa-flag-new-caledonia"></i> | flag-new-caledonia 
+| <i class="twa twa-flag-sri-lanka"></i> | flag-sri-lanka | <i class="twa twa-flag-malawi"></i> | flag-malawi 
+| <i class="twa twa-flag-malaysia"></i> | flag-malaysia | <i class="twa twa-flag-nigeria"></i> | flag-nigeria 
+| <i class="twa twa-flag-mozambique"></i> | flag-mozambique | <i class="twa twa-flag-niger"></i> | flag-niger 
+| <i class="twa twa-flag-mauritania"></i> | flag-mauritania | <i class="twa twa-flag-latvia"></i> | flag-latvia 
+| <i class="twa twa-flag-malta"></i> | flag-malta | <i class="twa twa-flag-mexico"></i> | flag-mexico 
+| <i class="twa twa-flag-norfolk-island"></i> | flag-norfolk-island | <i class="twa twa-flag-mauritius"></i> | flag-mauritius 
+| <i class="twa twa-flag-uruguay"></i> | flag-uruguay | <i class="twa twa-flag-united-states"></i> | flag-united-states 
+| <i class="twa twa-flag-st-vincent-and-grenadines"></i> | flag-st-vincent-and-grenadines | <i class="twa twa-flag-uzbekistan"></i> | flag-uzbekistan 
+| <i class="twa twa-flag-vatican-city"></i> | flag-vatican-city | <i class="twa twa-flag-venezuela"></i> | flag-venezuela 
+| <i class="twa twa-flag-vanuatu"></i> | flag-vanuatu | <i class="twa twa-flag-samoa"></i> | flag-samoa 
+| <i class="twa twa-flag-us-virgin-islands"></i> | flag-us-virgin-islands | <i class="twa twa-flag-wallis-and-futuna"></i> | flag-wallis-and-futuna 
+| <i class="twa twa-flag-british-virgin-islands"></i> | flag-british-virgin-islands | <i class="twa twa-flag-vietnam"></i> | flag-vietnam 
+| <i class="twa twa-flag-yemen"></i> | flag-yemen | <i class="twa twa-flag-south-africa"></i> | flag-south-africa 
+| <i class="twa twa-flag-zimbabwe"></i> | flag-zimbabwe | <i class="twa twa-flag-kosovo"></i> | flag-kosovo 
+| <i class="twa twa-flag-mayotte"></i> | flag-mayotte | <i class="twa twa-flag-zambia"></i> | flag-zambia 
+| <i class="twa twa-flag-england"></i> | flag-england | <i class="twa twa-flag-scotland"></i> | flag-scotland 
+| <i class="twa twa-flag-wales"></i> | flag-wales | <i class="twa twa-flag-panama"></i> | flag-panama 
+| <i class="twa twa-flag-oman"></i> | flag-oman | <i class="twa twa-flag-pakistan"></i> | flag-pakistan 
+| <i class="twa twa-flag-french-polynesia"></i> | flag-french-polynesia | <i class="twa twa-flag-papua-new-guinea"></i> | flag-papua-new-guinea 
+| <i class="twa twa-flag-new-zealand"></i> | flag-new-zealand | <i class="twa twa-flag-sudan"></i> | flag-sudan 
+| <i class="twa twa-flag-ukraine"></i> | flag-ukraine | <i class="twa twa-flag-us-outlying-islands"></i> | flag-us-outlying-islands 
+| <i class="twa twa-flag-united-nations"></i> | flag-united-nations 
+## Food and Drink
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-chocolate-bar"></i> | chocolate-bar | <i class="twa twa-lollipop"></i> | lollipop 
+| <i class="twa twa-shrimp"></i> | shrimp | <i class="twa twa-pretzel"></i> | pretzel 
+| <i class="twa twa-rice-ball"></i> | rice-ball | <i class="twa twa-squid"></i> | squid 
+| <i class="twa twa-tangerine"></i> | tangerine | <i class="twa twa-cookie"></i> | cookie 
+| <i class="twa twa-oden"></i> | oden | <i class="twa twa-pear"></i> | pear 
+| <i class="twa twa-leafy-green"></i> | leafy-green | <i class="twa twa-amphora"></i> | amphora 
+| <i class="twa twa-tumbler-glass"></i> | tumbler-glass | <i class="twa twa-teacup-without-handle"></i> | teacup-without-handle 
+| <i class="twa twa-cup-with-straw"></i> | cup-with-straw | <i class="twa twa-fork-and-knife-with-plate"></i> | fork-and-knife-with-plate 
+| <i class="twa twa-bowl-with-spoon"></i> | bowl-with-spoon | <i class="twa twa-popcorn"></i> | popcorn 
+| <i class="twa twa-canned-food"></i> | canned-food | <i class="twa twa-bento-box"></i> | bento-box 
+| <i class="twa twa-crab"></i> | crab | <i class="twa twa-dango"></i> | dango 
+| <i class="twa twa-takeout-box"></i> | takeout-box | <i class="twa twa-pot-of-food"></i> | pot-of-food 
+| <i class="twa twa-moon-cake"></i> | moon-cake | <i class="twa twa-spaghetti"></i> | spaghetti 
+| <i class="twa twa-cupcake"></i> | cupcake | <i class="twa twa-fondue"></i> | fondue 
+| <i class="twa twa-cooking"></i> | cooking | <i class="twa twa-shallow-pan-of-food"></i> | shallow-pan-of-food 
+| <i class="twa twa-sandwich"></i> | sandwich | <i class="twa twa-custard"></i> | custard 
+| <i class="twa twa-garlic"></i> | garlic | <i class="twa twa-cut-of-meat"></i> | cut-of-meat 
+| <i class="twa twa-eggplant"></i> | eggplant | <i class="twa twa-onion"></i> | onion 
+| <i class="twa twa-coconut"></i> | coconut | <i class="twa twa-mushroom"></i> | mushroom 
+| <i class="twa twa-cherries"></i> | cherries | <i class="twa twa-carrot"></i> | carrot 
+| <i class="twa twa-bell-pepper"></i> | bell-pepper | <i class="twa twa-potato"></i> | potato 
+| <i class="twa twa-olive"></i> | olive | <i class="twa twa-hot-pepper"></i> | hot-pepper 
+| <i class="twa twa-green-apple"></i> | green-apple | <i class="twa twa-peach"></i> | peach 
+| <i class="twa twa-lemon"></i> | lemon | <i class="twa twa-clinking-beer-mugs"></i> | clinking-beer-mugs 
+| <i class="twa twa-tropical-drink"></i> | tropical-drink | <i class="twa twa-melon"></i> | melon 
+| <i class="twa twa-spoon"></i> | spoon | <i class="twa twa-broccoli"></i> | broccoli 
+| <i class="twa twa-steaming-bowl"></i> | steaming-bowl | <i class="twa twa-avocado"></i> | avocado 
+| <i class="twa twa-mango"></i> | mango | <i class="twa twa-watermelon"></i> | watermelon 
+| <i class="twa twa-pancakes"></i> | pancakes | <i class="twa twa-strawberry"></i> | strawberry 
+| <i class="twa twa-cucumber"></i> | cucumber | <i class="twa twa-baguette-bread"></i> | baguette-bread 
+| <i class="twa twa-pineapple"></i> | pineapple | <i class="twa twa-peanuts"></i> | peanuts 
+| <i class="twa twa-hot-dog"></i> | hot-dog | <i class="twa twa-tomato"></i> | tomato 
+| <i class="twa twa-kiwi-fruit"></i> | kiwi-fruit | <i class="twa twa-shaved-ice"></i> | shaved-ice 
+| <i class="twa twa-meat-on-bone"></i> | meat-on-bone | <i class="twa twa-bagel"></i> | bagel 
+| <i class="twa twa-poultry-leg"></i> | poultry-leg | <i class="twa twa-red-apple"></i> | red-apple 
+| <i class="twa twa-curry-rice"></i> | curry-rice | <i class="twa twa-roasted-sweet-potato"></i> | roasted-sweet-potato 
+| <i class="twa twa-cocktail-glass"></i> | cocktail-glass | <i class="twa twa-honey-pot"></i> | honey-pot 
+| <i class="twa twa-hot-beverage"></i> | hot-beverage | <i class="twa twa-butter"></i> | butter 
+| <i class="twa twa-salt"></i> | salt | <i class="twa twa-beer-mug"></i> | beer-mug 
+| <i class="twa twa-baby-bottle"></i> | baby-bottle | <i class="twa twa-rice-cracker"></i> | rice-cracker 
+| <i class="twa twa-chopsticks"></i> | chopsticks | <i class="twa twa-birthday-cake"></i> | birthday-cake 
+| <i class="twa twa-wine-glass"></i> | wine-glass | <i class="twa twa-shortcake"></i> | shortcake 
+| <i class="twa twa-egg"></i> | egg | <i class="twa twa-kitchen-knife"></i> | kitchen-knife 
+| <i class="twa twa-pizza"></i> | pizza | <i class="twa twa-fork-and-knife"></i> | fork-and-knife 
+| <i class="twa twa-banana"></i> | banana | <i class="twa twa-cooked-rice"></i> | cooked-rice 
+| <i class="twa twa-soft-ice-cream"></i> | soft-ice-cream | <i class="twa twa-doughnut"></i> | doughnut 
+| <i class="twa twa-ice-cream"></i> | ice-cream | <i class="twa twa-sake"></i> | sake 
+| <i class="twa twa-chestnut"></i> | chestnut | <i class="twa twa-waffle"></i> | waffle 
+| <i class="twa twa-bottle-with-popping-cork"></i> | bottle-with-popping-cork | <i class="twa twa-lobster"></i> | lobster 
+| <i class="twa twa-teapot"></i> | teapot | <i class="twa twa-sushi"></i> | sushi 
+| <i class="twa twa-oyster"></i> | oyster | <i class="twa twa-bubble-tea"></i> | bubble-tea 
+| <i class="twa twa-mate"></i> | mate | <i class="twa twa-clinking-glasses"></i> | clinking-glasses 
+| <i class="twa twa-fortune-cookie"></i> | fortune-cookie | <i class="twa twa-green-salad"></i> | green-salad 
+| <i class="twa twa-dumpling"></i> | dumpling | <i class="twa twa-glass-of-milk"></i> | glass-of-milk 
+| <i class="twa twa-pie"></i> | pie | <i class="twa twa-burrito"></i> | burrito 
+| <i class="twa twa-beverage-box"></i> | beverage-box | <i class="twa twa-falafel"></i> | falafel 
+| <i class="twa twa-french-fries"></i> | french-fries | <i class="twa twa-fish-cake-with-swirl"></i> | fish-cake-with-swirl 
+| <i class="twa twa-ice"></i> | ice | <i class="twa twa-hamburger"></i> | hamburger 
+| <i class="twa twa-taco"></i> | taco | <i class="twa twa-bacon"></i> | bacon 
+| <i class="twa twa-stuffed-flatbread"></i> | stuffed-flatbread | <i class="twa twa-flatbread"></i> | flatbread 
+| <i class="twa twa-bread"></i> | bread | <i class="twa twa-ear-of-corn"></i> | ear-of-corn 
+| <i class="twa twa-croissant"></i> | croissant | <i class="twa twa-candy"></i> | candy 
+| <i class="twa twa-fried-shrimp"></i> | fried-shrimp | <i class="twa twa-tamale"></i> | tamale 
+| <i class="twa twa-grapes"></i> | grapes | <i class="twa twa-cheese-wedge"></i> | cheese-wedge 
+| <i class="twa twa-blueberries"></i> | blueberries 
+## Objects
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-high-heeled-shoe"></i> | high-heeled-shoe | <i class="twa twa-mans-shoe"></i> | mans-shoe 
+| <i class="twa twa-crown"></i> | crown | <i class="twa twa-shopping-bags"></i> | shopping-bags 
+| <i class="twa twa-womans-boot"></i> | womans-boot | <i class="twa twa-top-hat"></i> | top-hat 
+| <i class="twa twa-running-shoe"></i> | running-shoe | <i class="twa twa-lipstick"></i> | lipstick 
+| <i class="twa twa-backpack"></i> | backpack | <i class="twa twa-speaker-low-volume"></i> | speaker-low-volume 
+| <i class="twa twa-postal-horn"></i> | postal-horn | <i class="twa twa-gem-stone"></i> | gem-stone 
+| <i class="twa twa-muted-speaker"></i> | muted-speaker | <i class="twa twa-ring"></i> | ring 
+| <i class="twa twa-speaker-medium-volume"></i> | speaker-medium-volume | <i class="twa twa-prayer-beads"></i> | prayer-beads 
+| <i class="twa twa-rescue-workers-helmet"></i> | rescue-workers-helmet | <i class="twa twa-megaphone"></i> | megaphone 
+| <i class="twa twa-musical-score"></i> | musical-score | <i class="twa twa-musical-notes"></i> | musical-notes 
+| <i class="twa twa-military-helmet"></i> | military-helmet | <i class="twa twa-loudspeaker"></i> | loudspeaker 
+| <i class="twa twa-microphone"></i> | microphone | <i class="twa twa-battery"></i> | battery 
+| <i class="twa twa-musical-note"></i> | musical-note | <i class="twa twa-womans-hat"></i> | womans-hat 
+| <i class="twa twa-bell"></i> | bell | <i class="twa twa-dvd"></i> | dvd 
+| <i class="twa twa-optical-disk"></i> | optical-disk | <i class="twa twa-thong-sandal"></i> | thong-sandal 
+| <i class="twa twa-flashlight"></i> | flashlight | <i class="twa twa-open-book"></i> | open-book 
+| <i class="twa twa-computer-disk"></i> | computer-disk | <i class="twa twa-camera-with-flash"></i> | camera-with-flash 
+| <i class="twa twa-mobile-phone"></i> | mobile-phone | <i class="twa twa-printer"></i> | printer 
+| <i class="twa twa-television"></i> | television | <i class="twa twa-keyboard"></i> | keyboard 
+| <i class="twa twa-film-projector"></i> | film-projector | <i class="twa twa-red-paper-lantern"></i> | red-paper-lantern 
+| <i class="twa twa-notebook-with-decorative-cover"></i> | notebook-with-decorative-cover | <i class="twa twa-envelope"></i> | envelope 
+| <i class="twa twa-clapper-board"></i> | clapper-board | <i class="twa twa-magnifying-glass-tilted-left"></i> | magnifying-glass-tilted-left 
+| <i class="twa twa-video-camera"></i> | video-camera | <i class="twa twa-coin"></i> | coin 
+| <i class="twa twa-dollar-banknote"></i> | dollar-banknote | <i class="twa twa-calendar"></i> | calendar 
+| <i class="twa twa-light-bulb"></i> | light-bulb | <i class="twa twa-fountain-pen"></i> | fountain-pen 
+| <i class="twa twa-pound-banknote"></i> | pound-banknote | <i class="twa twa-ballot-box-with-ballot"></i> | ballot-box-with-ballot 
+| <i class="twa twa-chart-increasing-with-yen"></i> | chart-increasing-with-yen | <i class="twa twa-outbox-tray"></i> | outbox-tray 
+| <i class="twa twa-receipt"></i> | receipt | <i class="twa twa-card-file-box"></i> | card-file-box 
+| <i class="twa twa-paperclip"></i> | paperclip | <i class="twa twa-chart-decreasing"></i> | chart-decreasing 
+| <i class="twa twa-pen"></i> | pen | <i class="twa twa-saxophone"></i> | saxophone 
+| <i class="twa twa-file-folder"></i> | file-folder | <i class="twa twa-open-file-folder"></i> | open-file-folder 
+| <i class="twa twa-tear-off-calendar"></i> | tear-off-calendar | <i class="twa twa-wastebasket"></i> | wastebasket 
+| <i class="twa twa-goggles"></i> | goggles | <i class="twa twa-chart-increasing"></i> | chart-increasing 
+| <i class="twa twa-newspaper"></i> | newspaper | <i class="twa twa-open-mailbox-with-raised-flag"></i> | open-mailbox-with-raised-flag 
+| <i class="twa twa-locked"></i> | locked | <i class="twa twa-mobile-phone-with-arrow"></i> | mobile-phone-with-arrow 
+| <i class="twa twa-clipboard"></i> | clipboard | <i class="twa twa-card-index"></i> | card-index 
+| <i class="twa twa-hiking-boot"></i> | hiking-boot | <i class="twa twa-camera"></i> | camera 
+| <i class="twa twa-straight-ruler"></i> | straight-ruler | <i class="twa twa-round-pushpin"></i> | round-pushpin 
+| <i class="twa twa-notebook"></i> | notebook | <i class="twa twa-locked-with-key"></i> | locked-with-key 
+| <i class="twa twa-scroll"></i> | scroll | <i class="twa twa-scissors"></i> | scissors 
+| <i class="twa twa-money-with-wings"></i> | money-with-wings | <i class="twa twa-control-knobs"></i> | control-knobs 
+| <i class="twa twa-long-drum"></i> | long-drum | <i class="twa twa-memo"></i> | memo 
+| <i class="twa twa-graduation-cap"></i> | graduation-cap | <i class="twa twa-billed-cap"></i> | billed-cap 
+| <i class="twa twa-adhesive-bandage"></i> | adhesive-bandage | <i class="twa twa-pill"></i> | pill 
+| <i class="twa twa-drop-of-blood"></i> | drop-of-blood | <i class="twa twa-elevator"></i> | elevator 
+| <i class="twa twa-door"></i> | door | <i class="twa twa-stethoscope"></i> | stethoscope 
+| <i class="twa twa-window"></i> | window | <i class="twa twa-sunglasses"></i> | sunglasses 
+| <i class="twa twa-bed"></i> | bed | <i class="twa twa-jeans"></i> | jeans 
+| <i class="twa twa-blue-book"></i> | blue-book | <i class="twa twa-nut-and-bolt"></i> | nut-and-bolt 
+| <i class="twa twa-boomerang"></i> | boomerang | <i class="twa twa-toolbox"></i> | toolbox 
+| <i class="twa twa-clamp"></i> | clamp | <i class="twa twa-violin"></i> | violin 
+| <i class="twa twa-musical-keyboard"></i> | musical-keyboard | <i class="twa twa-link"></i> | link 
+| <i class="twa twa-briefcase"></i> | briefcase | <i class="twa twa-lotion-bottle"></i> | lotion-bottle 
+| <i class="twa twa-roll-of-paper"></i> | roll-of-paper | <i class="twa twa-broom"></i> | broom 
+| <i class="twa twa-safety-pin"></i> | safety-pin | <i class="twa twa-razor"></i> | razor 
+| <i class="twa twa-basket"></i> | basket | <i class="twa twa-flat-shoe"></i> | flat-shoe 
+| <i class="twa twa-bell-with-slash"></i> | bell-with-slash | <i class="twa twa-speaker-high-volume"></i> | speaker-high-volume 
+| <i class="twa twa-sponge"></i> | sponge | <i class="twa twa-soap"></i> | soap 
+| <i class="twa twa-bucket"></i> | bucket | <i class="twa twa-toothbrush"></i> | toothbrush 
+| <i class="twa twa-accordion"></i> | accordion | <i class="twa twa-level-slider"></i> | level-slider 
+| <i class="twa twa-fire-extinguisher"></i> | fire-extinguisher | <i class="twa twa-shopping-cart"></i> | shopping-cart 
+| <i class="twa twa-cigarette"></i> | cigarette | <i class="twa twa-coffin"></i> | coffin 
+| <i class="twa twa-headstone"></i> | headstone | <i class="twa twa-headphone"></i> | headphone 
+| <i class="twa twa-funeral-urn"></i> | funeral-urn | <i class="twa twa-telephone"></i> | telephone 
+| <i class="twa twa-moai"></i> | moai | <i class="twa twa-placard"></i> | placard 
+| <i class="twa twa-abacus"></i> | abacus | <i class="twa twa-movie-camera"></i> | movie-camera 
+| <i class="twa twa-magnifying-glass-tilted-right"></i> | magnifying-glass-tilted-right | <i class="twa twa-guitar"></i> | guitar 
+| <i class="twa twa-envelope-with-arrow"></i> | envelope-with-arrow | <i class="twa twa-open-mailbox-with-lowered-flag"></i> | open-mailbox-with-lowered-flag 
+| <i class="twa twa-incoming-envelope"></i> | incoming-envelope | <i class="twa twa-closed-mailbox-with-raised-flag"></i> | closed-mailbox-with-raised-flag 
+| <i class="twa twa-spiral-calendar"></i> | spiral-calendar | <i class="twa twa-postbox"></i> | postbox 
+| <i class="twa twa-package"></i> | package | <i class="twa twa-page-with-curl"></i> | page-with-curl 
+| <i class="twa twa-candle"></i> | candle | <i class="twa twa-closed-mailbox-with-lowered-flag"></i> | closed-mailbox-with-lowered-flag 
+| <i class="twa twa-crayon"></i> | crayon | <i class="twa twa-bar-chart"></i> | bar-chart 
+| <i class="twa twa-dress"></i> | dress | <i class="twa twa-bikini"></i> | bikini 
+| <i class="twa twa-womans-sandal"></i> | womans-sandal | <i class="twa twa-briefs"></i> | briefs 
+| <i class="twa twa-sari"></i> | sari | <i class="twa twa-green-book"></i> | green-book 
+| <i class="twa twa-ballet-shoes"></i> | ballet-shoes | <i class="twa twa-one-piece-swimsuit"></i> | one-piece-swimsuit 
+| <i class="twa twa-clutch-bag"></i> | clutch-bag | <i class="twa twa-couch-and-lamp"></i> | couch-and-lamp 
+| <i class="twa twa-shorts"></i> | shorts | <i class="twa twa-handbag"></i> | handbag 
+| <i class="twa twa-toilet"></i> | toilet | <i class="twa twa-card-index-dividers"></i> | card-index-dividers 
+| <i class="twa twa-pushpin"></i> | pushpin | <i class="twa twa-file-cabinet"></i> | file-cabinet 
+| <i class="twa twa-kimono"></i> | kimono | <i class="twa twa-lab-coat"></i> | lab-coat 
+| <i class="twa twa-t-shirt"></i> | t-shirt | <i class="twa twa-glasses"></i> | glasses 
+| <i class="twa twa-safety-vest"></i> | safety-vest | <i class="twa twa-mirror"></i> | mirror 
+| <i class="twa twa-womans-clothes"></i> | womans-clothes | <i class="twa twa-chair"></i> | chair 
+| <i class="twa twa-coat"></i> | coat | <i class="twa twa-gloves"></i> | gloves 
+| <i class="twa twa-satellite-antenna"></i> | satellite-antenna | <i class="twa twa-socks"></i> | socks 
+| <i class="twa twa-scarf"></i> | scarf | <i class="twa twa-laptop"></i> | laptop 
+| <i class="twa twa-banjo"></i> | banjo | <i class="twa twa-books"></i> | books 
+| <i class="twa twa-desktop-computer"></i> | desktop-computer | <i class="twa twa-pencil"></i> | pencil 
+| <i class="twa twa-pager"></i> | pager | <i class="twa twa-black-nib"></i> | black-nib 
+| <i class="twa twa-floppy-disk"></i> | floppy-disk | <i class="twa twa-trackball"></i> | trackball 
+| <i class="twa twa-trumpet"></i> | trumpet | <i class="twa twa-telephone-receiver"></i> | telephone-receiver 
+| <i class="twa twa-orange-book"></i> | orange-book | <i class="twa twa-credit-card"></i> | credit-card 
+| <i class="twa twa-rolled-up-newspaper"></i> | rolled-up-newspaper | <i class="twa twa-paintbrush"></i> | paintbrush 
+| <i class="twa twa-label"></i> | label | <i class="twa twa-closed-book"></i> | closed-book 
+| <i class="twa twa-videocassette"></i> | videocassette | <i class="twa twa-hammer"></i> | hammer 
+| <i class="twa twa-bookmark"></i> | bookmark | <i class="twa twa-locked-with-pen"></i> | locked-with-pen 
+| <i class="twa twa-linked-paperclips"></i> | linked-paperclips | <i class="twa twa-old-key"></i> | old-key 
+| <i class="twa twa-key"></i> | key | <i class="twa twa-screwdriver"></i> | screwdriver 
+| <i class="twa twa-axe"></i> | axe | <i class="twa twa-dagger"></i> | dagger 
+| <i class="twa twa-spiral-notepad"></i> | spiral-notepad | <i class="twa twa-crossed-swords"></i> | crossed-swords 
+| <i class="twa twa-hammer-and-pick"></i> | hammer-and-pick | <i class="twa twa-hammer-and-wrench"></i> | hammer-and-wrench 
+| <i class="twa twa-pick"></i> | pick | <i class="twa twa-pistol"></i> | pistol 
+| <i class="twa twa-syringe"></i> | syringe | <i class="twa twa-plunger"></i> | plunger 
+| <i class="twa twa-necktie"></i> | necktie | <i class="twa twa-shower"></i> | shower 
+| <i class="twa twa-purse"></i> | purse | <i class="twa twa-triangular-ruler"></i> | triangular-ruler 
+| <i class="twa twa-petri-dish"></i> | petri-dish | <i class="twa twa-yen-banknote"></i> | yen-banknote 
+| <i class="twa twa-computer-mouse"></i> | computer-mouse | <i class="twa twa-hook"></i> | hook 
+| <i class="twa twa-electric-plug"></i> | electric-plug | <i class="twa twa-page-facing-up"></i> | page-facing-up 
+| <i class="twa twa-unlocked"></i> | unlocked | <i class="twa twa-euro-banknote"></i> | euro-banknote 
+| <i class="twa twa-gear"></i> | gear | <i class="twa twa-ladder"></i> | ladder 
+| <i class="twa twa-bow-and-arrow"></i> | bow-and-arrow | <i class="twa twa-carpentry-saw"></i> | carpentry-saw 
+| <i class="twa twa-dna"></i> | dna | <i class="twa twa-chains"></i> | chains 
+| <i class="twa twa-alembic"></i> | alembic | <i class="twa twa-mouse-trap"></i> | mouse-trap 
+| <i class="twa twa-bathtub"></i> | bathtub | <i class="twa twa-money-bag"></i> | money-bag 
+| <i class="twa twa-e-mail"></i> | e-mail | <i class="twa twa-inbox-tray"></i> | inbox-tray 
+| <i class="twa twa-drum"></i> | drum | <i class="twa twa-balance-scale"></i> | balance-scale 
+| <i class="twa twa-white-cane"></i> | white-cane | <i class="twa twa-ledger"></i> | ledger 
+| <i class="twa twa-magnet"></i> | magnet | <i class="twa twa-shield"></i> | shield 
+| <i class="twa twa-wrench"></i> | wrench | <i class="twa twa-film-frames"></i> | film-frames 
+| <i class="twa twa-bookmark-tabs"></i> | bookmark-tabs | <i class="twa twa-test-tube"></i> | test-tube 
+| <i class="twa twa-diya-lamp"></i> | diya-lamp | <i class="twa twa-studio-microphone"></i> | studio-microphone 
+| <i class="twa twa-radio"></i> | radio | <i class="twa twa-fax-machine"></i> | fax-machine 
+| <i class="twa twa-microscope"></i> | microscope | <i class="twa twa-telescope"></i> | telescope 
+
+## People and Body
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-waving-hand-dark-skin-tone"></i> | waving-hand-dark-skin-tone | <i class="twa twa-hand-with-fingers-splayed-medium-dark-skin-tone"></i> | hand-with-fingers-splayed-medium-dark-skin-tone 
+| <i class="twa twa-raised-back-of-hand-medium-skin-tone"></i> | raised-back-of-hand-medium-skin-tone | <i class="twa twa-raised-back-of-hand-medium-dark-skin-tone"></i> | raised-back-of-hand-medium-dark-skin-tone 
+| <i class="twa twa-raised-hand-light-skin-tone"></i> | raised-hand-light-skin-tone | <i class="twa twa-hand-with-fingers-splayed-medium-light-skin-tone"></i> | hand-with-fingers-splayed-medium-light-skin-tone 
+| <i class="twa twa-hand-with-fingers-splayed-dark-skin-tone"></i> | hand-with-fingers-splayed-dark-skin-tone | <i class="twa twa-raised-hand"></i> | raised-hand 
+| <i class="twa twa-raised-hand-medium-light-skin-tone"></i> | raised-hand-medium-light-skin-tone | <i class="twa twa-raised-hand-medium-dark-skin-tone"></i> | raised-hand-medium-dark-skin-tone 
+| <i class="twa twa-vulcan-salute-light-skin-tone"></i> | vulcan-salute-light-skin-tone | <i class="twa twa-vulcan-salute"></i> | vulcan-salute 
+| <i class="twa twa-vulcan-salute-dark-skin-tone"></i> | vulcan-salute-dark-skin-tone | <i class="twa twa-vulcan-salute-medium-dark-skin-tone"></i> | vulcan-salute-medium-dark-skin-tone 
+| <i class="twa twa-raised-hand-medium-skin-tone"></i> | raised-hand-medium-skin-tone | <i class="twa twa-ok-hand"></i> | ok-hand 
+| <i class="twa twa-vulcan-salute-medium-skin-tone"></i> | vulcan-salute-medium-skin-tone | <i class="twa twa-ok-hand-light-skin-tone"></i> | ok-hand-light-skin-tone 
+| <i class="twa twa-ok-hand-medium-light-skin-tone"></i> | ok-hand-medium-light-skin-tone | <i class="twa twa-pinching-hand"></i> | pinching-hand 
+| <i class="twa twa-pinching-hand-medium-skin-tone"></i> | pinching-hand-medium-skin-tone | <i class="twa twa-pinching-hand-light-skin-tone"></i> | pinching-hand-light-skin-tone 
+| <i class="twa twa-ok-hand-medium-dark-skin-tone"></i> | ok-hand-medium-dark-skin-tone | <i class="twa twa-pinched-fingers-medium-skin-tone"></i> | pinched-fingers-medium-skin-tone 
+| <i class="twa twa-vulcan-salute-medium-light-skin-tone"></i> | vulcan-salute-medium-light-skin-tone | <i class="twa twa-ok-hand-medium-skin-tone"></i> | ok-hand-medium-skin-tone 
+| <i class="twa twa-pinched-fingers"></i> | pinched-fingers | <i class="twa twa-pinching-hand-dark-skin-tone"></i> | pinching-hand-dark-skin-tone 
+| <i class="twa twa-raised-back-of-hand-light-skin-tone"></i> | raised-back-of-hand-light-skin-tone | <i class="twa twa-pinched-fingers-light-skin-tone"></i> | pinched-fingers-light-skin-tone 
+| <i class="twa twa-pinched-fingers-medium-light-skin-tone"></i> | pinched-fingers-medium-light-skin-tone | <i class="twa twa-pinched-fingers-medium-dark-skin-tone"></i> | pinched-fingers-medium-dark-skin-tone 
+| <i class="twa twa-victory-hand"></i> | victory-hand | <i class="twa twa-pinched-fingers-dark-skin-tone"></i> | pinched-fingers-dark-skin-tone 
+| <i class="twa twa-hand-with-fingers-splayed-medium-skin-tone"></i> | hand-with-fingers-splayed-medium-skin-tone | <i class="twa twa-victory-hand-medium-skin-tone"></i> | victory-hand-medium-skin-tone 
+| <i class="twa twa-victory-hand-dark-skin-tone"></i> | victory-hand-dark-skin-tone | <i class="twa twa-love-you-gesture"></i> | love-you-gesture 
+| <i class="twa twa-love-you-gesture-dark-skin-tone"></i> | love-you-gesture-dark-skin-tone | <i class="twa twa-ok-hand-dark-skin-tone"></i> | ok-hand-dark-skin-tone 
+| <i class="twa twa-crossed-fingers-medium-dark-skin-tone"></i> | crossed-fingers-medium-dark-skin-tone | <i class="twa twa-crossed-fingers"></i> | crossed-fingers 
+| <i class="twa twa-victory-hand-medium-dark-skin-tone"></i> | victory-hand-medium-dark-skin-tone | <i class="twa twa-crossed-fingers-medium-skin-tone"></i> | crossed-fingers-medium-skin-tone 
+| <i class="twa twa-call-me-hand-dark-skin-tone"></i> | call-me-hand-dark-skin-tone | <i class="twa twa-sign-of-the-horns-medium-dark-skin-tone"></i> | sign-of-the-horns-medium-dark-skin-tone 
+| <i class="twa twa-thumbs-up-dark-skin-tone"></i> | thumbs-up-dark-skin-tone | <i class="twa twa-thumbs-down-light-skin-tone"></i> | thumbs-down-light-skin-tone 
+| <i class="twa twa-call-me-hand-light-skin-tone"></i> | call-me-hand-light-skin-tone | <i class="twa twa-thumbs-down"></i> | thumbs-down 
+| <i class="twa twa-victory-hand-medium-light-skin-tone"></i> | victory-hand-medium-light-skin-tone | <i class="twa twa-sign-of-the-horns-medium-skin-tone"></i> | sign-of-the-horns-medium-skin-tone 
+| <i class="twa twa-thumbs-down-dark-skin-tone"></i> | thumbs-down-dark-skin-tone | <i class="twa twa-thumbs-down-medium-skin-tone"></i> | thumbs-down-medium-skin-tone 
+| <i class="twa twa-waving-hand"></i> | waving-hand | <i class="twa twa-oncoming-fist-medium-skin-tone"></i> | oncoming-fist-medium-skin-tone 
+| <i class="twa twa-raised-fist-dark-skin-tone"></i> | raised-fist-dark-skin-tone | <i class="twa twa-raised-fist-medium-dark-skin-tone"></i> | raised-fist-medium-dark-skin-tone 
+| <i class="twa twa-thumbs-down-medium-dark-skin-tone"></i> | thumbs-down-medium-dark-skin-tone | <i class="twa twa-oncoming-fist-medium-light-skin-tone"></i> | oncoming-fist-medium-light-skin-tone 
+| <i class="twa twa-middle-finger-medium-light-skin-tone"></i> | middle-finger-medium-light-skin-tone | <i class="twa twa-raised-fist-light-skin-tone"></i> | raised-fist-light-skin-tone 
+| <i class="twa twa-backhand-index-pointing-up-dark-skin-tone"></i> | backhand-index-pointing-up-dark-skin-tone | <i class="twa twa-oncoming-fist-light-skin-tone"></i> | oncoming-fist-light-skin-tone 
+| <i class="twa twa-right-facing-fist"></i> | right-facing-fist | <i class="twa twa-oncoming-fist"></i> | oncoming-fist 
+| <i class="twa twa-left-facing-fist-medium-skin-tone"></i> | left-facing-fist-medium-skin-tone | <i class="twa twa-left-facing-fist-medium-dark-skin-tone"></i> | left-facing-fist-medium-dark-skin-tone 
+| <i class="twa twa-oncoming-fist-medium-dark-skin-tone"></i> | oncoming-fist-medium-dark-skin-tone | <i class="twa twa-right-facing-fist-dark-skin-tone"></i> | right-facing-fist-dark-skin-tone 
+| <i class="twa twa-right-facing-fist-light-skin-tone"></i> | right-facing-fist-light-skin-tone | <i class="twa twa-backhand-index-pointing-left-dark-skin-tone"></i> | backhand-index-pointing-left-dark-skin-tone 
+| <i class="twa twa-clapping-hands"></i> | clapping-hands | <i class="twa twa-index-pointing-up"></i> | index-pointing-up 
+| <i class="twa twa-left-facing-fist"></i> | left-facing-fist | <i class="twa twa-left-facing-fist-light-skin-tone"></i> | left-facing-fist-light-skin-tone 
+| <i class="twa twa-selfie-medium-light-skin-tone"></i> | selfie-medium-light-skin-tone | <i class="twa twa-right-facing-fist-medium-skin-tone"></i> | right-facing-fist-medium-skin-tone 
+| <i class="twa twa-thumbs-down-medium-light-skin-tone"></i> | thumbs-down-medium-light-skin-tone | <i class="twa twa-right-facing-fist-medium-light-skin-tone"></i> | right-facing-fist-medium-light-skin-tone 
+| <i class="twa twa-raising-hands-medium-skin-tone"></i> | raising-hands-medium-skin-tone | <i class="twa twa-flexed-biceps-dark-skin-tone"></i> | flexed-biceps-dark-skin-tone 
+| <i class="twa twa-left-facing-fist-dark-skin-tone"></i> | left-facing-fist-dark-skin-tone | <i class="twa twa-right-facing-fist-medium-dark-skin-tone"></i> | right-facing-fist-medium-dark-skin-tone 
+| <i class="twa twa-leg-light-skin-tone"></i> | leg-light-skin-tone | <i class="twa twa-flexed-biceps-medium-dark-skin-tone"></i> | flexed-biceps-medium-dark-skin-tone 
+| <i class="twa twa-left-facing-fist-medium-light-skin-tone"></i> | left-facing-fist-medium-light-skin-tone | <i class="twa twa-flexed-biceps"></i> | flexed-biceps 
+| <i class="twa twa-flexed-biceps-medium-light-skin-tone"></i> | flexed-biceps-medium-light-skin-tone | <i class="twa twa-selfie-dark-skin-tone"></i> | selfie-dark-skin-tone 
+| <i class="twa twa-leg-medium-light-skin-tone"></i> | leg-medium-light-skin-tone | <i class="twa twa-leg-medium-dark-skin-tone"></i> | leg-medium-dark-skin-tone 
+| <i class="twa twa-foot-light-skin-tone"></i> | foot-light-skin-tone | <i class="twa twa-leg-dark-skin-tone"></i> | leg-dark-skin-tone 
+| <i class="twa twa-ear-medium-skin-tone"></i> | ear-medium-skin-tone | <i class="twa twa-flexed-biceps-medium-skin-tone"></i> | flexed-biceps-medium-skin-tone 
+| <i class="twa twa-foot-medium-dark-skin-tone"></i> | foot-medium-dark-skin-tone | <i class="twa twa-leg"></i> | leg 
+| <i class="twa twa-ear-with-hearing-aid-medium-light-skin-tone"></i> | ear-with-hearing-aid-medium-light-skin-tone | <i class="twa twa-ear"></i> | ear 
+| <i class="twa twa-mechanical-arm"></i> | mechanical-arm | <i class="twa twa-foot-medium-skin-tone"></i> | foot-medium-skin-tone 
+| <i class="twa twa-ear-with-hearing-aid-medium-dark-skin-tone"></i> | ear-with-hearing-aid-medium-dark-skin-tone | <i class="twa twa-mechanical-leg"></i> | mechanical-leg 
+| <i class="twa twa-foot"></i> | foot | <i class="twa twa-foot-dark-skin-tone"></i> | foot-dark-skin-tone 
+| <i class="twa twa-nose-medium-dark-skin-tone"></i> | nose-medium-dark-skin-tone | <i class="twa twa-ear-medium-dark-skin-tone"></i> | ear-medium-dark-skin-tone 
+| <i class="twa twa-nose-light-skin-tone"></i> | nose-light-skin-tone | <i class="twa twa-ear-medium-light-skin-tone"></i> | ear-medium-light-skin-tone 
+| <i class="twa twa-nose-medium-light-skin-tone"></i> | nose-medium-light-skin-tone | <i class="twa twa-tooth"></i> | tooth 
+| <i class="twa twa-ear-light-skin-tone"></i> | ear-light-skin-tone | <i class="twa twa-nose"></i> | nose 
+| <i class="twa twa-eye"></i> | eye | <i class="twa twa-ear-with-hearing-aid-dark-skin-tone"></i> | ear-with-hearing-aid-dark-skin-tone 
+| <i class="twa twa-eyes"></i> | eyes | <i class="twa twa-nose-dark-skin-tone"></i> | nose-dark-skin-tone 
+| <i class="twa twa-brain"></i> | brain | <i class="twa twa-foot-medium-light-skin-tone"></i> | foot-medium-light-skin-tone 
+| <i class="twa twa-bone"></i> | bone | <i class="twa twa-ear-with-hearing-aid"></i> | ear-with-hearing-aid 
+| <i class="twa twa-baby-medium-skin-tone"></i> | baby-medium-skin-tone | <i class="twa twa-child-medium-skin-tone"></i> | child-medium-skin-tone 
+| <i class="twa twa-anatomical-heart"></i> | anatomical-heart | <i class="twa twa-boy"></i> | boy 
+| <i class="twa twa-baby-medium-light-skin-tone"></i> | baby-medium-light-skin-tone | <i class="twa twa-tongue"></i> | tongue 
+| <i class="twa twa-child-light-skin-tone"></i> | child-light-skin-tone | <i class="twa twa-child-medium-dark-skin-tone"></i> | child-medium-dark-skin-tone 
+| <i class="twa twa-baby-dark-skin-tone"></i> | baby-dark-skin-tone | <i class="twa twa-baby"></i> | baby 
+| <i class="twa twa-baby-medium-dark-skin-tone"></i> | baby-medium-dark-skin-tone | <i class="twa twa-person-medium-light-skin-tone"></i> | person-medium-light-skin-tone 
+| <i class="twa twa-person-medium-dark-skin-tone"></i> | person-medium-dark-skin-tone | <i class="twa twa-child-medium-light-skin-tone"></i> | child-medium-light-skin-tone 
+| <i class="twa twa-boy-medium-light-skin-tone"></i> | boy-medium-light-skin-tone | <i class="twa twa-person"></i> | person 
+| <i class="twa twa-girl-light-skin-tone"></i> | girl-light-skin-tone | <i class="twa twa-girl-medium-light-skin-tone"></i> | girl-medium-light-skin-tone 
+| <i class="twa twa-girl-dark-skin-tone"></i> | girl-dark-skin-tone | <i class="twa twa-child"></i> | child 
+| <i class="twa twa-boy-dark-skin-tone"></i> | boy-dark-skin-tone | <i class="twa twa-man-light-skin-tone"></i> | man-light-skin-tone 
+| <i class="twa twa-person-dark-skin-tone-blond-hair"></i> | person-dark-skin-tone-blond-hair | <i class="twa twa-child-dark-skin-tone"></i> | child-dark-skin-tone 
+| <i class="twa twa-thumbs-up-medium-skin-tone"></i> | thumbs-up-medium-skin-tone | <i class="twa twa-man"></i> | man 
+| <i class="twa twa-person-medium-skin-tone"></i> | person-medium-skin-tone | <i class="twa twa-person-blond-hair"></i> | person-blond-hair 
+| <i class="twa twa-man-dark-skin-tone"></i> | man-dark-skin-tone | <i class="twa twa-man-medium-dark-skin-tone"></i> | man-medium-dark-skin-tone 
+| <i class="twa twa-person-light-skin-tone-blond-hair"></i> | person-light-skin-tone-blond-hair | <i class="twa twa-person-medium-skin-tone-blond-hair"></i> | person-medium-skin-tone-blond-hair 
+| <i class="twa twa-person-light-skin-tone"></i> | person-light-skin-tone | <i class="twa twa-person-medium-dark-skin-tone-blond-hair"></i> | person-medium-dark-skin-tone-blond-hair 
+| <i class="twa twa-man-medium-skin-tone-red-hair"></i> | man-medium-skin-tone-red-hair | <i class="twa twa-man-medium-light-skin-tone"></i> | man-medium-light-skin-tone 
+| <i class="twa twa-person-dark-skin-tone"></i> | person-dark-skin-tone | <i class="twa twa-man-dark-skin-tone-curly-hair"></i> | man-dark-skin-tone-curly-hair 
+| <i class="twa twa-leg-medium-skin-tone"></i> | leg-medium-skin-tone | <i class="twa twa-ear-with-hearing-aid-medium-skin-tone"></i> | ear-with-hearing-aid-medium-skin-tone 
+| <i class="twa twa-man-medium-dark-skin-tone-curly-hair"></i> | man-medium-dark-skin-tone-curly-hair | <i class="twa twa-man-dark-skin-tone-red-hair"></i> | man-dark-skin-tone-red-hair 
+| <i class="twa twa-man-curly-hair"></i> | man-curly-hair | <i class="twa twa-nose-medium-skin-tone"></i> | nose-medium-skin-tone 
+| <i class="twa twa-man-medium-light-skin-tone-beard"></i> | man-medium-light-skin-tone-beard | <i class="twa twa-man-medium-skin-tone-beard"></i> | man-medium-skin-tone-beard 
+| <i class="twa twa-man-medium-light-skin-tone-white-hair"></i> | man-medium-light-skin-tone-white-hair | <i class="twa twa-man-dark-skin-tone-beard"></i> | man-dark-skin-tone-beard 
+| <i class="twa twa-man-white-hair"></i> | man-white-hair | <i class="twa twa-woman-medium-skin-tone"></i> | woman-medium-skin-tone 
+| <i class="twa twa-man-medium-dark-skin-tone-beard"></i> | man-medium-dark-skin-tone-beard | <i class="twa twa-man-beard"></i> | man-beard 
+| <i class="twa twa-man-medium-light-skin-tone-bald"></i> | man-medium-light-skin-tone-bald | <i class="twa twa-man-medium-dark-skin-tone-red-hair"></i> | man-medium-dark-skin-tone-red-hair 
+| <i class="twa twa-man-red-hair"></i> | man-red-hair | <i class="twa twa-man-light-skin-tone-red-hair"></i> | man-light-skin-tone-red-hair 
+| <i class="twa twa-lungs"></i> | lungs | <i class="twa twa-man-medium-skin-tone"></i> | man-medium-skin-tone 
+| <i class="twa twa-man-light-skin-tone-curly-hair"></i> | man-light-skin-tone-curly-hair | <i class="twa twa-man-medium-light-skin-tone-curly-hair"></i> | man-medium-light-skin-tone-curly-hair 
+| <i class="twa twa-man-medium-skin-tone-curly-hair"></i> | man-medium-skin-tone-curly-hair | <i class="twa twa-man-medium-skin-tone-white-hair"></i> | man-medium-skin-tone-white-hair 
+| <i class="twa twa-woman-medium-dark-skin-tone-red-hair"></i> | woman-medium-dark-skin-tone-red-hair | <i class="twa twa-man-dark-skin-tone-white-hair"></i> | man-dark-skin-tone-white-hair 
+| <i class="twa twa-man-light-skin-tone-white-hair"></i> | man-light-skin-tone-white-hair | <i class="twa twa-man-light-skin-tone-bald"></i> | man-light-skin-tone-bald 
+| <i class="twa twa-woman-dark-skin-tone"></i> | woman-dark-skin-tone | <i class="twa twa-woman-light-skin-tone-curly-hair"></i> | woman-light-skin-tone-curly-hair 
+| <i class="twa twa-person-curly-hair"></i> | person-curly-hair | <i class="twa twa-woman-medium-dark-skin-tone"></i> | woman-medium-dark-skin-tone 
+| <i class="twa twa-person-medium-skin-tone-red-hair"></i> | person-medium-skin-tone-red-hair | <i class="twa twa-person-light-skin-tone-curly-hair"></i> | person-light-skin-tone-curly-hair 
+| <i class="twa twa-woman-medium-light-skin-tone-bald"></i> | woman-medium-light-skin-tone-bald | <i class="twa twa-woman-white-hair"></i> | woman-white-hair 
+| <i class="twa twa-man-medium-dark-skin-tone-bald"></i> | man-medium-dark-skin-tone-bald | <i class="twa twa-man-dark-skin-tone-bald"></i> | man-dark-skin-tone-bald 
+| <i class="twa twa-man-bald"></i> | man-bald | <i class="twa twa-woman-light-skin-tone-red-hair"></i> | woman-light-skin-tone-red-hair 
+| <i class="twa twa-person-bald"></i> | person-bald | <i class="twa twa-woman-medium-light-skin-tone-blond-hair"></i> | woman-medium-light-skin-tone-blond-hair 
+| <i class="twa twa-woman-medium-skin-tone-bald"></i> | woman-medium-skin-tone-bald | <i class="twa twa-woman-medium-light-skin-tone-red-hair"></i> | woman-medium-light-skin-tone-red-hair 
+| <i class="twa twa-selfie-medium-skin-tone"></i> | selfie-medium-skin-tone | <i class="twa twa-person-light-skin-tone-white-hair"></i> | person-light-skin-tone-white-hair 
+| <i class="twa twa-person-medium-skin-tone-bald"></i> | person-medium-skin-tone-bald | <i class="twa twa-woman-dark-skin-tone-red-hair"></i> | woman-dark-skin-tone-red-hair 
+| <i class="twa twa-person-red-hair"></i> | person-red-hair | <i class="twa twa-person-medium-light-skin-tone-red-hair"></i> | person-medium-light-skin-tone-red-hair 
+| <i class="twa twa-person-medium-dark-skin-tone-white-hair"></i> | person-medium-dark-skin-tone-white-hair | <i class="twa twa-person-medium-dark-skin-tone-curly-hair"></i> | person-medium-dark-skin-tone-curly-hair 
+| <i class="twa twa-older-person"></i> | older-person | <i class="twa twa-person-light-skin-tone-red-hair"></i> | person-light-skin-tone-red-hair 
+| <i class="twa twa-woman-dark-skin-tone-blond-hair"></i> | woman-dark-skin-tone-blond-hair | <i class="twa twa-woman-dark-skin-tone-bald"></i> | woman-dark-skin-tone-bald 
+| <i class="twa twa-person-medium-light-skin-tone-white-hair"></i> | person-medium-light-skin-tone-white-hair | <i class="twa twa-person-medium-skin-tone-curly-hair"></i> | person-medium-skin-tone-curly-hair 
+| <i class="twa twa-person-dark-skin-tone-red-hair"></i> | person-dark-skin-tone-red-hair | <i class="twa twa-person-dark-skin-tone-white-hair"></i> | person-dark-skin-tone-white-hair 
+| <i class="twa twa-person-dark-skin-tone-curly-hair"></i> | person-dark-skin-tone-curly-hair | <i class="twa twa-man-gesturing-ok-light-skin-tone"></i> | man-gesturing-ok-light-skin-tone 
+| <i class="twa twa-old-woman-dark-skin-tone"></i> | old-woman-dark-skin-tone | <i class="twa twa-man-gesturing-ok"></i> | man-gesturing-ok 
+| <i class="twa twa-person-gesturing-ok-medium-light-skin-tone"></i> | person-gesturing-ok-medium-light-skin-tone | <i class="twa twa-person-dark-skin-tone-bald"></i> | person-dark-skin-tone-bald 
+| <i class="twa twa-person-frowning-medium-skin-tone"></i> | person-frowning-medium-skin-tone | <i class="twa twa-man-frowning-medium-light-skin-tone"></i> | man-frowning-medium-light-skin-tone 
+| <i class="twa twa-person-frowning-medium-dark-skin-tone"></i> | person-frowning-medium-dark-skin-tone | <i class="twa twa-woman-frowning-dark-skin-tone"></i> | woman-frowning-dark-skin-tone 
+| <i class="twa twa-woman-frowning-medium-dark-skin-tone"></i> | woman-frowning-medium-dark-skin-tone | <i class="twa twa-person-pouting-light-skin-tone"></i> | person-pouting-light-skin-tone 
+| <i class="twa twa-person-pouting-dark-skin-tone"></i> | person-pouting-dark-skin-tone | <i class="twa twa-woman-frowning-medium-skin-tone"></i> | woman-frowning-medium-skin-tone 
+| <i class="twa twa-person-pouting"></i> | person-pouting | <i class="twa twa-man-frowning-medium-dark-skin-tone"></i> | man-frowning-medium-dark-skin-tone 
+| <i class="twa twa-man-pouting"></i> | man-pouting | <i class="twa twa-person-pouting-medium-skin-tone"></i> | person-pouting-medium-skin-tone 
+| <i class="twa twa-man-pouting-light-skin-tone"></i> | man-pouting-light-skin-tone | <i class="twa twa-woman-frowning-medium-light-skin-tone"></i> | woman-frowning-medium-light-skin-tone 
+| <i class="twa twa-person-pouting-medium-dark-skin-tone"></i> | person-pouting-medium-dark-skin-tone | <i class="twa twa-woman-pouting-light-skin-tone"></i> | woman-pouting-light-skin-tone 
+| <i class="twa twa-man-pouting-medium-dark-skin-tone"></i> | man-pouting-medium-dark-skin-tone | <i class="twa twa-man-pouting-medium-light-skin-tone"></i> | man-pouting-medium-light-skin-tone 
+| <i class="twa twa-woman-pouting-medium-dark-skin-tone"></i> | woman-pouting-medium-dark-skin-tone | <i class="twa twa-man-pouting-medium-skin-tone"></i> | man-pouting-medium-skin-tone 
+| <i class="twa twa-woman-dark-skin-tone-white-hair"></i> | woman-dark-skin-tone-white-hair | <i class="twa twa-old-man-medium-dark-skin-tone"></i> | old-man-medium-dark-skin-tone 
+| <i class="twa twa-woman-gesturing-no-dark-skin-tone"></i> | woman-gesturing-no-dark-skin-tone | <i class="twa twa-man-pouting-dark-skin-tone"></i> | man-pouting-dark-skin-tone 
+| <i class="twa twa-baby-light-skin-tone"></i> | baby-light-skin-tone | <i class="twa twa-boy-medium-skin-tone"></i> | boy-medium-skin-tone 
+| <i class="twa twa-mouth"></i> | mouth | <i class="twa twa-person-medium-light-skin-tone-blond-hair"></i> | person-medium-light-skin-tone-blond-hair 
+| <i class="twa twa-man-medium-light-skin-tone-red-hair"></i> | man-medium-light-skin-tone-red-hair | <i class="twa twa-person-frowning-medium-light-skin-tone"></i> | person-frowning-medium-light-skin-tone 
+| <i class="twa twa-man-medium-skin-tone-blond-hair"></i> | man-medium-skin-tone-blond-hair | <i class="twa twa-thumbs-up"></i> | thumbs-up 
+| <i class="twa twa-person-medium-dark-skin-tone-red-hair"></i> | person-medium-dark-skin-tone-red-hair | <i class="twa twa-waving-hand-medium-dark-skin-tone"></i> | waving-hand-medium-dark-skin-tone 
+| <i class="twa twa-sign-of-the-horns-dark-skin-tone"></i> | sign-of-the-horns-dark-skin-tone | <i class="twa twa-backhand-index-pointing-up-medium-dark-skin-tone"></i> | backhand-index-pointing-up-medium-dark-skin-tone 
+| <i class="twa twa-backhand-index-pointing-right-medium-skin-tone"></i> | backhand-index-pointing-right-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down"></i> | backhand-index-pointing-down 
+| <i class="twa twa-middle-finger-medium-dark-skin-tone"></i> | middle-finger-medium-dark-skin-tone | <i class="twa twa-backhand-index-pointing-up-medium-light-skin-tone"></i> | backhand-index-pointing-up-medium-light-skin-tone 
+| <i class="twa twa-middle-finger-light-skin-tone"></i> | middle-finger-light-skin-tone | <i class="twa twa-backhand-index-pointing-up-light-skin-tone"></i> | backhand-index-pointing-up-light-skin-tone 
+| <i class="twa twa-backhand-index-pointing-down-dark-skin-tone"></i> | backhand-index-pointing-down-dark-skin-tone | <i class="twa twa-middle-finger"></i> | middle-finger 
+| <i class="twa twa-middle-finger-medium-skin-tone"></i> | middle-finger-medium-skin-tone | <i class="twa twa-backhand-index-pointing-right-medium-light-skin-tone"></i> | backhand-index-pointing-right-medium-light-skin-tone 
+| <i class="twa twa-index-pointing-up-light-skin-tone"></i> | index-pointing-up-light-skin-tone | <i class="twa twa-index-pointing-up-medium-light-skin-tone"></i> | index-pointing-up-medium-light-skin-tone 
+| <i class="twa twa-backhand-index-pointing-down-light-skin-tone"></i> | backhand-index-pointing-down-light-skin-tone | <i class="twa twa-backhand-index-pointing-right-dark-skin-tone"></i> | backhand-index-pointing-right-dark-skin-tone 
+| <i class="twa twa-index-pointing-up-dark-skin-tone"></i> | index-pointing-up-dark-skin-tone | <i class="twa twa-index-pointing-up-medium-dark-skin-tone"></i> | index-pointing-up-medium-dark-skin-tone 
+| <i class="twa twa-clapping-hands-medium-light-skin-tone"></i> | clapping-hands-medium-light-skin-tone | <i class="twa twa-raising-hands-dark-skin-tone"></i> | raising-hands-dark-skin-tone 
+| <i class="twa twa-index-pointing-up-medium-skin-tone"></i> | index-pointing-up-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down-medium-light-skin-tone"></i> | backhand-index-pointing-down-medium-light-skin-tone 
+| <i class="twa twa-clapping-hands-light-skin-tone"></i> | clapping-hands-light-skin-tone | <i class="twa twa-open-hands"></i> | open-hands 
+| <i class="twa twa-open-hands-light-skin-tone"></i> | open-hands-light-skin-tone | <i class="twa twa-open-hands-medium-dark-skin-tone"></i> | open-hands-medium-dark-skin-tone 
+| <i class="twa twa-raising-hands"></i> | raising-hands | <i class="twa twa-clapping-hands-medium-skin-tone"></i> | clapping-hands-medium-skin-tone 
+| <i class="twa twa-palms-up-together-medium-light-skin-tone"></i> | palms-up-together-medium-light-skin-tone | <i class="twa twa-open-hands-medium-skin-tone"></i> | open-hands-medium-skin-tone 
+| <i class="twa twa-raising-hands-medium-light-skin-tone"></i> | raising-hands-medium-light-skin-tone | <i class="twa twa-clapping-hands-medium-dark-skin-tone"></i> | clapping-hands-medium-dark-skin-tone 
+| <i class="twa twa-raising-hands-medium-dark-skin-tone"></i> | raising-hands-medium-dark-skin-tone | <i class="twa twa-palms-up-together-medium-skin-tone"></i> | palms-up-together-medium-skin-tone 
+| <i class="twa twa-folded-hands"></i> | folded-hands | <i class="twa twa-palms-up-together"></i> | palms-up-together 
+| <i class="twa twa-raising-hands-light-skin-tone"></i> | raising-hands-light-skin-tone | <i class="twa twa-palms-up-together-light-skin-tone"></i> | palms-up-together-light-skin-tone 
+| <i class="twa twa-waving-hand-medium-skin-tone"></i> | waving-hand-medium-skin-tone | <i class="twa twa-waving-hand-medium-light-skin-tone"></i> | waving-hand-medium-light-skin-tone 
+| <i class="twa twa-backhand-index-pointing-left-medium-skin-tone"></i> | backhand-index-pointing-left-medium-skin-tone | <i class="twa twa-call-me-hand-medium-skin-tone"></i> | call-me-hand-medium-skin-tone 
+| <i class="twa twa-backhand-index-pointing-up-medium-skin-tone"></i> | backhand-index-pointing-up-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down-medium-skin-tone"></i> | backhand-index-pointing-down-medium-skin-tone 
+| <i class="twa twa-backhand-index-pointing-down-medium-dark-skin-tone"></i> | backhand-index-pointing-down-medium-dark-skin-tone | <i class="twa twa-clapping-hands-dark-skin-tone"></i> | clapping-hands-dark-skin-tone 
+| <i class="twa twa-folded-hands-light-skin-tone"></i> | folded-hands-light-skin-tone | <i class="twa twa-palms-up-together-dark-skin-tone"></i> | palms-up-together-dark-skin-tone 
+| <i class="twa twa-writing-hand-dark-skin-tone"></i> | writing-hand-dark-skin-tone | <i class="twa twa-folded-hands-medium-light-skin-tone"></i> | folded-hands-medium-light-skin-tone 
+| <i class="twa twa-selfie"></i> | selfie | <i class="twa twa-handshake"></i> | handshake 
+| <i class="twa twa-folded-hands-medium-dark-skin-tone"></i> | folded-hands-medium-dark-skin-tone | <i class="twa twa-writing-hand-medium-skin-tone"></i> | writing-hand-medium-skin-tone 
+| <i class="twa twa-nail-polish-medium-skin-tone"></i> | nail-polish-medium-skin-tone | <i class="twa twa-nail-polish-medium-dark-skin-tone"></i> | nail-polish-medium-dark-skin-tone 
+| <i class="twa twa-palms-up-together-medium-dark-skin-tone"></i> | palms-up-together-medium-dark-skin-tone | <i class="twa twa-folded-hands-dark-skin-tone"></i> | folded-hands-dark-skin-tone 
+| <i class="twa twa-open-hands-medium-light-skin-tone"></i> | open-hands-medium-light-skin-tone | <i class="twa twa-selfie-medium-dark-skin-tone"></i> | selfie-medium-dark-skin-tone 
+| <i class="twa twa-nail-polish"></i> | nail-polish | <i class="twa twa-folded-hands-medium-skin-tone"></i> | folded-hands-medium-skin-tone 
+| <i class="twa twa-selfie-light-skin-tone"></i> | selfie-light-skin-tone | <i class="twa twa-writing-hand"></i> | writing-hand 
+| <i class="twa twa-writing-hand-medium-light-skin-tone"></i> | writing-hand-medium-light-skin-tone | <i class="twa twa-nail-polish-dark-skin-tone"></i> | nail-polish-dark-skin-tone 
+| <i class="twa twa-nail-polish-light-skin-tone"></i> | nail-polish-light-skin-tone | <i class="twa twa-writing-hand-medium-dark-skin-tone"></i> | writing-hand-medium-dark-skin-tone 
+| <i class="twa twa-writing-hand-light-skin-tone"></i> | writing-hand-light-skin-tone | <i class="twa twa-open-hands-dark-skin-tone"></i> | open-hands-dark-skin-tone 
+| <i class="twa twa-hand-with-fingers-splayed"></i> | hand-with-fingers-splayed | <i class="twa twa-sign-of-the-horns-light-skin-tone"></i> | sign-of-the-horns-light-skin-tone 
+| <i class="twa twa-woman-red-hair"></i> | woman-red-hair | <i class="twa twa-flexed-biceps-light-skin-tone"></i> | flexed-biceps-light-skin-tone 
+| <i class="twa twa-woman-curly-hair"></i> | woman-curly-hair | <i class="twa twa-person-white-hair"></i> | person-white-hair 
+| <i class="twa twa-person-medium-skin-tone-white-hair"></i> | person-medium-skin-tone-white-hair | <i class="twa twa-woman-dark-skin-tone-curly-hair"></i> | woman-dark-skin-tone-curly-hair 
+| <i class="twa twa-woman-medium-light-skin-tone-curly-hair"></i> | woman-medium-light-skin-tone-curly-hair | <i class="twa twa-woman-light-skin-tone"></i> | woman-light-skin-tone 
+| <i class="twa twa-woman-bald"></i> | woman-bald | <i class="twa twa-woman-medium-light-skin-tone-white-hair"></i> | woman-medium-light-skin-tone-white-hair 
+| <i class="twa twa-woman-medium-dark-skin-tone-curly-hair"></i> | woman-medium-dark-skin-tone-curly-hair | <i class="twa twa-woman-medium-dark-skin-tone-bald"></i> | woman-medium-dark-skin-tone-bald 
+| <i class="twa twa-girl-medium-skin-tone"></i> | girl-medium-skin-tone | <i class="twa twa-boy-light-skin-tone"></i> | boy-light-skin-tone 
+| <i class="twa twa-girl-medium-dark-skin-tone"></i> | girl-medium-dark-skin-tone | <i class="twa twa-woman-gesturing-ok-dark-skin-tone"></i> | woman-gesturing-ok-dark-skin-tone 
+| <i class="twa twa-person-tipping-hand-medium-light-skin-tone"></i> | person-tipping-hand-medium-light-skin-tone | <i class="twa twa-person-medium-light-skin-tone-curly-hair"></i> | person-medium-light-skin-tone-curly-hair 
+| <i class="twa twa-man-tipping-hand"></i> | man-tipping-hand | <i class="twa twa-man-tipping-hand-light-skin-tone"></i> | man-tipping-hand-light-skin-tone 
+| <i class="twa twa-girl"></i> | girl | <i class="twa twa-boy-medium-dark-skin-tone"></i> | boy-medium-dark-skin-tone 
+| <i class="twa twa-person-tipping-hand-medium-skin-tone"></i> | person-tipping-hand-medium-skin-tone | <i class="twa twa-man-tipping-hand-medium-dark-skin-tone"></i> | man-tipping-hand-medium-dark-skin-tone 
+| <i class="twa twa-person-tipping-hand-dark-skin-tone"></i> | person-tipping-hand-dark-skin-tone | <i class="twa twa-pinching-hand-medium-dark-skin-tone"></i> | pinching-hand-medium-dark-skin-tone 
+| <i class="twa twa-love-you-gesture-light-skin-tone"></i> | love-you-gesture-light-skin-tone | <i class="twa twa-love-you-gesture-medium-light-skin-tone"></i> | love-you-gesture-medium-light-skin-tone 
+| <i class="twa twa-nail-polish-medium-light-skin-tone"></i> | nail-polish-medium-light-skin-tone | <i class="twa twa-man-tipping-hand-medium-skin-tone"></i> | man-tipping-hand-medium-skin-tone 
+| <i class="twa twa-man-tipping-hand-dark-skin-tone"></i> | man-tipping-hand-dark-skin-tone | <i class="twa twa-woman-tipping-hand"></i> | woman-tipping-hand 
+| <i class="twa twa-woman-tipping-hand-light-skin-tone"></i> | woman-tipping-hand-light-skin-tone | <i class="twa twa-woman-tipping-hand-medium-light-skin-tone"></i> | woman-tipping-hand-medium-light-skin-tone 
+| <i class="twa twa-woman-tipping-hand-dark-skin-tone"></i> | woman-tipping-hand-dark-skin-tone | <i class="twa twa-woman-tipping-hand-medium-skin-tone"></i> | woman-tipping-hand-medium-skin-tone 
+| <i class="twa twa-person-raising-hand-light-skin-tone"></i> | person-raising-hand-light-skin-tone | <i class="twa twa-woman-tipping-hand-medium-dark-skin-tone"></i> | woman-tipping-hand-medium-dark-skin-tone 
+| <i class="twa twa-man-raising-hand"></i> | man-raising-hand | <i class="twa twa-woman-raising-hand-medium-light-skin-tone"></i> | woman-raising-hand-medium-light-skin-tone 
+| <i class="twa twa-person-raising-hand-medium-dark-skin-tone"></i> | person-raising-hand-medium-dark-skin-tone | <i class="twa twa-person-raising-hand-dark-skin-tone"></i> | person-raising-hand-dark-skin-tone 
+| <i class="twa twa-person-raising-hand-medium-light-skin-tone"></i> | person-raising-hand-medium-light-skin-tone | <i class="twa twa-woman-raising-hand-medium-dark-skin-tone"></i> | woman-raising-hand-medium-dark-skin-tone 
+| <i class="twa twa-woman-raising-hand-medium-skin-tone"></i> | woman-raising-hand-medium-skin-tone | <i class="twa twa-backhand-index-pointing-left-light-skin-tone"></i> | backhand-index-pointing-left-light-skin-tone 
+| <i class="twa twa-backhand-index-pointing-left"></i> | backhand-index-pointing-left | <i class="twa twa-sign-of-the-horns"></i> | sign-of-the-horns 
+| <i class="twa twa-backhand-index-pointing-left-medium-light-skin-tone"></i> | backhand-index-pointing-left-medium-light-skin-tone | <i class="twa twa-deaf-person-medium-light-skin-tone"></i> | deaf-person-medium-light-skin-tone 
+| <i class="twa twa-woman-raising-hand-dark-skin-tone"></i> | woman-raising-hand-dark-skin-tone | <i class="twa twa-deaf-person"></i> | deaf-person 
+| <i class="twa twa-deaf-person-medium-skin-tone"></i> | deaf-person-medium-skin-tone | <i class="twa twa-deaf-person-dark-skin-tone"></i> | deaf-person-dark-skin-tone 
+| <i class="twa twa-deaf-woman-medium-skin-tone"></i> | deaf-woman-medium-skin-tone | <i class="twa twa-deaf-woman-medium-dark-skin-tone"></i> | deaf-woman-medium-dark-skin-tone 
+| <i class="twa twa-person-bowing-medium-dark-skin-tone"></i> | person-bowing-medium-dark-skin-tone | <i class="twa twa-person-bowing-dark-skin-tone"></i> | person-bowing-dark-skin-tone 
+| <i class="twa twa-person-bowing-medium-skin-tone"></i> | person-bowing-medium-skin-tone | <i class="twa twa-person-bowing-medium-light-skin-tone"></i> | person-bowing-medium-light-skin-tone 
+| <i class="twa twa-person-bowing-light-skin-tone"></i> | person-bowing-light-skin-tone | <i class="twa twa-woman-medium-dark-skin-tone-white-hair"></i> | woman-medium-dark-skin-tone-white-hair 
+| <i class="twa twa-deaf-woman-dark-skin-tone"></i> | deaf-woman-dark-skin-tone | <i class="twa twa-man-bowing-medium-light-skin-tone"></i> | man-bowing-medium-light-skin-tone 
+| <i class="twa twa-man-bowing-medium-dark-skin-tone"></i> | man-bowing-medium-dark-skin-tone | <i class="twa twa-woman-bowing"></i> | woman-bowing 
+| <i class="twa twa-man-bowing-light-skin-tone"></i> | man-bowing-light-skin-tone | <i class="twa twa-person-bowing"></i> | person-bowing 
+| <i class="twa twa-man-bowing-medium-skin-tone"></i> | man-bowing-medium-skin-tone | <i class="twa twa-woman-bowing-medium-dark-skin-tone"></i> | woman-bowing-medium-dark-skin-tone 
+| <i class="twa twa-woman-medium-skin-tone-blond-hair"></i> | woman-medium-skin-tone-blond-hair | <i class="twa twa-man-gesturing-ok-medium-skin-tone"></i> | man-gesturing-ok-medium-skin-tone 
+| <i class="twa twa-crossed-fingers-light-skin-tone"></i> | crossed-fingers-light-skin-tone | <i class="twa twa-man-gesturing-ok-medium-dark-skin-tone"></i> | man-gesturing-ok-medium-dark-skin-tone 
+| <i class="twa twa-woman-facepalming-medium-skin-tone"></i> | woman-facepalming-medium-skin-tone | <i class="twa twa-person-shrugging"></i> | person-shrugging 
+| <i class="twa twa-person-shrugging-medium-light-skin-tone"></i> | person-shrugging-medium-light-skin-tone | <i class="twa twa-person-shrugging-dark-skin-tone"></i> | person-shrugging-dark-skin-tone 
+| <i class="twa twa-person-shrugging-medium-dark-skin-tone"></i> | person-shrugging-medium-dark-skin-tone | <i class="twa twa-man-shrugging"></i> | man-shrugging 
+| <i class="twa twa-person-shrugging-light-skin-tone"></i> | person-shrugging-light-skin-tone | <i class="twa twa-call-me-hand-medium-light-skin-tone"></i> | call-me-hand-medium-light-skin-tone 
+| <i class="twa twa-woman-medium-skin-tone-white-hair"></i> | woman-medium-skin-tone-white-hair | <i class="twa twa-thumbs-up-medium-light-skin-tone"></i> | thumbs-up-medium-light-skin-tone 
+| <i class="twa twa-thumbs-up-light-skin-tone"></i> | thumbs-up-light-skin-tone | <i class="twa twa-raised-fist"></i> | raised-fist 
+| <i class="twa twa-raised-back-of-hand-medium-light-skin-tone"></i> | raised-back-of-hand-medium-light-skin-tone | <i class="twa twa-raised-back-of-hand"></i> | raised-back-of-hand 
+| <i class="twa twa-thumbs-up-medium-dark-skin-tone"></i> | thumbs-up-medium-dark-skin-tone | <i class="twa twa-raised-fist-medium-skin-tone"></i> | raised-fist-medium-skin-tone 
+| <i class="twa twa-woman-facepalming-light-skin-tone"></i> | woman-facepalming-light-skin-tone | <i class="twa twa-raised-back-of-hand-dark-skin-tone"></i> | raised-back-of-hand-dark-skin-tone 
+| <i class="twa twa-backhand-index-pointing-right-medium-dark-skin-tone"></i> | backhand-index-pointing-right-medium-dark-skin-tone | <i class="twa twa-call-me-hand"></i> | call-me-hand 
+| <i class="twa twa-backhand-index-pointing-right-light-skin-tone"></i> | backhand-index-pointing-right-light-skin-tone | <i class="twa twa-backhand-index-pointing-right"></i> | backhand-index-pointing-right 
+| <i class="twa twa-raised-fist-medium-light-skin-tone"></i> | raised-fist-medium-light-skin-tone | <i class="twa twa-crossed-fingers-medium-light-skin-tone"></i> | crossed-fingers-medium-light-skin-tone 
+| <i class="twa twa-woman-shrugging"></i> | woman-shrugging | <i class="twa twa-man-shrugging-dark-skin-tone"></i> | man-shrugging-dark-skin-tone 
+| <i class="twa twa-man-shrugging-medium-dark-skin-tone"></i> | man-shrugging-medium-dark-skin-tone | <i class="twa twa-person-tipping-hand-light-skin-tone"></i> | person-tipping-hand-light-skin-tone 
+| <i class="twa twa-woman-gesturing-ok-medium-dark-skin-tone"></i> | woman-gesturing-ok-medium-dark-skin-tone | <i class="twa twa-person-tipping-hand"></i> | person-tipping-hand 
+| <i class="twa twa-woman-shrugging-light-skin-tone"></i> | woman-shrugging-light-skin-tone | <i class="twa twa-man-medium-dark-skin-tone-white-hair"></i> | man-medium-dark-skin-tone-white-hair 
+| <i class="twa twa-woman-medium-skin-tone-red-hair"></i> | woman-medium-skin-tone-red-hair | <i class="twa twa-man-light-skin-tone-beard"></i> | man-light-skin-tone-beard 
+| <i class="twa twa-person-light-skin-tone-bald"></i> | person-light-skin-tone-bald | <i class="twa twa-woman-light-skin-tone-blond-hair"></i> | woman-light-skin-tone-blond-hair 
+| <i class="twa twa-person-medium-light-skin-tone-bald"></i> | person-medium-light-skin-tone-bald | <i class="twa twa-person-medium-dark-skin-tone-bald"></i> | person-medium-dark-skin-tone-bald 
+| <i class="twa twa-man-light-skin-tone-blond-hair"></i> | man-light-skin-tone-blond-hair | <i class="twa twa-woman-light-skin-tone-bald"></i> | woman-light-skin-tone-bald 
+| <i class="twa twa-man-tipping-hand-medium-light-skin-tone"></i> | man-tipping-hand-medium-light-skin-tone | <i class="twa twa-man-health-worker-medium-dark-skin-tone"></i> | man-health-worker-medium-dark-skin-tone 
+| <i class="twa twa-man-health-worker-medium-skin-tone"></i> | man-health-worker-medium-skin-tone | <i class="twa twa-health-worker-medium-light-skin-tone"></i> | health-worker-medium-light-skin-tone 
+| <i class="twa twa-man-health-worker-dark-skin-tone"></i> | man-health-worker-dark-skin-tone | <i class="twa twa-woman-health-worker"></i> | woman-health-worker 
+| <i class="twa twa-man-raising-hand-medium-skin-tone"></i> | man-raising-hand-medium-skin-tone | <i class="twa twa-health-worker-medium-skin-tone"></i> | health-worker-medium-skin-tone 
+| <i class="twa twa-woman-gesturing-no"></i> | woman-gesturing-no | <i class="twa twa-woman-medium-skin-tone-curly-hair"></i> | woman-medium-skin-tone-curly-hair 
+| <i class="twa twa-person-frowning-dark-skin-tone"></i> | person-frowning-dark-skin-tone | <i class="twa twa-person-frowning-light-skin-tone"></i> | person-frowning-light-skin-tone 
+| <i class="twa twa-woman-blond-hair"></i> | woman-blond-hair | <i class="twa twa-raised-hand-dark-skin-tone"></i> | raised-hand-dark-skin-tone 
+| <i class="twa twa-ear-dark-skin-tone"></i> | ear-dark-skin-tone | <i class="twa twa-man-raising-hand-light-skin-tone"></i> | man-raising-hand-light-skin-tone 
+| <i class="twa twa-woman-frowning"></i> | woman-frowning | <i class="twa twa-person-frowning"></i> | person-frowning 
+| <i class="twa twa-man-frowning"></i> | man-frowning | <i class="twa twa-old-woman-medium-dark-skin-tone"></i> | old-woman-medium-dark-skin-tone 
+| <i class="twa twa-old-woman-medium-skin-tone"></i> | old-woman-medium-skin-tone | <i class="twa twa-man-frowning-medium-skin-tone"></i> | man-frowning-medium-skin-tone 
+| <i class="twa twa-man-frowning-light-skin-tone"></i> | man-frowning-light-skin-tone | <i class="twa twa-man-frowning-dark-skin-tone"></i> | man-frowning-dark-skin-tone 
+| <i class="twa twa-old-woman-light-skin-tone"></i> | old-woman-light-skin-tone | <i class="twa twa-woman-frowning-light-skin-tone"></i> | woman-frowning-light-skin-tone 
+| <i class="twa twa-deaf-man-light-skin-tone"></i> | deaf-man-light-skin-tone | <i class="twa twa-deaf-man-medium-dark-skin-tone"></i> | deaf-man-medium-dark-skin-tone 
+| <i class="twa twa-old-woman-medium-light-skin-tone"></i> | old-woman-medium-light-skin-tone | <i class="twa twa-person-raising-hand-medium-skin-tone"></i> | person-raising-hand-medium-skin-tone 
+| <i class="twa twa-deaf-man-medium-light-skin-tone"></i> | deaf-man-medium-light-skin-tone | <i class="twa twa-person-pouting-medium-light-skin-tone"></i> | person-pouting-medium-light-skin-tone 
+| <i class="twa twa-deaf-man-dark-skin-tone"></i> | deaf-man-dark-skin-tone | <i class="twa twa-backhand-index-pointing-left-medium-dark-skin-tone"></i> | backhand-index-pointing-left-medium-dark-skin-tone 
+| <i class="twa twa-older-person-light-skin-tone"></i> | older-person-light-skin-tone | <i class="twa twa-old-man"></i> | old-man 
+| <i class="twa twa-man-gesturing-no-medium-skin-tone"></i> | man-gesturing-no-medium-skin-tone | <i class="twa twa-man-medium-dark-skin-tone-blond-hair"></i> | man-medium-dark-skin-tone-blond-hair 
+| <i class="twa twa-woman-gesturing-no-light-skin-tone"></i> | woman-gesturing-no-light-skin-tone | <i class="twa twa-person-gesturing-ok-light-skin-tone"></i> | person-gesturing-ok-light-skin-tone 
+| <i class="twa twa-deaf-man-medium-skin-tone"></i> | deaf-man-medium-skin-tone | <i class="twa twa-deaf-woman-medium-light-skin-tone"></i> | deaf-woman-medium-light-skin-tone 
+| <i class="twa twa-man-gesturing-no-light-skin-tone"></i> | man-gesturing-no-light-skin-tone | <i class="twa twa-woman-gesturing-ok-medium-skin-tone"></i> | woman-gesturing-ok-medium-skin-tone 
+| <i class="twa twa-person-gesturing-ok"></i> | person-gesturing-ok | <i class="twa twa-crossed-fingers-dark-skin-tone"></i> | crossed-fingers-dark-skin-tone 
+| <i class="twa twa-woman-light-skin-tone-white-hair"></i> | woman-light-skin-tone-white-hair | <i class="twa twa-older-person-medium-light-skin-tone"></i> | older-person-medium-light-skin-tone 
+| <i class="twa twa-old-man-medium-skin-tone"></i> | old-man-medium-skin-tone | <i class="twa twa-old-man-light-skin-tone"></i> | old-man-light-skin-tone 
+| <i class="twa twa-person-gesturing-ok-medium-skin-tone"></i> | person-gesturing-ok-medium-skin-tone | <i class="twa twa-person-gesturing-ok-medium-dark-skin-tone"></i> | person-gesturing-ok-medium-dark-skin-tone 
+| <i class="twa twa-person-gesturing-ok-dark-skin-tone"></i> | person-gesturing-ok-dark-skin-tone | <i class="twa twa-ear-with-hearing-aid-light-skin-tone"></i> | ear-with-hearing-aid-light-skin-tone 
+| <i class="twa twa-man-facepalming-light-skin-tone"></i> | man-facepalming-light-skin-tone | <i class="twa twa-man-facepalming"></i> | man-facepalming 
+| <i class="twa twa-man-facepalming-medium-dark-skin-tone"></i> | man-facepalming-medium-dark-skin-tone | <i class="twa twa-man-facepalming-medium-light-skin-tone"></i> | man-facepalming-medium-light-skin-tone 
+| <i class="twa twa-man-facepalming-dark-skin-tone"></i> | man-facepalming-dark-skin-tone | <i class="twa twa-man-facepalming-medium-skin-tone"></i> | man-facepalming-medium-skin-tone 
+| <i class="twa twa-woman-gesturing-ok-light-skin-tone"></i> | woman-gesturing-ok-light-skin-tone | <i class="twa twa-woman"></i> | woman 
+| <i class="twa twa-man-bowing"></i> | man-bowing | <i class="twa twa-woman-bowing-medium-light-skin-tone"></i> | woman-bowing-medium-light-skin-tone 
+| <i class="twa twa-man-medium-light-skin-tone-blond-hair"></i> | man-medium-light-skin-tone-blond-hair | <i class="twa twa-victory-hand-light-skin-tone"></i> | victory-hand-light-skin-tone 
+| <i class="twa twa-call-me-hand-medium-dark-skin-tone"></i> | call-me-hand-medium-dark-skin-tone | <i class="twa twa-man-bowing-dark-skin-tone"></i> | man-bowing-dark-skin-tone 
+| <i class="twa twa-woman-bowing-light-skin-tone"></i> | woman-bowing-light-skin-tone | <i class="twa twa-person-facepalming-medium-skin-tone"></i> | person-facepalming-medium-skin-tone 
+| <i class="twa twa-woman-facepalming-medium-dark-skin-tone"></i> | woman-facepalming-medium-dark-skin-tone | <i class="twa twa-person-facepalming-dark-skin-tone"></i> | person-facepalming-dark-skin-tone 
+| <i class="twa twa-person-facepalming"></i> | person-facepalming | <i class="twa twa-deaf-person-light-skin-tone"></i> | deaf-person-light-skin-tone 
+| <i class="twa twa-person-facepalming-medium-light-skin-tone"></i> | person-facepalming-medium-light-skin-tone | <i class="twa twa-person-gesturing-no-medium-skin-tone"></i> | person-gesturing-no-medium-skin-tone 
+| <i class="twa twa-woman-medium-light-skin-tone"></i> | woman-medium-light-skin-tone | <i class="twa twa-woman-pouting-medium-skin-tone"></i> | woman-pouting-medium-skin-tone 
+| <i class="twa twa-person-gesturing-no"></i> | person-gesturing-no | <i class="twa twa-woman-pouting-medium-light-skin-tone"></i> | woman-pouting-medium-light-skin-tone 
+| <i class="twa twa-woman-pouting-dark-skin-tone"></i> | woman-pouting-dark-skin-tone | <i class="twa twa-woman-health-worker-medium-light-skin-tone"></i> | woman-health-worker-medium-light-skin-tone 
+| <i class="twa twa-woman-health-worker-medium-skin-tone"></i> | woman-health-worker-medium-skin-tone | <i class="twa twa-person-gesturing-no-dark-skin-tone"></i> | person-gesturing-no-dark-skin-tone 
+| <i class="twa twa-woman-health-worker-medium-dark-skin-tone"></i> | woman-health-worker-medium-dark-skin-tone | <i class="twa twa-person-gesturing-no-light-skin-tone"></i> | person-gesturing-no-light-skin-tone 
+| <i class="twa twa-woman-health-worker-dark-skin-tone"></i> | woman-health-worker-dark-skin-tone | <i class="twa twa-man-gesturing-no"></i> | man-gesturing-no 
+| <i class="twa twa-woman-pouting"></i> | woman-pouting | <i class="twa twa-student-light-skin-tone"></i> | student-light-skin-tone 
+| <i class="twa twa-student-medium-light-skin-tone"></i> | student-medium-light-skin-tone | <i class="twa twa-student-dark-skin-tone"></i> | student-dark-skin-tone 
+| <i class="twa twa-man-gesturing-ok-medium-light-skin-tone"></i> | man-gesturing-ok-medium-light-skin-tone | <i class="twa twa-student"></i> | student 
+| <i class="twa twa-man-student"></i> | man-student | <i class="twa twa-man-raising-hand-medium-dark-skin-tone"></i> | man-raising-hand-medium-dark-skin-tone 
+| <i class="twa twa-health-worker"></i> | health-worker | <i class="twa twa-man-student-medium-skin-tone"></i> | man-student-medium-skin-tone 
+| <i class="twa twa-student-medium-dark-skin-tone"></i> | student-medium-dark-skin-tone | <i class="twa twa-man-student-medium-dark-skin-tone"></i> | man-student-medium-dark-skin-tone 
+| <i class="twa twa-man-student-medium-light-skin-tone"></i> | man-student-medium-light-skin-tone | <i class="twa twa-woman-student"></i> | woman-student 
+| <i class="twa twa-health-worker-light-skin-tone"></i> | health-worker-light-skin-tone | <i class="twa twa-woman-student-light-skin-tone"></i> | woman-student-light-skin-tone 
+| <i class="twa twa-woman-student-medium-light-skin-tone"></i> | woman-student-medium-light-skin-tone | <i class="twa twa-man-student-dark-skin-tone"></i> | man-student-dark-skin-tone 
+| <i class="twa twa-woman-student-medium-dark-skin-tone"></i> | woman-student-medium-dark-skin-tone | <i class="twa twa-man-health-worker-light-skin-tone"></i> | man-health-worker-light-skin-tone 
+| <i class="twa twa-student-medium-skin-tone"></i> | student-medium-skin-tone | <i class="twa twa-woman-gesturing-ok"></i> | woman-gesturing-ok 
+| <i class="twa twa-woman-shrugging-medium-light-skin-tone"></i> | woman-shrugging-medium-light-skin-tone | <i class="twa twa-man-medium-skin-tone-bald"></i> | man-medium-skin-tone-bald 
+| <i class="twa twa-teacher"></i> | teacher | <i class="twa twa-woman-shrugging-medium-skin-tone"></i> | woman-shrugging-medium-skin-tone 
+| <i class="twa twa-teacher-medium-skin-tone"></i> | teacher-medium-skin-tone | <i class="twa twa-teacher-medium-light-skin-tone"></i> | teacher-medium-light-skin-tone 
+| <i class="twa twa-teacher-dark-skin-tone"></i> | teacher-dark-skin-tone | <i class="twa twa-teacher-medium-dark-skin-tone"></i> | teacher-medium-dark-skin-tone 
+| <i class="twa twa-man-teacher-medium-skin-tone"></i> | man-teacher-medium-skin-tone | <i class="twa twa-man-teacher-medium-dark-skin-tone"></i> | man-teacher-medium-dark-skin-tone 
+| <i class="twa twa-woman-teacher-light-skin-tone"></i> | woman-teacher-light-skin-tone | <i class="twa twa-woman-teacher-medium-light-skin-tone"></i> | woman-teacher-medium-light-skin-tone 
+| <i class="twa twa-woman-teacher-medium-dark-skin-tone"></i> | woman-teacher-medium-dark-skin-tone | <i class="twa twa-man-gesturing-ok-dark-skin-tone"></i> | man-gesturing-ok-dark-skin-tone 
+| <i class="twa twa-woman-student-dark-skin-tone"></i> | woman-student-dark-skin-tone | <i class="twa twa-woman-teacher"></i> | woman-teacher 
+| <i class="twa twa-judge-light-skin-tone"></i> | judge-light-skin-tone | <i class="twa twa-judge"></i> | judge 
+| <i class="twa twa-judge-medium-skin-tone"></i> | judge-medium-skin-tone | <i class="twa twa-woman-student-medium-skin-tone"></i> | woman-student-medium-skin-tone 
+| <i class="twa twa-man-shrugging-medium-skin-tone"></i> | man-shrugging-medium-skin-tone | <i class="twa twa-judge-medium-light-skin-tone"></i> | judge-medium-light-skin-tone 
+| <i class="twa twa-judge-dark-skin-tone"></i> | judge-dark-skin-tone | <i class="twa twa-man-judge"></i> | man-judge 
+| <i class="twa twa-man-judge-light-skin-tone"></i> | man-judge-light-skin-tone | <i class="twa twa-judge-medium-dark-skin-tone"></i> | judge-medium-dark-skin-tone 
+| <i class="twa twa-man-health-worker-medium-light-skin-tone"></i> | man-health-worker-medium-light-skin-tone | <i class="twa twa-teacher-light-skin-tone"></i> | teacher-light-skin-tone 
+| <i class="twa twa-man-judge-medium-light-skin-tone"></i> | man-judge-medium-light-skin-tone | <i class="twa twa-man-judge-medium-skin-tone"></i> | man-judge-medium-skin-tone 
+| <i class="twa twa-health-worker-medium-dark-skin-tone"></i> | health-worker-medium-dark-skin-tone | <i class="twa twa-man-judge-medium-dark-skin-tone"></i> | man-judge-medium-dark-skin-tone 
+| <i class="twa twa-man-teacher-medium-light-skin-tone"></i> | man-teacher-medium-light-skin-tone | <i class="twa twa-man-judge-dark-skin-tone"></i> | man-judge-dark-skin-tone 
+| <i class="twa twa-woman-teacher-dark-skin-tone"></i> | woman-teacher-dark-skin-tone | <i class="twa twa-man-teacher-dark-skin-tone"></i> | man-teacher-dark-skin-tone 
+| <i class="twa twa-woman-judge-light-skin-tone"></i> | woman-judge-light-skin-tone | <i class="twa twa-woman-teacher-medium-skin-tone"></i> | woman-teacher-medium-skin-tone 
+| <i class="twa twa-woman-judge-medium-skin-tone"></i> | woman-judge-medium-skin-tone | <i class="twa twa-woman-judge-medium-dark-skin-tone"></i> | woman-judge-medium-dark-skin-tone 
+| <i class="twa twa-woman-judge-medium-light-skin-tone"></i> | woman-judge-medium-light-skin-tone | <i class="twa twa-woman-judge-dark-skin-tone"></i> | woman-judge-dark-skin-tone 
+| <i class="twa twa-farmer"></i> | farmer | <i class="twa twa-farmer-light-skin-tone"></i> | farmer-light-skin-tone 
+| <i class="twa twa-woman-judge"></i> | woman-judge | <i class="twa twa-farmer-medium-skin-tone"></i> | farmer-medium-skin-tone 
+| <i class="twa twa-farmer-medium-light-skin-tone"></i> | farmer-medium-light-skin-tone | <i class="twa twa-man-farmer"></i> | man-farmer 
+| <i class="twa twa-man-farmer-light-skin-tone"></i> | man-farmer-light-skin-tone | <i class="twa twa-man-farmer-medium-skin-tone"></i> | man-farmer-medium-skin-tone 
+| <i class="twa twa-woman-farmer-light-skin-tone"></i> | woman-farmer-light-skin-tone | <i class="twa twa-man-farmer-dark-skin-tone"></i> | man-farmer-dark-skin-tone 
+| <i class="twa twa-farmer-medium-dark-skin-tone"></i> | farmer-medium-dark-skin-tone | <i class="twa twa-farmer-dark-skin-tone"></i> | farmer-dark-skin-tone 
+| <i class="twa twa-woman-farmer"></i> | woman-farmer | <i class="twa twa-man-farmer-medium-dark-skin-tone"></i> | man-farmer-medium-dark-skin-tone 
+| <i class="twa twa-man-farmer-medium-light-skin-tone"></i> | man-farmer-medium-light-skin-tone | <i class="twa twa-woman-farmer-medium-light-skin-tone"></i> | woman-farmer-medium-light-skin-tone 
+| <i class="twa twa-woman-farmer-medium-skin-tone"></i> | woman-farmer-medium-skin-tone | <i class="twa twa-woman-farmer-dark-skin-tone"></i> | woman-farmer-dark-skin-tone 
+| <i class="twa twa-cook"></i> | cook | <i class="twa twa-woman-farmer-medium-dark-skin-tone"></i> | woman-farmer-medium-dark-skin-tone 
+| <i class="twa twa-cook-light-skin-tone"></i> | cook-light-skin-tone | <i class="twa twa-cook-dark-skin-tone"></i> | cook-dark-skin-tone 
+| <i class="twa twa-cook-medium-dark-skin-tone"></i> | cook-medium-dark-skin-tone | <i class="twa twa-cook-medium-skin-tone"></i> | cook-medium-skin-tone 
+| <i class="twa twa-cook-medium-light-skin-tone"></i> | cook-medium-light-skin-tone | <i class="twa twa-man-cook-light-skin-tone"></i> | man-cook-light-skin-tone 
+| <i class="twa twa-man-cook"></i> | man-cook | <i class="twa twa-man-cook-medium-skin-tone"></i> | man-cook-medium-skin-tone 
+| <i class="twa twa-man-cook-medium-light-skin-tone"></i> | man-cook-medium-light-skin-tone | <i class="twa twa-man-cook-dark-skin-tone"></i> | man-cook-dark-skin-tone 
+| <i class="twa twa-man-cook-medium-dark-skin-tone"></i> | man-cook-medium-dark-skin-tone | <i class="twa twa-oncoming-fist-dark-skin-tone"></i> | oncoming-fist-dark-skin-tone 
+| <i class="twa twa-woman-cook"></i> | woman-cook | <i class="twa twa-woman-cook-light-skin-tone"></i> | woman-cook-light-skin-tone 
+| <i class="twa twa-pinching-hand-medium-light-skin-tone"></i> | pinching-hand-medium-light-skin-tone | <i class="twa twa-hand-with-fingers-splayed-light-skin-tone"></i> | hand-with-fingers-splayed-light-skin-tone 
+| <i class="twa twa-waving-hand-light-skin-tone"></i> | waving-hand-light-skin-tone | <i class="twa twa-woman-cook-medium-skin-tone"></i> | woman-cook-medium-skin-tone 
+| <i class="twa twa-woman-cook-medium-light-skin-tone"></i> | woman-cook-medium-light-skin-tone | <i class="twa twa-love-you-gesture-medium-skin-tone"></i> | love-you-gesture-medium-skin-tone 
+| <i class="twa twa-sign-of-the-horns-medium-light-skin-tone"></i> | sign-of-the-horns-medium-light-skin-tone | <i class="twa twa-middle-finger-dark-skin-tone"></i> | middle-finger-dark-skin-tone 
+| <i class="twa twa-love-you-gesture-medium-dark-skin-tone"></i> | love-you-gesture-medium-dark-skin-tone | <i class="twa twa-woman-cook-dark-skin-tone"></i> | woman-cook-dark-skin-tone 
+| <i class="twa twa-woman-cook-medium-dark-skin-tone"></i> | woman-cook-medium-dark-skin-tone | <i class="twa twa-mechanic"></i> | mechanic 
+| <i class="twa twa-man-mechanic-medium-skin-tone"></i> | man-mechanic-medium-skin-tone | <i class="twa twa-mechanic-medium-skin-tone"></i> | mechanic-medium-skin-tone 
+| <i class="twa twa-mechanic-light-skin-tone"></i> | mechanic-light-skin-tone | <i class="twa twa-mechanic-medium-light-skin-tone"></i> | mechanic-medium-light-skin-tone 
+| <i class="twa twa-man-mechanic-medium-light-skin-tone"></i> | man-mechanic-medium-light-skin-tone | <i class="twa twa-mechanic-medium-dark-skin-tone"></i> | mechanic-medium-dark-skin-tone 
+| <i class="twa twa-man-mechanic-light-skin-tone"></i> | man-mechanic-light-skin-tone | <i class="twa twa-man-mechanic-medium-dark-skin-tone"></i> | man-mechanic-medium-dark-skin-tone 
+| <i class="twa twa-woman-mechanic-light-skin-tone"></i> | woman-mechanic-light-skin-tone | <i class="twa twa-woman-mechanic-dark-skin-tone"></i> | woman-mechanic-dark-skin-tone 
+| <i class="twa twa-woman-mechanic"></i> | woman-mechanic | <i class="twa twa-man-mechanic"></i> | man-mechanic 
+| <i class="twa twa-woman-mechanic-medium-dark-skin-tone"></i> | woman-mechanic-medium-dark-skin-tone | <i class="twa twa-man-mechanic-dark-skin-tone"></i> | man-mechanic-dark-skin-tone 
+| <i class="twa twa-woman-mechanic-medium-skin-tone"></i> | woman-mechanic-medium-skin-tone | <i class="twa twa-woman-bowing-dark-skin-tone"></i> | woman-bowing-dark-skin-tone 
+| <i class="twa twa-person-facepalming-light-skin-tone"></i> | person-facepalming-light-skin-tone | <i class="twa twa-woman-facepalming-medium-light-skin-tone"></i> | woman-facepalming-medium-light-skin-tone 
+| <i class="twa twa-woman-mechanic-medium-light-skin-tone"></i> | woman-mechanic-medium-light-skin-tone | <i class="twa twa-woman-facepalming"></i> | woman-facepalming 
+| <i class="twa twa-factory-worker"></i> | factory-worker | <i class="twa twa-person-facepalming-medium-dark-skin-tone"></i> | person-facepalming-medium-dark-skin-tone 
+| <i class="twa twa-woman-bowing-medium-skin-tone"></i> | woman-bowing-medium-skin-tone | <i class="twa twa-backhand-index-pointing-up"></i> | backhand-index-pointing-up 
+| <i class="twa twa-woman-facepalming-dark-skin-tone"></i> | woman-facepalming-dark-skin-tone | <i class="twa twa-person-shrugging-medium-skin-tone"></i> | person-shrugging-medium-skin-tone 
+| <i class="twa twa-factory-worker-light-skin-tone"></i> | factory-worker-light-skin-tone | <i class="twa twa-man-factory-worker"></i> | man-factory-worker 
+| <i class="twa twa-factory-worker-medium-light-skin-tone"></i> | factory-worker-medium-light-skin-tone | <i class="twa twa-factory-worker-medium-dark-skin-tone"></i> | factory-worker-medium-dark-skin-tone 
+| <i class="twa twa-factory-worker-dark-skin-tone"></i> | factory-worker-dark-skin-tone | <i class="twa twa-man-factory-worker-light-skin-tone"></i> | man-factory-worker-light-skin-tone 
+| <i class="twa twa-mechanic-dark-skin-tone"></i> | mechanic-dark-skin-tone | <i class="twa twa-factory-worker-medium-skin-tone"></i> | factory-worker-medium-skin-tone 
+| <i class="twa twa-man-shrugging-light-skin-tone"></i> | man-shrugging-light-skin-tone | <i class="twa twa-man-factory-worker-medium-skin-tone"></i> | man-factory-worker-medium-skin-tone 
+| <i class="twa twa-man-factory-worker-medium-light-skin-tone"></i> | man-factory-worker-medium-light-skin-tone | <i class="twa twa-man-factory-worker-dark-skin-tone"></i> | man-factory-worker-dark-skin-tone 
+| <i class="twa twa-man-factory-worker-medium-dark-skin-tone"></i> | man-factory-worker-medium-dark-skin-tone | <i class="twa twa-woman-factory-worker"></i> | woman-factory-worker 
+| <i class="twa twa-man-raising-hand-dark-skin-tone"></i> | man-raising-hand-dark-skin-tone | <i class="twa twa-woman-factory-worker-light-skin-tone"></i> | woman-factory-worker-light-skin-tone 
+| <i class="twa twa-woman-medium-dark-skin-tone-blond-hair"></i> | woman-medium-dark-skin-tone-blond-hair | <i class="twa twa-man-gesturing-no-medium-dark-skin-tone"></i> | man-gesturing-no-medium-dark-skin-tone 
+| <i class="twa twa-woman-raising-hand-light-skin-tone"></i> | woman-raising-hand-light-skin-tone | <i class="twa twa-woman-factory-worker-medium-light-skin-tone"></i> | woman-factory-worker-medium-light-skin-tone 
+| <i class="twa twa-woman-factory-worker-medium-skin-tone"></i> | woman-factory-worker-medium-skin-tone | <i class="twa twa-woman-factory-worker-dark-skin-tone"></i> | woman-factory-worker-dark-skin-tone 
+| <i class="twa twa-woman-factory-worker-medium-dark-skin-tone"></i> | woman-factory-worker-medium-dark-skin-tone | <i class="twa twa-old-man-dark-skin-tone"></i> | old-man-dark-skin-tone 
+| <i class="twa twa-older-person-medium-skin-tone"></i> | older-person-medium-skin-tone | <i class="twa twa-older-person-dark-skin-tone"></i> | older-person-dark-skin-tone 
+| <i class="twa twa-person-gesturing-no-medium-dark-skin-tone"></i> | person-gesturing-no-medium-dark-skin-tone | <i class="twa twa-old-woman"></i> | old-woman 
+| <i class="twa twa-man-dark-skin-tone-blond-hair"></i> | man-dark-skin-tone-blond-hair | <i class="twa twa-person-gesturing-no-medium-light-skin-tone"></i> | person-gesturing-no-medium-light-skin-tone 
+| <i class="twa twa-deaf-woman"></i> | deaf-woman | <i class="twa twa-older-person-medium-dark-skin-tone"></i> | older-person-medium-dark-skin-tone 
+| <i class="twa twa-deaf-woman-light-skin-tone"></i> | deaf-woman-light-skin-tone | <i class="twa twa-office-worker-medium-skin-tone"></i> | office-worker-medium-skin-tone 
+| <i class="twa twa-office-worker-medium-light-skin-tone"></i> | office-worker-medium-light-skin-tone | <i class="twa twa-office-worker-light-skin-tone"></i> | office-worker-light-skin-tone 
+| <i class="twa twa-old-man-medium-light-skin-tone"></i> | old-man-medium-light-skin-tone | <i class="twa twa-office-worker"></i> | office-worker 
+| <i class="twa twa-woman-gesturing-no-medium-skin-tone"></i> | woman-gesturing-no-medium-skin-tone | <i class="twa twa-man-shrugging-medium-light-skin-tone"></i> | man-shrugging-medium-light-skin-tone 
+| <i class="twa twa-woman-gesturing-no-medium-dark-skin-tone"></i> | woman-gesturing-no-medium-dark-skin-tone | <i class="twa twa-man-gesturing-no-medium-light-skin-tone"></i> | man-gesturing-no-medium-light-skin-tone 
+| <i class="twa twa-man-gesturing-no-dark-skin-tone"></i> | man-gesturing-no-dark-skin-tone | <i class="twa twa-office-worker-medium-dark-skin-tone"></i> | office-worker-medium-dark-skin-tone 
+| <i class="twa twa-woman-shrugging-medium-dark-skin-tone"></i> | woman-shrugging-medium-dark-skin-tone | <i class="twa twa-office-worker-dark-skin-tone"></i> | office-worker-dark-skin-tone 
+| <i class="twa twa-man-office-worker-light-skin-tone"></i> | man-office-worker-light-skin-tone | <i class="twa twa-man-student-light-skin-tone"></i> | man-student-light-skin-tone 
+| <i class="twa twa-woman-raising-hand"></i> | woman-raising-hand | <i class="twa twa-man-raising-hand-medium-light-skin-tone"></i> | man-raising-hand-medium-light-skin-tone 
+| <i class="twa twa-man-office-worker"></i> | man-office-worker | <i class="twa twa-woman-shrugging-dark-skin-tone"></i> | woman-shrugging-dark-skin-tone 
+| <i class="twa twa-person-raising-hand"></i> | person-raising-hand | <i class="twa twa-man-office-worker-medium-skin-tone"></i> | man-office-worker-medium-skin-tone 
+| <i class="twa twa-man-office-worker-medium-light-skin-tone"></i> | man-office-worker-medium-light-skin-tone | <i class="twa twa-woman-office-worker"></i> | woman-office-worker 
+| <i class="twa twa-man-office-worker-dark-skin-tone"></i> | man-office-worker-dark-skin-tone | <i class="twa twa-scientist"></i> | scientist 
+| <i class="twa twa-scientist-medium-dark-skin-tone"></i> | scientist-medium-dark-skin-tone | <i class="twa twa-man-scientist-light-skin-tone"></i> | man-scientist-light-skin-tone 
+| <i class="twa twa-woman-office-worker-dark-skin-tone"></i> | woman-office-worker-dark-skin-tone | <i class="twa twa-scientist-light-skin-tone"></i> | scientist-light-skin-tone 
+| <i class="twa twa-woman-office-worker-medium-light-skin-tone"></i> | woman-office-worker-medium-light-skin-tone | <i class="twa twa-scientist-dark-skin-tone"></i> | scientist-dark-skin-tone 
+| <i class="twa twa-scientist-medium-light-skin-tone"></i> | scientist-medium-light-skin-tone | <i class="twa twa-man-scientist-medium-skin-tone"></i> | man-scientist-medium-skin-tone 
+| <i class="twa twa-scientist-medium-skin-tone"></i> | scientist-medium-skin-tone | <i class="twa twa-woman-office-worker-medium-dark-skin-tone"></i> | woman-office-worker-medium-dark-skin-tone 
+| <i class="twa twa-woman-office-worker-light-skin-tone"></i> | woman-office-worker-light-skin-tone | <i class="twa twa-woman-office-worker-medium-skin-tone"></i> | woman-office-worker-medium-skin-tone 
+| <i class="twa twa-man-scientist-medium-dark-skin-tone"></i> | man-scientist-medium-dark-skin-tone | <i class="twa twa-man-scientist"></i> | man-scientist 
+| <i class="twa twa-man-scientist-medium-light-skin-tone"></i> | man-scientist-medium-light-skin-tone | <i class="twa twa-woman-scientist-light-skin-tone"></i> | woman-scientist-light-skin-tone 
+| <i class="twa twa-woman-scientist-medium-light-skin-tone"></i> | woman-scientist-medium-light-skin-tone | <i class="twa twa-man-scientist-dark-skin-tone"></i> | man-scientist-dark-skin-tone 
+| <i class="twa twa-man-office-worker-medium-dark-skin-tone"></i> | man-office-worker-medium-dark-skin-tone | <i class="twa twa-woman-scientist-medium-skin-tone"></i> | woman-scientist-medium-skin-tone 
+| <i class="twa twa-woman-scientist-dark-skin-tone"></i> | woman-scientist-dark-skin-tone | <i class="twa twa-woman-scientist-medium-dark-skin-tone"></i> | woman-scientist-medium-dark-skin-tone 
+| <i class="twa twa-technologist"></i> | technologist | <i class="twa twa-technologist-light-skin-tone"></i> | technologist-light-skin-tone 
+| <i class="twa twa-man-technologist-light-skin-tone"></i> | man-technologist-light-skin-tone | <i class="twa twa-man-technologist-medium-skin-tone"></i> | man-technologist-medium-skin-tone 
+| <i class="twa twa-man-technologist-medium-light-skin-tone"></i> | man-technologist-medium-light-skin-tone | <i class="twa twa-man-technologist-dark-skin-tone"></i> | man-technologist-dark-skin-tone 
+| <i class="twa twa-man-technologist-medium-dark-skin-tone"></i> | man-technologist-medium-dark-skin-tone | <i class="twa twa-woman-technologist"></i> | woman-technologist 
+| <i class="twa twa-woman-technologist-light-skin-tone"></i> | woman-technologist-light-skin-tone | <i class="twa twa-woman-technologist-medium-light-skin-tone"></i> | woman-technologist-medium-light-skin-tone 
+| <i class="twa twa-woman-technologist-medium-skin-tone"></i> | woman-technologist-medium-skin-tone | <i class="twa twa-woman-technologist-medium-dark-skin-tone"></i> | woman-technologist-medium-dark-skin-tone 
+| <i class="twa twa-woman-technologist-dark-skin-tone"></i> | woman-technologist-dark-skin-tone | <i class="twa twa-singer"></i> | singer 
+| <i class="twa twa-man-singer"></i> | man-singer | <i class="twa twa-singer-dark-skin-tone"></i> | singer-dark-skin-tone 
+| <i class="twa twa-man-singer-light-skin-tone"></i> | man-singer-light-skin-tone | <i class="twa twa-singer-light-skin-tone"></i> | singer-light-skin-tone 
+| <i class="twa twa-singer-medium-skin-tone"></i> | singer-medium-skin-tone | <i class="twa twa-singer-medium-light-skin-tone"></i> | singer-medium-light-skin-tone 
+| <i class="twa twa-man-singer-medium-light-skin-tone"></i> | man-singer-medium-light-skin-tone | <i class="twa twa-singer-medium-dark-skin-tone"></i> | singer-medium-dark-skin-tone 
+| <i class="twa twa-man-singer-medium-skin-tone"></i> | man-singer-medium-skin-tone | <i class="twa twa-woman-singer-light-skin-tone"></i> | woman-singer-light-skin-tone 
+| <i class="twa twa-woman-singer"></i> | woman-singer | <i class="twa twa-man-singer-dark-skin-tone"></i> | man-singer-dark-skin-tone 
+| <i class="twa twa-man-singer-medium-dark-skin-tone"></i> | man-singer-medium-dark-skin-tone | <i class="twa twa-woman-singer-medium-dark-skin-tone"></i> | woman-singer-medium-dark-skin-tone 
+| <i class="twa twa-woman-singer-medium-light-skin-tone"></i> | woman-singer-medium-light-skin-tone | <i class="twa twa-woman-singer-dark-skin-tone"></i> | woman-singer-dark-skin-tone 
+| <i class="twa twa-woman-singer-medium-skin-tone"></i> | woman-singer-medium-skin-tone | <i class="twa twa-artist-medium-skin-tone"></i> | artist-medium-skin-tone 
+| <i class="twa twa-artist"></i> | artist | <i class="twa twa-artist-light-skin-tone"></i> | artist-light-skin-tone 
+| <i class="twa twa-artist-medium-dark-skin-tone"></i> | artist-medium-dark-skin-tone | <i class="twa twa-man-artist"></i> | man-artist 
+| <i class="twa twa-artist-dark-skin-tone"></i> | artist-dark-skin-tone | <i class="twa twa-man-artist-medium-dark-skin-tone"></i> | man-artist-medium-dark-skin-tone 
+| <i class="twa twa-man-artist-dark-skin-tone"></i> | man-artist-dark-skin-tone | <i class="twa twa-man-artist-light-skin-tone"></i> | man-artist-light-skin-tone 
+| <i class="twa twa-woman-artist-light-skin-tone"></i> | woman-artist-light-skin-tone | <i class="twa twa-man-artist-medium-light-skin-tone"></i> | man-artist-medium-light-skin-tone 
+| <i class="twa twa-man-artist-medium-skin-tone"></i> | man-artist-medium-skin-tone | <i class="twa twa-man-technologist"></i> | man-technologist 
+| <i class="twa twa-woman-artist-medium-skin-tone"></i> | woman-artist-medium-skin-tone | <i class="twa twa-woman-artist-dark-skin-tone"></i> | woman-artist-dark-skin-tone 
+| <i class="twa twa-pilot"></i> | pilot | <i class="twa twa-woman-artist-medium-dark-skin-tone"></i> | woman-artist-medium-dark-skin-tone 
+| <i class="twa twa-pilot-medium-skin-tone"></i> | pilot-medium-skin-tone | <i class="twa twa-pilot-medium-light-skin-tone"></i> | pilot-medium-light-skin-tone 
+| <i class="twa twa-man-pilot"></i> | man-pilot | <i class="twa twa-pilot-dark-skin-tone"></i> | pilot-dark-skin-tone 
+| <i class="twa twa-man-pilot-light-skin-tone"></i> | man-pilot-light-skin-tone | <i class="twa twa-man-pilot-medium-light-skin-tone"></i> | man-pilot-medium-light-skin-tone 
+| <i class="twa twa-man-pilot-medium-skin-tone"></i> | man-pilot-medium-skin-tone | <i class="twa twa-man-pilot-medium-dark-skin-tone"></i> | man-pilot-medium-dark-skin-tone 
+| <i class="twa twa-woman-pilot"></i> | woman-pilot | <i class="twa twa-woman-pilot-light-skin-tone"></i> | woman-pilot-light-skin-tone 
+| <i class="twa twa-woman-pilot-medium-skin-tone"></i> | woman-pilot-medium-skin-tone | <i class="twa twa-man-pilot-dark-skin-tone"></i> | man-pilot-dark-skin-tone 
+| <i class="twa twa-woman-pilot-medium-light-skin-tone"></i> | woman-pilot-medium-light-skin-tone | <i class="twa twa-woman-pilot-medium-dark-skin-tone"></i> | woman-pilot-medium-dark-skin-tone 
+| <i class="twa twa-man-astronaut-light-skin-tone"></i> | man-astronaut-light-skin-tone | <i class="twa twa-man-astronaut"></i> | man-astronaut 
+| <i class="twa twa-woman-artist"></i> | woman-artist | <i class="twa twa-woman-artist-medium-light-skin-tone"></i> | woman-artist-medium-light-skin-tone 
+| <i class="twa twa-woman-pilot-dark-skin-tone"></i> | woman-pilot-dark-skin-tone | <i class="twa twa-astronaut-medium-light-skin-tone"></i> | astronaut-medium-light-skin-tone 
+| <i class="twa twa-astronaut-light-skin-tone"></i> | astronaut-light-skin-tone | <i class="twa twa-astronaut-dark-skin-tone"></i> | astronaut-dark-skin-tone 
+| <i class="twa twa-astronaut-medium-skin-tone"></i> | astronaut-medium-skin-tone | <i class="twa twa-astronaut-medium-dark-skin-tone"></i> | astronaut-medium-dark-skin-tone 
+| <i class="twa twa-artist-medium-light-skin-tone"></i> | artist-medium-light-skin-tone | <i class="twa twa-astronaut"></i> | astronaut 
+| <i class="twa twa-pilot-medium-dark-skin-tone"></i> | pilot-medium-dark-skin-tone | <i class="twa twa-man-astronaut-medium-skin-tone"></i> | man-astronaut-medium-skin-tone 
+| <i class="twa twa-pilot-light-skin-tone"></i> | pilot-light-skin-tone | <i class="twa twa-man-astronaut-medium-light-skin-tone"></i> | man-astronaut-medium-light-skin-tone 
+| <i class="twa twa-man-astronaut-medium-dark-skin-tone"></i> | man-astronaut-medium-dark-skin-tone | <i class="twa twa-woman-astronaut-light-skin-tone"></i> | woman-astronaut-light-skin-tone 
+| <i class="twa twa-woman-astronaut"></i> | woman-astronaut | <i class="twa twa-woman-astronaut-medium-light-skin-tone"></i> | woman-astronaut-medium-light-skin-tone 
+| <i class="twa twa-woman-astronaut-medium-skin-tone"></i> | woman-astronaut-medium-skin-tone | <i class="twa twa-woman-astronaut-medium-dark-skin-tone"></i> | woman-astronaut-medium-dark-skin-tone 
+| <i class="twa twa-woman-astronaut-dark-skin-tone"></i> | woman-astronaut-dark-skin-tone | <i class="twa twa-firefighter-light-skin-tone"></i> | firefighter-light-skin-tone 
+| <i class="twa twa-firefighter"></i> | firefighter | <i class="twa twa-firefighter-medium-light-skin-tone"></i> | firefighter-medium-light-skin-tone 
+| <i class="twa twa-person-tipping-hand-medium-dark-skin-tone"></i> | person-tipping-hand-medium-dark-skin-tone | <i class="twa twa-man-blond-hair"></i> | man-blond-hair 
+| <i class="twa twa-man-firefighter-medium-skin-tone"></i> | man-firefighter-medium-skin-tone | <i class="twa twa-man-firefighter"></i> | man-firefighter 
+| <i class="twa twa-man-firefighter-medium-light-skin-tone"></i> | man-firefighter-medium-light-skin-tone | <i class="twa twa-man-firefighter-medium-dark-skin-tone"></i> | man-firefighter-medium-dark-skin-tone 
+| <i class="twa twa-man-firefighter-dark-skin-tone"></i> | man-firefighter-dark-skin-tone | <i class="twa twa-man-health-worker"></i> | man-health-worker 
+| <i class="twa twa-woman-firefighter-light-skin-tone"></i> | woman-firefighter-light-skin-tone | <i class="twa twa-health-worker-dark-skin-tone"></i> | health-worker-dark-skin-tone 
+| <i class="twa twa-woman-health-worker-light-skin-tone"></i> | woman-health-worker-light-skin-tone | <i class="twa twa-deaf-man"></i> | deaf-man 
+| <i class="twa twa-woman-firefighter"></i> | woman-firefighter | <i class="twa twa-woman-firefighter-medium-light-skin-tone"></i> | woman-firefighter-medium-light-skin-tone 
+| <i class="twa twa-woman-firefighter-medium-skin-tone"></i> | woman-firefighter-medium-skin-tone | <i class="twa twa-police-officer-light-skin-tone"></i> | police-officer-light-skin-tone 
+| <i class="twa twa-woman-firefighter-dark-skin-tone"></i> | woman-firefighter-dark-skin-tone | <i class="twa twa-police-officer"></i> | police-officer 
+| <i class="twa twa-woman-firefighter-medium-dark-skin-tone"></i> | woman-firefighter-medium-dark-skin-tone | <i class="twa twa-police-officer-medium-light-skin-tone"></i> | police-officer-medium-light-skin-tone 
+| <i class="twa twa-deaf-person-medium-dark-skin-tone"></i> | deaf-person-medium-dark-skin-tone | <i class="twa twa-police-officer-medium-dark-skin-tone"></i> | police-officer-medium-dark-skin-tone 
+| <i class="twa twa-police-officer-medium-skin-tone"></i> | police-officer-medium-skin-tone | <i class="twa twa-police-officer-dark-skin-tone"></i> | police-officer-dark-skin-tone 
+| <i class="twa twa-man-police-officer"></i> | man-police-officer | <i class="twa twa-woman-gesturing-no-medium-light-skin-tone"></i> | woman-gesturing-no-medium-light-skin-tone 
+| <i class="twa twa-man-police-officer-medium-light-skin-tone"></i> | man-police-officer-medium-light-skin-tone | <i class="twa twa-man-police-officer-medium-skin-tone"></i> | man-police-officer-medium-skin-tone 
+| <i class="twa twa-firefighter-medium-skin-tone"></i> | firefighter-medium-skin-tone | <i class="twa twa-firefighter-medium-dark-skin-tone"></i> | firefighter-medium-dark-skin-tone 
+| <i class="twa twa-man-police-officer-dark-skin-tone"></i> | man-police-officer-dark-skin-tone | <i class="twa twa-woman-police-officer"></i> | woman-police-officer 
+| <i class="twa twa-woman-police-officer-medium-light-skin-tone"></i> | woman-police-officer-medium-light-skin-tone | <i class="twa twa-woman-police-officer-medium-dark-skin-tone"></i> | woman-police-officer-medium-dark-skin-tone 
+| <i class="twa twa-woman-police-officer-light-skin-tone"></i> | woman-police-officer-light-skin-tone | <i class="twa twa-firefighter-dark-skin-tone"></i> | firefighter-dark-skin-tone 
+| <i class="twa twa-man-firefighter-light-skin-tone"></i> | man-firefighter-light-skin-tone | <i class="twa twa-woman-police-officer-dark-skin-tone"></i> | woman-police-officer-dark-skin-tone 
+| <i class="twa twa-detective"></i> | detective | <i class="twa twa-man-police-officer-light-skin-tone"></i> | man-police-officer-light-skin-tone 
+| <i class="twa twa-detective-light-skin-tone"></i> | detective-light-skin-tone | <i class="twa twa-detective-medium-skin-tone"></i> | detective-medium-skin-tone 
+| <i class="twa twa-woman-police-officer-medium-skin-tone"></i> | woman-police-officer-medium-skin-tone | <i class="twa twa-detective-medium-dark-skin-tone"></i> | detective-medium-dark-skin-tone 
+| <i class="twa twa-man-police-officer-medium-dark-skin-tone"></i> | man-police-officer-medium-dark-skin-tone | <i class="twa twa-detective-medium-light-skin-tone"></i> | detective-medium-light-skin-tone 
+| <i class="twa twa-detective-dark-skin-tone"></i> | detective-dark-skin-tone | <i class="twa twa-man-detective"></i> | man-detective 
+| <i class="twa twa-man-detective-medium-light-skin-tone"></i> | man-detective-medium-light-skin-tone | <i class="twa twa-woman-scientist"></i> | woman-scientist 
+| <i class="twa twa-man-detective-dark-skin-tone"></i> | man-detective-dark-skin-tone | <i class="twa twa-man-detective-medium-skin-tone"></i> | man-detective-medium-skin-tone 
+| <i class="twa twa-woman-detective"></i> | woman-detective | <i class="twa twa-woman-detective-light-skin-tone"></i> | woman-detective-light-skin-tone 
+| <i class="twa twa-man-detective-medium-dark-skin-tone"></i> | man-detective-medium-dark-skin-tone | <i class="twa twa-woman-detective-medium-light-skin-tone"></i> | woman-detective-medium-light-skin-tone 
+| <i class="twa twa-woman-detective-medium-dark-skin-tone"></i> | woman-detective-medium-dark-skin-tone | <i class="twa twa-woman-detective-dark-skin-tone"></i> | woman-detective-dark-skin-tone 
+| <i class="twa twa-guard"></i> | guard | <i class="twa twa-guard-light-skin-tone"></i> | guard-light-skin-tone 
+| <i class="twa twa-guard-medium-light-skin-tone"></i> | guard-medium-light-skin-tone | <i class="twa twa-guard-medium-dark-skin-tone"></i> | guard-medium-dark-skin-tone 
+| <i class="twa twa-man-detective-light-skin-tone"></i> | man-detective-light-skin-tone | <i class="twa twa-guard-medium-skin-tone"></i> | guard-medium-skin-tone 
+| <i class="twa twa-man-guard-light-skin-tone"></i> | man-guard-light-skin-tone | <i class="twa twa-guard-dark-skin-tone"></i> | guard-dark-skin-tone 
+| <i class="twa twa-man-guard"></i> | man-guard | <i class="twa twa-man-guard-medium-light-skin-tone"></i> | man-guard-medium-light-skin-tone 
+| <i class="twa twa-man-guard-dark-skin-tone"></i> | man-guard-dark-skin-tone | <i class="twa twa-woman-guard"></i> | woman-guard 
+| <i class="twa twa-man-guard-medium-skin-tone"></i> | man-guard-medium-skin-tone | <i class="twa twa-woman-guard-light-skin-tone"></i> | woman-guard-light-skin-tone 
+| <i class="twa twa-woman-guard-medium-light-skin-tone"></i> | woman-guard-medium-light-skin-tone | <i class="twa twa-man-guard-medium-dark-skin-tone"></i> | man-guard-medium-dark-skin-tone 
+| <i class="twa twa-woman-detective-medium-skin-tone"></i> | woman-detective-medium-skin-tone | <i class="twa twa-woman-guard-medium-skin-tone"></i> | woman-guard-medium-skin-tone 
+| <i class="twa twa-woman-guard-medium-dark-skin-tone"></i> | woman-guard-medium-dark-skin-tone | <i class="twa twa-woman-guard-dark-skin-tone"></i> | woman-guard-dark-skin-tone 
+| <i class="twa twa-ninja"></i> | ninja | <i class="twa twa-ninja-medium-light-skin-tone"></i> | ninja-medium-light-skin-tone 
+| <i class="twa twa-ninja-light-skin-tone"></i> | ninja-light-skin-tone | <i class="twa twa-construction-worker"></i> | construction-worker 
+| <i class="twa twa-ninja-medium-skin-tone"></i> | ninja-medium-skin-tone | <i class="twa twa-ninja-medium-dark-skin-tone"></i> | ninja-medium-dark-skin-tone 
+| <i class="twa twa-ninja-dark-skin-tone"></i> | ninja-dark-skin-tone | <i class="twa twa-construction-worker-light-skin-tone"></i> | construction-worker-light-skin-tone 
+| <i class="twa twa-construction-worker-medium-skin-tone"></i> | construction-worker-medium-skin-tone | <i class="twa twa-construction-worker-medium-dark-skin-tone"></i> | construction-worker-medium-dark-skin-tone 
+| <i class="twa twa-construction-worker-medium-light-skin-tone"></i> | construction-worker-medium-light-skin-tone | <i class="twa twa-man-construction-worker"></i> | man-construction-worker 
+| <i class="twa twa-man-construction-worker-medium-light-skin-tone"></i> | man-construction-worker-medium-light-skin-tone | <i class="twa twa-construction-worker-dark-skin-tone"></i> | construction-worker-dark-skin-tone 
+| <i class="twa twa-man-construction-worker-light-skin-tone"></i> | man-construction-worker-light-skin-tone | <i class="twa twa-man-construction-worker-medium-dark-skin-tone"></i> | man-construction-worker-medium-dark-skin-tone 
+| <i class="twa twa-man-construction-worker-dark-skin-tone"></i> | man-construction-worker-dark-skin-tone | <i class="twa twa-man-construction-worker-medium-skin-tone"></i> | man-construction-worker-medium-skin-tone 
+| <i class="twa twa-woman-construction-worker"></i> | woman-construction-worker | <i class="twa twa-woman-construction-worker-light-skin-tone"></i> | woman-construction-worker-light-skin-tone 
+| <i class="twa twa-woman-construction-worker-medium-light-skin-tone"></i> | woman-construction-worker-medium-light-skin-tone | <i class="twa twa-woman-construction-worker-medium-skin-tone"></i> | woman-construction-worker-medium-skin-tone 
+| <i class="twa twa-woman-construction-worker-medium-dark-skin-tone"></i> | woman-construction-worker-medium-dark-skin-tone | <i class="twa twa-woman-construction-worker-dark-skin-tone"></i> | woman-construction-worker-dark-skin-tone 
+| <i class="twa twa-man-astronaut-dark-skin-tone"></i> | man-astronaut-dark-skin-tone | <i class="twa twa-prince"></i> | prince 
+| <i class="twa twa-prince-medium-light-skin-tone"></i> | prince-medium-light-skin-tone | <i class="twa twa-prince-light-skin-tone"></i> | prince-light-skin-tone 
+| <i class="twa twa-prince-medium-skin-tone"></i> | prince-medium-skin-tone | <i class="twa twa-prince-medium-dark-skin-tone"></i> | prince-medium-dark-skin-tone 
+| <i class="twa twa-princess-medium-light-skin-tone"></i> | princess-medium-light-skin-tone | <i class="twa twa-princess-medium-skin-tone"></i> | princess-medium-skin-tone 
+| <i class="twa twa-princess-dark-skin-tone"></i> | princess-dark-skin-tone | <i class="twa twa-prince-dark-skin-tone"></i> | prince-dark-skin-tone 
+| <i class="twa twa-person-wearing-turban"></i> | person-wearing-turban | <i class="twa twa-princess-light-skin-tone"></i> | princess-light-skin-tone 
+| <i class="twa twa-princess"></i> | princess | <i class="twa twa-princess-medium-dark-skin-tone"></i> | princess-medium-dark-skin-tone 
+| <i class="twa twa-person-wearing-turban-medium-light-skin-tone"></i> | person-wearing-turban-medium-light-skin-tone | <i class="twa twa-person-wearing-turban-light-skin-tone"></i> | person-wearing-turban-light-skin-tone 
+| <i class="twa twa-person-wearing-turban-medium-skin-tone"></i> | person-wearing-turban-medium-skin-tone | <i class="twa twa-person-wearing-turban-medium-dark-skin-tone"></i> | person-wearing-turban-medium-dark-skin-tone 
+| <i class="twa twa-man-wearing-turban"></i> | man-wearing-turban | <i class="twa twa-man-wearing-turban-medium-light-skin-tone"></i> | man-wearing-turban-medium-light-skin-tone 
+| <i class="twa twa-man-wearing-turban-light-skin-tone"></i> | man-wearing-turban-light-skin-tone | <i class="twa twa-person-wearing-turban-dark-skin-tone"></i> | person-wearing-turban-dark-skin-tone 
+| <i class="twa twa-man-wearing-turban-medium-skin-tone"></i> | man-wearing-turban-medium-skin-tone | <i class="twa twa-man-wearing-turban-medium-dark-skin-tone"></i> | man-wearing-turban-medium-dark-skin-tone 
+| <i class="twa twa-man-wearing-turban-dark-skin-tone"></i> | man-wearing-turban-dark-skin-tone | <i class="twa twa-woman-wearing-turban-medium-light-skin-tone"></i> | woman-wearing-turban-medium-light-skin-tone 
+| <i class="twa twa-woman-wearing-turban"></i> | woman-wearing-turban | <i class="twa twa-woman-wearing-turban-medium-skin-tone"></i> | woman-wearing-turban-medium-skin-tone 
+| <i class="twa twa-woman-wearing-turban-medium-dark-skin-tone"></i> | woman-wearing-turban-medium-dark-skin-tone | <i class="twa twa-person-with-skullcap"></i> | person-with-skullcap 
+| <i class="twa twa-person-with-skullcap-medium-light-skin-tone"></i> | person-with-skullcap-medium-light-skin-tone | <i class="twa twa-man-teacher"></i> | man-teacher 
+| <i class="twa twa-person-with-skullcap-light-skin-tone"></i> | person-with-skullcap-light-skin-tone | <i class="twa twa-man-teacher-light-skin-tone"></i> | man-teacher-light-skin-tone 
+| <i class="twa twa-person-with-skullcap-medium-dark-skin-tone"></i> | person-with-skullcap-medium-dark-skin-tone | <i class="twa twa-person-with-skullcap-medium-skin-tone"></i> | person-with-skullcap-medium-skin-tone 
+| <i class="twa twa-person-with-skullcap-dark-skin-tone"></i> | person-with-skullcap-dark-skin-tone | <i class="twa twa-woman-with-headscarf-medium-light-skin-tone"></i> | woman-with-headscarf-medium-light-skin-tone 
+| <i class="twa twa-woman-with-headscarf-light-skin-tone"></i> | woman-with-headscarf-light-skin-tone | <i class="twa twa-woman-with-headscarf-medium-dark-skin-tone"></i> | woman-with-headscarf-medium-dark-skin-tone 
+| <i class="twa twa-woman-with-headscarf-medium-skin-tone"></i> | woman-with-headscarf-medium-skin-tone | <i class="twa twa-woman-wearing-turban-light-skin-tone"></i> | woman-wearing-turban-light-skin-tone 
+| <i class="twa twa-person-in-tuxedo-medium-skin-tone"></i> | person-in-tuxedo-medium-skin-tone | <i class="twa twa-person-in-tuxedo-medium-light-skin-tone"></i> | person-in-tuxedo-medium-light-skin-tone 
+| <i class="twa twa-person-in-tuxedo"></i> | person-in-tuxedo | <i class="twa twa-person-in-tuxedo-dark-skin-tone"></i> | person-in-tuxedo-dark-skin-tone 
+| <i class="twa twa-person-in-tuxedo-light-skin-tone"></i> | person-in-tuxedo-light-skin-tone | <i class="twa twa-person-in-tuxedo-medium-dark-skin-tone"></i> | person-in-tuxedo-medium-dark-skin-tone 
+| <i class="twa twa-man-in-tuxedo-light-skin-tone"></i> | man-in-tuxedo-light-skin-tone | <i class="twa twa-man-in-tuxedo"></i> | man-in-tuxedo 
+| <i class="twa twa-woman-with-headscarf"></i> | woman-with-headscarf | <i class="twa twa-woman-in-tuxedo-medium-light-skin-tone"></i> | woman-in-tuxedo-medium-light-skin-tone 
+| <i class="twa twa-man-in-tuxedo-medium-light-skin-tone"></i> | man-in-tuxedo-medium-light-skin-tone | <i class="twa twa-man-in-tuxedo-dark-skin-tone"></i> | man-in-tuxedo-dark-skin-tone 
+| <i class="twa twa-man-in-tuxedo-medium-dark-skin-tone"></i> | man-in-tuxedo-medium-dark-skin-tone | <i class="twa twa-man-in-tuxedo-medium-skin-tone"></i> | man-in-tuxedo-medium-skin-tone 
+| <i class="twa twa-woman-in-tuxedo"></i> | woman-in-tuxedo | <i class="twa twa-woman-wearing-turban-dark-skin-tone"></i> | woman-wearing-turban-dark-skin-tone 
+| <i class="twa twa-woman-with-headscarf-dark-skin-tone"></i> | woman-with-headscarf-dark-skin-tone | <i class="twa twa-woman-in-tuxedo-light-skin-tone"></i> | woman-in-tuxedo-light-skin-tone 
+| <i class="twa twa-woman-in-tuxedo-medium-skin-tone"></i> | woman-in-tuxedo-medium-skin-tone | <i class="twa twa-woman-in-tuxedo-medium-dark-skin-tone"></i> | woman-in-tuxedo-medium-dark-skin-tone 
+| <i class="twa twa-woman-in-tuxedo-dark-skin-tone"></i> | woman-in-tuxedo-dark-skin-tone | <i class="twa twa-person-with-veil"></i> | person-with-veil 
+| <i class="twa twa-person-with-veil-medium-light-skin-tone"></i> | person-with-veil-medium-light-skin-tone | <i class="twa twa-person-with-veil-medium-skin-tone"></i> | person-with-veil-medium-skin-tone 
+| <i class="twa twa-man-with-veil"></i> | man-with-veil | <i class="twa twa-person-with-veil-light-skin-tone"></i> | person-with-veil-light-skin-tone 
+| <i class="twa twa-person-with-veil-dark-skin-tone"></i> | person-with-veil-dark-skin-tone | <i class="twa twa-person-with-veil-medium-dark-skin-tone"></i> | person-with-veil-medium-dark-skin-tone 
+| <i class="twa twa-man-with-veil-light-skin-tone"></i> | man-with-veil-light-skin-tone | <i class="twa twa-man-with-veil-medium-skin-tone"></i> | man-with-veil-medium-skin-tone 
+| <i class="twa twa-man-with-veil-medium-light-skin-tone"></i> | man-with-veil-medium-light-skin-tone | <i class="twa twa-man-with-veil-medium-dark-skin-tone"></i> | man-with-veil-medium-dark-skin-tone 
+| <i class="twa twa-man-with-veil-dark-skin-tone"></i> | man-with-veil-dark-skin-tone | <i class="twa twa-woman-with-veil"></i> | woman-with-veil 
+| <i class="twa twa-woman-with-veil-medium-dark-skin-tone"></i> | woman-with-veil-medium-dark-skin-tone | <i class="twa twa-woman-with-veil-dark-skin-tone"></i> | woman-with-veil-dark-skin-tone 
+| <i class="twa twa-pregnant-woman-medium-light-skin-tone"></i> | pregnant-woman-medium-light-skin-tone | <i class="twa twa-woman-with-veil-medium-light-skin-tone"></i> | woman-with-veil-medium-light-skin-tone 
+| <i class="twa twa-breast-feeding"></i> | breast-feeding | <i class="twa twa-woman-with-veil-light-skin-tone"></i> | woman-with-veil-light-skin-tone 
+| <i class="twa twa-pregnant-woman-light-skin-tone"></i> | pregnant-woman-light-skin-tone | <i class="twa twa-woman-with-veil-medium-skin-tone"></i> | woman-with-veil-medium-skin-tone 
+| <i class="twa twa-pregnant-woman-dark-skin-tone"></i> | pregnant-woman-dark-skin-tone | <i class="twa twa-breast-feeding-medium-light-skin-tone"></i> | breast-feeding-medium-light-skin-tone 
+| <i class="twa twa-breast-feeding-medium-dark-skin-tone"></i> | breast-feeding-medium-dark-skin-tone | <i class="twa twa-breast-feeding-medium-skin-tone"></i> | breast-feeding-medium-skin-tone 
+| <i class="twa twa-breast-feeding-light-skin-tone"></i> | breast-feeding-light-skin-tone | <i class="twa twa-woman-feeding-baby"></i> | woman-feeding-baby 
+| <i class="twa twa-breast-feeding-dark-skin-tone"></i> | breast-feeding-dark-skin-tone | <i class="twa twa-pregnant-woman-medium-skin-tone"></i> | pregnant-woman-medium-skin-tone 
+| <i class="twa twa-woman-feeding-baby-medium-light-skin-tone"></i> | woman-feeding-baby-medium-light-skin-tone | <i class="twa twa-pregnant-woman-medium-dark-skin-tone"></i> | pregnant-woman-medium-dark-skin-tone 
+| <i class="twa twa-man-feeding-baby"></i> | man-feeding-baby | <i class="twa twa-man-feeding-baby-medium-light-skin-tone"></i> | man-feeding-baby-medium-light-skin-tone 
+| <i class="twa twa-woman-feeding-baby-light-skin-tone"></i> | woman-feeding-baby-light-skin-tone | <i class="twa twa-woman-feeding-baby-dark-skin-tone"></i> | woman-feeding-baby-dark-skin-tone 
+| <i class="twa twa-man-feeding-baby-medium-skin-tone"></i> | man-feeding-baby-medium-skin-tone | <i class="twa twa-man-feeding-baby-medium-dark-skin-tone"></i> | man-feeding-baby-medium-dark-skin-tone 
+| <i class="twa twa-woman-feeding-baby-medium-dark-skin-tone"></i> | woman-feeding-baby-medium-dark-skin-tone | <i class="twa twa-man-feeding-baby-dark-skin-tone"></i> | man-feeding-baby-dark-skin-tone 
+| <i class="twa twa-woman-feeding-baby-medium-skin-tone"></i> | woman-feeding-baby-medium-skin-tone | <i class="twa twa-man-feeding-baby-light-skin-tone"></i> | man-feeding-baby-light-skin-tone 
+| <i class="twa twa-person-feeding-baby"></i> | person-feeding-baby | <i class="twa twa-baby-angel"></i> | baby-angel 
+| <i class="twa twa-person-feeding-baby-light-skin-tone"></i> | person-feeding-baby-light-skin-tone | <i class="twa twa-person-feeding-baby-dark-skin-tone"></i> | person-feeding-baby-dark-skin-tone 
+| <i class="twa twa-baby-angel-light-skin-tone"></i> | baby-angel-light-skin-tone | <i class="twa twa-person-feeding-baby-medium-dark-skin-tone"></i> | person-feeding-baby-medium-dark-skin-tone 
+| <i class="twa twa-person-feeding-baby-medium-light-skin-tone"></i> | person-feeding-baby-medium-light-skin-tone | <i class="twa twa-person-feeding-baby-medium-skin-tone"></i> | person-feeding-baby-medium-skin-tone 
+| <i class="twa twa-baby-angel-medium-skin-tone"></i> | baby-angel-medium-skin-tone | <i class="twa twa-baby-angel-medium-dark-skin-tone"></i> | baby-angel-medium-dark-skin-tone 
+| <i class="twa twa-santa-claus"></i> | santa-claus | <i class="twa twa-baby-angel-dark-skin-tone"></i> | baby-angel-dark-skin-tone 
+| <i class="twa twa-baby-angel-medium-light-skin-tone"></i> | baby-angel-medium-light-skin-tone | <i class="twa twa-santa-claus-medium-light-skin-tone"></i> | santa-claus-medium-light-skin-tone 
+| <i class="twa twa-santa-claus-light-skin-tone"></i> | santa-claus-light-skin-tone | <i class="twa twa-santa-claus-medium-skin-tone"></i> | santa-claus-medium-skin-tone 
+| <i class="twa twa-santa-claus-medium-dark-skin-tone"></i> | santa-claus-medium-dark-skin-tone | <i class="twa twa-santa-claus-dark-skin-tone"></i> | santa-claus-dark-skin-tone 
+| <i class="twa twa-mrs-claus-medium-skin-tone"></i> | mrs-claus-medium-skin-tone | <i class="twa twa-mrs-claus-medium-light-skin-tone"></i> | mrs-claus-medium-light-skin-tone 
+| <i class="twa twa-mrs-claus"></i> | mrs-claus | <i class="twa twa-mrs-claus-light-skin-tone"></i> | mrs-claus-light-skin-tone 
+| <i class="twa twa-mx-claus"></i> | mx-claus | <i class="twa twa-mrs-claus-dark-skin-tone"></i> | mrs-claus-dark-skin-tone 
+| <i class="twa twa-mx-claus-medium-light-skin-tone"></i> | mx-claus-medium-light-skin-tone | <i class="twa twa-mrs-claus-medium-dark-skin-tone"></i> | mrs-claus-medium-dark-skin-tone 
+| <i class="twa twa-mx-claus-light-skin-tone"></i> | mx-claus-light-skin-tone | <i class="twa twa-superhero-medium-light-skin-tone"></i> | superhero-medium-light-skin-tone 
+| <i class="twa twa-superhero"></i> | superhero | <i class="twa twa-superhero-light-skin-tone"></i> | superhero-light-skin-tone 
+| <i class="twa twa-mx-claus-dark-skin-tone"></i> | mx-claus-dark-skin-tone | <i class="twa twa-superhero-medium-dark-skin-tone"></i> | superhero-medium-dark-skin-tone 
+| <i class="twa twa-superhero-medium-skin-tone"></i> | superhero-medium-skin-tone | <i class="twa twa-man-superhero-medium-light-skin-tone"></i> | man-superhero-medium-light-skin-tone 
+| <i class="twa twa-man-superhero"></i> | man-superhero | <i class="twa twa-superhero-dark-skin-tone"></i> | superhero-dark-skin-tone 
+| <i class="twa twa-man-superhero-light-skin-tone"></i> | man-superhero-light-skin-tone | <i class="twa twa-man-superhero-medium-skin-tone"></i> | man-superhero-medium-skin-tone 
+| <i class="twa twa-man-superhero-medium-dark-skin-tone"></i> | man-superhero-medium-dark-skin-tone | <i class="twa twa-woman-superhero"></i> | woman-superhero 
+| <i class="twa twa-man-superhero-dark-skin-tone"></i> | man-superhero-dark-skin-tone | <i class="twa twa-woman-superhero-light-skin-tone"></i> | woman-superhero-light-skin-tone 
+| <i class="twa twa-woman-superhero-medium-skin-tone"></i> | woman-superhero-medium-skin-tone | <i class="twa twa-woman-superhero-medium-light-skin-tone"></i> | woman-superhero-medium-light-skin-tone 
+| <i class="twa twa-woman-superhero-medium-dark-skin-tone"></i> | woman-superhero-medium-dark-skin-tone | <i class="twa twa-woman-superhero-dark-skin-tone"></i> | woman-superhero-dark-skin-tone 
+| <i class="twa twa-supervillain-medium-skin-tone"></i> | supervillain-medium-skin-tone | <i class="twa twa-supervillain-light-skin-tone"></i> | supervillain-light-skin-tone 
+| <i class="twa twa-supervillain"></i> | supervillain | <i class="twa twa-supervillain-medium-dark-skin-tone"></i> | supervillain-medium-dark-skin-tone 
+| <i class="twa twa-man-supervillain-light-skin-tone"></i> | man-supervillain-light-skin-tone | <i class="twa twa-supervillain-medium-light-skin-tone"></i> | supervillain-medium-light-skin-tone 
+| <i class="twa twa-man-supervillain"></i> | man-supervillain | <i class="twa twa-supervillain-dark-skin-tone"></i> | supervillain-dark-skin-tone 
+| <i class="twa twa-man-supervillain-medium-light-skin-tone"></i> | man-supervillain-medium-light-skin-tone | <i class="twa twa-man-supervillain-medium-skin-tone"></i> | man-supervillain-medium-skin-tone 
+| <i class="twa twa-man-supervillain-medium-dark-skin-tone"></i> | man-supervillain-medium-dark-skin-tone | <i class="twa twa-man-supervillain-dark-skin-tone"></i> | man-supervillain-dark-skin-tone 
+| <i class="twa twa-woman-supervillain"></i> | woman-supervillain | <i class="twa twa-woman-supervillain-light-skin-tone"></i> | woman-supervillain-light-skin-tone 
+| <i class="twa twa-woman-supervillain-medium-light-skin-tone"></i> | woman-supervillain-medium-light-skin-tone | <i class="twa twa-technologist-medium-light-skin-tone"></i> | technologist-medium-light-skin-tone 
+| <i class="twa twa-woman-supervillain-medium-skin-tone"></i> | woman-supervillain-medium-skin-tone | <i class="twa twa-technologist-dark-skin-tone"></i> | technologist-dark-skin-tone 
+| <i class="twa twa-technologist-medium-skin-tone"></i> | technologist-medium-skin-tone | <i class="twa twa-technologist-medium-dark-skin-tone"></i> | technologist-medium-dark-skin-tone 
+| <i class="twa twa-woman-supervillain-dark-skin-tone"></i> | woman-supervillain-dark-skin-tone | <i class="twa twa-woman-supervillain-medium-dark-skin-tone"></i> | woman-supervillain-medium-dark-skin-tone 
+| <i class="twa twa-mage"></i> | mage | <i class="twa twa-mage-light-skin-tone"></i> | mage-light-skin-tone 
+| <i class="twa twa-mage-medium-light-skin-tone"></i> | mage-medium-light-skin-tone | <i class="twa twa-mage-medium-dark-skin-tone"></i> | mage-medium-dark-skin-tone 
+| <i class="twa twa-mage-medium-skin-tone"></i> | mage-medium-skin-tone | <i class="twa twa-man-mage"></i> | man-mage 
+| <i class="twa twa-mage-dark-skin-tone"></i> | mage-dark-skin-tone | <i class="twa twa-man-mage-medium-light-skin-tone"></i> | man-mage-medium-light-skin-tone 
+| <i class="twa twa-man-mage-medium-skin-tone"></i> | man-mage-medium-skin-tone | <i class="twa twa-man-mage-medium-dark-skin-tone"></i> | man-mage-medium-dark-skin-tone 
+| <i class="twa twa-woman-mage"></i> | woman-mage | <i class="twa twa-man-mage-dark-skin-tone"></i> | man-mage-dark-skin-tone 
+| <i class="twa twa-woman-mage-light-skin-tone"></i> | woman-mage-light-skin-tone | <i class="twa twa-man-mage-light-skin-tone"></i> | man-mage-light-skin-tone 
+| <i class="twa twa-woman-mage-medium-light-skin-tone"></i> | woman-mage-medium-light-skin-tone | <i class="twa twa-woman-mage-medium-skin-tone"></i> | woman-mage-medium-skin-tone 
+| <i class="twa twa-woman-mage-medium-dark-skin-tone"></i> | woman-mage-medium-dark-skin-tone | <i class="twa twa-woman-mage-dark-skin-tone"></i> | woman-mage-dark-skin-tone 
+| <i class="twa twa-fairy-medium-light-skin-tone"></i> | fairy-medium-light-skin-tone | <i class="twa twa-fairy-light-skin-tone"></i> | fairy-light-skin-tone 
+| <i class="twa twa-fairy-dark-skin-tone"></i> | fairy-dark-skin-tone | <i class="twa twa-fairy-medium-dark-skin-tone"></i> | fairy-medium-dark-skin-tone 
+| <i class="twa twa-fairy-medium-skin-tone"></i> | fairy-medium-skin-tone | <i class="twa twa-man-fairy-light-skin-tone"></i> | man-fairy-light-skin-tone 
+| <i class="twa twa-man-fairy"></i> | man-fairy | <i class="twa twa-man-fairy-medium-light-skin-tone"></i> | man-fairy-medium-light-skin-tone 
+| <i class="twa twa-man-fairy-medium-skin-tone"></i> | man-fairy-medium-skin-tone | <i class="twa twa-pregnant-woman"></i> | pregnant-woman 
+| <i class="twa twa-man-fairy-medium-dark-skin-tone"></i> | man-fairy-medium-dark-skin-tone | <i class="twa twa-man-fairy-dark-skin-tone"></i> | man-fairy-dark-skin-tone 
+| <i class="twa twa-woman-fairy"></i> | woman-fairy | <i class="twa twa-woman-fairy-medium-light-skin-tone"></i> | woman-fairy-medium-light-skin-tone 
+| <i class="twa twa-woman-fairy-medium-skin-tone"></i> | woman-fairy-medium-skin-tone | <i class="twa twa-woman-fairy-light-skin-tone"></i> | woman-fairy-light-skin-tone 
+| <i class="twa twa-woman-fairy-medium-dark-skin-tone"></i> | woman-fairy-medium-dark-skin-tone | <i class="twa twa-woman-fairy-dark-skin-tone"></i> | woman-fairy-dark-skin-tone 
+| <i class="twa twa-fairy"></i> | fairy | <i class="twa twa-vampire"></i> | vampire 
+| <i class="twa twa-vampire-medium-light-skin-tone"></i> | vampire-medium-light-skin-tone | <i class="twa twa-vampire-medium-dark-skin-tone"></i> | vampire-medium-dark-skin-tone 
+| <i class="twa twa-vampire-dark-skin-tone"></i> | vampire-dark-skin-tone | <i class="twa twa-vampire-medium-skin-tone"></i> | vampire-medium-skin-tone 
+| <i class="twa twa-man-vampire-medium-light-skin-tone"></i> | man-vampire-medium-light-skin-tone | <i class="twa twa-man-vampire-light-skin-tone"></i> | man-vampire-light-skin-tone 
+| <i class="twa twa-man-vampire"></i> | man-vampire | <i class="twa twa-vampire-light-skin-tone"></i> | vampire-light-skin-tone 
+| <i class="twa twa-man-vampire-medium-skin-tone"></i> | man-vampire-medium-skin-tone | <i class="twa twa-man-vampire-medium-dark-skin-tone"></i> | man-vampire-medium-dark-skin-tone 
+| <i class="twa twa-man-vampire-dark-skin-tone"></i> | man-vampire-dark-skin-tone | <i class="twa twa-woman-vampire"></i> | woman-vampire 
+| <i class="twa twa-woman-vampire-light-skin-tone"></i> | woman-vampire-light-skin-tone | <i class="twa twa-woman-vampire-medium-light-skin-tone"></i> | woman-vampire-medium-light-skin-tone 
+| <i class="twa twa-woman-vampire-medium-skin-tone"></i> | woman-vampire-medium-skin-tone | <i class="twa twa-woman-vampire-medium-dark-skin-tone"></i> | woman-vampire-medium-dark-skin-tone 
+| <i class="twa twa-woman-vampire-dark-skin-tone"></i> | woman-vampire-dark-skin-tone | <i class="twa twa-merperson"></i> | merperson 
+| <i class="twa twa-merperson-light-skin-tone"></i> | merperson-light-skin-tone | <i class="twa twa-merperson-medium-light-skin-tone"></i> | merperson-medium-light-skin-tone 
+| <i class="twa twa-merperson-medium-skin-tone"></i> | merperson-medium-skin-tone | <i class="twa twa-merperson-medium-dark-skin-tone"></i> | merperson-medium-dark-skin-tone 
+| <i class="twa twa-merperson-dark-skin-tone"></i> | merperson-dark-skin-tone | <i class="twa twa-merman"></i> | merman 
+| <i class="twa twa-merman-light-skin-tone"></i> | merman-light-skin-tone | <i class="twa twa-merman-medium-dark-skin-tone"></i> | merman-medium-dark-skin-tone 
+| <i class="twa twa-merman-medium-skin-tone"></i> | merman-medium-skin-tone | <i class="twa twa-merman-dark-skin-tone"></i> | merman-dark-skin-tone 
+| <i class="twa twa-mermaid"></i> | mermaid | <i class="twa twa-mermaid-medium-skin-tone"></i> | mermaid-medium-skin-tone 
+| <i class="twa twa-mermaid-light-skin-tone"></i> | mermaid-light-skin-tone | <i class="twa twa-mermaid-medium-dark-skin-tone"></i> | mermaid-medium-dark-skin-tone 
+| <i class="twa twa-elf-light-skin-tone"></i> | elf-light-skin-tone | <i class="twa twa-elf-medium-light-skin-tone"></i> | elf-medium-light-skin-tone 
+| <i class="twa twa-elf"></i> | elf | <i class="twa twa-mermaid-dark-skin-tone"></i> | mermaid-dark-skin-tone 
+| <i class="twa twa-mermaid-medium-light-skin-tone"></i> | mermaid-medium-light-skin-tone | <i class="twa twa-elf-dark-skin-tone"></i> | elf-dark-skin-tone 
+| <i class="twa twa-elf-medium-dark-skin-tone"></i> | elf-medium-dark-skin-tone | <i class="twa twa-man-elf-light-skin-tone"></i> | man-elf-light-skin-tone 
+| <i class="twa twa-man-elf"></i> | man-elf | <i class="twa twa-man-elf-medium-light-skin-tone"></i> | man-elf-medium-light-skin-tone 
+| <i class="twa twa-man-elf-medium-skin-tone"></i> | man-elf-medium-skin-tone | <i class="twa twa-man-elf-medium-dark-skin-tone"></i> | man-elf-medium-dark-skin-tone 
+| <i class="twa twa-man-elf-dark-skin-tone"></i> | man-elf-dark-skin-tone | <i class="twa twa-merman-medium-light-skin-tone"></i> | merman-medium-light-skin-tone 
+| <i class="twa twa-woman-elf"></i> | woman-elf | <i class="twa twa-woman-elf-light-skin-tone"></i> | woman-elf-light-skin-tone 
+| <i class="twa twa-woman-elf-medium-light-skin-tone"></i> | woman-elf-medium-light-skin-tone | <i class="twa twa-woman-elf-medium-skin-tone"></i> | woman-elf-medium-skin-tone 
+| <i class="twa twa-woman-elf-medium-dark-skin-tone"></i> | woman-elf-medium-dark-skin-tone | <i class="twa twa-woman-elf-dark-skin-tone"></i> | woman-elf-dark-skin-tone 
+| <i class="twa twa-genie"></i> | genie | <i class="twa twa-man-genie"></i> | man-genie 
+| <i class="twa twa-woman-genie"></i> | woman-genie | <i class="twa twa-zombie"></i> | zombie 
+| <i class="twa twa-man-zombie"></i> | man-zombie | <i class="twa twa-person-getting-massage-light-skin-tone"></i> | person-getting-massage-light-skin-tone 
+| <i class="twa twa-woman-zombie"></i> | woman-zombie | <i class="twa twa-person-getting-massage"></i> | person-getting-massage 
+| <i class="twa twa-person-getting-massage-medium-skin-tone"></i> | person-getting-massage-medium-skin-tone | <i class="twa twa-person-getting-massage-medium-light-skin-tone"></i> | person-getting-massage-medium-light-skin-tone 
+| <i class="twa twa-woman-gesturing-ok-medium-light-skin-tone"></i> | woman-gesturing-ok-medium-light-skin-tone | <i class="twa twa-person-getting-massage-medium-dark-skin-tone"></i> | person-getting-massage-medium-dark-skin-tone 
+| <i class="twa twa-person-getting-massage-dark-skin-tone"></i> | person-getting-massage-dark-skin-tone | <i class="twa twa-man-getting-massage"></i> | man-getting-massage 
+| <i class="twa twa-man-getting-massage-light-skin-tone"></i> | man-getting-massage-light-skin-tone | <i class="twa twa-man-getting-massage-medium-light-skin-tone"></i> | man-getting-massage-medium-light-skin-tone 
+| <i class="twa twa-man-getting-massage-medium-skin-tone"></i> | man-getting-massage-medium-skin-tone | <i class="twa twa-woman-getting-massage"></i> | woman-getting-massage 
+| <i class="twa twa-man-getting-massage-medium-dark-skin-tone"></i> | man-getting-massage-medium-dark-skin-tone | <i class="twa twa-man-getting-massage-dark-skin-tone"></i> | man-getting-massage-dark-skin-tone 
+| <i class="twa twa-woman-getting-massage-light-skin-tone"></i> | woman-getting-massage-light-skin-tone | <i class="twa twa-woman-getting-massage-medium-light-skin-tone"></i> | woman-getting-massage-medium-light-skin-tone 
+| <i class="twa twa-woman-getting-massage-medium-skin-tone"></i> | woman-getting-massage-medium-skin-tone | <i class="twa twa-person-getting-haircut-light-skin-tone"></i> | person-getting-haircut-light-skin-tone 
+| <i class="twa twa-woman-getting-massage-medium-dark-skin-tone"></i> | woman-getting-massage-medium-dark-skin-tone | <i class="twa twa-woman-getting-massage-dark-skin-tone"></i> | woman-getting-massage-dark-skin-tone 
+| <i class="twa twa-person-getting-haircut"></i> | person-getting-haircut | <i class="twa twa-person-getting-haircut-medium-skin-tone"></i> | person-getting-haircut-medium-skin-tone 
+| <i class="twa twa-person-getting-haircut-medium-light-skin-tone"></i> | person-getting-haircut-medium-light-skin-tone | <i class="twa twa-person-getting-haircut-medium-dark-skin-tone"></i> | person-getting-haircut-medium-dark-skin-tone 
+| <i class="twa twa-man-getting-haircut"></i> | man-getting-haircut | <i class="twa twa-man-getting-haircut-light-skin-tone"></i> | man-getting-haircut-light-skin-tone 
+| <i class="twa twa-man-getting-haircut-medium-light-skin-tone"></i> | man-getting-haircut-medium-light-skin-tone | <i class="twa twa-person-getting-haircut-dark-skin-tone"></i> | person-getting-haircut-dark-skin-tone 
+| <i class="twa twa-man-getting-haircut-medium-skin-tone"></i> | man-getting-haircut-medium-skin-tone | <i class="twa twa-man-getting-haircut-medium-dark-skin-tone"></i> | man-getting-haircut-medium-dark-skin-tone 
+| <i class="twa twa-man-getting-haircut-dark-skin-tone"></i> | man-getting-haircut-dark-skin-tone | <i class="twa twa-woman-getting-haircut"></i> | woman-getting-haircut 
+| <i class="twa twa-woman-getting-haircut-medium-light-skin-tone"></i> | woman-getting-haircut-medium-light-skin-tone | <i class="twa twa-woman-getting-haircut-light-skin-tone"></i> | woman-getting-haircut-light-skin-tone 
+| <i class="twa twa-woman-getting-haircut-medium-skin-tone"></i> | woman-getting-haircut-medium-skin-tone | <i class="twa twa-woman-getting-haircut-medium-dark-skin-tone"></i> | woman-getting-haircut-medium-dark-skin-tone 
+| <i class="twa twa-person-walking"></i> | person-walking | <i class="twa twa-person-walking-light-skin-tone"></i> | person-walking-light-skin-tone 
+| <i class="twa twa-person-walking-medium-light-skin-tone"></i> | person-walking-medium-light-skin-tone | <i class="twa twa-person-walking-dark-skin-tone"></i> | person-walking-dark-skin-tone 
+| <i class="twa twa-woman-getting-haircut-dark-skin-tone"></i> | woman-getting-haircut-dark-skin-tone | <i class="twa twa-person-walking-medium-skin-tone"></i> | person-walking-medium-skin-tone 
+| <i class="twa twa-person-walking-medium-dark-skin-tone"></i> | person-walking-medium-dark-skin-tone | <i class="twa twa-man-walking"></i> | man-walking 
+| <i class="twa twa-man-walking-light-skin-tone"></i> | man-walking-light-skin-tone | <i class="twa twa-man-walking-medium-light-skin-tone"></i> | man-walking-medium-light-skin-tone 
+| <i class="twa twa-man-walking-medium-skin-tone"></i> | man-walking-medium-skin-tone | <i class="twa twa-man-walking-medium-dark-skin-tone"></i> | man-walking-medium-dark-skin-tone 
+| <i class="twa twa-man-walking-dark-skin-tone"></i> | man-walking-dark-skin-tone | <i class="twa twa-elf-medium-skin-tone"></i> | elf-medium-skin-tone 
+| <i class="twa twa-woman-walking-medium-light-skin-tone"></i> | woman-walking-medium-light-skin-tone | <i class="twa twa-woman-walking-light-skin-tone"></i> | woman-walking-light-skin-tone 
+| <i class="twa twa-woman-walking-medium-skin-tone"></i> | woman-walking-medium-skin-tone | <i class="twa twa-woman-walking-dark-skin-tone"></i> | woman-walking-dark-skin-tone 
+| <i class="twa twa-person-standing-medium-light-skin-tone"></i> | person-standing-medium-light-skin-tone | <i class="twa twa-person-standing-dark-skin-tone"></i> | person-standing-dark-skin-tone 
+| <i class="twa twa-person-standing-medium-dark-skin-tone"></i> | person-standing-medium-dark-skin-tone | <i class="twa twa-person-standing-medium-skin-tone"></i> | person-standing-medium-skin-tone 
+| <i class="twa twa-man-standing-medium-light-skin-tone"></i> | man-standing-medium-light-skin-tone | <i class="twa twa-man-standing"></i> | man-standing 
+| <i class="twa twa-man-standing-light-skin-tone"></i> | man-standing-light-skin-tone | <i class="twa twa-man-standing-medium-dark-skin-tone"></i> | man-standing-medium-dark-skin-tone 
+| <i class="twa twa-person-standing"></i> | person-standing | <i class="twa twa-woman-standing-medium-light-skin-tone"></i> | woman-standing-medium-light-skin-tone 
+| <i class="twa twa-woman-walking-medium-dark-skin-tone"></i> | woman-walking-medium-dark-skin-tone | <i class="twa twa-person-kneeling-medium-light-skin-tone"></i> | person-kneeling-medium-light-skin-tone 
+| <i class="twa twa-woman-standing-medium-skin-tone"></i> | woman-standing-medium-skin-tone | <i class="twa twa-person-standing-light-skin-tone"></i> | person-standing-light-skin-tone 
+| <i class="twa twa-woman-standing-dark-skin-tone"></i> | woman-standing-dark-skin-tone | <i class="twa twa-man-kneeling-light-skin-tone"></i> | man-kneeling-light-skin-tone 
+| <i class="twa twa-person-kneeling"></i> | person-kneeling | <i class="twa twa-woman-standing-medium-dark-skin-tone"></i> | woman-standing-medium-dark-skin-tone 
+| <i class="twa twa-person-kneeling-dark-skin-tone"></i> | person-kneeling-dark-skin-tone | <i class="twa twa-person-kneeling-medium-dark-skin-tone"></i> | person-kneeling-medium-dark-skin-tone 
+| <i class="twa twa-man-kneeling"></i> | man-kneeling | <i class="twa twa-man-kneeling-medium-light-skin-tone"></i> | man-kneeling-medium-light-skin-tone 
+| <i class="twa twa-man-kneeling-medium-dark-skin-tone"></i> | man-kneeling-medium-dark-skin-tone | <i class="twa twa-person-kneeling-medium-skin-tone"></i> | person-kneeling-medium-skin-tone 
+| <i class="twa twa-woman-kneeling-medium-light-skin-tone"></i> | woman-kneeling-medium-light-skin-tone | <i class="twa twa-woman-kneeling-medium-skin-tone"></i> | woman-kneeling-medium-skin-tone 
+| <i class="twa twa-woman-kneeling-medium-dark-skin-tone"></i> | woman-kneeling-medium-dark-skin-tone | <i class="twa twa-woman-kneeling-dark-skin-tone"></i> | woman-kneeling-dark-skin-tone 
+| <i class="twa twa-person-with-white-cane-dark-skin-tone"></i> | person-with-white-cane-dark-skin-tone | <i class="twa twa-man-with-white-cane-medium-skin-tone"></i> | man-with-white-cane-medium-skin-tone 
+| <i class="twa twa-man-with-white-cane"></i> | man-with-white-cane | <i class="twa twa-person-with-white-cane"></i> | person-with-white-cane 
+| <i class="twa twa-man-with-white-cane-dark-skin-tone"></i> | man-with-white-cane-dark-skin-tone | <i class="twa twa-person-with-white-cane-medium-light-skin-tone"></i> | person-with-white-cane-medium-light-skin-tone 
+| <i class="twa twa-man-with-white-cane-medium-light-skin-tone"></i> | man-with-white-cane-medium-light-skin-tone | <i class="twa twa-man-with-white-cane-medium-dark-skin-tone"></i> | man-with-white-cane-medium-dark-skin-tone 
+| <i class="twa twa-person-with-white-cane-medium-skin-tone"></i> | person-with-white-cane-medium-skin-tone | <i class="twa twa-woman-with-white-cane"></i> | woman-with-white-cane 
+| <i class="twa twa-woman-with-white-cane-medium-skin-tone"></i> | woman-with-white-cane-medium-skin-tone | <i class="twa twa-person-with-white-cane-light-skin-tone"></i> | person-with-white-cane-light-skin-tone 
+| <i class="twa twa-woman-with-white-cane-light-skin-tone"></i> | woman-with-white-cane-light-skin-tone | <i class="twa twa-person-with-white-cane-medium-dark-skin-tone"></i> | person-with-white-cane-medium-dark-skin-tone 
+| <i class="twa twa-woman-with-white-cane-medium-dark-skin-tone"></i> | woman-with-white-cane-medium-dark-skin-tone | <i class="twa twa-man-with-white-cane-light-skin-tone"></i> | man-with-white-cane-light-skin-tone 
+| <i class="twa twa-woman-with-white-cane-dark-skin-tone"></i> | woman-with-white-cane-dark-skin-tone | <i class="twa twa-woman-with-white-cane-medium-light-skin-tone"></i> | woman-with-white-cane-medium-light-skin-tone 
+| <i class="twa twa-man-in-motorized-wheelchair-medium-light-skin-tone"></i> | man-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair"></i> | man-in-motorized-wheelchair 
+| <i class="twa twa-person-in-motorized-wheelchair-light-skin-tone"></i> | person-in-motorized-wheelchair-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-medium-dark-skin-tone"></i> | man-in-motorized-wheelchair-medium-dark-skin-tone 
+| <i class="twa twa-person-in-motorized-wheelchair"></i> | person-in-motorized-wheelchair | <i class="twa twa-person-in-motorized-wheelchair-medium-skin-tone"></i> | person-in-motorized-wheelchair-medium-skin-tone 
+| <i class="twa twa-person-in-motorized-wheelchair-medium-light-skin-tone"></i> | person-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-light-skin-tone"></i> | woman-in-motorized-wheelchair-light-skin-tone 
+| <i class="twa twa-woman-in-motorized-wheelchair"></i> | woman-in-motorized-wheelchair | <i class="twa twa-mx-claus-medium-dark-skin-tone"></i> | mx-claus-medium-dark-skin-tone 
+| <i class="twa twa-mx-claus-medium-skin-tone"></i> | mx-claus-medium-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-medium-skin-tone"></i> | woman-in-motorized-wheelchair-medium-skin-tone 
+| <i class="twa twa-woman-in-motorized-wheelchair-medium-light-skin-tone"></i> | woman-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-medium-dark-skin-tone"></i> | woman-in-motorized-wheelchair-medium-dark-skin-tone 
+| <i class="twa twa-woman-in-motorized-wheelchair-dark-skin-tone"></i> | woman-in-motorized-wheelchair-dark-skin-tone | <i class="twa twa-person-in-manual-wheelchair-medium-light-skin-tone"></i> | person-in-manual-wheelchair-medium-light-skin-tone 
+| <i class="twa twa-person-in-manual-wheelchair-medium-skin-tone"></i> | person-in-manual-wheelchair-medium-skin-tone | <i class="twa twa-man-standing-medium-skin-tone"></i> | man-standing-medium-skin-tone 
+| <i class="twa twa-man-standing-dark-skin-tone"></i> | man-standing-dark-skin-tone | <i class="twa twa-woman-standing"></i> | woman-standing 
+| <i class="twa twa-woman-walking"></i> | woman-walking | <i class="twa twa-woman-standing-light-skin-tone"></i> | woman-standing-light-skin-tone 
+| <i class="twa twa-man-in-manual-wheelchair-light-skin-tone"></i> | man-in-manual-wheelchair-light-skin-tone | <i class="twa twa-man-in-manual-wheelchair"></i> | man-in-manual-wheelchair 
+| <i class="twa twa-person-in-manual-wheelchair-medium-dark-skin-tone"></i> | person-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-in-manual-wheelchair-dark-skin-tone"></i> | person-in-manual-wheelchair-dark-skin-tone 
+| <i class="twa twa-man-in-manual-wheelchair-medium-light-skin-tone"></i> | man-in-manual-wheelchair-medium-light-skin-tone | <i class="twa twa-man-in-manual-wheelchair-medium-skin-tone"></i> | man-in-manual-wheelchair-medium-skin-tone 
+| <i class="twa twa-man-in-manual-wheelchair-medium-dark-skin-tone"></i> | man-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-man-kneeling-dark-skin-tone"></i> | man-kneeling-dark-skin-tone 
+| <i class="twa twa-man-in-manual-wheelchair-dark-skin-tone"></i> | man-in-manual-wheelchair-dark-skin-tone | <i class="twa twa-woman-in-manual-wheelchair"></i> | woman-in-manual-wheelchair 
+| <i class="twa twa-woman-in-manual-wheelchair-medium-skin-tone"></i> | woman-in-manual-wheelchair-medium-skin-tone | <i class="twa twa-man-kneeling-medium-skin-tone"></i> | man-kneeling-medium-skin-tone 
+| <i class="twa twa-woman-in-manual-wheelchair-medium-light-skin-tone"></i> | woman-in-manual-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-manual-wheelchair-light-skin-tone"></i> | woman-in-manual-wheelchair-light-skin-tone 
+| <i class="twa twa-woman-in-manual-wheelchair-dark-skin-tone"></i> | woman-in-manual-wheelchair-dark-skin-tone | <i class="twa twa-person-running-light-skin-tone"></i> | person-running-light-skin-tone 
+| <i class="twa twa-woman-in-manual-wheelchair-medium-dark-skin-tone"></i> | woman-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-running"></i> | person-running 
+| <i class="twa twa-person-running-dark-skin-tone"></i> | person-running-dark-skin-tone | <i class="twa twa-person-running-medium-light-skin-tone"></i> | person-running-medium-light-skin-tone 
+| <i class="twa twa-person-kneeling-light-skin-tone"></i> | person-kneeling-light-skin-tone | <i class="twa twa-person-running-medium-dark-skin-tone"></i> | person-running-medium-dark-skin-tone 
+| <i class="twa twa-woman-kneeling-light-skin-tone"></i> | woman-kneeling-light-skin-tone | <i class="twa twa-person-running-medium-skin-tone"></i> | person-running-medium-skin-tone 
+| <i class="twa twa-man-running"></i> | man-running | <i class="twa twa-man-running-medium-light-skin-tone"></i> | man-running-medium-light-skin-tone 
+| <i class="twa twa-man-running-light-skin-tone"></i> | man-running-light-skin-tone | <i class="twa twa-man-running-medium-skin-tone"></i> | man-running-medium-skin-tone 
+| <i class="twa twa-man-running-medium-dark-skin-tone"></i> | man-running-medium-dark-skin-tone | <i class="twa twa-man-running-dark-skin-tone"></i> | man-running-dark-skin-tone 
+| <i class="twa twa-woman-running"></i> | woman-running | <i class="twa twa-woman-kneeling"></i> | woman-kneeling 
+| <i class="twa twa-person-in-motorized-wheelchair-medium-dark-skin-tone"></i> | person-in-motorized-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-in-motorized-wheelchair-dark-skin-tone"></i> | person-in-motorized-wheelchair-dark-skin-tone 
+| <i class="twa twa-woman-running-medium-light-skin-tone"></i> | woman-running-medium-light-skin-tone | <i class="twa twa-woman-running-light-skin-tone"></i> | woman-running-light-skin-tone 
+| <i class="twa twa-woman-running-medium-skin-tone"></i> | woman-running-medium-skin-tone | <i class="twa twa-woman-running-medium-dark-skin-tone"></i> | woman-running-medium-dark-skin-tone 
+| <i class="twa twa-man-in-motorized-wheelchair-light-skin-tone"></i> | man-in-motorized-wheelchair-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-medium-skin-tone"></i> | man-in-motorized-wheelchair-medium-skin-tone 
+| <i class="twa twa-woman-running-dark-skin-tone"></i> | woman-running-dark-skin-tone | <i class="twa twa-woman-dancing"></i> | woman-dancing 
+| <i class="twa twa-woman-dancing-light-skin-tone"></i> | woman-dancing-light-skin-tone | <i class="twa twa-woman-dancing-medium-skin-tone"></i> | woman-dancing-medium-skin-tone 
+| <i class="twa twa-woman-dancing-medium-light-skin-tone"></i> | woman-dancing-medium-light-skin-tone | <i class="twa twa-woman-dancing-dark-skin-tone"></i> | woman-dancing-dark-skin-tone 
+| <i class="twa twa-woman-dancing-medium-dark-skin-tone"></i> | woman-dancing-medium-dark-skin-tone | <i class="twa twa-man-dancing"></i> | man-dancing 
+| <i class="twa twa-man-dancing-light-skin-tone"></i> | man-dancing-light-skin-tone | <i class="twa twa-man-dancing-medium-skin-tone"></i> | man-dancing-medium-skin-tone 
+| <i class="twa twa-man-dancing-medium-light-skin-tone"></i> | man-dancing-medium-light-skin-tone | <i class="twa twa-man-dancing-dark-skin-tone"></i> | man-dancing-dark-skin-tone 
+| <i class="twa twa-man-dancing-medium-dark-skin-tone"></i> | man-dancing-medium-dark-skin-tone | <i class="twa twa-person-in-suit-levitating-medium-light-skin-tone"></i> | person-in-suit-levitating-medium-light-skin-tone 
+| <i class="twa twa-person-in-suit-levitating"></i> | person-in-suit-levitating | <i class="twa twa-person-in-suit-levitating-light-skin-tone"></i> | person-in-suit-levitating-light-skin-tone 
+| <i class="twa twa-person-in-suit-levitating-medium-dark-skin-tone"></i> | person-in-suit-levitating-medium-dark-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-dark-skin-tone"></i> | man-in-motorized-wheelchair-dark-skin-tone 
+| <i class="twa twa-people-with-bunny-ears"></i> | people-with-bunny-ears | <i class="twa twa-person-in-suit-levitating-medium-skin-tone"></i> | person-in-suit-levitating-medium-skin-tone 
+| <i class="twa twa-person-in-suit-levitating-dark-skin-tone"></i> | person-in-suit-levitating-dark-skin-tone | <i class="twa twa-men-with-bunny-ears"></i> | men-with-bunny-ears 
+| <i class="twa twa-women-with-bunny-ears"></i> | women-with-bunny-ears | <i class="twa twa-person-in-steamy-room-light-skin-tone"></i> | person-in-steamy-room-light-skin-tone 
+| <i class="twa twa-person-in-steamy-room-medium-skin-tone"></i> | person-in-steamy-room-medium-skin-tone | <i class="twa twa-person-in-steamy-room-medium-light-skin-tone"></i> | person-in-steamy-room-medium-light-skin-tone 
+| <i class="twa twa-person-in-steamy-room"></i> | person-in-steamy-room | <i class="twa twa-person-in-steamy-room-medium-dark-skin-tone"></i> | person-in-steamy-room-medium-dark-skin-tone 
+| <i class="twa twa-person-in-steamy-room-dark-skin-tone"></i> | person-in-steamy-room-dark-skin-tone | <i class="twa twa-man-in-steamy-room"></i> | man-in-steamy-room 
+| <i class="twa twa-man-in-steamy-room-light-skin-tone"></i> | man-in-steamy-room-light-skin-tone | <i class="twa twa-man-in-steamy-room-medium-skin-tone"></i> | man-in-steamy-room-medium-skin-tone 
+| <i class="twa twa-man-in-steamy-room-medium-dark-skin-tone"></i> | man-in-steamy-room-medium-dark-skin-tone | <i class="twa twa-man-in-steamy-room-medium-light-skin-tone"></i> | man-in-steamy-room-medium-light-skin-tone 
+| <i class="twa twa-woman-in-steamy-room"></i> | woman-in-steamy-room | <i class="twa twa-woman-in-steamy-room-light-skin-tone"></i> | woman-in-steamy-room-light-skin-tone 
+| <i class="twa twa-man-in-steamy-room-dark-skin-tone"></i> | man-in-steamy-room-dark-skin-tone | <i class="twa twa-woman-in-steamy-room-medium-light-skin-tone"></i> | woman-in-steamy-room-medium-light-skin-tone 
+| <i class="twa twa-woman-in-steamy-room-medium-dark-skin-tone"></i> | woman-in-steamy-room-medium-dark-skin-tone | <i class="twa twa-woman-in-steamy-room-medium-skin-tone"></i> | woman-in-steamy-room-medium-skin-tone 
+| <i class="twa twa-woman-in-steamy-room-dark-skin-tone"></i> | woman-in-steamy-room-dark-skin-tone | <i class="twa twa-person-climbing-medium-dark-skin-tone"></i> | person-climbing-medium-dark-skin-tone 
+| <i class="twa twa-person-climbing-medium-skin-tone"></i> | person-climbing-medium-skin-tone | <i class="twa twa-man-climbing"></i> | man-climbing 
+| <i class="twa twa-person-climbing-medium-light-skin-tone"></i> | person-climbing-medium-light-skin-tone | <i class="twa twa-man-climbing-light-skin-tone"></i> | man-climbing-light-skin-tone 
+| <i class="twa twa-man-climbing-dark-skin-tone"></i> | man-climbing-dark-skin-tone | <i class="twa twa-woman-climbing-medium-light-skin-tone"></i> | woman-climbing-medium-light-skin-tone 
+| <i class="twa twa-woman-climbing-light-skin-tone"></i> | woman-climbing-light-skin-tone | <i class="twa twa-woman-climbing"></i> | woman-climbing 
+| <i class="twa twa-woman-climbing-medium-skin-tone"></i> | woman-climbing-medium-skin-tone | <i class="twa twa-horse-racing"></i> | horse-racing 
+| <i class="twa twa-woman-climbing-dark-skin-tone"></i> | woman-climbing-dark-skin-tone | <i class="twa twa-snowboarder-medium-light-skin-tone"></i> | snowboarder-medium-light-skin-tone 
+| <i class="twa twa-snowboarder"></i> | snowboarder | <i class="twa twa-horse-racing-medium-light-skin-tone"></i> | horse-racing-medium-light-skin-tone 
+| <i class="twa twa-person-fencing"></i> | person-fencing | <i class="twa twa-snowboarder-medium-skin-tone"></i> | snowboarder-medium-skin-tone 
+| <i class="twa twa-horse-racing-light-skin-tone"></i> | horse-racing-light-skin-tone | <i class="twa twa-woman-climbing-medium-dark-skin-tone"></i> | woman-climbing-medium-dark-skin-tone 
+| <i class="twa twa-horse-racing-medium-dark-skin-tone"></i> | horse-racing-medium-dark-skin-tone | <i class="twa twa-horse-racing-dark-skin-tone"></i> | horse-racing-dark-skin-tone 
+| <i class="twa twa-skier"></i> | skier | <i class="twa twa-snowboarder-light-skin-tone"></i> | snowboarder-light-skin-tone 
+| <i class="twa twa-man-climbing-medium-skin-tone"></i> | man-climbing-medium-skin-tone | <i class="twa twa-snowboarder-medium-dark-skin-tone"></i> | snowboarder-medium-dark-skin-tone 
+| <i class="twa twa-person-golfing-light-skin-tone"></i> | person-golfing-light-skin-tone | <i class="twa twa-snowboarder-dark-skin-tone"></i> | snowboarder-dark-skin-tone 
+| <i class="twa twa-person-golfing"></i> | person-golfing | <i class="twa twa-person-golfing-medium-skin-tone"></i> | person-golfing-medium-skin-tone 
+| <i class="twa twa-horse-racing-medium-skin-tone"></i> | horse-racing-medium-skin-tone | <i class="twa twa-person-golfing-dark-skin-tone"></i> | person-golfing-dark-skin-tone 
+| <i class="twa twa-person-golfing-medium-dark-skin-tone"></i> | person-golfing-medium-dark-skin-tone | <i class="twa twa-person-climbing"></i> | person-climbing 
+| <i class="twa twa-person-climbing-light-skin-tone"></i> | person-climbing-light-skin-tone | <i class="twa twa-person-climbing-dark-skin-tone"></i> | person-climbing-dark-skin-tone 
+| <i class="twa twa-man-climbing-medium-dark-skin-tone"></i> | man-climbing-medium-dark-skin-tone | <i class="twa twa-man-climbing-medium-light-skin-tone"></i> | man-climbing-medium-light-skin-tone 
+| <i class="twa twa-man-golfing-light-skin-tone"></i> | man-golfing-light-skin-tone | <i class="twa twa-man-golfing"></i> | man-golfing 
+| <i class="twa twa-person-golfing-medium-light-skin-tone"></i> | person-golfing-medium-light-skin-tone | <i class="twa twa-man-golfing-medium-skin-tone"></i> | man-golfing-medium-skin-tone 
+| <i class="twa twa-man-golfing-medium-light-skin-tone"></i> | man-golfing-medium-light-skin-tone | <i class="twa twa-man-golfing-medium-dark-skin-tone"></i> | man-golfing-medium-dark-skin-tone 
+| <i class="twa twa-man-golfing-dark-skin-tone"></i> | man-golfing-dark-skin-tone | <i class="twa twa-woman-golfing"></i> | woman-golfing 
+| <i class="twa twa-woman-golfing-light-skin-tone"></i> | woman-golfing-light-skin-tone | <i class="twa twa-woman-golfing-medium-light-skin-tone"></i> | woman-golfing-medium-light-skin-tone 
+| <i class="twa twa-woman-golfing-medium-skin-tone"></i> | woman-golfing-medium-skin-tone | <i class="twa twa-woman-golfing-medium-dark-skin-tone"></i> | woman-golfing-medium-dark-skin-tone 
+| <i class="twa twa-person-surfing-light-skin-tone"></i> | person-surfing-light-skin-tone | <i class="twa twa-person-surfing"></i> | person-surfing 
+| <i class="twa twa-woman-golfing-dark-skin-tone"></i> | woman-golfing-dark-skin-tone | <i class="twa twa-person-surfing-medium-light-skin-tone"></i> | person-surfing-medium-light-skin-tone 
+| <i class="twa twa-person-surfing-medium-skin-tone"></i> | person-surfing-medium-skin-tone | <i class="twa twa-man-surfing"></i> | man-surfing 
+| <i class="twa twa-person-surfing-medium-dark-skin-tone"></i> | person-surfing-medium-dark-skin-tone | <i class="twa twa-man-surfing-light-skin-tone"></i> | man-surfing-light-skin-tone 
+| <i class="twa twa-man-surfing-medium-light-skin-tone"></i> | man-surfing-medium-light-skin-tone | <i class="twa twa-man-surfing-medium-skin-tone"></i> | man-surfing-medium-skin-tone 
+| <i class="twa twa-man-surfing-medium-dark-skin-tone"></i> | man-surfing-medium-dark-skin-tone | <i class="twa twa-man-surfing-dark-skin-tone"></i> | man-surfing-dark-skin-tone 
+| <i class="twa twa-person-surfing-dark-skin-tone"></i> | person-surfing-dark-skin-tone | <i class="twa twa-woman-surfing"></i> | woman-surfing 
+| <i class="twa twa-person-rowing-boat"></i> | person-rowing-boat | <i class="twa twa-woman-surfing-medium-light-skin-tone"></i> | woman-surfing-medium-light-skin-tone 
+| <i class="twa twa-person-rowing-boat-medium-skin-tone"></i> | person-rowing-boat-medium-skin-tone | <i class="twa twa-woman-surfing-medium-dark-skin-tone"></i> | woman-surfing-medium-dark-skin-tone 
+| <i class="twa twa-woman-surfing-light-skin-tone"></i> | woman-surfing-light-skin-tone | <i class="twa twa-person-rowing-boat-light-skin-tone"></i> | person-rowing-boat-light-skin-tone 
+| <i class="twa twa-woman-surfing-dark-skin-tone"></i> | woman-surfing-dark-skin-tone | <i class="twa twa-woman-surfing-medium-skin-tone"></i> | woman-surfing-medium-skin-tone 
+| <i class="twa twa-person-rowing-boat-medium-light-skin-tone"></i> | person-rowing-boat-medium-light-skin-tone | <i class="twa twa-person-rowing-boat-dark-skin-tone"></i> | person-rowing-boat-dark-skin-tone 
+| <i class="twa twa-man-rowing-boat"></i> | man-rowing-boat | <i class="twa twa-person-rowing-boat-medium-dark-skin-tone"></i> | person-rowing-boat-medium-dark-skin-tone 
+| <i class="twa twa-man-rowing-boat-medium-light-skin-tone"></i> | man-rowing-boat-medium-light-skin-tone | <i class="twa twa-man-rowing-boat-light-skin-tone"></i> | man-rowing-boat-light-skin-tone 
+| <i class="twa twa-man-rowing-boat-medium-dark-skin-tone"></i> | man-rowing-boat-medium-dark-skin-tone | <i class="twa twa-man-rowing-boat-medium-skin-tone"></i> | man-rowing-boat-medium-skin-tone 
+| <i class="twa twa-woman-rowing-boat"></i> | woman-rowing-boat | <i class="twa twa-woman-rowing-boat-medium-light-skin-tone"></i> | woman-rowing-boat-medium-light-skin-tone 
+| <i class="twa twa-man-rowing-boat-dark-skin-tone"></i> | man-rowing-boat-dark-skin-tone | <i class="twa twa-woman-rowing-boat-light-skin-tone"></i> | woman-rowing-boat-light-skin-tone 
+| <i class="twa twa-woman-rowing-boat-medium-skin-tone"></i> | woman-rowing-boat-medium-skin-tone | <i class="twa twa-person-swimming"></i> | person-swimming 
+| <i class="twa twa-woman-rowing-boat-dark-skin-tone"></i> | woman-rowing-boat-dark-skin-tone | <i class="twa twa-person-swimming-medium-skin-tone"></i> | person-swimming-medium-skin-tone 
+| <i class="twa twa-person-swimming-dark-skin-tone"></i> | person-swimming-dark-skin-tone | <i class="twa twa-person-swimming-light-skin-tone"></i> | person-swimming-light-skin-tone 
+| <i class="twa twa-person-swimming-medium-light-skin-tone"></i> | person-swimming-medium-light-skin-tone | <i class="twa twa-person-swimming-medium-dark-skin-tone"></i> | person-swimming-medium-dark-skin-tone 
+| <i class="twa twa-man-swimming"></i> | man-swimming | <i class="twa twa-man-swimming-light-skin-tone"></i> | man-swimming-light-skin-tone 
+| <i class="twa twa-man-swimming-medium-dark-skin-tone"></i> | man-swimming-medium-dark-skin-tone | <i class="twa twa-man-swimming-medium-light-skin-tone"></i> | man-swimming-medium-light-skin-tone 
+| <i class="twa twa-man-swimming-medium-skin-tone"></i> | man-swimming-medium-skin-tone | <i class="twa twa-man-swimming-dark-skin-tone"></i> | man-swimming-dark-skin-tone 
+| <i class="twa twa-woman-swimming"></i> | woman-swimming | <i class="twa twa-woman-swimming-light-skin-tone"></i> | woman-swimming-light-skin-tone 
+| <i class="twa twa-woman-swimming-medium-skin-tone"></i> | woman-swimming-medium-skin-tone | <i class="twa twa-woman-swimming-medium-dark-skin-tone"></i> | woman-swimming-medium-dark-skin-tone 
+| <i class="twa twa-woman-swimming-dark-skin-tone"></i> | woman-swimming-dark-skin-tone | <i class="twa twa-person-bouncing-ball-light-skin-tone"></i> | person-bouncing-ball-light-skin-tone 
+| <i class="twa twa-person-bouncing-ball-medium-light-skin-tone"></i> | person-bouncing-ball-medium-light-skin-tone | <i class="twa twa-person-in-manual-wheelchair-light-skin-tone"></i> | person-in-manual-wheelchair-light-skin-tone 
+| <i class="twa twa-person-in-manual-wheelchair"></i> | person-in-manual-wheelchair | <i class="twa twa-person-bouncing-ball-medium-skin-tone"></i> | person-bouncing-ball-medium-skin-tone 
+| <i class="twa twa-person-bouncing-ball-dark-skin-tone"></i> | person-bouncing-ball-dark-skin-tone | <i class="twa twa-man-bouncing-ball"></i> | man-bouncing-ball 
+| <i class="twa twa-person-bouncing-ball-medium-dark-skin-tone"></i> | person-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-man-bouncing-ball-medium-light-skin-tone"></i> | man-bouncing-ball-medium-light-skin-tone 
+| <i class="twa twa-man-bouncing-ball-medium-dark-skin-tone"></i> | man-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-man-bouncing-ball-medium-skin-tone"></i> | man-bouncing-ball-medium-skin-tone 
+| <i class="twa twa-man-bouncing-ball-dark-skin-tone"></i> | man-bouncing-ball-dark-skin-tone | <i class="twa twa-man-bouncing-ball-light-skin-tone"></i> | man-bouncing-ball-light-skin-tone 
+| <i class="twa twa-woman-bouncing-ball-light-skin-tone"></i> | woman-bouncing-ball-light-skin-tone | <i class="twa twa-woman-bouncing-ball"></i> | woman-bouncing-ball 
+| <i class="twa twa-woman-bouncing-ball-medium-light-skin-tone"></i> | woman-bouncing-ball-medium-light-skin-tone | <i class="twa twa-person-lifting-weights-light-skin-tone"></i> | person-lifting-weights-light-skin-tone 
+| <i class="twa twa-woman-bouncing-ball-dark-skin-tone"></i> | woman-bouncing-ball-dark-skin-tone | <i class="twa twa-person-lifting-weights"></i> | person-lifting-weights 
+| <i class="twa twa-woman-bouncing-ball-medium-dark-skin-tone"></i> | woman-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-person-lifting-weights-medium-light-skin-tone"></i> | person-lifting-weights-medium-light-skin-tone 
+| <i class="twa twa-person-lifting-weights-medium-skin-tone"></i> | person-lifting-weights-medium-skin-tone | <i class="twa twa-person-lifting-weights-medium-dark-skin-tone"></i> | person-lifting-weights-medium-dark-skin-tone 
+| <i class="twa twa-person-lifting-weights-dark-skin-tone"></i> | person-lifting-weights-dark-skin-tone | <i class="twa twa-man-lifting-weights-light-skin-tone"></i> | man-lifting-weights-light-skin-tone 
+| <i class="twa twa-man-lifting-weights-medium-light-skin-tone"></i> | man-lifting-weights-medium-light-skin-tone | <i class="twa twa-man-lifting-weights-medium-skin-tone"></i> | man-lifting-weights-medium-skin-tone 
+| <i class="twa twa-man-lifting-weights-medium-dark-skin-tone"></i> | man-lifting-weights-medium-dark-skin-tone | <i class="twa twa-man-lifting-weights-dark-skin-tone"></i> | man-lifting-weights-dark-skin-tone 
+| <i class="twa twa-woman-lifting-weights"></i> | woman-lifting-weights | <i class="twa twa-woman-lifting-weights-light-skin-tone"></i> | woman-lifting-weights-light-skin-tone 
+| <i class="twa twa-woman-lifting-weights-medium-skin-tone"></i> | woman-lifting-weights-medium-skin-tone | <i class="twa twa-woman-lifting-weights-medium-dark-skin-tone"></i> | woman-lifting-weights-medium-dark-skin-tone 
+| <i class="twa twa-woman-lifting-weights-dark-skin-tone"></i> | woman-lifting-weights-dark-skin-tone | <i class="twa twa-person-biking-light-skin-tone"></i> | person-biking-light-skin-tone 
+| <i class="twa twa-person-biking"></i> | person-biking | <i class="twa twa-man-biking"></i> | man-biking 
+| <i class="twa twa-man-biking-light-skin-tone"></i> | man-biking-light-skin-tone | <i class="twa twa-man-biking-medium-skin-tone"></i> | man-biking-medium-skin-tone 
+| <i class="twa twa-man-biking-medium-light-skin-tone"></i> | man-biking-medium-light-skin-tone | <i class="twa twa-man-biking-dark-skin-tone"></i> | man-biking-dark-skin-tone 
+| <i class="twa twa-man-biking-medium-dark-skin-tone"></i> | man-biking-medium-dark-skin-tone | <i class="twa twa-woman-biking-light-skin-tone"></i> | woman-biking-light-skin-tone 
+| <i class="twa twa-woman-biking-medium-skin-tone"></i> | woman-biking-medium-skin-tone | <i class="twa twa-woman-biking-medium-light-skin-tone"></i> | woman-biking-medium-light-skin-tone 
+| <i class="twa twa-woman-biking-dark-skin-tone"></i> | woman-biking-dark-skin-tone | <i class="twa twa-woman-biking-medium-dark-skin-tone"></i> | woman-biking-medium-dark-skin-tone 
+| <i class="twa twa-person-mountain-biking"></i> | person-mountain-biking | <i class="twa twa-person-mountain-biking-light-skin-tone"></i> | person-mountain-biking-light-skin-tone 
+| <i class="twa twa-woman-biking"></i> | woman-biking | <i class="twa twa-person-mountain-biking-medium-skin-tone"></i> | person-mountain-biking-medium-skin-tone 
+| <i class="twa twa-person-mountain-biking-medium-light-skin-tone"></i> | person-mountain-biking-medium-light-skin-tone | <i class="twa twa-person-mountain-biking-dark-skin-tone"></i> | person-mountain-biking-dark-skin-tone 
+| <i class="twa twa-man-mountain-biking"></i> | man-mountain-biking | <i class="twa twa-man-mountain-biking-light-skin-tone"></i> | man-mountain-biking-light-skin-tone 
+| <i class="twa twa-man-mountain-biking-medium-light-skin-tone"></i> | man-mountain-biking-medium-light-skin-tone | <i class="twa twa-man-mountain-biking-medium-skin-tone"></i> | man-mountain-biking-medium-skin-tone 
+| <i class="twa twa-man-mountain-biking-medium-dark-skin-tone"></i> | man-mountain-biking-medium-dark-skin-tone | <i class="twa twa-woman-mountain-biking-light-skin-tone"></i> | woman-mountain-biking-light-skin-tone 
+| <i class="twa twa-man-mountain-biking-dark-skin-tone"></i> | man-mountain-biking-dark-skin-tone | <i class="twa twa-woman-mountain-biking"></i> | woman-mountain-biking 
+| <i class="twa twa-woman-mountain-biking-medium-light-skin-tone"></i> | woman-mountain-biking-medium-light-skin-tone | <i class="twa twa-woman-mountain-biking-medium-dark-skin-tone"></i> | woman-mountain-biking-medium-dark-skin-tone 
+| <i class="twa twa-person-cartwheeling-dark-skin-tone"></i> | person-cartwheeling-dark-skin-tone | <i class="twa twa-woman-mountain-biking-dark-skin-tone"></i> | woman-mountain-biking-dark-skin-tone 
+| <i class="twa twa-man-cartwheeling-light-skin-tone"></i> | man-cartwheeling-light-skin-tone | <i class="twa twa-man-cartwheeling"></i> | man-cartwheeling 
+| <i class="twa twa-person-cartwheeling"></i> | person-cartwheeling | <i class="twa twa-man-cartwheeling-medium-skin-tone"></i> | man-cartwheeling-medium-skin-tone 
+| <i class="twa twa-person-cartwheeling-medium-dark-skin-tone"></i> | person-cartwheeling-medium-dark-skin-tone | <i class="twa twa-person-cartwheeling-light-skin-tone"></i> | person-cartwheeling-light-skin-tone 
+| <i class="twa twa-person-cartwheeling-medium-light-skin-tone"></i> | person-cartwheeling-medium-light-skin-tone | <i class="twa twa-man-cartwheeling-medium-dark-skin-tone"></i> | man-cartwheeling-medium-dark-skin-tone 
+| <i class="twa twa-woman-cartwheeling"></i> | woman-cartwheeling | <i class="twa twa-woman-cartwheeling-medium-skin-tone"></i> | woman-cartwheeling-medium-skin-tone 
+| <i class="twa twa-woman-cartwheeling-medium-light-skin-tone"></i> | woman-cartwheeling-medium-light-skin-tone | <i class="twa twa-person-cartwheeling-medium-skin-tone"></i> | person-cartwheeling-medium-skin-tone 
+| <i class="twa twa-woman-mountain-biking-medium-skin-tone"></i> | woman-mountain-biking-medium-skin-tone | <i class="twa twa-man-cartwheeling-medium-light-skin-tone"></i> | man-cartwheeling-medium-light-skin-tone 
+| <i class="twa twa-woman-cartwheeling-dark-skin-tone"></i> | woman-cartwheeling-dark-skin-tone | <i class="twa twa-people-wrestling"></i> | people-wrestling 
+| <i class="twa twa-woman-bouncing-ball-medium-skin-tone"></i> | woman-bouncing-ball-medium-skin-tone | <i class="twa twa-women-wrestling"></i> | women-wrestling 
+| <i class="twa twa-person-mountain-biking-medium-dark-skin-tone"></i> | person-mountain-biking-medium-dark-skin-tone | <i class="twa twa-woman-cartwheeling-medium-dark-skin-tone"></i> | woman-cartwheeling-medium-dark-skin-tone 
+| <i class="twa twa-woman-rowing-boat-medium-dark-skin-tone"></i> | woman-rowing-boat-medium-dark-skin-tone | <i class="twa twa-person-playing-water-polo-light-skin-tone"></i> | person-playing-water-polo-light-skin-tone 
+| <i class="twa twa-person-playing-water-polo-medium-light-skin-tone"></i> | person-playing-water-polo-medium-light-skin-tone | <i class="twa twa-person-playing-water-polo"></i> | person-playing-water-polo 
+| <i class="twa twa-person-playing-water-polo-medium-skin-tone"></i> | person-playing-water-polo-medium-skin-tone | <i class="twa twa-person-playing-water-polo-medium-dark-skin-tone"></i> | person-playing-water-polo-medium-dark-skin-tone 
+| <i class="twa twa-person-playing-water-polo-dark-skin-tone"></i> | person-playing-water-polo-dark-skin-tone | <i class="twa twa-man-cartwheeling-dark-skin-tone"></i> | man-cartwheeling-dark-skin-tone 
+| <i class="twa twa-woman-cartwheeling-light-skin-tone"></i> | woman-cartwheeling-light-skin-tone | <i class="twa twa-man-lifting-weights"></i> | man-lifting-weights 
+| <i class="twa twa-man-playing-water-polo-medium-light-skin-tone"></i> | man-playing-water-polo-medium-light-skin-tone | <i class="twa twa-man-playing-water-polo-dark-skin-tone"></i> | man-playing-water-polo-dark-skin-tone 
+| <i class="twa twa-woman-playing-water-polo-medium-light-skin-tone"></i> | woman-playing-water-polo-medium-light-skin-tone | <i class="twa twa-woman-playing-water-polo-medium-dark-skin-tone"></i> | woman-playing-water-polo-medium-dark-skin-tone 
+| <i class="twa twa-woman-playing-water-polo-dark-skin-tone"></i> | woman-playing-water-polo-dark-skin-tone | <i class="twa twa-woman-swimming-medium-light-skin-tone"></i> | woman-swimming-medium-light-skin-tone 
+| <i class="twa twa-woman-playing-water-polo-medium-skin-tone"></i> | woman-playing-water-polo-medium-skin-tone | <i class="twa twa-woman-playing-water-polo"></i> | woman-playing-water-polo 
+| <i class="twa twa-person-playing-handball-medium-light-skin-tone"></i> | person-playing-handball-medium-light-skin-tone | <i class="twa twa-person-playing-handball-medium-dark-skin-tone"></i> | person-playing-handball-medium-dark-skin-tone 
+| <i class="twa twa-person-playing-handball"></i> | person-playing-handball | <i class="twa twa-man-playing-handball-medium-light-skin-tone"></i> | man-playing-handball-medium-light-skin-tone 
+| <i class="twa twa-man-playing-handball-medium-dark-skin-tone"></i> | man-playing-handball-medium-dark-skin-tone | <i class="twa twa-woman-playing-handball"></i> | woman-playing-handball 
+| <i class="twa twa-man-playing-handball-medium-skin-tone"></i> | man-playing-handball-medium-skin-tone | <i class="twa twa-man-playing-handball-dark-skin-tone"></i> | man-playing-handball-dark-skin-tone 
+| <i class="twa twa-woman-playing-handball-medium-light-skin-tone"></i> | woman-playing-handball-medium-light-skin-tone | <i class="twa twa-person-juggling-medium-skin-tone"></i> | person-juggling-medium-skin-tone 
+| <i class="twa twa-man-juggling"></i> | man-juggling | <i class="twa twa-person-juggling-dark-skin-tone"></i> | person-juggling-dark-skin-tone 
+| <i class="twa twa-woman-playing-handball-dark-skin-tone"></i> | woman-playing-handball-dark-skin-tone | <i class="twa twa-person-juggling-medium-dark-skin-tone"></i> | person-juggling-medium-dark-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone 
+| <i class="twa twa-man-playing-water-polo-light-skin-tone"></i> | man-playing-water-polo-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-man-playing-handball"></i> | man-playing-handball | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-dark-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone 
+| <i class="twa twa-woman-in-lotus-position-light-skin-tone"></i> | woman-in-lotus-position-light-skin-tone | <i class="twa twa-person-in-lotus-position-dark-skin-tone"></i> | person-in-lotus-position-dark-skin-tone 
+| <i class="twa twa-woman-in-lotus-position"></i> | woman-in-lotus-position | <i class="twa twa-woman-in-lotus-position-medium-light-skin-tone"></i> | woman-in-lotus-position-medium-light-skin-tone 
+| <i class="twa twa-man-in-lotus-position-medium-light-skin-tone"></i> | man-in-lotus-position-medium-light-skin-tone | <i class="twa twa-man-in-lotus-position-medium-dark-skin-tone"></i> | man-in-lotus-position-medium-dark-skin-tone 
+| <i class="twa twa-woman-in-lotus-position-medium-skin-tone"></i> | woman-in-lotus-position-medium-skin-tone | <i class="twa twa-person-in-bed-medium-dark-skin-tone"></i> | person-in-bed-medium-dark-skin-tone 
+| <i class="twa twa-man-juggling-medium-skin-tone"></i> | man-juggling-medium-skin-tone | <i class="twa twa-person-in-lotus-position-medium-light-skin-tone"></i> | person-in-lotus-position-medium-light-skin-tone 
+| <i class="twa twa-people-holding-hands-medium-light-skin-tone"></i> | people-holding-hands-medium-light-skin-tone | <i class="twa twa-person-in-bed-dark-skin-tone"></i> | person-in-bed-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-skin-tone-light-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-dark-skin-tone"></i> | people-holding-hands-light-skin-tone-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-light-skin-tone"></i> | women-holding-hands-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-dark-skin-tone"></i> | women-holding-hands-light-skin-tone-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-women-holding-hands-medium-skin-tone"></i> | women-holding-hands-medium-skin-tone 
+| <i class="twa twa-woman-playing-handball-light-skin-tone"></i> | woman-playing-handball-light-skin-tone | <i class="twa twa-women-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-women-holding-hands-dark-skin-tone-medium-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-skin-tone-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone 
+| <i class="twa twa-men-holding-hands"></i> | men-holding-hands | <i class="twa twa-women-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-dark-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone | <i class="twa twa-man-juggling-light-skin-tone"></i> | man-juggling-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands"></i> | woman-and-man-holding-hands | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-light-skin-tone"></i> | men-holding-hands-medium-light-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-light-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-skin-tone-light-skin-tone 
+| <i class="twa twa-man-in-lotus-position-dark-skin-tone"></i> | man-in-lotus-position-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-woman-in-lotus-position-medium-dark-skin-tone"></i> | woman-in-lotus-position-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-light-skin-tone-dark-skin-tone"></i> | men-holding-hands-light-skin-tone-dark-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone"></i> | men-holding-hands-medium-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-men-holding-hands-dark-skin-tone-light-skin-tone"></i> | men-holding-hands-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-dark-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone | <i class="twa twa-kiss-woman-man"></i> | kiss-woman-man 
+| <i class="twa twa-men-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-dark-skin-tone-medium-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-skin-tone 
+| <i class="twa twa-men-holding-hands-dark-skin-tone"></i> | men-holding-hands-dark-skin-tone | <i class="twa twa-woman-playing-handball-medium-skin-tone"></i> | woman-playing-handball-medium-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-medium-skin-tone-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-skin-tone-dark-skin-tone 
+| <i class="twa twa-family"></i> | family | <i class="twa twa-family-man-woman-boy"></i> | family-man-woman-boy 
+| <i class="twa twa-family-man-woman-girl-boy"></i> | family-man-woman-girl-boy | <i class="twa twa-family-man-woman-girl"></i> | family-man-woman-girl 
+| <i class="twa twa-family-man-man-boy"></i> | family-man-man-boy | <i class="twa twa-family-man-woman-girl-girl"></i> | family-man-woman-girl-girl 
+| <i class="twa twa-family-man-woman-boy-boy"></i> | family-man-woman-boy-boy | <i class="twa twa-family-man-man-girl"></i> | family-man-man-girl 
+| <i class="twa twa-family-man-man-boy-boy"></i> | family-man-man-boy-boy | <i class="twa twa-woman-playing-handball-medium-dark-skin-tone"></i> | woman-playing-handball-medium-dark-skin-tone 
+| <i class="twa twa-family-woman-woman-girl"></i> | family-woman-woman-girl | <i class="twa twa-family-man-man-girl-girl"></i> | family-man-man-girl-girl 
+| <i class="twa twa-family-man-boy"></i> | family-man-boy | <i class="twa twa-family-woman-woman-boy-boy"></i> | family-woman-woman-boy-boy 
+| <i class="twa twa-family-man-boy-boy"></i> | family-man-boy-boy | <i class="twa twa-family-woman-woman-girl-boy"></i> | family-woman-woman-girl-boy 
+| <i class="twa twa-family-man-girl-girl"></i> | family-man-girl-girl | <i class="twa twa-family-woman-woman-girl-girl"></i> | family-woman-woman-girl-girl 
+| <i class="twa twa-family-woman-boy"></i> | family-woman-boy | <i class="twa twa-family-woman-boy-boy"></i> | family-woman-boy-boy 
+| <i class="twa twa-people-hugging"></i> | people-hugging | <i class="twa twa-speaking-head"></i> | speaking-head 
+| <i class="twa twa-family-woman-girl"></i> | family-woman-girl | <i class="twa twa-family-man-girl-boy"></i> | family-man-girl-boy 
+| <i class="twa twa-family-woman-girl-girl"></i> | family-woman-girl-girl | <i class="twa twa-busts-in-silhouette"></i> | busts-in-silhouette 
+| <i class="twa twa-person-juggling"></i> | person-juggling | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-light-skin-tone | <i class="twa twa-person-taking-bath-medium-dark-skin-tone"></i> | person-taking-bath-medium-dark-skin-tone 
+| <i class="twa twa-men-holding-hands-light-skin-tone"></i> | men-holding-hands-light-skin-tone | <i class="twa twa-person-juggling-light-skin-tone"></i> | person-juggling-light-skin-tone 
+| <i class="twa twa-family-man-man-girl-boy"></i> | family-man-man-girl-boy | <i class="twa twa-women-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-person-juggling-medium-light-skin-tone"></i> | person-juggling-medium-light-skin-tone | <i class="twa twa-person-playing-handball-light-skin-tone"></i> | person-playing-handball-light-skin-tone 
+| <i class="twa twa-man-playing-water-polo-medium-dark-skin-tone"></i> | man-playing-water-polo-medium-dark-skin-tone | <i class="twa twa-person-in-bed-medium-light-skin-tone"></i> | person-in-bed-medium-light-skin-tone 
+| <i class="twa twa-person-in-bed-light-skin-tone"></i> | person-in-bed-light-skin-tone | <i class="twa twa-person-taking-bath-medium-light-skin-tone"></i> | person-taking-bath-medium-light-skin-tone 
+| <i class="twa twa-person-taking-bath-dark-skin-tone"></i> | person-taking-bath-dark-skin-tone | <i class="twa twa-person-taking-bath-light-skin-tone"></i> | person-taking-bath-light-skin-tone 
+| <i class="twa twa-person-taking-bath-medium-skin-tone"></i> | person-taking-bath-medium-skin-tone | <i class="twa twa-person-in-bed"></i> | person-in-bed 
+| <i class="twa twa-person-taking-bath"></i> | person-taking-bath | <i class="twa twa-woman-lifting-weights-medium-light-skin-tone"></i> | woman-lifting-weights-medium-light-skin-tone 
+| <i class="twa twa-family-man-girl"></i> | family-man-girl | <i class="twa twa-family-woman-girl-boy"></i> | family-woman-girl-boy 
+| <i class="twa twa-people-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-wrestling"></i> | men-wrestling 
+| <i class="twa twa-man-playing-water-polo"></i> | man-playing-water-polo | <i class="twa twa-women-holding-hands-medium-light-skin-tone"></i> | women-holding-hands-medium-light-skin-tone 
+| <i class="twa twa-woman-playing-water-polo-light-skin-tone"></i> | woman-playing-water-polo-light-skin-tone | <i class="twa twa-people-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-light-skin-tone 
+| <i class="twa twa-person-playing-handball-medium-skin-tone"></i> | person-playing-handball-medium-skin-tone | <i class="twa twa-people-holding-hands"></i> | people-holding-hands 
+| <i class="twa twa-people-holding-hands-light-skin-tone"></i> | people-holding-hands-light-skin-tone | <i class="twa twa-woman-in-lotus-position-dark-skin-tone"></i> | woman-in-lotus-position-dark-skin-tone 
+| <i class="twa twa-person-in-bed-medium-skin-tone"></i> | person-in-bed-medium-skin-tone | <i class="twa twa-bust-in-silhouette"></i> | bust-in-silhouette 
+| <i class="twa twa-footprints"></i> | footprints | <i class="twa twa-people-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-light-skin-tone"></i> | people-holding-hands-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-medium-skin-tone | <i class="twa twa-people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-man-playing-handball-light-skin-tone"></i> | man-playing-handball-light-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-people-holding-hands-dark-skin-tone-medium-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-medium-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-skin-tone 
+| <i class="twa twa-people-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-people-holding-hands-medium-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-skin-tone-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-people-holding-hands-dark-skin-tone"></i> | people-holding-hands-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-dark-skin-tone 
+| <i class="twa twa-men-holding-hands-light-skin-tone-medium-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-dark-skin-tone 
+| <i class="twa twa-woman-juggling-medium-skin-tone"></i> | woman-juggling-medium-skin-tone | <i class="twa twa-kiss"></i> | kiss 
+| <i class="twa twa-person-playing-handball-dark-skin-tone"></i> | person-playing-handball-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone 
+| <i class="twa twa-women-holding-hands-dark-skin-tone"></i> | women-holding-hands-dark-skin-tone | <i class="twa twa-man-in-lotus-position-light-skin-tone"></i> | man-in-lotus-position-light-skin-tone 
+| <i class="twa twa-person-in-lotus-position-medium-dark-skin-tone"></i> | person-in-lotus-position-medium-dark-skin-tone | <i class="twa twa-man-in-lotus-position-medium-skin-tone"></i> | man-in-lotus-position-medium-skin-tone 
+| <i class="twa twa-people-holding-hands-medium-dark-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone | <i class="twa twa-person-in-lotus-position"></i> | person-in-lotus-position 
+| <i class="twa twa-men-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-person-in-lotus-position-light-skin-tone"></i> | person-in-lotus-position-light-skin-tone 
+| <i class="twa twa-couple-with-heart"></i> | couple-with-heart | <i class="twa twa-men-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <i class="twa twa-couple-with-heart-man-man"></i> | couple-with-heart-man-man | <i class="twa twa-women-holding-hands-dark-skin-tone-light-skin-tone"></i> | women-holding-hands-dark-skin-tone-light-skin-tone 
+| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-man-juggling-dark-skin-tone"></i> | man-juggling-dark-skin-tone 
+| <i class="twa twa-person-in-lotus-position-medium-skin-tone"></i> | person-in-lotus-position-medium-skin-tone | <i class="twa twa-women-holding-hands"></i> | women-holding-hands 
+| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-dark-skin-tone | <i class="twa twa-person-bouncing-ball"></i> | person-bouncing-ball 
+| <i class="twa twa-couple-with-heart-woman-man"></i> | couple-with-heart-woman-man | <i class="twa twa-couple-with-heart-woman-woman"></i> | couple-with-heart-woman-woman 
+| <i class="twa twa-people-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <i class="twa twa-men-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-skin-tone-dark-skin-tone 
+| <i class="twa twa-woman-juggling-medium-dark-skin-tone"></i> | woman-juggling-medium-dark-skin-tone | <i class="twa twa-woman-juggling-dark-skin-tone"></i> | woman-juggling-dark-skin-tone 
+| <i class="twa twa-woman-juggling"></i> | woman-juggling | <i class="twa twa-man-juggling-medium-light-skin-tone"></i> | man-juggling-medium-light-skin-tone 
+| <i class="twa twa-woman-juggling-light-skin-tone"></i> | woman-juggling-light-skin-tone | <i class="twa twa-man-juggling-medium-dark-skin-tone"></i> | man-juggling-medium-dark-skin-tone 
+| <i class="twa twa-man-in-lotus-position"></i> | man-in-lotus-position | <i class="twa twa-woman-juggling-medium-light-skin-tone"></i> | woman-juggling-medium-light-skin-tone 
+| <i class="twa twa-kiss-man-man"></i> | kiss-man-man | <i class="twa twa-family-woman-woman-boy"></i> | family-woman-woman-boy 
+| <i class="twa twa-people-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-medium-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone"></i> | people-holding-hands-medium-skin-tone 
+| <i class="twa twa-men-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-medium-skin-tone-medium-light-skin-tone 
+| <i class="twa twa-people-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-medium-skin-tone | <i class="twa twa-kiss-woman-woman"></i> | kiss-woman-woman 
+| <i class="twa twa-person-biking-medium-dark-skin-tone"></i> | person-biking-medium-dark-skin-tone | <i class="twa twa-person-biking-medium-skin-tone"></i> | person-biking-medium-skin-tone 
+| <i class="twa twa-person-biking-medium-light-skin-tone"></i> | person-biking-medium-light-skin-tone | <i class="twa twa-person-biking-dark-skin-tone"></i> | person-biking-dark-skin-tone 
+| <i class="twa twa-man-playing-water-polo-medium-skin-tone"></i> | man-playing-water-polo-medium-skin-tone 
+## Smileys and Emotion
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-grinning-face-with-smiling-eyes"></i> | grinning-face-with-smiling-eyes | <i class="twa twa-lying-face"></i> | lying-face 
+| <i class="twa twa-revolving-hearts"></i> | revolving-hearts | <i class="twa twa-broken-heart"></i> | broken-heart 
+| <i class="twa twa-winking-face"></i> | winking-face | <i class="twa twa-blue-heart"></i> | blue-heart 
+| <i class="twa twa-face-savoring-food"></i> | face-savoring-food | <i class="twa twa-orange-heart"></i> | orange-heart 
+| <i class="twa twa-money-mouth-face"></i> | money-mouth-face | <i class="twa twa-heart-with-ribbon"></i> | heart-with-ribbon 
+| <i class="twa twa-heart-exclamation"></i> | heart-exclamation | <i class="twa twa-black-heart"></i> | black-heart 
+| <i class="twa twa-heart-decoration"></i> | heart-decoration | <i class="twa twa-purple-heart"></i> | purple-heart 
+| <i class="twa twa-yellow-heart"></i> | yellow-heart | <i class="twa twa-dizzy"></i> | dizzy 
+| <i class="twa twa-red-heart"></i> | red-heart | <i class="twa twa-hundred-points"></i> | hundred-points 
+| <i class="twa twa-collision"></i> | collision | <i class="twa twa-slightly-smiling-face"></i> | slightly-smiling-face 
+| <i class="twa twa-face-with-hand-over-mouth"></i> | face-with-hand-over-mouth | <i class="twa twa-unamused-face"></i> | unamused-face 
+| <i class="twa twa-white-heart"></i> | white-heart | <i class="twa twa-zany-face"></i> | zany-face 
+| <i class="twa twa-sneezing-face"></i> | sneezing-face | <i class="twa twa-smiling-cat-with-heart-eyes"></i> | smiling-cat-with-heart-eyes 
+| <i class="twa twa-kiss-mark"></i> | kiss-mark | <i class="twa twa-downcast-face-with-sweat"></i> | downcast-face-with-sweat 
+| <i class="twa twa-alien-monster"></i> | alien-monster | <i class="twa twa-clown-face"></i> | clown-face 
+| <i class="twa twa-cat-with-wry-smile"></i> | cat-with-wry-smile | <i class="twa twa-alien"></i> | alien 
+| <i class="twa twa-pile-of-poo"></i> | pile-of-poo | <i class="twa twa-skull-and-crossbones"></i> | skull-and-crossbones 
+| <i class="twa twa-loudly-crying-face"></i> | loudly-crying-face | <i class="twa twa-ogre"></i> | ogre 
+| <i class="twa twa-hear-no-evil-monkey"></i> | hear-no-evil-monkey | <i class="twa twa-weary-cat"></i> | weary-cat 
+| <i class="twa twa-speak-no-evil-monkey"></i> | speak-no-evil-monkey | <i class="twa twa-robot"></i> | robot 
+| <i class="twa twa-grinning-cat"></i> | grinning-cat | <i class="twa twa-beating-heart"></i> | beating-heart 
+| <i class="twa twa-thought-balloon"></i> | thought-balloon | <i class="twa twa-star-struck"></i> | star-struck 
+| <i class="twa twa-smiling-face"></i> | smiling-face | <i class="twa twa-smiling-face-with-tear"></i> | smiling-face-with-tear 
+| <i class="twa twa-face-with-raised-eyebrow"></i> | face-with-raised-eyebrow | <i class="twa twa-squinting-face-with-tongue"></i> | squinting-face-with-tongue 
+| <i class="twa twa-winking-face-with-tongue"></i> | winking-face-with-tongue | <i class="twa twa-kissing-face-with-closed-eyes"></i> | kissing-face-with-closed-eyes 
+| <i class="twa twa-face-vomiting"></i> | face-vomiting | <i class="twa twa-grimacing-face"></i> | grimacing-face 
+| <i class="twa twa-zipper-mouth-face"></i> | zipper-mouth-face | <i class="twa twa-thinking-face"></i> | thinking-face 
+| <i class="twa twa-face-with-rolling-eyes"></i> | face-with-rolling-eyes | <i class="twa twa-sleepy-face"></i> | sleepy-face 
+| <i class="twa twa-dizzy-face"></i> | dizzy-face | <i class="twa twa-face-with-medical-mask"></i> | face-with-medical-mask 
+| <i class="twa twa-face-with-thermometer"></i> | face-with-thermometer | <i class="twa twa-relieved-face"></i> | relieved-face 
+| <i class="twa twa-neutral-face"></i> | neutral-face | <i class="twa twa-expressionless-face"></i> | expressionless-face 
+| <i class="twa twa-drooling-face"></i> | drooling-face | <i class="twa twa-heart-with-arrow"></i> | heart-with-arrow 
+| <i class="twa twa-confused-face"></i> | confused-face | <i class="twa twa-pouting-cat"></i> | pouting-cat 
+| <i class="twa twa-face-with-monocle"></i> | face-with-monocle | <i class="twa twa-nauseated-face"></i> | nauseated-face 
+| <i class="twa twa-smirking-face"></i> | smirking-face | <i class="twa twa-anguished-face"></i> | anguished-face 
+| <i class="twa twa-love-letter"></i> | love-letter | <i class="twa twa-anger-symbol"></i> | anger-symbol 
+| <i class="twa twa-shushing-face"></i> | shushing-face | <i class="twa twa-sleeping-face"></i> | sleeping-face 
+| <i class="twa twa-green-heart"></i> | green-heart | <i class="twa twa-disguised-face"></i> | disguised-face 
+| <i class="twa twa-hot-face"></i> | hot-face | <i class="twa twa-sweat-droplets"></i> | sweat-droplets 
+| <i class="twa twa-nerd-face"></i> | nerd-face | <i class="twa twa-smiling-face-with-sunglasses"></i> | smiling-face-with-sunglasses 
+| <i class="twa twa-two-hearts"></i> | two-hearts | <i class="twa twa-eye-in-speech-bubble"></i> | eye-in-speech-bubble 
+| <i class="twa twa-hole"></i> | hole | <i class="twa twa-sparkling-heart"></i> | sparkling-heart 
+| <i class="twa twa-bomb"></i> | bomb | <i class="twa twa-speech-balloon"></i> | speech-balloon 
+| <i class="twa twa-right-anger-bubble"></i> | right-anger-bubble | <i class="twa twa-brown-heart"></i> | brown-heart 
+| <i class="twa twa-dashing-away"></i> | dashing-away | <i class="twa twa-grinning-face-with-big-eyes"></i> | grinning-face-with-big-eyes 
+| <i class="twa twa-rolling-on-the-floor-laughing"></i> | rolling-on-the-floor-laughing | <i class="twa twa-beaming-face-with-smiling-eyes"></i> | beaming-face-with-smiling-eyes 
+| <i class="twa twa-grinning-squinting-face"></i> | grinning-squinting-face | <i class="twa twa-smiling-face-with-heart-eyes"></i> | smiling-face-with-heart-eyes 
+| <i class="twa twa-upside-down-face"></i> | upside-down-face | <i class="twa twa-grinning-face"></i> | grinning-face 
+| <i class="twa twa-grinning-face-with-sweat"></i> | grinning-face-with-sweat | <i class="twa twa-face-with-tears-of-joy"></i> | face-with-tears-of-joy 
+| <i class="twa twa-kissing-face"></i> | kissing-face | <i class="twa twa-smiling-face-with-smiling-eyes"></i> | smiling-face-with-smiling-eyes 
+| <i class="twa twa-face-with-tongue"></i> | face-with-tongue | <i class="twa twa-kissing-face-with-smiling-eyes"></i> | kissing-face-with-smiling-eyes 
+| <i class="twa twa-slightly-frowning-face"></i> | slightly-frowning-face | <i class="twa twa-worried-face"></i> | worried-face 
+| <i class="twa twa-cowboy-hat-face"></i> | cowboy-hat-face | <i class="twa twa-face-with-open-mouth"></i> | face-with-open-mouth 
+| <i class="twa twa-face-without-mouth"></i> | face-without-mouth | <i class="twa twa-woozy-face"></i> | woozy-face 
+| <i class="twa twa-frowning-face"></i> | frowning-face | <i class="twa twa-anxious-face-with-sweat"></i> | anxious-face-with-sweat 
+| <i class="twa twa-astonished-face"></i> | astonished-face | <i class="twa twa-frowning-face-with-open-mouth"></i> | frowning-face-with-open-mouth 
+| <i class="twa twa-hushed-face"></i> | hushed-face | <i class="twa twa-crying-face"></i> | crying-face 
+| <i class="twa twa-smiling-face-with-hearts"></i> | smiling-face-with-hearts | <i class="twa twa-persevering-face"></i> | persevering-face 
+| <i class="twa twa-smiling-face-with-halo"></i> | smiling-face-with-halo | <i class="twa twa-face-blowing-a-kiss"></i> | face-blowing-a-kiss 
+| <i class="twa twa-skull"></i> | skull | <i class="twa twa-angry-face"></i> | angry-face 
+| <i class="twa twa-yawning-face"></i> | yawning-face | <i class="twa twa-disappointed-face"></i> | disappointed-face 
+| <i class="twa twa-tired-face"></i> | tired-face | <i class="twa twa-fearful-face"></i> | fearful-face 
+| <i class="twa twa-hugging-face"></i> | hugging-face | <i class="twa twa-pouting-face"></i> | pouting-face 
+| <i class="twa twa-cold-face"></i> | cold-face | <i class="twa twa-face-with-head-bandage"></i> | face-with-head-bandage 
+| <i class="twa twa-exploding-head"></i> | exploding-head | <i class="twa twa-goblin"></i> | goblin 
+| <i class="twa twa-ghost"></i> | ghost | <i class="twa twa-partying-face"></i> | partying-face 
+| <i class="twa twa-angry-face-with-horns"></i> | angry-face-with-horns | <i class="twa twa-smiling-face-with-horns"></i> | smiling-face-with-horns 
+| <i class="twa twa-confounded-face"></i> | confounded-face | <i class="twa twa-kissing-cat"></i> | kissing-cat 
+| <i class="twa twa-crying-cat"></i> | crying-cat | <i class="twa twa-cat-with-tears-of-joy"></i> | cat-with-tears-of-joy 
+| <i class="twa twa-growing-heart"></i> | growing-heart | <i class="twa twa-face-with-symbols-on-mouth"></i> | face-with-symbols-on-mouth 
+| <i class="twa twa-left-speech-bubble"></i> | left-speech-bubble | <i class="twa twa-zzz"></i> | zzz 
+| <i class="twa twa-sad-but-relieved-face"></i> | sad-but-relieved-face | <i class="twa twa-pensive-face"></i> | pensive-face 
+| <i class="twa twa-flushed-face"></i> | flushed-face | <i class="twa twa-pleading-face"></i> | pleading-face 
+| <i class="twa twa-weary-face"></i> | weary-face | <i class="twa twa-face-screaming-in-fear"></i> | face-screaming-in-fear 
+| <i class="twa twa-grinning-cat-with-smiling-eyes"></i> | grinning-cat-with-smiling-eyes | <i class="twa twa-face-with-steam-from-nose"></i> | face-with-steam-from-nose 
+| <i class="twa twa-see-no-evil-monkey"></i> | see-no-evil-monkey 
+## Symbols
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-womens-room"></i> | womens-room | <i class="twa twa-litter-in-bin-sign"></i> | litter-in-bin-sign 
+| <i class="twa twa-wheelchair-symbol"></i> | wheelchair-symbol | <i class="twa twa-atm-sign"></i> | atm-sign 
+| <i class="twa twa-potable-water"></i> | potable-water | <i class="twa twa-mens-room"></i> | mens-room 
+| <i class="twa twa-restroom"></i> | restroom | <i class="twa twa-customs"></i> | customs 
+| <i class="twa twa-prohibited"></i> | prohibited | <i class="twa twa-left-luggage"></i> | left-luggage 
+| <i class="twa twa-water-closet"></i> | water-closet | <i class="twa twa-passport-control"></i> | passport-control 
+| <i class="twa twa-no-smoking"></i> | no-smoking | <i class="twa twa-baggage-claim"></i> | baggage-claim 
+| <i class="twa twa-no-mobile-phones"></i> | no-mobile-phones | <i class="twa twa-warning"></i> | warning 
+| <i class="twa twa-no-bicycles"></i> | no-bicycles | <i class="twa twa-radioactive"></i> | radioactive 
+| <i class="twa twa-no-one-under-eighteen"></i> | no-one-under-eighteen | <i class="twa twa-up-arrow"></i> | up-arrow 
+| <i class="twa twa-no-pedestrians"></i> | no-pedestrians | <i class="twa twa-no-littering"></i> | no-littering 
+| <i class="twa twa-children-crossing"></i> | children-crossing | <i class="twa twa-biohazard"></i> | biohazard 
+| <i class="twa twa-non-potable-water"></i> | non-potable-water | <i class="twa twa-no-entry"></i> | no-entry 
+| <i class="twa twa-baby-symbol"></i> | baby-symbol | <i class="twa twa-up-right-arrow"></i> | up-right-arrow 
+| <i class="twa twa-down-right-arrow"></i> | down-right-arrow | <i class="twa twa-right-arrow"></i> | right-arrow 
+| <i class="twa twa-down-left-arrow"></i> | down-left-arrow | <i class="twa twa-up-left-arrow"></i> | up-left-arrow 
+| <i class="twa twa-left-arrow"></i> | left-arrow | <i class="twa twa-up-down-arrow"></i> | up-down-arrow 
+| <i class="twa twa-right-arrow-curving-left"></i> | right-arrow-curving-left | <i class="twa twa-left-arrow-curving-right"></i> | left-arrow-curving-right 
+| <i class="twa twa-right-arrow-curving-up"></i> | right-arrow-curving-up | <i class="twa twa-right-arrow-curving-down"></i> | right-arrow-curving-down 
+| <i class="twa twa-clockwise-vertical-arrows"></i> | clockwise-vertical-arrows | <i class="twa twa-counterclockwise-arrows-button"></i> | counterclockwise-arrows-button 
+| <i class="twa twa-back-arrow"></i> | back-arrow | <i class="twa twa-on-arrow"></i> | on-arrow 
+| <i class="twa twa-soon-arrow"></i> | soon-arrow | <i class="twa twa-end-arrow"></i> | end-arrow 
+| <i class="twa twa-top-arrow"></i> | top-arrow | <i class="twa twa-place-of-worship"></i> | place-of-worship 
+| <i class="twa twa-atom-symbol"></i> | atom-symbol | <i class="twa twa-om"></i> | om 
+| <i class="twa twa-wheel-of-dharma"></i> | wheel-of-dharma | <i class="twa twa-yin-yang"></i> | yin-yang 
+| <i class="twa twa-star-of-david"></i> | star-of-david | <i class="twa twa-latin-cross"></i> | latin-cross 
+| <i class="twa twa-orthodox-cross"></i> | orthodox-cross | <i class="twa twa-peace-symbol"></i> | peace-symbol 
+| <i class="twa twa-dotted-six-pointed-star"></i> | dotted-six-pointed-star | <i class="twa twa-star-and-crescent"></i> | star-and-crescent 
+| <i class="twa twa-aries"></i> | aries | <i class="twa twa-taurus"></i> | taurus 
+| <i class="twa twa-menorah"></i> | menorah | <i class="twa twa-cancer"></i> | cancer 
+| <i class="twa twa-gemini"></i> | gemini | <i class="twa twa-sagittarius"></i> | sagittarius 
+| <i class="twa twa-capricorn"></i> | capricorn | <i class="twa twa-aquarius"></i> | aquarius 
+| <i class="twa twa-pisces"></i> | pisces | <i class="twa twa-play-button"></i> | play-button 
+| <i class="twa twa-shuffle-tracks-button"></i> | shuffle-tracks-button | <i class="twa twa-ophiuchus"></i> | ophiuchus 
+| <i class="twa twa-fast-forward-button"></i> | fast-forward-button | <i class="twa twa-play-or-pause-button"></i> | play-or-pause-button 
+| <i class="twa twa-next-track-button"></i> | next-track-button | <i class="twa twa-upwards-button"></i> | upwards-button 
+| <i class="twa twa-pause-button"></i> | pause-button | <i class="twa twa-fast-up-button"></i> | fast-up-button 
+| <i class="twa twa-record-button"></i> | record-button | <i class="twa twa-eject-button"></i> | eject-button 
+| <i class="twa twa-bright-button"></i> | bright-button | <i class="twa twa-vibration-mode"></i> | vibration-mode 
+| <i class="twa twa-cinema"></i> | cinema | <i class="twa twa-dim-button"></i> | dim-button 
+| <i class="twa twa-antenna-bars"></i> | antenna-bars | <i class="twa twa-mobile-phone-off"></i> | mobile-phone-off 
+| <i class="twa twa-male-sign"></i> | male-sign | <i class="twa twa-plus"></i> | plus 
+| <i class="twa twa-female-sign"></i> | female-sign | <i class="twa twa-transgender-symbol"></i> | transgender-symbol 
+| <i class="twa twa-multiply"></i> | multiply | <i class="twa twa-minus"></i> | minus 
+| <i class="twa twa-divide"></i> | divide | <i class="twa twa-infinity"></i> | infinity 
+| <i class="twa twa-double-exclamation-mark"></i> | double-exclamation-mark | <i class="twa twa-question-mark"></i> | question-mark 
+| <i class="twa twa-white-question-mark"></i> | white-question-mark | <i class="twa twa-exclamation-question-mark"></i> | exclamation-question-mark 
+| <i class="twa twa-white-exclamation-mark"></i> | white-exclamation-mark | <i class="twa twa-exclamation-mark"></i> | exclamation-mark 
+| <i class="twa twa-currency-exchange"></i> | currency-exchange | <i class="twa twa-down-arrow"></i> | down-arrow 
+| <i class="twa twa-wavy-dash"></i> | wavy-dash | <i class="twa twa-heavy-dollar-sign"></i> | heavy-dollar-sign 
+| <i class="twa twa-medical-symbol"></i> | medical-symbol | <i class="twa twa-fleur-de-lis"></i> | fleur-de-lis 
+| <i class="twa twa-recycling-symbol"></i> | recycling-symbol | <i class="twa twa-japanese-symbol-for-beginner"></i> | japanese-symbol-for-beginner 
+| <i class="twa twa-name-badge"></i> | name-badge | <i class="twa twa-hollow-red-circle"></i> | hollow-red-circle 
+| <i class="twa twa-check-mark-button"></i> | check-mark-button | <i class="twa twa-trident-emblem"></i> | trident-emblem 
+| <i class="twa twa-check-box-with-check"></i> | check-box-with-check | <i class="twa twa-check-mark"></i> | check-mark 
+| <i class="twa twa-cross-mark"></i> | cross-mark | <i class="twa twa-cross-mark-button"></i> | cross-mark-button 
+| <i class="twa twa-curly-loop"></i> | curly-loop | <i class="twa twa-double-curly-loop"></i> | double-curly-loop 
+| <i class="twa twa-eight-spoked-asterisk"></i> | eight-spoked-asterisk | <i class="twa twa-part-alternation-mark"></i> | part-alternation-mark 
+| <i class="twa twa-eight-pointed-star"></i> | eight-pointed-star | <i class="twa twa-sparkle"></i> | sparkle 
+| <i class="twa twa-trade-mark"></i> | trade-mark | <i class="twa twa-input-latin-lowercase"></i> | input-latin-lowercase 
+| <i class="twa twa-input-latin-uppercase"></i> | input-latin-uppercase | <i class="twa twa-input-numbers"></i> | input-numbers 
+| <i class="twa twa-input-symbols"></i> | input-symbols | <i class="twa twa-keycap-10"></i> | keycap-10 
+| <i class="twa twa-input-latin-letters"></i> | input-latin-letters | <i class="twa twa-a-button-blood-type"></i> | a-button-blood-type 
+| <i class="twa twa-ab-button-blood-type"></i> | ab-button-blood-type | <i class="twa twa-scorpio"></i> | scorpio 
+| <i class="twa twa-b-button-blood-type"></i> | b-button-blood-type | <i class="twa twa-cl-button"></i> | cl-button 
+| <i class="twa twa-libra"></i> | libra | <i class="twa twa-virgo"></i> | virgo 
+| <i class="twa twa-free-button"></i> | free-button | <i class="twa twa-cool-button"></i> | cool-button 
+| <i class="twa twa-information"></i> | information | <i class="twa twa-id-button"></i> | id-button 
+| <i class="twa twa-circled-m"></i> | circled-m | <i class="twa twa-o-button-blood-type"></i> | o-button-blood-type 
+| <i class="twa twa-new-button"></i> | new-button | <i class="twa twa-ng-button"></i> | ng-button 
+| <i class="twa twa-p-button"></i> | p-button | <i class="twa twa-ok-button"></i> | ok-button 
+| <i class="twa twa-sos-button"></i> | sos-button | <i class="twa twa-up-button"></i> | up-button 
+| <i class="twa twa-japanese-here-button"></i> | japanese-here-button | <i class="twa twa-vs-button"></i> | vs-button 
+| <i class="twa twa-japanese-service-charge-button"></i> | japanese-service-charge-button | <i class="twa twa-japanese-monthly-amount-button"></i> | japanese-monthly-amount-button 
+| <i class="twa twa-japanese-not-free-of-charge-button"></i> | japanese-not-free-of-charge-button | <i class="twa twa-japanese-acceptable-button"></i> | japanese-acceptable-button 
+| <i class="twa twa-japanese-prohibited-button"></i> | japanese-prohibited-button | <i class="twa twa-japanese-vacancy-button"></i> | japanese-vacancy-button 
+| <i class="twa twa-japanese-reserved-button"></i> | japanese-reserved-button | <i class="twa twa-japanese-passing-grade-button"></i> | japanese-passing-grade-button 
+| <i class="twa twa-japanese-bargain-button"></i> | japanese-bargain-button | <i class="twa twa-japanese-application-button"></i> | japanese-application-button 
+| <i class="twa twa-japanese-congratulations-button"></i> | japanese-congratulations-button | <i class="twa twa-japanese-discount-button"></i> | japanese-discount-button 
+| <i class="twa twa-japanese-free-of-charge-button"></i> | japanese-free-of-charge-button | <i class="twa twa-japanese-secret-button"></i> | japanese-secret-button 
+| <i class="twa twa-japanese-no-vacancy-button"></i> | japanese-no-vacancy-button | <i class="twa twa-green-circle"></i> | green-circle 
+| <i class="twa twa-japanese-open-for-business-button"></i> | japanese-open-for-business-button | <i class="twa twa-red-circle"></i> | red-circle 
+| <i class="twa twa-black-circle"></i> | black-circle | <i class="twa twa-orange-circle"></i> | orange-circle 
+| <i class="twa twa-red-square"></i> | red-square | <i class="twa twa-yellow-circle"></i> | yellow-circle 
+| <i class="twa twa-brown-circle"></i> | brown-circle | <i class="twa twa-purple-circle"></i> | purple-circle 
+| <i class="twa twa-white-circle"></i> | white-circle | <i class="twa twa-orange-square"></i> | orange-square 
+| <i class="twa twa-blue-circle"></i> | blue-circle | <i class="twa twa-purple-square"></i> | purple-square 
+| <i class="twa twa-green-square"></i> | green-square | <i class="twa twa-yellow-square"></i> | yellow-square 
+| <i class="twa twa-blue-square"></i> | blue-square | <i class="twa twa-brown-square"></i> | brown-square 
+| <i class="twa twa-white-large-square"></i> | white-large-square | <i class="twa twa-black-large-square"></i> | black-large-square 
+| <i class="twa twa-black-medium-square"></i> | black-medium-square | <i class="twa twa-white-medium-square"></i> | white-medium-square 
+| <i class="twa twa-black-small-square"></i> | black-small-square | <i class="twa twa-black-medium-small-square"></i> | black-medium-small-square 
+| <i class="twa twa-white-medium-small-square"></i> | white-medium-small-square | <i class="twa twa-large-orange-diamond"></i> | large-orange-diamond 
+| <i class="twa twa-small-blue-diamond"></i> | small-blue-diamond | <i class="twa twa-white-small-square"></i> | white-small-square 
+| <i class="twa twa-red-triangle-pointed-up"></i> | red-triangle-pointed-up | <i class="twa twa-small-orange-diamond"></i> | small-orange-diamond 
+| <i class="twa twa-large-blue-diamond"></i> | large-blue-diamond | <i class="twa twa-diamond-with-a-dot"></i> | diamond-with-a-dot 
+| <i class="twa twa-radio-button"></i> | radio-button | <i class="twa twa-red-triangle-pointed-down"></i> | red-triangle-pointed-down 
+| <i class="twa twa-black-square-button"></i> | black-square-button | <i class="twa twa-white-square-button"></i> | white-square-button 
+| <i class="twa twa-left-right-arrow"></i> | left-right-arrow | <i class="twa twa-leo"></i> | leo 
+| <i class="twa twa-last-track-button"></i> | last-track-button | <i class="twa twa-stop-button"></i> | stop-button 
+| <i class="twa twa-repeat-single-button"></i> | repeat-single-button | <i class="twa twa-fast-reverse-button"></i> | fast-reverse-button 
+| <i class="twa twa-reverse-button"></i> | reverse-button | <i class="twa twa-fast-down-button"></i> | fast-down-button 
+| <i class="twa twa-repeat-button"></i> | repeat-button | <i class="twa twa-downwards-button"></i> | downwards-button 
+
+## Travel and Places
+emoji | shortcode | emoji | shortcode
+--- | --- | --- | ---
+| <i class="twa twa-globe-showing-asia-australia"></i> | globe-showing-asia-australia | <i class="twa twa-globe-with-meridians"></i> | globe-with-meridians 
+| <i class="twa twa-world-map"></i> | world-map | <i class="twa twa-map-of-japan"></i> | map-of-japan 
+| <i class="twa twa-compass"></i> | compass | <i class="twa twa-mountain"></i> | mountain 
+| <i class="twa twa-beach-with-umbrella"></i> | beach-with-umbrella | <i class="twa twa-globe-showing-europe-africa"></i> | globe-showing-europe-africa 
+| <i class="twa twa-desert"></i> | desert | <i class="twa twa-camping"></i> | camping 
+| <i class="twa twa-stadium"></i> | stadium | <i class="twa twa-desert-island"></i> | desert-island 
+| <i class="twa twa-mount-fuji"></i> | mount-fuji | <i class="twa twa-brick"></i> | brick 
+| <i class="twa twa-national-park"></i> | national-park | <i class="twa twa-mosque"></i> | mosque 
+| <i class="twa twa-volcano"></i> | volcano | <i class="twa twa-statue-of-liberty"></i> | statue-of-liberty 
+| <i class="twa twa-snow-capped-mountain"></i> | snow-capped-mountain | <i class="twa twa-kaaba"></i> | kaaba 
+| <i class="twa twa-building-construction"></i> | building-construction | <i class="twa twa-derelict-house"></i> | derelict-house 
+| <i class="twa twa-rock"></i> | rock | <i class="twa twa-wood"></i> | wood 
+| <i class="twa twa-hut"></i> | hut | <i class="twa twa-classical-building"></i> | classical-building 
+| <i class="twa twa-cityscape"></i> | cityscape | <i class="twa twa-hindu-temple"></i> | hindu-temple 
+| <i class="twa twa-shinto-shrine"></i> | shinto-shrine | <i class="twa twa-factory"></i> | factory 
+| <i class="twa twa-carousel-horse"></i> | carousel-horse | <i class="twa twa-locomotive"></i> | locomotive 
+| <i class="twa twa-sunset"></i> | sunset | <i class="twa twa-circus-tent"></i> | circus-tent 
+| <i class="twa twa-sport-utility-vehicle"></i> | sport-utility-vehicle | <i class="twa twa-bullet-train"></i> | bullet-train 
+| <i class="twa twa-oncoming-bus"></i> | oncoming-bus | <i class="twa twa-umbrella"></i> | umbrella 
+| <i class="twa twa-cloud-with-lightning-and-rain"></i> | cloud-with-lightning-and-rain | <i class="twa twa-snowman-without-snow"></i> | snowman-without-snow 
+| <i class="twa twa-high-voltage"></i> | high-voltage | <i class="twa twa-fog"></i> | fog 
+| <i class="twa twa-comet"></i> | comet | <i class="twa twa-umbrella-on-ground"></i> | umbrella-on-ground 
+| <i class="twa twa-snowflake"></i> | snowflake | <i class="twa twa-snowman"></i> | snowman 
+| <i class="twa twa-droplet"></i> | droplet | <i class="twa twa-fire"></i> | fire 
+| <i class="twa twa-airplane-arrival"></i> | airplane-arrival | <i class="twa twa-six-oclock"></i> | six-oclock 
+| <i class="twa twa-house-with-garden"></i> | house-with-garden | <i class="twa twa-crescent-moon"></i> | crescent-moon 
+| <i class="twa twa-globe-showing-americas"></i> | globe-showing-americas | <i class="twa twa-fountain"></i> | fountain 
+| <i class="twa twa-mountain-railway"></i> | mountain-railway | <i class="twa twa-tram-car"></i> | tram-car 
+| <i class="twa twa-japanese-castle"></i> | japanese-castle | <i class="twa twa-motor-scooter"></i> | motor-scooter 
+| <i class="twa twa-articulated-lorry"></i> | articulated-lorry | <i class="twa twa-delivery-truck"></i> | delivery-truck 
+| <i class="twa twa-ambulance"></i> | ambulance | <i class="twa twa-oncoming-police-car"></i> | oncoming-police-car 
+| <i class="twa twa-fire-engine"></i> | fire-engine | <i class="twa twa-police-car"></i> | police-car 
+| <i class="twa twa-taxi"></i> | taxi | <i class="twa twa-oncoming-taxi"></i> | oncoming-taxi 
+| <i class="twa twa-oncoming-automobile"></i> | oncoming-automobile | <i class="twa twa-racing-car"></i> | racing-car 
+| <i class="twa twa-pickup-truck"></i> | pickup-truck | <i class="twa twa-bus"></i> | bus 
+| <i class="twa twa-love-hotel"></i> | love-hotel | <i class="twa twa-minibus"></i> | minibus 
+| <i class="twa twa-railway-car"></i> | railway-car | <i class="twa twa-oil-drum"></i> | oil-drum 
+| <i class="twa twa-anchor"></i> | anchor | <i class="twa twa-sailboat"></i> | sailboat 
+| <i class="twa twa-stop-sign"></i> | stop-sign | <i class="twa twa-wedding"></i> | wedding 
+| <i class="twa twa-fuel-pump"></i> | fuel-pump | <i class="twa twa-construction"></i> | construction 
+| <i class="twa twa-canoe"></i> | canoe | <i class="twa twa-passenger-ship"></i> | passenger-ship 
+| <i class="twa twa-speedboat"></i> | speedboat | <i class="twa twa-castle"></i> | castle 
+| <i class="twa twa-ferry"></i> | ferry | <i class="twa twa-japanese-post-office"></i> | japanese-post-office 
+| <i class="twa twa-motor-boat"></i> | motor-boat | <i class="twa twa-stopwatch"></i> | stopwatch 
+| <i class="twa twa-one-oclock"></i> | one-oclock | <i class="twa twa-mantelpiece-clock"></i> | mantelpiece-clock 
+| <i class="twa twa-four-oclock"></i> | four-oclock | <i class="twa twa-timer-clock"></i> | timer-clock 
+| <i class="twa twa-twelve-oclock"></i> | twelve-oclock | <i class="twa twa-two-thirty"></i> | two-thirty 
+| <i class="twa twa-eight-oclock"></i> | eight-oclock | <i class="twa twa-five-thirty"></i> | five-thirty 
+| <i class="twa twa-six-thirty"></i> | six-thirty | <i class="twa twa-seven-oclock"></i> | seven-oclock 
+| <i class="twa twa-eight-thirty"></i> | eight-thirty | <i class="twa twa-five-oclock"></i> | five-oclock 
+| <i class="twa twa-twelve-thirty"></i> | twelve-thirty | <i class="twa twa-rainbow"></i> | rainbow 
+| <i class="twa twa-sun-behind-large-cloud"></i> | sun-behind-large-cloud | <i class="twa twa-houses"></i> | houses 
+| <i class="twa twa-roller-coaster"></i> | roller-coaster | <i class="twa twa-tractor"></i> | tractor 
+| <i class="twa twa-bicycle"></i> | bicycle | <i class="twa twa-manual-wheelchair"></i> | manual-wheelchair 
+| <i class="twa twa-motorcycle"></i> | motorcycle | <i class="twa twa-skateboard"></i> | skateboard 
+| <i class="twa twa-motorized-wheelchair"></i> | motorized-wheelchair | <i class="twa twa-nine-thirty"></i> | nine-thirty 
+| <i class="twa twa-tokyo-tower"></i> | tokyo-tower | <i class="twa twa-convenience-store"></i> | convenience-store 
+| <i class="twa twa-metro"></i> | metro | <i class="twa twa-motorway"></i> | motorway 
+| <i class="twa twa-ten-thirty"></i> | ten-thirty | <i class="twa twa-cityscape-at-dusk"></i> | cityscape-at-dusk 
+| <i class="twa twa-barber-pole"></i> | barber-pole | <i class="twa twa-monorail"></i> | monorail 
+| <i class="twa twa-tram"></i> | tram | <i class="twa twa-light-rail"></i> | light-rail 
+| <i class="twa twa-hot-springs"></i> | hot-springs | <i class="twa twa-bridge-at-night"></i> | bridge-at-night 
+| <i class="twa twa-train"></i> | train | <i class="twa twa-synagogue"></i> | synagogue 
+| <i class="twa twa-sunrise"></i> | sunrise | <i class="twa twa-station"></i> | station 
+| <i class="twa twa-ferris-wheel"></i> | ferris-wheel | <i class="twa twa-vertical-traffic-light"></i> | vertical-traffic-light 
+| <i class="twa twa-horizontal-traffic-light"></i> | horizontal-traffic-light | <i class="twa twa-three-thirty"></i> | three-thirty 
+| <i class="twa twa-one-thirty"></i> | one-thirty | <i class="twa twa-trolleybus"></i> | trolleybus 
+| <i class="twa twa-automobile"></i> | automobile | <i class="twa twa-bus-stop"></i> | bus-stop 
+| <i class="twa twa-sunrise-over-mountains"></i> | sunrise-over-mountains | <i class="twa twa-railway-track"></i> | railway-track 
+| <i class="twa twa-nine-oclock"></i> | nine-oclock | <i class="twa twa-police-car-light"></i> | police-car-light 
+| <i class="twa twa-two-oclock"></i> | two-oclock | <i class="twa twa-roller-skate"></i> | roller-skate 
+| <i class="twa twa-milky-way"></i> | milky-way | <i class="twa twa-high-speed-train"></i> | high-speed-train 
+| <i class="twa twa-cloud"></i> | cloud | <i class="twa twa-water-wave"></i> | water-wave 
+| <i class="twa twa-ship"></i> | ship | <i class="twa twa-airplane-departure"></i> | airplane-departure 
+| <i class="twa twa-suspension-railway"></i> | suspension-railway | <i class="twa twa-helicopter"></i> | helicopter 
+| <i class="twa twa-mountain-cableway"></i> | mountain-cableway | <i class="twa twa-seat"></i> | seat 
+| <i class="twa twa-luggage"></i> | luggage | <i class="twa twa-aerial-tramway"></i> | aerial-tramway 
+| <i class="twa twa-bellhop-bell"></i> | bellhop-bell | <i class="twa twa-hourglass-not-done"></i> | hourglass-not-done 
+| <i class="twa twa-rocket"></i> | rocket | <i class="twa twa-watch"></i> | watch 
+| <i class="twa twa-airplane"></i> | airplane | <i class="twa twa-flying-saucer"></i> | flying-saucer 
+| <i class="twa twa-hourglass-done"></i> | hourglass-done | <i class="twa twa-alarm-clock"></i> | alarm-clock 
+| <i class="twa twa-small-airplane"></i> | small-airplane | <i class="twa twa-parachute"></i> | parachute 
+| <i class="twa twa-satellite"></i> | satellite | <i class="twa twa-ten-oclock"></i> | ten-oclock 
+| <i class="twa twa-eleven-oclock"></i> | eleven-oclock | <i class="twa twa-waxing-crescent-moon"></i> | waxing-crescent-moon 
+| <i class="twa twa-new-moon"></i> | new-moon | <i class="twa twa-full-moon"></i> | full-moon 
+| <i class="twa twa-eleven-thirty"></i> | eleven-thirty | <i class="twa twa-first-quarter-moon"></i> | first-quarter-moon 
+| <i class="twa twa-first-quarter-moon-face"></i> | first-quarter-moon-face | <i class="twa twa-star"></i> | star 
+| <i class="twa twa-waning-crescent-moon"></i> | waning-crescent-moon | <i class="twa twa-last-quarter-moon-face"></i> | last-quarter-moon-face 
+| <i class="twa twa-waning-gibbous-moon"></i> | waning-gibbous-moon | <i class="twa twa-full-moon-face"></i> | full-moon-face 
+| <i class="twa twa-seven-thirty"></i> | seven-thirty | <i class="twa twa-thermometer"></i> | thermometer 
+| <i class="twa twa-three-oclock"></i> | three-oclock | <i class="twa twa-last-quarter-moon"></i> | last-quarter-moon 
+| <i class="twa twa-sun"></i> | sun | <i class="twa twa-four-thirty"></i> | four-thirty 
+| <i class="twa twa-shooting-star"></i> | shooting-star | <i class="twa twa-new-moon-face"></i> | new-moon-face 
+| <i class="twa twa-cloud-with-snow"></i> | cloud-with-snow | <i class="twa twa-sun-behind-cloud"></i> | sun-behind-cloud 
+| <i class="twa twa-sun-behind-rain-cloud"></i> | sun-behind-rain-cloud | <i class="twa twa-sun-behind-small-cloud"></i> | sun-behind-small-cloud 
+| <i class="twa twa-cloud-with-rain"></i> | cloud-with-rain | <i class="twa twa-cyclone"></i> | cyclone 
+| <i class="twa twa-closed-umbrella"></i> | closed-umbrella | <i class="twa twa-cloud-with-lightning"></i> | cloud-with-lightning 
+| <i class="twa twa-umbrella-with-rain-drops"></i> | umbrella-with-rain-drops | <i class="twa twa-sun-with-face"></i> | sun-with-face 
+| <i class="twa twa-ringed-planet"></i> | ringed-planet | <i class="twa twa-tornado"></i> | tornado 
+| <i class="twa twa-waxing-gibbous-moon"></i> | waxing-gibbous-moon | <i class="twa twa-wind-face"></i> | wind-face 
+| <i class="twa twa-glowing-star"></i> | glowing-star | <i class="twa twa-tent"></i> | tent 
+| <i class="twa twa-foggy"></i> | foggy | <i class="twa twa-house"></i> | house 
+| <i class="twa twa-bank"></i> | bank | <i class="twa twa-hotel"></i> | hotel 
+| <i class="twa twa-department-store"></i> | department-store | <i class="twa twa-hospital"></i> | hospital 
+| <i class="twa twa-kick-scooter"></i> | kick-scooter | <i class="twa twa-school"></i> | school 
+| <i class="twa twa-auto-rickshaw"></i> | auto-rickshaw | <i class="twa twa-office-building"></i> | office-building 
+| <i class="twa twa-post-office"></i> | post-office | <i class="twa twa-church"></i> | church 
+| <i class="twa twa-night-with-stars"></i> | night-with-stars 
 
 Cheatsheet generated automatically
