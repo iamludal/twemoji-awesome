@@ -3,6 +3,8 @@ const fs = require('fs')
 const slugify = require('slugify')
 const basis = fs.readFileSync('./cheatsheet-basis.md', 'utf8')
 const OUTPUT = 'cheatsheet.md'
+const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
+const { emojiSortingFunction } = require('../lib/utils')
 
 const opts = { lower: true, strict: true }
 let previousGroup, previousEmojiName
@@ -11,7 +13,7 @@ let newLine = true
 
 console.log('⏳ Building cheatsheet')
 
-emojis.sort((emoji1, emoji2) => emoji1.group.localeCompare(emoji2.group))
+emojis.sort(emojiSortingFunction)
 
 const groups = new Set(emojis.map(emoji => emoji.group))
 
@@ -33,7 +35,8 @@ emojis.forEach(emoji => {
     }
 
     if (previousEmojiName != name) {
-        cheatsheetContent += `| <i class="twa twa-${name}"></i> | ${name} `
+        const url = BASE_SVG_URL.replace('{CODE}', slugify(emoji.codes, opts))
+        cheatsheetContent += `| <img src="${url}"> | ${name} `
         previousEmojiName = name
         newLine = !newLine
 

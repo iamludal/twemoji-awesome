@@ -3,7 +3,7 @@ const slugify = require('slugify')
 const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
 const EMOJI_JSON_URL = 'https://unpkg.com/emoji.json/emoji.json'
 const fs = require('fs')
-const updateLine = require('../lib/updateLine')
+const { updateLine } = require('../lib/utils')
 
 const opts = { lower: true, strict: true }
 

@@ -1,5 +1,3 @@
-<link href="twemoji-awesome.css" rel="stylesheet">
-
 # Emoji cheatsheet 😄
 
 {CONTENT}

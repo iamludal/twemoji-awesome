@@ -17,1684 +17,1684 @@
 ## Activities
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-firecracker"></i> | firecracker | <i class="twa twa-fireworks"></i> | fireworks 
-| <i class="twa twa-sparkles"></i> | sparkles | <i class="twa twa-confetti-ball"></i> | confetti-ball 
-| <i class="twa twa-pine-decoration"></i> | pine-decoration | <i class="twa twa-carp-streamer"></i> | carp-streamer 
-| <i class="twa twa-ribbon"></i> | ribbon | <i class="twa twa-american-football"></i> | american-football 
-| <i class="twa twa-party-popper"></i> | party-popper | <i class="twa twa-flag-in-hole"></i> | flag-in-hole 
-| <i class="twa twa-balloon"></i> | balloon | <i class="twa twa-reminder-ribbon"></i> | reminder-ribbon 
-| <i class="twa twa-admission-tickets"></i> | admission-tickets | <i class="twa twa-tennis"></i> | tennis 
-| <i class="twa twa-kite"></i> | kite | <i class="twa twa-club-suit"></i> | club-suit 
-| <i class="twa twa-flower-playing-cards"></i> | flower-playing-cards | <i class="twa twa-slot-machine"></i> | slot-machine 
-| <i class="twa twa-teddy-bear"></i> | teddy-bear | <i class="twa twa-puzzle-piece"></i> | puzzle-piece 
-| <i class="twa twa-nesting-dolls"></i> | nesting-dolls | <i class="twa twa-magic-wand"></i> | magic-wand 
-| <i class="twa twa-video-game"></i> | video-game | <i class="twa twa-pinata"></i> | pinata 
-| <i class="twa twa-ice-skate"></i> | ice-skate | <i class="twa twa-sled"></i> | sled 
-| <i class="twa twa-skis"></i> | skis | <i class="twa twa-running-shirt"></i> | running-shirt 
-| <i class="twa twa-soccer-ball"></i> | soccer-ball | <i class="twa twa-baseball"></i> | baseball 
-| <i class="twa twa-volleyball"></i> | volleyball | <i class="twa twa-rugby-football"></i> | rugby-football 
-| <i class="twa twa-ping-pong"></i> | ping-pong | <i class="twa twa-sports-medal"></i> | sports-medal 
-| <i class="twa twa-framed-picture"></i> | framed-picture | <i class="twa twa-red-envelope"></i> | red-envelope 
-| <i class="twa twa-ice-hockey"></i> | ice-hockey | <i class="twa twa-thread"></i> | thread 
-| <i class="twa twa-sewing-needle"></i> | sewing-needle | <i class="twa twa-mahjong-red-dragon"></i> | mahjong-red-dragon 
-| <i class="twa twa-game-die"></i> | game-die | <i class="twa twa-chess-pawn"></i> | chess-pawn 
-| <i class="twa twa-heart-suit"></i> | heart-suit | <i class="twa twa-spade-suit"></i> | spade-suit 
-| <i class="twa twa-diamond-suit"></i> | diamond-suit | <i class="twa twa-joystick"></i> | joystick 
-| <i class="twa twa-fishing-pole"></i> | fishing-pole | <i class="twa twa-softball"></i> | softball 
-| <i class="twa twa-flying-disc"></i> | flying-disc | <i class="twa twa-yo-yo"></i> | yo-yo 
-| <i class="twa twa-yarn"></i> | yarn | <i class="twa twa-joker"></i> | joker 
-| <i class="twa twa-knot"></i> | knot | <i class="twa twa-field-hockey"></i> | field-hockey 
-| <i class="twa twa-wind-chime"></i> | wind-chime | <i class="twa twa-military-medal"></i> | military-medal 
-| <i class="twa twa-japanese-dolls"></i> | japanese-dolls | <i class="twa twa-trophy"></i> | trophy 
-| <i class="twa twa-1st-place-medal"></i> | 1st-place-medal | <i class="twa twa-direct-hit"></i> | direct-hit 
-| <i class="twa twa-wrapped-gift"></i> | wrapped-gift | <i class="twa twa-bowling"></i> | bowling 
-| <i class="twa twa-basketball"></i> | basketball | <i class="twa twa-badminton"></i> | badminton 
-| <i class="twa twa-lacrosse"></i> | lacrosse | <i class="twa twa-curling-stone"></i> | curling-stone 
-| <i class="twa twa-goal-net"></i> | goal-net | <i class="twa twa-martial-arts-uniform"></i> | martial-arts-uniform 
-| <i class="twa twa-pool-8-ball"></i> | pool-8-ball | <i class="twa twa-sparkler"></i> | sparkler 
-| <i class="twa twa-christmas-tree"></i> | christmas-tree | <i class="twa twa-artist-palette"></i> | artist-palette 
-| <i class="twa twa-performing-arts"></i> | performing-arts | <i class="twa twa-jack-o-lantern"></i> | jack-o-lantern 
-| <i class="twa twa-2nd-place-medal"></i> | 2nd-place-medal | <i class="twa twa-diving-mask"></i> | diving-mask 
-| <i class="twa twa-cricket-game"></i> | cricket-game | <i class="twa twa-boxing-glove"></i> | boxing-glove 
-| <i class="twa twa-nazar-amulet"></i> | nazar-amulet | <i class="twa twa-crystal-ball"></i> | crystal-ball 
-| <i class="twa twa-moon-viewing-ceremony"></i> | moon-viewing-ceremony | <i class="twa twa-3rd-place-medal"></i> | 3rd-place-medal 
-| <i class="twa twa-ticket"></i> | ticket | <i class="twa twa-tanabata-tree"></i> | tanabata-tree 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a8.svg"> | artist-palette | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5bc.svg"> | framed-picture 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa2.svg"> | knot | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ad.svg"> | performing-arts 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa1.svg"> | sewing-needle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f5.svg"> | thread 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f6.svg"> | yarn | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f947.svg"> | 1st-place-medal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f948.svg"> | 2nd-place-medal | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f949.svg"> | 3rd-place-medal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f396.svg"> | military-medal | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c5.svg"> | sports-medal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c6.svg"> | trophy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f39f.svg"> | admission-tickets 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f388.svg"> | balloon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38f.svg"> | carp-streamer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f384.svg"> | christmas-tree | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38a.svg"> | confetti-ball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e8.svg"> | firecracker | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f386.svg"> | fireworks 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f383.svg"> | jack-o-lantern | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38e.svg"> | japanese-dolls 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f391.svg"> | moon-viewing-ceremony | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f389.svg"> | party-popper 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38d.svg"> | pine-decoration | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e7.svg"> | red-envelope 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f397.svg"> | reminder-ribbon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f380.svg"> | ribbon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f387.svg"> | sparkler | <img src="https://twemoji.maxcdn.com/v/latest/svg/2728.svg"> | sparkles 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38b.svg"> | tanabata-tree | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ab.svg"> | ticket 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f390.svg"> | wind-chime | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f381.svg"> | wrapped-gift 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/265f.svg"> | chess-pawn | <img src="https://twemoji.maxcdn.com/v/latest/svg/2663.svg"> | club-suit 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52e.svg"> | crystal-ball | <img src="https://twemoji.maxcdn.com/v/latest/svg/2666.svg"> | diamond-suit 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3af.svg"> | direct-hit | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b4.svg"> | flower-playing-cards 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b2.svg"> | game-die | <img src="https://twemoji.maxcdn.com/v/latest/svg/2665.svg"> | heart-suit 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f0cf.svg"> | joker | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f579.svg"> | joystick 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa81.svg"> | kite | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa84.svg"> | magic-wand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f004.svg"> | mahjong-red-dragon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ff.svg"> | nazar-amulet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa86.svg"> | nesting-dolls | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa85.svg"> | pinata 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b1.svg"> | pool-8-ball | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e9.svg"> | puzzle-piece 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b0.svg"> | slot-machine | <img src="https://twemoji.maxcdn.com/v/latest/svg/2660.svg"> | spade-suit 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f8.svg"> | teddy-bear | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ae.svg"> | video-game 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa80.svg"> | yo-yo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c8.svg"> | american-football 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f8.svg"> | badminton | <img src="https://twemoji.maxcdn.com/v/latest/svg/26be.svg"> | baseball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c0.svg"> | basketball | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b3.svg"> | bowling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94a.svg"> | boxing-glove | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cf.svg"> | cricket-game 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94c.svg"> | curling-stone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93f.svg"> | diving-mask 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d1.svg"> | field-hockey | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a3.svg"> | fishing-pole 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f3.svg"> | flag-in-hole | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94f.svg"> | flying-disc 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f945.svg"> | goal-net | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d2.svg"> | ice-hockey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f8.svg"> | ice-skate | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94d.svg"> | lacrosse 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94b.svg"> | martial-arts-uniform | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d3.svg"> | ping-pong 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c9.svg"> | rugby-football | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3bd.svg"> | running-shirt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3bf.svg"> | skis | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f7.svg"> | sled 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26bd.svg"> | soccer-ball | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f94e.svg"> | softball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3be.svg"> | tennis | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d0.svg"> | volleyball 
 
 ## Animals and Nature
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-monkey"></i> | monkey | <i class="twa twa-orangutan"></i> | orangutan 
-| <i class="twa twa-gorilla"></i> | gorilla | <i class="twa twa-monkey-face"></i> | monkey-face 
-| <i class="twa twa-tiger-face"></i> | tiger-face | <i class="twa twa-service-dog"></i> | service-dog 
-| <i class="twa twa-dog-face"></i> | dog-face | <i class="twa twa-wolf"></i> | wolf 
-| <i class="twa twa-dog"></i> | dog | <i class="twa twa-cat-face"></i> | cat-face 
-| <i class="twa twa-raccoon"></i> | raccoon | <i class="twa twa-horse-face"></i> | horse-face 
-| <i class="twa twa-poodle"></i> | poodle | <i class="twa twa-leopard"></i> | leopard 
-| <i class="twa twa-deer"></i> | deer | <i class="twa twa-horse"></i> | horse 
-| <i class="twa twa-cat"></i> | cat | <i class="twa twa-fox"></i> | fox 
-| <i class="twa twa-cow-face"></i> | cow-face | <i class="twa twa-tiger"></i> | tiger 
-| <i class="twa twa-black-cat"></i> | black-cat | <i class="twa twa-unicorn"></i> | unicorn 
-| <i class="twa twa-koala"></i> | koala | <i class="twa twa-lion"></i> | lion 
-| <i class="twa twa-otter"></i> | otter | <i class="twa twa-baby-chick"></i> | baby-chick 
-| <i class="twa twa-badger"></i> | badger | <i class="twa twa-feather"></i> | feather 
-| <i class="twa twa-owl"></i> | owl | <i class="twa twa-paw-prints"></i> | paw-prints 
-| <i class="twa twa-turkey"></i> | turkey | <i class="twa twa-flamingo"></i> | flamingo 
-| <i class="twa twa-parrot"></i> | parrot | <i class="twa twa-peacock"></i> | peacock 
-| <i class="twa twa-kangaroo"></i> | kangaroo | <i class="twa twa-crocodile"></i> | crocodile 
-| <i class="twa twa-lizard"></i> | lizard | <i class="twa twa-whale"></i> | whale 
-| <i class="twa twa-tropical-fish"></i> | tropical-fish | <i class="twa twa-hatching-chick"></i> | hatching-chick 
-| <i class="twa twa-chicken"></i> | chicken | <i class="twa twa-dodo"></i> | dodo 
-| <i class="twa twa-spouting-whale"></i> | spouting-whale | <i class="twa twa-blowfish"></i> | blowfish 
-| <i class="twa twa-shark"></i> | shark | <i class="twa twa-octopus"></i> | octopus 
-| <i class="twa twa-spiral-shell"></i> | spiral-shell | <i class="twa twa-dolphin"></i> | dolphin 
-| <i class="twa twa-butterfly"></i> | butterfly | <i class="twa twa-snake"></i> | snake 
-| <i class="twa twa-cricket"></i> | cricket | <i class="twa twa-bug"></i> | bug 
-| <i class="twa twa-fish"></i> | fish | <i class="twa twa-ant"></i> | ant 
-| <i class="twa twa-lady-beetle"></i> | lady-beetle | <i class="twa twa-scorpion"></i> | scorpion 
-| <i class="twa twa-cockroach"></i> | cockroach | <i class="twa twa-spider"></i> | spider 
-| <i class="twa twa-spider-web"></i> | spider-web | <i class="twa twa-white-flower"></i> | white-flower 
-| <i class="twa twa-mosquito"></i> | mosquito | <i class="twa twa-bouquet"></i> | bouquet 
-| <i class="twa twa-fly"></i> | fly | <i class="twa twa-worm"></i> | worm 
-| <i class="twa twa-rose"></i> | rose | <i class="twa twa-microbe"></i> | microbe 
-| <i class="twa twa-blossom"></i> | blossom | <i class="twa twa-wilted-flower"></i> | wilted-flower 
-| <i class="twa twa-sunflower"></i> | sunflower | <i class="twa twa-seedling"></i> | seedling 
-| <i class="twa twa-fallen-leaf"></i> | fallen-leaf | <i class="twa twa-palm-tree"></i> | palm-tree 
-| <i class="twa twa-hibiscus"></i> | hibiscus | <i class="twa twa-tulip"></i> | tulip 
-| <i class="twa twa-cherry-blossom"></i> | cherry-blossom | <i class="twa twa-beetle"></i> | beetle 
-| <i class="twa twa-rosette"></i> | rosette | <i class="twa twa-honeybee"></i> | honeybee 
-| <i class="twa twa-guide-dog"></i> | guide-dog | <i class="twa twa-skunk"></i> | skunk 
-| <i class="twa twa-frog"></i> | frog | <i class="twa twa-seal"></i> | seal 
-| <i class="twa twa-snail"></i> | snail | <i class="twa twa-potted-plant"></i> | potted-plant 
-| <i class="twa twa-herb"></i> | herb | <i class="twa twa-goat"></i> | goat 
-| <i class="twa twa-evergreen-tree"></i> | evergreen-tree | <i class="twa twa-four-leaf-clover"></i> | four-leaf-clover 
-| <i class="twa twa-maple-leaf"></i> | maple-leaf | <i class="twa twa-cow"></i> | cow 
-| <i class="twa twa-rabbit-face"></i> | rabbit-face | <i class="twa twa-mammoth"></i> | mammoth 
-| <i class="twa twa-beaver"></i> | beaver | <i class="twa twa-eagle"></i> | eagle 
-| <i class="twa twa-deciduous-tree"></i> | deciduous-tree | <i class="twa twa-cactus"></i> | cactus 
-| <i class="twa twa-rhinoceros"></i> | rhinoceros | <i class="twa twa-shamrock"></i> | shamrock 
-| <i class="twa twa-pig"></i> | pig | <i class="twa twa-pig-face"></i> | pig-face 
-| <i class="twa twa-rabbit"></i> | rabbit | <i class="twa twa-two-hump-camel"></i> | two-hump-camel 
-| <i class="twa twa-sloth"></i> | sloth | <i class="twa twa-bison"></i> | bison 
-| <i class="twa twa-ox"></i> | ox | <i class="twa twa-water-buffalo"></i> | water-buffalo 
-| <i class="twa twa-dove"></i> | dove | <i class="twa twa-penguin"></i> | penguin 
-| <i class="twa twa-panda"></i> | panda | <i class="twa twa-pig-nose"></i> | pig-nose 
-| <i class="twa twa-ram"></i> | ram | <i class="twa twa-ewe"></i> | ewe 
-| <i class="twa twa-rooster"></i> | rooster | <i class="twa twa-camel"></i> | camel 
-| <i class="twa twa-bear"></i> | bear | <i class="twa twa-mouse"></i> | mouse 
-| <i class="twa twa-zebra"></i> | zebra | <i class="twa twa-dragon-face"></i> | dragon-face 
-| <i class="twa twa-llama"></i> | llama | <i class="twa twa-hamster"></i> | hamster 
-| <i class="twa twa-duck"></i> | duck | <i class="twa twa-bat"></i> | bat 
-| <i class="twa twa-mouse-face"></i> | mouse-face | <i class="twa twa-sheaf-of-rice"></i> | sheaf-of-rice 
-| <i class="twa twa-leaf-fluttering-in-wind"></i> | leaf-fluttering-in-wind | <i class="twa twa-polar-bear"></i> | polar-bear 
-| <i class="twa twa-giraffe"></i> | giraffe | <i class="twa twa-hippopotamus"></i> | hippopotamus 
-| <i class="twa twa-sauropod"></i> | sauropod | <i class="twa twa-swan"></i> | swan 
-| <i class="twa twa-boar"></i> | boar | <i class="twa twa-t-rex"></i> | t-rex 
-| <i class="twa twa-elephant"></i> | elephant | <i class="twa twa-hedgehog"></i> | hedgehog 
-| <i class="twa twa-front-facing-baby-chick"></i> | front-facing-baby-chick | <i class="twa twa-rat"></i> | rat 
-| <i class="twa twa-turtle"></i> | turtle | <i class="twa twa-dragon"></i> | dragon 
-| <i class="twa twa-bird"></i> | bird | <i class="twa twa-chipmunk"></i> | chipmunk 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f438.svg"> | frog | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f424.svg"> | baby-chick 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f426.svg"> | bird | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f414.svg"> | chicken 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a4.svg"> | dodo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f54a.svg"> | dove 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f986.svg"> | duck | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f985.svg"> | eagle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab6.svg"> | feather | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a9.svg"> | flamingo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f425.svg"> | front-facing-baby-chick | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f423.svg"> | hatching-chick 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f989.svg"> | owl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99c.svg"> | parrot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99a.svg"> | peacock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f427.svg"> | penguin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f413.svg"> | rooster | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a2.svg"> | swan 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f983.svg"> | turkey | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41c.svg"> | ant 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab2.svg"> | beetle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41b.svg"> | bug 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98b.svg"> | butterfly | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab3.svg"> | cockroach 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f997.svg"> | cricket | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab0.svg"> | fly 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41d.svg"> | honeybee | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41e.svg"> | lady-beetle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a0.svg"> | microbe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99f.svg"> | mosquito 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f982.svg"> | scorpion | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40c.svg"> | snail 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f577.svg"> | spider | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f578.svg"> | spider-web 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab1.svg"> | worm | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a1.svg"> | badger 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f987.svg"> | bat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43b.svg"> | bear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ab.svg"> | beaver | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ac.svg"> | bison 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f408-200d-2b1b.svg"> | black-cat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f417.svg"> | boar 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42a.svg"> | camel | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f408.svg"> | cat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f431.svg"> | cat-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43f.svg"> | chipmunk 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f404.svg"> | cow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42e.svg"> | cow-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98c.svg"> | deer | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f415.svg"> | dog 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f436.svg"> | dog-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f418.svg"> | elephant 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f411.svg"> | ewe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98a.svg"> | fox 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f992.svg"> | giraffe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f410.svg"> | goat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98d.svg"> | gorilla | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ae.svg"> | guide-dog 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f439.svg"> | hamster | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f994.svg"> | hedgehog 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99b.svg"> | hippopotamus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40e.svg"> | horse 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f434.svg"> | horse-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f998.svg"> | kangaroo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f428.svg"> | koala | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f406.svg"> | leopard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f981.svg"> | lion | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f999.svg"> | llama 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a3.svg"> | mammoth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f412.svg"> | monkey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f435.svg"> | monkey-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f401.svg"> | mouse 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42d.svg"> | mouse-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a7.svg"> | orangutan 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a6.svg"> | otter | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f402.svg"> | ox 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43c.svg"> | panda | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43e.svg"> | paw-prints 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f416.svg"> | pig | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f437.svg"> | pig-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43d.svg"> | pig-nose | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43b-200d-2744-fe0f.svg"> | polar-bear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f429.svg"> | poodle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f407.svg"> | rabbit 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f430.svg"> | rabbit-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99d.svg"> | raccoon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40f.svg"> | ram | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f400.svg"> | rat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98f.svg"> | rhinoceros | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f415-200d-1f9ba.svg"> | service-dog 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a8.svg"> | skunk | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9a5.svg"> | sloth 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f405.svg"> | tiger | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42f.svg"> | tiger-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42b.svg"> | two-hump-camel | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f984.svg"> | unicorn 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f403.svg"> | water-buffalo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f43a.svg"> | wolf 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f993.svg"> | zebra | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f421.svg"> | blowfish 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f42c.svg"> | dolphin | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41f.svg"> | fish 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f419.svg"> | octopus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ad.svg"> | seal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f988.svg"> | shark | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f41a.svg"> | spiral-shell 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f433.svg"> | spouting-whale | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f420.svg"> | tropical-fish 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40b.svg"> | whale | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40a.svg"> | crocodile 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f409.svg"> | dragon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f432.svg"> | dragon-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f98e.svg"> | lizard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f995.svg"> | sauropod 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f40d.svg"> | snake | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f996.svg"> | t-rex 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f422.svg"> | turtle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33c.svg"> | blossom 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f490.svg"> | bouquet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f338.svg"> | cherry-blossom 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33a.svg"> | hibiscus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f339.svg"> | rose 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f5.svg"> | rosette | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33b.svg"> | sunflower 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f337.svg"> | tulip | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ae.svg"> | white-flower 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f940.svg"> | wilted-flower | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f335.svg"> | cactus 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f333.svg"> | deciduous-tree | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f332.svg"> | evergreen-tree 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f342.svg"> | fallen-leaf | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f340.svg"> | four-leaf-clover 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33f.svg"> | herb | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f343.svg"> | leaf-fluttering-in-wind 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f341.svg"> | maple-leaf | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f334.svg"> | palm-tree 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab4.svg"> | potted-plant | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f331.svg"> | seedling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2618.svg"> | shamrock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33e.svg"> | sheaf-of-rice 
 
 ## Component
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-light-skin-tone"></i> | light-skin-tone | <i class="twa twa-bald"></i> | bald 
-| <i class="twa twa-white-hair"></i> | white-hair | <i class="twa twa-medium-dark-skin-tone"></i> | medium-dark-skin-tone 
-| <i class="twa twa-medium-skin-tone"></i> | medium-skin-tone | <i class="twa twa-curly-hair"></i> | curly-hair 
-| <i class="twa twa-dark-skin-tone"></i> | dark-skin-tone | <i class="twa twa-medium-light-skin-tone"></i> | medium-light-skin-tone 
-| <i class="twa twa-red-hair"></i> | red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b2.svg"> | bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b1.svg"> | curly-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b0.svg"> | red-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b3.svg"> | white-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ff.svg"> | dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3fb.svg"> | light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3fd.svg"> | medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3fe.svg"> | medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3fc.svg"> | medium-light-skin-tone 
 ## Flags
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-triangular-flag"></i> | triangular-flag | <i class="twa twa-chequered-flag"></i> | chequered-flag 
-| <i class="twa twa-pirate-flag"></i> | pirate-flag | <i class="twa twa-rainbow-flag"></i> | rainbow-flag 
-| <i class="twa twa-transgender-flag"></i> | transgender-flag | <i class="twa twa-flag-andorra"></i> | flag-andorra 
-| <i class="twa twa-white-flag"></i> | white-flag | <i class="twa twa-flag-antigua-and-barbuda"></i> | flag-antigua-and-barbuda 
-| <i class="twa twa-crossed-flags"></i> | crossed-flags | <i class="twa twa-flag-ascension-island"></i> | flag-ascension-island 
-| <i class="twa twa-flag-afghanistan"></i> | flag-afghanistan | <i class="twa twa-black-flag"></i> | black-flag 
-| <i class="twa twa-flag-armenia"></i> | flag-armenia | <i class="twa twa-flag-united-arab-emirates"></i> | flag-united-arab-emirates 
-| <i class="twa twa-flag-angola"></i> | flag-angola | <i class="twa twa-flag-albania"></i> | flag-albania 
-| <i class="twa twa-flag-australia"></i> | flag-australia | <i class="twa twa-flag-antarctica"></i> | flag-antarctica 
-| <i class="twa twa-flag-american-samoa"></i> | flag-american-samoa | <i class="twa twa-flag-bosnia-and-herzegovina"></i> | flag-bosnia-and-herzegovina 
-| <i class="twa twa-flag-argentina"></i> | flag-argentina | <i class="twa twa-flag-austria"></i> | flag-austria 
-| <i class="twa twa-flag-anguilla"></i> | flag-anguilla | <i class="twa twa-flag-azerbaijan"></i> | flag-azerbaijan 
-| <i class="twa twa-flag-aland-islands"></i> | flag-aland-islands | <i class="twa twa-flag-aruba"></i> | flag-aruba 
-| <i class="twa twa-flag-belgium"></i> | flag-belgium | <i class="twa twa-flag-benin"></i> | flag-benin 
-| <i class="twa twa-flag-bahrain"></i> | flag-bahrain | <i class="twa twa-flag-bangladesh"></i> | flag-bangladesh 
-| <i class="twa twa-flag-bulgaria"></i> | flag-bulgaria | <i class="twa twa-flag-burkina-faso"></i> | flag-burkina-faso 
-| <i class="twa twa-flag-barbados"></i> | flag-barbados | <i class="twa twa-flag-burundi"></i> | flag-burundi 
-| <i class="twa twa-flag-st-barthelemy"></i> | flag-st-barthelemy | <i class="twa twa-flag-bermuda"></i> | flag-bermuda 
-| <i class="twa twa-flag-brunei"></i> | flag-brunei | <i class="twa twa-flag-bolivia"></i> | flag-bolivia 
-| <i class="twa twa-flag-caribbean-netherlands"></i> | flag-caribbean-netherlands | <i class="twa twa-flag-bahamas"></i> | flag-bahamas 
-| <i class="twa twa-flag-brazil"></i> | flag-brazil | <i class="twa twa-flag-bhutan"></i> | flag-bhutan 
-| <i class="twa twa-flag-bouvet-island"></i> | flag-bouvet-island | <i class="twa twa-flag-botswana"></i> | flag-botswana 
-| <i class="twa twa-flag-belarus"></i> | flag-belarus | <i class="twa twa-flag-belize"></i> | flag-belize 
-| <i class="twa twa-flag-cocos-keeling-islands"></i> | flag-cocos-keeling-islands | <i class="twa twa-flag-congo-kinshasa"></i> | flag-congo-kinshasa 
-| <i class="twa twa-flag-central-african-republic"></i> | flag-central-african-republic | <i class="twa twa-flag-canada"></i> | flag-canada 
-| <i class="twa twa-flag-congo-brazzaville"></i> | flag-congo-brazzaville | <i class="twa twa-flag-chile"></i> | flag-chile 
-| <i class="twa twa-flag-switzerland"></i> | flag-switzerland | <i class="twa twa-flag-china"></i> | flag-china 
-| <i class="twa twa-flag-cuba"></i> | flag-cuba | <i class="twa twa-flag-colombia"></i> | flag-colombia 
-| <i class="twa twa-flag-cameroon"></i> | flag-cameroon | <i class="twa twa-flag-cook-islands"></i> | flag-cook-islands 
-| <i class="twa twa-flag-cote-divoire"></i> | flag-cote-divoire | <i class="twa twa-flag-christmas-island"></i> | flag-christmas-island 
-| <i class="twa twa-flag-clipperton-island"></i> | flag-clipperton-island | <i class="twa twa-flag-costa-rica"></i> | flag-costa-rica 
-| <i class="twa twa-flag-germany"></i> | flag-germany | <i class="twa twa-flag-djibouti"></i> | flag-djibouti 
-| <i class="twa twa-flag-cape-verde"></i> | flag-cape-verde | <i class="twa twa-flag-cyprus"></i> | flag-cyprus 
-| <i class="twa twa-flag-diego-garcia"></i> | flag-diego-garcia | <i class="twa twa-flag-dominica"></i> | flag-dominica 
-| <i class="twa twa-flag-dominican-republic"></i> | flag-dominican-republic | <i class="twa twa-flag-curacao"></i> | flag-curacao 
-| <i class="twa twa-flag-denmark"></i> | flag-denmark | <i class="twa twa-flag-czechia"></i> | flag-czechia 
-| <i class="twa twa-flag-estonia"></i> | flag-estonia | <i class="twa twa-flag-ecuador"></i> | flag-ecuador 
-| <i class="twa twa-flag-ceuta-and-melilla"></i> | flag-ceuta-and-melilla | <i class="twa twa-flag-algeria"></i> | flag-algeria 
-| <i class="twa twa-flag-egypt"></i> | flag-egypt | <i class="twa twa-flag-european-union"></i> | flag-european-union 
-| <i class="twa twa-flag-ethiopia"></i> | flag-ethiopia | <i class="twa twa-flag-eritrea"></i> | flag-eritrea 
-| <i class="twa twa-flag-spain"></i> | flag-spain | <i class="twa twa-flag-micronesia"></i> | flag-micronesia 
-| <i class="twa twa-flag-fiji"></i> | flag-fiji | <i class="twa twa-flag-finland"></i> | flag-finland 
-| <i class="twa twa-flag-faroe-islands"></i> | flag-faroe-islands | <i class="twa twa-flag-united-kingdom"></i> | flag-united-kingdom 
-| <i class="twa twa-flag-france"></i> | flag-france | <i class="twa twa-flag-falkland-islands"></i> | flag-falkland-islands 
-| <i class="twa twa-flag-gabon"></i> | flag-gabon | <i class="twa twa-flag-grenada"></i> | flag-grenada 
-| <i class="twa twa-flag-georgia"></i> | flag-georgia | <i class="twa twa-flag-guernsey"></i> | flag-guernsey 
-| <i class="twa twa-flag-french-guiana"></i> | flag-french-guiana | <i class="twa twa-flag-ghana"></i> | flag-ghana 
-| <i class="twa twa-flag-greenland"></i> | flag-greenland | <i class="twa twa-flag-gibraltar"></i> | flag-gibraltar 
-| <i class="twa twa-flag-gambia"></i> | flag-gambia | <i class="twa twa-flag-guadeloupe"></i> | flag-guadeloupe 
-| <i class="twa twa-flag-south-georgia-and-south-sandwich-islands"></i> | flag-south-georgia-and-south-sandwich-islands | <i class="twa twa-flag-guatemala"></i> | flag-guatemala 
-| <i class="twa twa-flag-equatorial-guinea"></i> | flag-equatorial-guinea | <i class="twa twa-flag-guinea"></i> | flag-guinea 
-| <i class="twa twa-flag-greece"></i> | flag-greece | <i class="twa twa-flag-guinea-bissau"></i> | flag-guinea-bissau 
-| <i class="twa twa-flag-hong-kong-sar-china"></i> | flag-hong-kong-sar-china | <i class="twa twa-flag-guam"></i> | flag-guam 
-| <i class="twa twa-flag-croatia"></i> | flag-croatia | <i class="twa twa-flag-guyana"></i> | flag-guyana 
-| <i class="twa twa-flag-haiti"></i> | flag-haiti | <i class="twa twa-flag-heard-and-mcdonald-islands"></i> | flag-heard-and-mcdonald-islands 
-| <i class="twa twa-flag-honduras"></i> | flag-honduras | <i class="twa twa-flag-ireland"></i> | flag-ireland 
-| <i class="twa twa-flag-canary-islands"></i> | flag-canary-islands | <i class="twa twa-flag-hungary"></i> | flag-hungary 
-| <i class="twa twa-flag-italy"></i> | flag-italy | <i class="twa twa-flag-iran"></i> | flag-iran 
-| <i class="twa twa-flag-iceland"></i> | flag-iceland | <i class="twa twa-flag-israel"></i> | flag-israel 
-| <i class="twa twa-flag-british-indian-ocean-territory"></i> | flag-british-indian-ocean-territory | <i class="twa twa-flag-isle-of-man"></i> | flag-isle-of-man 
-| <i class="twa twa-flag-india"></i> | flag-india | <i class="twa twa-flag-western-sahara"></i> | flag-western-sahara 
-| <i class="twa twa-flag-iraq"></i> | flag-iraq | <i class="twa twa-flag-jamaica"></i> | flag-jamaica 
-| <i class="twa twa-flag-japan"></i> | flag-japan | <i class="twa twa-flag-jordan"></i> | flag-jordan 
-| <i class="twa twa-flag-kenya"></i> | flag-kenya | <i class="twa twa-flag-cambodia"></i> | flag-cambodia 
-| <i class="twa twa-flag-kyrgyzstan"></i> | flag-kyrgyzstan | <i class="twa twa-flag-kiribati"></i> | flag-kiribati 
-| <i class="twa twa-flag-st-kitts-and-nevis"></i> | flag-st-kitts-and-nevis | <i class="twa twa-flag-south-korea"></i> | flag-south-korea 
-| <i class="twa twa-flag-north-korea"></i> | flag-north-korea | <i class="twa twa-flag-cayman-islands"></i> | flag-cayman-islands 
-| <i class="twa twa-flag-kazakhstan"></i> | flag-kazakhstan | <i class="twa twa-flag-kuwait"></i> | flag-kuwait 
-| <i class="twa twa-flag-liechtenstein"></i> | flag-liechtenstein | <i class="twa twa-flag-lebanon"></i> | flag-lebanon 
-| <i class="twa twa-flag-st-lucia"></i> | flag-st-lucia | <i class="twa twa-flag-luxembourg"></i> | flag-luxembourg 
-| <i class="twa twa-flag-libya"></i> | flag-libya | <i class="twa twa-flag-lesotho"></i> | flag-lesotho 
-| <i class="twa twa-flag-montenegro"></i> | flag-montenegro | <i class="twa twa-flag-moldova"></i> | flag-moldova 
-| <i class="twa twa-flag-monaco"></i> | flag-monaco | <i class="twa twa-flag-macao-sar-china"></i> | flag-macao-sar-china 
-| <i class="twa twa-flag-northern-mariana-islands"></i> | flag-northern-mariana-islands | <i class="twa twa-flag-myanmar-burma"></i> | flag-myanmar-burma 
-| <i class="twa twa-flag-martinique"></i> | flag-martinique | <i class="twa twa-flag-mongolia"></i> | flag-mongolia 
-| <i class="twa twa-flag-mali"></i> | flag-mali | <i class="twa twa-flag-montserrat"></i> | flag-montserrat 
-| <i class="twa twa-flag-namibia"></i> | flag-namibia | <i class="twa twa-flag-nicaragua"></i> | flag-nicaragua 
-| <i class="twa twa-flag-netherlands"></i> | flag-netherlands | <i class="twa twa-flag-maldives"></i> | flag-maldives 
-| <i class="twa twa-flag-norway"></i> | flag-norway | <i class="twa twa-flag-nepal"></i> | flag-nepal 
-| <i class="twa twa-flag-niue"></i> | flag-niue | <i class="twa twa-flag-peru"></i> | flag-peru 
-| <i class="twa twa-flag-nauru"></i> | flag-nauru | <i class="twa twa-flag-philippines"></i> | flag-philippines 
-| <i class="twa twa-flag-portugal"></i> | flag-portugal | <i class="twa twa-flag-palau"></i> | flag-palau 
-| <i class="twa twa-flag-puerto-rico"></i> | flag-puerto-rico | <i class="twa twa-flag-st-pierre-and-miquelon"></i> | flag-st-pierre-and-miquelon 
-| <i class="twa twa-flag-poland"></i> | flag-poland | <i class="twa twa-flag-pitcairn-islands"></i> | flag-pitcairn-islands 
-| <i class="twa twa-flag-palestinian-territories"></i> | flag-palestinian-territories | <i class="twa twa-flag-paraguay"></i> | flag-paraguay 
-| <i class="twa twa-flag-reunion"></i> | flag-reunion | <i class="twa twa-flag-romania"></i> | flag-romania 
-| <i class="twa twa-flag-russia"></i> | flag-russia | <i class="twa twa-flag-serbia"></i> | flag-serbia 
-| <i class="twa twa-flag-seychelles"></i> | flag-seychelles | <i class="twa twa-flag-solomon-islands"></i> | flag-solomon-islands 
-| <i class="twa twa-flag-sweden"></i> | flag-sweden | <i class="twa twa-flag-senegal"></i> | flag-senegal 
-| <i class="twa twa-flag-rwanda"></i> | flag-rwanda | <i class="twa twa-flag-singapore"></i> | flag-singapore 
-| <i class="twa twa-flag-somalia"></i> | flag-somalia | <i class="twa twa-flag-saudi-arabia"></i> | flag-saudi-arabia 
-| <i class="twa twa-flag-slovenia"></i> | flag-slovenia | <i class="twa twa-flag-st-helena"></i> | flag-st-helena 
-| <i class="twa twa-flag-svalbard-and-jan-mayen"></i> | flag-svalbard-and-jan-mayen | <i class="twa twa-flag-slovakia"></i> | flag-slovakia 
-| <i class="twa twa-flag-san-marino"></i> | flag-san-marino | <i class="twa twa-flag-sao-tome-and-principe"></i> | flag-sao-tome-and-principe 
-| <i class="twa twa-flag-eswatini"></i> | flag-eswatini | <i class="twa twa-flag-el-salvador"></i> | flag-el-salvador 
-| <i class="twa twa-flag-turks-and-caicos-islands"></i> | flag-turks-and-caicos-islands | <i class="twa twa-flag-suriname"></i> | flag-suriname 
-| <i class="twa twa-flag-tajikistan"></i> | flag-tajikistan | <i class="twa twa-flag-sierra-leone"></i> | flag-sierra-leone 
-| <i class="twa twa-flag-tokelau"></i> | flag-tokelau | <i class="twa twa-flag-syria"></i> | flag-syria 
-| <i class="twa twa-flag-south-sudan"></i> | flag-south-sudan | <i class="twa twa-flag-sint-maarten"></i> | flag-sint-maarten 
-| <i class="twa twa-flag-tristan-da-cunha"></i> | flag-tristan-da-cunha | <i class="twa twa-flag-timor-leste"></i> | flag-timor-leste 
-| <i class="twa twa-flag-french-southern-territories"></i> | flag-french-southern-territories | <i class="twa twa-flag-turkey"></i> | flag-turkey 
-| <i class="twa twa-flag-thailand"></i> | flag-thailand | <i class="twa twa-flag-tonga"></i> | flag-tonga 
-| <i class="twa twa-flag-togo"></i> | flag-togo | <i class="twa twa-flag-turkmenistan"></i> | flag-turkmenistan 
-| <i class="twa twa-flag-chad"></i> | flag-chad | <i class="twa twa-flag-tunisia"></i> | flag-tunisia 
-| <i class="twa twa-flag-trinidad-and-tobago"></i> | flag-trinidad-and-tobago | <i class="twa twa-flag-tuvalu"></i> | flag-tuvalu 
-| <i class="twa twa-flag-tanzania"></i> | flag-tanzania | <i class="twa twa-flag-taiwan"></i> | flag-taiwan 
-| <i class="twa twa-flag-uganda"></i> | flag-uganda | <i class="twa twa-flag-qatar"></i> | flag-qatar 
-| <i class="twa twa-flag-indonesia"></i> | flag-indonesia | <i class="twa twa-flag-jersey"></i> | flag-jersey 
-| <i class="twa twa-flag-comoros"></i> | flag-comoros | <i class="twa twa-flag-morocco"></i> | flag-morocco 
-| <i class="twa twa-flag-liberia"></i> | flag-liberia | <i class="twa twa-flag-marshall-islands"></i> | flag-marshall-islands 
-| <i class="twa twa-flag-madagascar"></i> | flag-madagascar | <i class="twa twa-flag-north-macedonia"></i> | flag-north-macedonia 
-| <i class="twa twa-flag-laos"></i> | flag-laos | <i class="twa twa-flag-st-martin"></i> | flag-st-martin 
-| <i class="twa twa-flag-lithuania"></i> | flag-lithuania | <i class="twa twa-flag-new-caledonia"></i> | flag-new-caledonia 
-| <i class="twa twa-flag-sri-lanka"></i> | flag-sri-lanka | <i class="twa twa-flag-malawi"></i> | flag-malawi 
-| <i class="twa twa-flag-malaysia"></i> | flag-malaysia | <i class="twa twa-flag-nigeria"></i> | flag-nigeria 
-| <i class="twa twa-flag-mozambique"></i> | flag-mozambique | <i class="twa twa-flag-niger"></i> | flag-niger 
-| <i class="twa twa-flag-mauritania"></i> | flag-mauritania | <i class="twa twa-flag-latvia"></i> | flag-latvia 
-| <i class="twa twa-flag-malta"></i> | flag-malta | <i class="twa twa-flag-mexico"></i> | flag-mexico 
-| <i class="twa twa-flag-norfolk-island"></i> | flag-norfolk-island | <i class="twa twa-flag-mauritius"></i> | flag-mauritius 
-| <i class="twa twa-flag-uruguay"></i> | flag-uruguay | <i class="twa twa-flag-united-states"></i> | flag-united-states 
-| <i class="twa twa-flag-st-vincent-and-grenadines"></i> | flag-st-vincent-and-grenadines | <i class="twa twa-flag-uzbekistan"></i> | flag-uzbekistan 
-| <i class="twa twa-flag-vatican-city"></i> | flag-vatican-city | <i class="twa twa-flag-venezuela"></i> | flag-venezuela 
-| <i class="twa twa-flag-vanuatu"></i> | flag-vanuatu | <i class="twa twa-flag-samoa"></i> | flag-samoa 
-| <i class="twa twa-flag-us-virgin-islands"></i> | flag-us-virgin-islands | <i class="twa twa-flag-wallis-and-futuna"></i> | flag-wallis-and-futuna 
-| <i class="twa twa-flag-british-virgin-islands"></i> | flag-british-virgin-islands | <i class="twa twa-flag-vietnam"></i> | flag-vietnam 
-| <i class="twa twa-flag-yemen"></i> | flag-yemen | <i class="twa twa-flag-south-africa"></i> | flag-south-africa 
-| <i class="twa twa-flag-zimbabwe"></i> | flag-zimbabwe | <i class="twa twa-flag-kosovo"></i> | flag-kosovo 
-| <i class="twa twa-flag-mayotte"></i> | flag-mayotte | <i class="twa twa-flag-zambia"></i> | flag-zambia 
-| <i class="twa twa-flag-england"></i> | flag-england | <i class="twa twa-flag-scotland"></i> | flag-scotland 
-| <i class="twa twa-flag-wales"></i> | flag-wales | <i class="twa twa-flag-panama"></i> | flag-panama 
-| <i class="twa twa-flag-oman"></i> | flag-oman | <i class="twa twa-flag-pakistan"></i> | flag-pakistan 
-| <i class="twa twa-flag-french-polynesia"></i> | flag-french-polynesia | <i class="twa twa-flag-papua-new-guinea"></i> | flag-papua-new-guinea 
-| <i class="twa twa-flag-new-zealand"></i> | flag-new-zealand | <i class="twa twa-flag-sudan"></i> | flag-sudan 
-| <i class="twa twa-flag-ukraine"></i> | flag-ukraine | <i class="twa twa-flag-us-outlying-islands"></i> | flag-us-outlying-islands 
-| <i class="twa twa-flag-united-nations"></i> | flag-united-nations 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1eb.svg"> | flag-afghanistan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fd.svg"> | flag-aland-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f1.svg"> | flag-albania | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ff.svg"> | flag-algeria 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f8.svg"> | flag-american-samoa | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1e9.svg"> | flag-andorra 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f4.svg"> | flag-angola | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ee.svg"> | flag-anguilla 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f6.svg"> | flag-antarctica | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ec.svg"> | flag-antigua-and-barbuda 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f7.svg"> | flag-argentina | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f2.svg"> | flag-armenia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fc.svg"> | flag-aruba | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1e8.svg"> | flag-ascension-island 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fa.svg"> | flag-australia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f9.svg"> | flag-austria 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ff.svg"> | flag-azerbaijan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f8.svg"> | flag-bahamas 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ed.svg"> | flag-bahrain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e9.svg"> | flag-bangladesh 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e7.svg"> | flag-barbados | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fe.svg"> | flag-belarus 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ea.svg"> | flag-belgium | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ff.svg"> | flag-belize 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ef.svg"> | flag-benin | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f2.svg"> | flag-bermuda 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f9.svg"> | flag-bhutan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f4.svg"> | flag-bolivia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e6.svg"> | flag-bosnia-and-herzegovina | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fc.svg"> | flag-botswana 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fb.svg"> | flag-bouvet-island | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg"> | flag-brazil 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f4.svg"> | flag-british-indian-ocean-territory | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ec.svg"> | flag-british-virgin-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f3.svg"> | flag-brunei | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ec.svg"> | flag-bulgaria 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1eb.svg"> | flag-burkina-faso | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ee.svg"> | flag-burundi 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ed.svg"> | flag-cambodia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f2.svg"> | flag-cameroon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e6.svg"> | flag-canada | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e8.svg"> | flag-canary-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fb.svg"> | flag-cape-verde | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f6.svg"> | flag-caribbean-netherlands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1fe.svg"> | flag-cayman-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1eb.svg"> | flag-central-african-republic 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1e6.svg"> | flag-ceuta-and-melilla | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e9.svg"> | flag-chad 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f1.svg"> | flag-chile | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg"> | flag-china 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fd.svg"> | flag-christmas-island | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f5.svg"> | flag-clipperton-island 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e8.svg"> | flag-cocos-keeling-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg"> | flag-colombia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f2.svg"> | flag-comoros | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ec.svg"> | flag-congo-brazzaville 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e9.svg"> | flag-congo-kinshasa | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f0.svg"> | flag-cook-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f7.svg"> | flag-costa-rica | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ee.svg"> | flag-cote-divoire 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f7.svg"> | flag-croatia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fa.svg"> | flag-cuba 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fc.svg"> | flag-curacao | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fe.svg"> | flag-cyprus 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ff.svg"> | flag-czechia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f0.svg"> | flag-denmark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ec.svg"> | flag-diego-garcia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ef.svg"> | flag-djibouti 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f2.svg"> | flag-dominica | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f4.svg"> | flag-dominican-republic 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1e8.svg"> | flag-ecuador | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg"> | flag-egypt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fb.svg"> | flag-el-salvador | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f6.svg"> | flag-equatorial-guinea 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f7.svg"> | flag-eritrea | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ea.svg"> | flag-estonia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ff.svg"> | flag-eswatini | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f9.svg"> | flag-ethiopia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1fa.svg"> | flag-european-union | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f0.svg"> | flag-falkland-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f4.svg"> | flag-faroe-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1ef.svg"> | flag-fiji 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1ee.svg"> | flag-finland | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg"> | flag-france 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1eb.svg"> | flag-french-guiana | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1eb.svg"> | flag-french-polynesia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1eb.svg"> | flag-french-southern-territories | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e6.svg"> | flag-gabon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f2.svg"> | flag-gambia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ea.svg"> | flag-georgia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg"> | flag-germany | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ed.svg"> | flag-ghana 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ee.svg"> | flag-gibraltar | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f7.svg"> | flag-greece 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f1.svg"> | flag-greenland | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e9.svg"> | flag-grenada 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f5.svg"> | flag-guadeloupe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fa.svg"> | flag-guam 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f9.svg"> | flag-guatemala | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ec.svg"> | flag-guernsey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f3.svg"> | flag-guinea | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fc.svg"> | flag-guinea-bissau 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fe.svg"> | flag-guyana | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f9.svg"> | flag-haiti 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f2.svg"> | flag-heard-and-mcdonald-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f3.svg"> | flag-honduras 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"> | flag-hong-kong-sar-china | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1fa.svg"> | flag-hungary 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f8.svg"> | flag-iceland | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg"> | flag-india 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg"> | flag-indonesia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f7.svg"> | flag-iran 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f6.svg"> | flag-iraq | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1ea.svg"> | flag-ireland 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f2.svg"> | flag-isle-of-man | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f1.svg"> | flag-israel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f9.svg"> | flag-italy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f2.svg"> | flag-jamaica 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg"> | flag-japan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1ea.svg"> | flag-jersey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f4.svg"> | flag-jordan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ff.svg"> | flag-kazakhstan 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ea.svg"> | flag-kenya | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ee.svg"> | flag-kiribati 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fd-1f1f0.svg"> | flag-kosovo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1fc.svg"> | flag-kuwait 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ec.svg"> | flag-kyrgyzstan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e6.svg"> | flag-laos 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fb.svg"> | flag-latvia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e7.svg"> | flag-lebanon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f8.svg"> | flag-lesotho | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f7.svg"> | flag-liberia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fe.svg"> | flag-libya | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1ee.svg"> | flag-liechtenstein 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f9.svg"> | flag-lithuania | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fa.svg"> | flag-luxembourg 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f4.svg"> | flag-macao-sar-china | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ec.svg"> | flag-madagascar 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fc.svg"> | flag-malawi | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg"> | flag-malaysia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fb.svg"> | flag-maldives | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f1.svg"> | flag-mali 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f9.svg"> | flag-malta | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ed.svg"> | flag-marshall-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f6.svg"> | flag-martinique | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f7.svg"> | flag-mauritania 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fa.svg"> | flag-mauritius | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fe-1f1f9.svg"> | flag-mayotte 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fd.svg"> | flag-mexico | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f2.svg"> | flag-micronesia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e9.svg"> | flag-moldova | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e8.svg"> | flag-monaco 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f3.svg"> | flag-mongolia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ea.svg"> | flag-montenegro 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f8.svg"> | flag-montserrat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e6.svg"> | flag-morocco 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ff.svg"> | flag-mozambique | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f2.svg"> | flag-myanmar-burma 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1e6.svg"> | flag-namibia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f7.svg"> | flag-nauru 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f5.svg"> | flag-nepal | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f1.svg"> | flag-netherlands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1e8.svg"> | flag-new-caledonia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ff.svg"> | flag-new-zealand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ee.svg"> | flag-nicaragua | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ea.svg"> | flag-niger 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ec.svg"> | flag-nigeria | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1fa.svg"> | flag-niue 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1eb.svg"> | flag-norfolk-island | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f5.svg"> | flag-north-korea 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f0.svg"> | flag-north-macedonia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f5.svg"> | flag-northern-mariana-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f4.svg"> | flag-norway | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f4-1f1f2.svg"> | flag-oman 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f0.svg"> | flag-pakistan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1fc.svg"> | flag-palau 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f8.svg"> | flag-palestinian-territories | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1e6.svg"> | flag-panama 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ec.svg"> | flag-papua-new-guinea | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1fe.svg"> | flag-paraguay 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ea.svg"> | flag-peru | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ed.svg"> | flag-philippines 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f3.svg"> | flag-pitcairn-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f1.svg"> | flag-poland 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f9.svg"> | flag-portugal | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f7.svg"> | flag-puerto-rico 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f6-1f1e6.svg"> | flag-qatar | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1ea.svg"> | flag-reunion 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1f4.svg"> | flag-romania | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fa.svg"> | flag-russia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fc.svg"> | flag-rwanda | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fc-1f1f8.svg"> | flag-samoa 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f2.svg"> | flag-san-marino | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f9.svg"> | flag-sao-tome-and-principe 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg"> | flag-saudi-arabia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f3.svg"> | flag-senegal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1f8.svg"> | flag-serbia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e8.svg"> | flag-seychelles 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f1.svg"> | flag-sierra-leone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ec.svg"> | flag-singapore 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fd.svg"> | flag-sint-maarten | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f0.svg"> | flag-slovakia 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ee.svg"> | flag-slovenia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e7.svg"> | flag-solomon-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f4.svg"> | flag-somalia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1e6.svg"> | flag-south-africa 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f8.svg"> | flag-south-georgia-and-south-sandwich-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f7.svg"> | flag-south-korea 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f8.svg"> | flag-south-sudan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg"> | flag-spain 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f0.svg"> | flag-sri-lanka | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f1.svg"> | flag-st-barthelemy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ed.svg"> | flag-st-helena | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f3.svg"> | flag-st-kitts-and-nevis 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e8.svg"> | flag-st-lucia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1eb.svg"> | flag-st-martin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f2.svg"> | flag-st-pierre-and-miquelon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1e8.svg"> | flag-st-vincent-and-grenadines 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e9.svg"> | flag-sudan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f7.svg"> | flag-suriname 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ef.svg"> | flag-svalbard-and-jan-mayen | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ea.svg"> | flag-sweden 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ed.svg"> | flag-switzerland | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fe.svg"> | flag-syria 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg"> | flag-taiwan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ef.svg"> | flag-tajikistan 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ff.svg"> | flag-tanzania | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ed.svg"> | flag-thailand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f1.svg"> | flag-timor-leste | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ec.svg"> | flag-togo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f0.svg"> | flag-tokelau | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f4.svg"> | flag-tonga 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f9.svg"> | flag-trinidad-and-tobago | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e6.svg"> | flag-tristan-da-cunha 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f3.svg"> | flag-tunisia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f7.svg"> | flag-turkey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f2.svg"> | flag-turkmenistan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e8.svg"> | flag-turks-and-caicos-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fb.svg"> | flag-tuvalu | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f2.svg"> | flag-us-outlying-islands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ee.svg"> | flag-us-virgin-islands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1ec.svg"> | flag-uganda 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1e6.svg"> | flag-ukraine | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ea.svg"> | flag-united-arab-emirates 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg"> | flag-united-kingdom | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f3.svg"> | flag-united-nations 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg"> | flag-united-states | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1fe.svg"> | flag-uruguay 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1ff.svg"> | flag-uzbekistan | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1fa.svg"> | flag-vanuatu 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1e6.svg"> | flag-vatican-city | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ea.svg"> | flag-venezuela 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1f3.svg"> | flag-vietnam | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fc-1f1eb.svg"> | flag-wallis-and-futuna 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ed.svg"> | flag-western-sahara | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fe-1f1ea.svg"> | flag-yemen 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1f2.svg"> | flag-zambia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1fc.svg"> | flag-zimbabwe 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f4.svg"> | black-flag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c1.svg"> | chequered-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f38c.svg"> | crossed-flags | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f4-200d-2620-fe0f.svg"> | pirate-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f3-fe0f-200d-1f308.svg"> | rainbow-flag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f3-fe0f-200d-26a7-fe0f.svg"> | transgender-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a9.svg"> | triangular-flag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f3.svg"> | white-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg"> | flag-england | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg"> | flag-scotland 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.svg"> | flag-wales 
 ## Food and Drink
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-chocolate-bar"></i> | chocolate-bar | <i class="twa twa-lollipop"></i> | lollipop 
-| <i class="twa twa-shrimp"></i> | shrimp | <i class="twa twa-pretzel"></i> | pretzel 
-| <i class="twa twa-rice-ball"></i> | rice-ball | <i class="twa twa-squid"></i> | squid 
-| <i class="twa twa-tangerine"></i> | tangerine | <i class="twa twa-cookie"></i> | cookie 
-| <i class="twa twa-oden"></i> | oden | <i class="twa twa-pear"></i> | pear 
-| <i class="twa twa-leafy-green"></i> | leafy-green | <i class="twa twa-amphora"></i> | amphora 
-| <i class="twa twa-tumbler-glass"></i> | tumbler-glass | <i class="twa twa-teacup-without-handle"></i> | teacup-without-handle 
-| <i class="twa twa-cup-with-straw"></i> | cup-with-straw | <i class="twa twa-fork-and-knife-with-plate"></i> | fork-and-knife-with-plate 
-| <i class="twa twa-bowl-with-spoon"></i> | bowl-with-spoon | <i class="twa twa-popcorn"></i> | popcorn 
-| <i class="twa twa-canned-food"></i> | canned-food | <i class="twa twa-bento-box"></i> | bento-box 
-| <i class="twa twa-crab"></i> | crab | <i class="twa twa-dango"></i> | dango 
-| <i class="twa twa-takeout-box"></i> | takeout-box | <i class="twa twa-pot-of-food"></i> | pot-of-food 
-| <i class="twa twa-moon-cake"></i> | moon-cake | <i class="twa twa-spaghetti"></i> | spaghetti 
-| <i class="twa twa-cupcake"></i> | cupcake | <i class="twa twa-fondue"></i> | fondue 
-| <i class="twa twa-cooking"></i> | cooking | <i class="twa twa-shallow-pan-of-food"></i> | shallow-pan-of-food 
-| <i class="twa twa-sandwich"></i> | sandwich | <i class="twa twa-custard"></i> | custard 
-| <i class="twa twa-garlic"></i> | garlic | <i class="twa twa-cut-of-meat"></i> | cut-of-meat 
-| <i class="twa twa-eggplant"></i> | eggplant | <i class="twa twa-onion"></i> | onion 
-| <i class="twa twa-coconut"></i> | coconut | <i class="twa twa-mushroom"></i> | mushroom 
-| <i class="twa twa-cherries"></i> | cherries | <i class="twa twa-carrot"></i> | carrot 
-| <i class="twa twa-bell-pepper"></i> | bell-pepper | <i class="twa twa-potato"></i> | potato 
-| <i class="twa twa-olive"></i> | olive | <i class="twa twa-hot-pepper"></i> | hot-pepper 
-| <i class="twa twa-green-apple"></i> | green-apple | <i class="twa twa-peach"></i> | peach 
-| <i class="twa twa-lemon"></i> | lemon | <i class="twa twa-clinking-beer-mugs"></i> | clinking-beer-mugs 
-| <i class="twa twa-tropical-drink"></i> | tropical-drink | <i class="twa twa-melon"></i> | melon 
-| <i class="twa twa-spoon"></i> | spoon | <i class="twa twa-broccoli"></i> | broccoli 
-| <i class="twa twa-steaming-bowl"></i> | steaming-bowl | <i class="twa twa-avocado"></i> | avocado 
-| <i class="twa twa-mango"></i> | mango | <i class="twa twa-watermelon"></i> | watermelon 
-| <i class="twa twa-pancakes"></i> | pancakes | <i class="twa twa-strawberry"></i> | strawberry 
-| <i class="twa twa-cucumber"></i> | cucumber | <i class="twa twa-baguette-bread"></i> | baguette-bread 
-| <i class="twa twa-pineapple"></i> | pineapple | <i class="twa twa-peanuts"></i> | peanuts 
-| <i class="twa twa-hot-dog"></i> | hot-dog | <i class="twa twa-tomato"></i> | tomato 
-| <i class="twa twa-kiwi-fruit"></i> | kiwi-fruit | <i class="twa twa-shaved-ice"></i> | shaved-ice 
-| <i class="twa twa-meat-on-bone"></i> | meat-on-bone | <i class="twa twa-bagel"></i> | bagel 
-| <i class="twa twa-poultry-leg"></i> | poultry-leg | <i class="twa twa-red-apple"></i> | red-apple 
-| <i class="twa twa-curry-rice"></i> | curry-rice | <i class="twa twa-roasted-sweet-potato"></i> | roasted-sweet-potato 
-| <i class="twa twa-cocktail-glass"></i> | cocktail-glass | <i class="twa twa-honey-pot"></i> | honey-pot 
-| <i class="twa twa-hot-beverage"></i> | hot-beverage | <i class="twa twa-butter"></i> | butter 
-| <i class="twa twa-salt"></i> | salt | <i class="twa twa-beer-mug"></i> | beer-mug 
-| <i class="twa twa-baby-bottle"></i> | baby-bottle | <i class="twa twa-rice-cracker"></i> | rice-cracker 
-| <i class="twa twa-chopsticks"></i> | chopsticks | <i class="twa twa-birthday-cake"></i> | birthday-cake 
-| <i class="twa twa-wine-glass"></i> | wine-glass | <i class="twa twa-shortcake"></i> | shortcake 
-| <i class="twa twa-egg"></i> | egg | <i class="twa twa-kitchen-knife"></i> | kitchen-knife 
-| <i class="twa twa-pizza"></i> | pizza | <i class="twa twa-fork-and-knife"></i> | fork-and-knife 
-| <i class="twa twa-banana"></i> | banana | <i class="twa twa-cooked-rice"></i> | cooked-rice 
-| <i class="twa twa-soft-ice-cream"></i> | soft-ice-cream | <i class="twa twa-doughnut"></i> | doughnut 
-| <i class="twa twa-ice-cream"></i> | ice-cream | <i class="twa twa-sake"></i> | sake 
-| <i class="twa twa-chestnut"></i> | chestnut | <i class="twa twa-waffle"></i> | waffle 
-| <i class="twa twa-bottle-with-popping-cork"></i> | bottle-with-popping-cork | <i class="twa twa-lobster"></i> | lobster 
-| <i class="twa twa-teapot"></i> | teapot | <i class="twa twa-sushi"></i> | sushi 
-| <i class="twa twa-oyster"></i> | oyster | <i class="twa twa-bubble-tea"></i> | bubble-tea 
-| <i class="twa twa-mate"></i> | mate | <i class="twa twa-clinking-glasses"></i> | clinking-glasses 
-| <i class="twa twa-fortune-cookie"></i> | fortune-cookie | <i class="twa twa-green-salad"></i> | green-salad 
-| <i class="twa twa-dumpling"></i> | dumpling | <i class="twa twa-glass-of-milk"></i> | glass-of-milk 
-| <i class="twa twa-pie"></i> | pie | <i class="twa twa-burrito"></i> | burrito 
-| <i class="twa twa-beverage-box"></i> | beverage-box | <i class="twa twa-falafel"></i> | falafel 
-| <i class="twa twa-french-fries"></i> | french-fries | <i class="twa twa-fish-cake-with-swirl"></i> | fish-cake-with-swirl 
-| <i class="twa twa-ice"></i> | ice | <i class="twa twa-hamburger"></i> | hamburger 
-| <i class="twa twa-taco"></i> | taco | <i class="twa twa-bacon"></i> | bacon 
-| <i class="twa twa-stuffed-flatbread"></i> | stuffed-flatbread | <i class="twa twa-flatbread"></i> | flatbread 
-| <i class="twa twa-bread"></i> | bread | <i class="twa twa-ear-of-corn"></i> | ear-of-corn 
-| <i class="twa twa-croissant"></i> | croissant | <i class="twa twa-candy"></i> | candy 
-| <i class="twa twa-fried-shrimp"></i> | fried-shrimp | <i class="twa twa-tamale"></i> | tamale 
-| <i class="twa twa-grapes"></i> | grapes | <i class="twa twa-cheese-wedge"></i> | cheese-wedge 
-| <i class="twa twa-blueberries"></i> | blueberries 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3fa.svg"> | amphora | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f962.svg"> | chopsticks 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f374.svg"> | fork-and-knife | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37d.svg"> | fork-and-knife-with-plate 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52a.svg"> | kitchen-knife | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f944.svg"> | spoon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37c.svg"> | baby-bottle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37a.svg"> | beer-mug 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c3.svg"> | beverage-box | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37e.svg"> | bottle-with-popping-cork 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cb.svg"> | bubble-tea | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37b.svg"> | clinking-beer-mugs 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f942.svg"> | clinking-glasses | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f378.svg"> | cocktail-glass 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f964.svg"> | cup-with-straw | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95b.svg"> | glass-of-milk 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2615.svg"> | hot-beverage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ca.svg"> | ice 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c9.svg"> | mate | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f376.svg"> | sake 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f375.svg"> | teacup-without-handle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad6.svg"> | teapot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f379.svg"> | tropical-drink | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f943.svg"> | tumbler-glass 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f377.svg"> | wine-glass | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f371.svg"> | bento-box 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35a.svg"> | cooked-rice | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35b.svg"> | curry-rice 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f361.svg"> | dango | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95f.svg"> | dumpling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f365.svg"> | fish-cake-with-swirl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f960.svg"> | fortune-cookie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f364.svg"> | fried-shrimp | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96e.svg"> | moon-cake 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f362.svg"> | oden | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f359.svg"> | rice-ball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f358.svg"> | rice-cracker | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f360.svg"> | roasted-sweet-potato 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35d.svg"> | spaghetti | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35c.svg"> | steaming-bowl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f363.svg"> | sushi | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f961.svg"> | takeout-box 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34c.svg"> | banana | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad0.svg"> | blueberries 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f352.svg"> | cherries | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f965.svg"> | coconut 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f347.svg"> | grapes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34f.svg"> | green-apple 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95d.svg"> | kiwi-fruit | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34b.svg"> | lemon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96d.svg"> | mango | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f348.svg"> | melon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad2.svg"> | olive | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f351.svg"> | peach 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f350.svg"> | pear | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34d.svg"> | pineapple 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34e.svg"> | red-apple | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f353.svg"> | strawberry 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f34a.svg"> | tangerine | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f345.svg"> | tomato 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f349.svg"> | watermelon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f980.svg"> | crab 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f99e.svg"> | lobster | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9aa.svg"> | oyster 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f990.svg"> | shrimp | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f991.svg"> | squid 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f953.svg"> | bacon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96f.svg"> | bagel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f956.svg"> | baguette-bread | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f963.svg"> | bowl-with-spoon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35e.svg"> | bread | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32f.svg"> | burrito 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c8.svg"> | butter | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96b.svg"> | canned-food 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c0.svg"> | cheese-wedge | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f373.svg"> | cooking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f950.svg"> | croissant | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f969.svg"> | cut-of-meat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95a.svg"> | egg | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c6.svg"> | falafel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad3.svg"> | flatbread | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad5.svg"> | fondue 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f35f.svg"> | french-fries | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f957.svg"> | green-salad 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f354.svg"> | hamburger | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32d.svg"> | hot-dog 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f356.svg"> | meat-on-bone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95e.svg"> | pancakes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f355.svg"> | pizza | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f37f.svg"> | popcorn 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f372.svg"> | pot-of-food | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f357.svg"> | poultry-leg 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f968.svg"> | pretzel | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c2.svg"> | salt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96a.svg"> | sandwich | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f958.svg"> | shallow-pan-of-food 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f959.svg"> | stuffed-flatbread | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32e.svg"> | taco 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad4.svg"> | tamale | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c7.svg"> | waffle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f382.svg"> | birthday-cake | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36c.svg"> | candy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36b.svg"> | chocolate-bar | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36a.svg"> | cookie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c1.svg"> | cupcake | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36e.svg"> | custard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f369.svg"> | doughnut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36f.svg"> | honey-pot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f368.svg"> | ice-cream | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f36d.svg"> | lollipop 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f967.svg"> | pie | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f367.svg"> | shaved-ice 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f370.svg"> | shortcake | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f366.svg"> | soft-ice-cream 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f951.svg"> | avocado | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fad1.svg"> | bell-pepper 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f966.svg"> | broccoli | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f955.svg"> | carrot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f330.svg"> | chestnut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f952.svg"> | cucumber 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f33d.svg"> | ear-of-corn | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f346.svg"> | eggplant 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c4.svg"> | garlic | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f336.svg"> | hot-pepper 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f96c.svg"> | leafy-green | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f344.svg"> | mushroom 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9c5.svg"> | onion | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f95c.svg"> | peanuts 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f954.svg"> | potato 
 ## Objects
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-high-heeled-shoe"></i> | high-heeled-shoe | <i class="twa twa-mans-shoe"></i> | mans-shoe 
-| <i class="twa twa-crown"></i> | crown | <i class="twa twa-shopping-bags"></i> | shopping-bags 
-| <i class="twa twa-womans-boot"></i> | womans-boot | <i class="twa twa-top-hat"></i> | top-hat 
-| <i class="twa twa-running-shoe"></i> | running-shoe | <i class="twa twa-lipstick"></i> | lipstick 
-| <i class="twa twa-backpack"></i> | backpack | <i class="twa twa-speaker-low-volume"></i> | speaker-low-volume 
-| <i class="twa twa-postal-horn"></i> | postal-horn | <i class="twa twa-gem-stone"></i> | gem-stone 
-| <i class="twa twa-muted-speaker"></i> | muted-speaker | <i class="twa twa-ring"></i> | ring 
-| <i class="twa twa-speaker-medium-volume"></i> | speaker-medium-volume | <i class="twa twa-prayer-beads"></i> | prayer-beads 
-| <i class="twa twa-rescue-workers-helmet"></i> | rescue-workers-helmet | <i class="twa twa-megaphone"></i> | megaphone 
-| <i class="twa twa-musical-score"></i> | musical-score | <i class="twa twa-musical-notes"></i> | musical-notes 
-| <i class="twa twa-military-helmet"></i> | military-helmet | <i class="twa twa-loudspeaker"></i> | loudspeaker 
-| <i class="twa twa-microphone"></i> | microphone | <i class="twa twa-battery"></i> | battery 
-| <i class="twa twa-musical-note"></i> | musical-note | <i class="twa twa-womans-hat"></i> | womans-hat 
-| <i class="twa twa-bell"></i> | bell | <i class="twa twa-dvd"></i> | dvd 
-| <i class="twa twa-optical-disk"></i> | optical-disk | <i class="twa twa-thong-sandal"></i> | thong-sandal 
-| <i class="twa twa-flashlight"></i> | flashlight | <i class="twa twa-open-book"></i> | open-book 
-| <i class="twa twa-computer-disk"></i> | computer-disk | <i class="twa twa-camera-with-flash"></i> | camera-with-flash 
-| <i class="twa twa-mobile-phone"></i> | mobile-phone | <i class="twa twa-printer"></i> | printer 
-| <i class="twa twa-television"></i> | television | <i class="twa twa-keyboard"></i> | keyboard 
-| <i class="twa twa-film-projector"></i> | film-projector | <i class="twa twa-red-paper-lantern"></i> | red-paper-lantern 
-| <i class="twa twa-notebook-with-decorative-cover"></i> | notebook-with-decorative-cover | <i class="twa twa-envelope"></i> | envelope 
-| <i class="twa twa-clapper-board"></i> | clapper-board | <i class="twa twa-magnifying-glass-tilted-left"></i> | magnifying-glass-tilted-left 
-| <i class="twa twa-video-camera"></i> | video-camera | <i class="twa twa-coin"></i> | coin 
-| <i class="twa twa-dollar-banknote"></i> | dollar-banknote | <i class="twa twa-calendar"></i> | calendar 
-| <i class="twa twa-light-bulb"></i> | light-bulb | <i class="twa twa-fountain-pen"></i> | fountain-pen 
-| <i class="twa twa-pound-banknote"></i> | pound-banknote | <i class="twa twa-ballot-box-with-ballot"></i> | ballot-box-with-ballot 
-| <i class="twa twa-chart-increasing-with-yen"></i> | chart-increasing-with-yen | <i class="twa twa-outbox-tray"></i> | outbox-tray 
-| <i class="twa twa-receipt"></i> | receipt | <i class="twa twa-card-file-box"></i> | card-file-box 
-| <i class="twa twa-paperclip"></i> | paperclip | <i class="twa twa-chart-decreasing"></i> | chart-decreasing 
-| <i class="twa twa-pen"></i> | pen | <i class="twa twa-saxophone"></i> | saxophone 
-| <i class="twa twa-file-folder"></i> | file-folder | <i class="twa twa-open-file-folder"></i> | open-file-folder 
-| <i class="twa twa-tear-off-calendar"></i> | tear-off-calendar | <i class="twa twa-wastebasket"></i> | wastebasket 
-| <i class="twa twa-goggles"></i> | goggles | <i class="twa twa-chart-increasing"></i> | chart-increasing 
-| <i class="twa twa-newspaper"></i> | newspaper | <i class="twa twa-open-mailbox-with-raised-flag"></i> | open-mailbox-with-raised-flag 
-| <i class="twa twa-locked"></i> | locked | <i class="twa twa-mobile-phone-with-arrow"></i> | mobile-phone-with-arrow 
-| <i class="twa twa-clipboard"></i> | clipboard | <i class="twa twa-card-index"></i> | card-index 
-| <i class="twa twa-hiking-boot"></i> | hiking-boot | <i class="twa twa-camera"></i> | camera 
-| <i class="twa twa-straight-ruler"></i> | straight-ruler | <i class="twa twa-round-pushpin"></i> | round-pushpin 
-| <i class="twa twa-notebook"></i> | notebook | <i class="twa twa-locked-with-key"></i> | locked-with-key 
-| <i class="twa twa-scroll"></i> | scroll | <i class="twa twa-scissors"></i> | scissors 
-| <i class="twa twa-money-with-wings"></i> | money-with-wings | <i class="twa twa-control-knobs"></i> | control-knobs 
-| <i class="twa twa-long-drum"></i> | long-drum | <i class="twa twa-memo"></i> | memo 
-| <i class="twa twa-graduation-cap"></i> | graduation-cap | <i class="twa twa-billed-cap"></i> | billed-cap 
-| <i class="twa twa-adhesive-bandage"></i> | adhesive-bandage | <i class="twa twa-pill"></i> | pill 
-| <i class="twa twa-drop-of-blood"></i> | drop-of-blood | <i class="twa twa-elevator"></i> | elevator 
-| <i class="twa twa-door"></i> | door | <i class="twa twa-stethoscope"></i> | stethoscope 
-| <i class="twa twa-window"></i> | window | <i class="twa twa-sunglasses"></i> | sunglasses 
-| <i class="twa twa-bed"></i> | bed | <i class="twa twa-jeans"></i> | jeans 
-| <i class="twa twa-blue-book"></i> | blue-book | <i class="twa twa-nut-and-bolt"></i> | nut-and-bolt 
-| <i class="twa twa-boomerang"></i> | boomerang | <i class="twa twa-toolbox"></i> | toolbox 
-| <i class="twa twa-clamp"></i> | clamp | <i class="twa twa-violin"></i> | violin 
-| <i class="twa twa-musical-keyboard"></i> | musical-keyboard | <i class="twa twa-link"></i> | link 
-| <i class="twa twa-briefcase"></i> | briefcase | <i class="twa twa-lotion-bottle"></i> | lotion-bottle 
-| <i class="twa twa-roll-of-paper"></i> | roll-of-paper | <i class="twa twa-broom"></i> | broom 
-| <i class="twa twa-safety-pin"></i> | safety-pin | <i class="twa twa-razor"></i> | razor 
-| <i class="twa twa-basket"></i> | basket | <i class="twa twa-flat-shoe"></i> | flat-shoe 
-| <i class="twa twa-bell-with-slash"></i> | bell-with-slash | <i class="twa twa-speaker-high-volume"></i> | speaker-high-volume 
-| <i class="twa twa-sponge"></i> | sponge | <i class="twa twa-soap"></i> | soap 
-| <i class="twa twa-bucket"></i> | bucket | <i class="twa twa-toothbrush"></i> | toothbrush 
-| <i class="twa twa-accordion"></i> | accordion | <i class="twa twa-level-slider"></i> | level-slider 
-| <i class="twa twa-fire-extinguisher"></i> | fire-extinguisher | <i class="twa twa-shopping-cart"></i> | shopping-cart 
-| <i class="twa twa-cigarette"></i> | cigarette | <i class="twa twa-coffin"></i> | coffin 
-| <i class="twa twa-headstone"></i> | headstone | <i class="twa twa-headphone"></i> | headphone 
-| <i class="twa twa-funeral-urn"></i> | funeral-urn | <i class="twa twa-telephone"></i> | telephone 
-| <i class="twa twa-moai"></i> | moai | <i class="twa twa-placard"></i> | placard 
-| <i class="twa twa-abacus"></i> | abacus | <i class="twa twa-movie-camera"></i> | movie-camera 
-| <i class="twa twa-magnifying-glass-tilted-right"></i> | magnifying-glass-tilted-right | <i class="twa twa-guitar"></i> | guitar 
-| <i class="twa twa-envelope-with-arrow"></i> | envelope-with-arrow | <i class="twa twa-open-mailbox-with-lowered-flag"></i> | open-mailbox-with-lowered-flag 
-| <i class="twa twa-incoming-envelope"></i> | incoming-envelope | <i class="twa twa-closed-mailbox-with-raised-flag"></i> | closed-mailbox-with-raised-flag 
-| <i class="twa twa-spiral-calendar"></i> | spiral-calendar | <i class="twa twa-postbox"></i> | postbox 
-| <i class="twa twa-package"></i> | package | <i class="twa twa-page-with-curl"></i> | page-with-curl 
-| <i class="twa twa-candle"></i> | candle | <i class="twa twa-closed-mailbox-with-lowered-flag"></i> | closed-mailbox-with-lowered-flag 
-| <i class="twa twa-crayon"></i> | crayon | <i class="twa twa-bar-chart"></i> | bar-chart 
-| <i class="twa twa-dress"></i> | dress | <i class="twa twa-bikini"></i> | bikini 
-| <i class="twa twa-womans-sandal"></i> | womans-sandal | <i class="twa twa-briefs"></i> | briefs 
-| <i class="twa twa-sari"></i> | sari | <i class="twa twa-green-book"></i> | green-book 
-| <i class="twa twa-ballet-shoes"></i> | ballet-shoes | <i class="twa twa-one-piece-swimsuit"></i> | one-piece-swimsuit 
-| <i class="twa twa-clutch-bag"></i> | clutch-bag | <i class="twa twa-couch-and-lamp"></i> | couch-and-lamp 
-| <i class="twa twa-shorts"></i> | shorts | <i class="twa twa-handbag"></i> | handbag 
-| <i class="twa twa-toilet"></i> | toilet | <i class="twa twa-card-index-dividers"></i> | card-index-dividers 
-| <i class="twa twa-pushpin"></i> | pushpin | <i class="twa twa-file-cabinet"></i> | file-cabinet 
-| <i class="twa twa-kimono"></i> | kimono | <i class="twa twa-lab-coat"></i> | lab-coat 
-| <i class="twa twa-t-shirt"></i> | t-shirt | <i class="twa twa-glasses"></i> | glasses 
-| <i class="twa twa-safety-vest"></i> | safety-vest | <i class="twa twa-mirror"></i> | mirror 
-| <i class="twa twa-womans-clothes"></i> | womans-clothes | <i class="twa twa-chair"></i> | chair 
-| <i class="twa twa-coat"></i> | coat | <i class="twa twa-gloves"></i> | gloves 
-| <i class="twa twa-satellite-antenna"></i> | satellite-antenna | <i class="twa twa-socks"></i> | socks 
-| <i class="twa twa-scarf"></i> | scarf | <i class="twa twa-laptop"></i> | laptop 
-| <i class="twa twa-banjo"></i> | banjo | <i class="twa twa-books"></i> | books 
-| <i class="twa twa-desktop-computer"></i> | desktop-computer | <i class="twa twa-pencil"></i> | pencil 
-| <i class="twa twa-pager"></i> | pager | <i class="twa twa-black-nib"></i> | black-nib 
-| <i class="twa twa-floppy-disk"></i> | floppy-disk | <i class="twa twa-trackball"></i> | trackball 
-| <i class="twa twa-trumpet"></i> | trumpet | <i class="twa twa-telephone-receiver"></i> | telephone-receiver 
-| <i class="twa twa-orange-book"></i> | orange-book | <i class="twa twa-credit-card"></i> | credit-card 
-| <i class="twa twa-rolled-up-newspaper"></i> | rolled-up-newspaper | <i class="twa twa-paintbrush"></i> | paintbrush 
-| <i class="twa twa-label"></i> | label | <i class="twa twa-closed-book"></i> | closed-book 
-| <i class="twa twa-videocassette"></i> | videocassette | <i class="twa twa-hammer"></i> | hammer 
-| <i class="twa twa-bookmark"></i> | bookmark | <i class="twa twa-locked-with-pen"></i> | locked-with-pen 
-| <i class="twa twa-linked-paperclips"></i> | linked-paperclips | <i class="twa twa-old-key"></i> | old-key 
-| <i class="twa twa-key"></i> | key | <i class="twa twa-screwdriver"></i> | screwdriver 
-| <i class="twa twa-axe"></i> | axe | <i class="twa twa-dagger"></i> | dagger 
-| <i class="twa twa-spiral-notepad"></i> | spiral-notepad | <i class="twa twa-crossed-swords"></i> | crossed-swords 
-| <i class="twa twa-hammer-and-pick"></i> | hammer-and-pick | <i class="twa twa-hammer-and-wrench"></i> | hammer-and-wrench 
-| <i class="twa twa-pick"></i> | pick | <i class="twa twa-pistol"></i> | pistol 
-| <i class="twa twa-syringe"></i> | syringe | <i class="twa twa-plunger"></i> | plunger 
-| <i class="twa twa-necktie"></i> | necktie | <i class="twa twa-shower"></i> | shower 
-| <i class="twa twa-purse"></i> | purse | <i class="twa twa-triangular-ruler"></i> | triangular-ruler 
-| <i class="twa twa-petri-dish"></i> | petri-dish | <i class="twa twa-yen-banknote"></i> | yen-banknote 
-| <i class="twa twa-computer-mouse"></i> | computer-mouse | <i class="twa twa-hook"></i> | hook 
-| <i class="twa twa-electric-plug"></i> | electric-plug | <i class="twa twa-page-facing-up"></i> | page-facing-up 
-| <i class="twa twa-unlocked"></i> | unlocked | <i class="twa twa-euro-banknote"></i> | euro-banknote 
-| <i class="twa twa-gear"></i> | gear | <i class="twa twa-ladder"></i> | ladder 
-| <i class="twa twa-bow-and-arrow"></i> | bow-and-arrow | <i class="twa twa-carpentry-saw"></i> | carpentry-saw 
-| <i class="twa twa-dna"></i> | dna | <i class="twa twa-chains"></i> | chains 
-| <i class="twa twa-alembic"></i> | alembic | <i class="twa twa-mouse-trap"></i> | mouse-trap 
-| <i class="twa twa-bathtub"></i> | bathtub | <i class="twa twa-money-bag"></i> | money-bag 
-| <i class="twa twa-e-mail"></i> | e-mail | <i class="twa twa-inbox-tray"></i> | inbox-tray 
-| <i class="twa twa-drum"></i> | drum | <i class="twa twa-balance-scale"></i> | balance-scale 
-| <i class="twa twa-white-cane"></i> | white-cane | <i class="twa twa-ledger"></i> | ledger 
-| <i class="twa twa-magnet"></i> | magnet | <i class="twa twa-shield"></i> | shield 
-| <i class="twa twa-wrench"></i> | wrench | <i class="twa twa-film-frames"></i> | film-frames 
-| <i class="twa twa-bookmark-tabs"></i> | bookmark-tabs | <i class="twa twa-test-tube"></i> | test-tube 
-| <i class="twa twa-diya-lamp"></i> | diya-lamp | <i class="twa twa-studio-microphone"></i> | studio-microphone 
-| <i class="twa twa-radio"></i> | radio | <i class="twa twa-fax-machine"></i> | fax-machine 
-| <i class="twa twa-microscope"></i> | microscope | <i class="twa twa-telescope"></i> | telescope 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d8.svg"> | blue-book | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f516.svg"> | bookmark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d1.svg"> | bookmark-tabs | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4da.svg"> | books 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d5.svg"> | closed-book | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d7.svg"> | green-book 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f7.svg"> | label | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d2.svg"> | ledger 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f0.svg"> | newspaper | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d3.svg"> | notebook 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d4.svg"> | notebook-with-decorative-cover | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d6.svg"> | open-book 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d9.svg"> | orange-book | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c4.svg"> | page-facing-up 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c3.svg"> | page-with-curl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5de.svg"> | rolled-up-newspaper 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4dc.svg"> | scroll | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f392.svg"> | backpack 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa70.svg"> | ballet-shoes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f459.svg"> | bikini 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e2.svg"> | billed-cap | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa72.svg"> | briefs 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45d.svg"> | clutch-bag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e5.svg"> | coat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f451.svg"> | crown | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f457.svg"> | dress 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97f.svg"> | flat-shoe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48e.svg"> | gem-stone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f453.svg"> | glasses | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e4.svg"> | gloves 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97d.svg"> | goggles | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f393.svg"> | graduation-cap 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45c.svg"> | handbag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f460.svg"> | high-heeled-shoe 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97e.svg"> | hiking-boot | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f456.svg"> | jeans 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f458.svg"> | kimono | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97c.svg"> | lab-coat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f484.svg"> | lipstick | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45e.svg"> | mans-shoe 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa96.svg"> | military-helmet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f454.svg"> | necktie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa71.svg"> | one-piece-swimsuit | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ff.svg"> | prayer-beads 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45b.svg"> | purse | <img src="https://twemoji.maxcdn.com/v/latest/svg/26d1.svg"> | rescue-workers-helmet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48d.svg"> | ring | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45f.svg"> | running-shoe 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ba.svg"> | safety-vest | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97b.svg"> | sari 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e3.svg"> | scarf | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cd.svg"> | shopping-bags 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa73.svg"> | shorts | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e6.svg"> | socks 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f576.svg"> | sunglasses | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f455.svg"> | t-shirt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa74.svg"> | thong-sandal | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a9.svg"> | top-hat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f462.svg"> | womans-boot | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f45a.svg"> | womans-clothes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f452.svg"> | womans-hat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f461.svg"> | womans-sandal 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ee.svg"> | abacus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50b.svg"> | battery 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bd.svg"> | computer-disk | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5b1.svg"> | computer-mouse 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5a5.svg"> | desktop-computer | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c0.svg"> | dvd 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50c.svg"> | electric-plug | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4be.svg"> | floppy-disk 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2328.svg"> | keyboard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bb.svg"> | laptop 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bf.svg"> | optical-disk | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5a8.svg"> | printer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5b2.svg"> | trackball | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9fa.svg"> | basket 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c1.svg"> | bathtub | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cf.svg"> | bed 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f9.svg"> | broom | <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa3.svg"> | bucket 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa91.svg"> | chair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cb.svg"> | couch-and-lamp 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6aa.svg"> | door | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d7.svg"> | elevator 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ef.svg"> | fire-extinguisher | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f4.svg"> | lotion-bottle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9e.svg"> | mirror | <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa4.svg"> | mouse-trap 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa0.svg"> | plunger | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa92.svg"> | razor 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9fb.svg"> | roll-of-paper | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f7.svg"> | safety-pin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d2.svg"> | shopping-cart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6bf.svg"> | shower 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9fc.svg"> | soap | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9fd.svg"> | sponge 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6bd.svg"> | toilet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa5.svg"> | toothbrush 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9f.svg"> | window | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f7.svg"> | camera 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f8.svg"> | camera-with-flash | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f56f.svg"> | candle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ac.svg"> | clapper-board | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa94.svg"> | diya-lamp 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f39e.svg"> | film-frames | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4fd.svg"> | film-projector 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f526.svg"> | flashlight | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a1.svg"> | light-bulb 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50d.svg"> | magnifying-glass-tilted-left | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50e.svg"> | magnifying-glass-tilted-right 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a5.svg"> | movie-camera | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ee.svg"> | red-paper-lantern 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4fa.svg"> | television | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f9.svg"> | video-camera 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4fc.svg"> | videocassette | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f511.svg"> | key 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f512.svg"> | locked | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f510.svg"> | locked-with-key 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50f.svg"> | locked-with-pen | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5dd.svg"> | old-key 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f513.svg"> | unlocked | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5f3.svg"> | ballot-box-with-ballot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ea.svg"> | closed-mailbox-with-lowered-flag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4eb.svg"> | closed-mailbox-with-raised-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e7.svg"> | e-mail | <img src="https://twemoji.maxcdn.com/v/latest/svg/2709.svg"> | envelope 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e9.svg"> | envelope-with-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e5.svg"> | inbox-tray 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e8.svg"> | incoming-envelope | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ed.svg"> | open-mailbox-with-lowered-flag 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ec.svg"> | open-mailbox-with-raised-flag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e4.svg"> | outbox-tray 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e6.svg"> | package | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ee.svg"> | postbox 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa79.svg"> | adhesive-bandage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa78.svg"> | drop-of-blood 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48a.svg"> | pill | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa7a.svg"> | stethoscope 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f489.svg"> | syringe | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b9.svg"> | chart-increasing-with-yen 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa99.svg"> | coin | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b3.svg"> | credit-card 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b5.svg"> | dollar-banknote | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b6.svg"> | euro-banknote 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b0.svg"> | money-bag | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b8.svg"> | money-with-wings 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b7.svg"> | pound-banknote | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9fe.svg"> | receipt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b4.svg"> | yen-banknote | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f39b.svg"> | control-knobs 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a7.svg"> | headphone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f39a.svg"> | level-slider 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a4.svg"> | microphone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b5.svg"> | musical-note 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b6.svg"> | musical-notes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3bc.svg"> | musical-score 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4fb.svg"> | radio | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f399.svg"> | studio-microphone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa97.svg"> | accordion | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa95.svg"> | banjo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f941.svg"> | drum | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b8.svg"> | guitar 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa98.svg"> | long-drum | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b9.svg"> | musical-keyboard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3b7.svg"> | saxophone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ba.svg"> | trumpet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3bb.svg"> | violin | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ca.svg"> | bar-chart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4bc.svg"> | briefcase | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c5.svg"> | calendar 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5c3.svg"> | card-file-box | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c7.svg"> | card-index 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5c2.svg"> | card-index-dividers | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c9.svg"> | chart-decreasing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c8.svg"> | chart-increasing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4cb.svg"> | clipboard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5c4.svg"> | file-cabinet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c1.svg"> | file-folder 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f587.svg"> | linked-paperclips | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c2.svg"> | open-file-folder 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ce.svg"> | paperclip | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4cc.svg"> | pushpin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4cd.svg"> | round-pushpin | <img src="https://twemoji.maxcdn.com/v/latest/svg/2702.svg"> | scissors 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5d3.svg"> | spiral-calendar | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5d2.svg"> | spiral-notepad 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4cf.svg"> | straight-ruler | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4c6.svg"> | tear-off-calendar 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4d0.svg"> | triangular-ruler | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5d1.svg"> | wastebasket 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ac.svg"> | cigarette | <img src="https://twemoji.maxcdn.com/v/latest/svg/26b0.svg"> | coffin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26b1.svg"> | funeral-urn | <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa6.svg"> | headstone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5ff.svg"> | moai | <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa7.svg"> | placard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e0.svg"> | fax-machine | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f1.svg"> | mobile-phone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f2.svg"> | mobile-phone-with-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4df.svg"> | pager 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/260e.svg"> | telephone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4de.svg"> | telephone-receiver 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2697.svg"> | alembic | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ec.svg"> | dna 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52c.svg"> | microscope | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9eb.svg"> | petri-dish 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e1.svg"> | satellite-antenna | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52d.svg"> | telescope 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ea.svg"> | test-tube | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f514.svg"> | bell 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f515.svg"> | bell-with-slash | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e2.svg"> | loudspeaker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4e3.svg"> | megaphone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f507.svg"> | muted-speaker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ef.svg"> | postal-horn | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f50a.svg"> | speaker-high-volume 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f508.svg"> | speaker-low-volume | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f509.svg"> | speaker-medium-volume 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa93.svg"> | axe | <img src="https://twemoji.maxcdn.com/v/latest/svg/2696.svg"> | balance-scale 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa83.svg"> | boomerang | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f9.svg"> | bow-and-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9a.svg"> | carpentry-saw | <img src="https://twemoji.maxcdn.com/v/latest/svg/26d3.svg"> | chains 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5dc.svg"> | clamp | <img src="https://twemoji.maxcdn.com/v/latest/svg/2694.svg"> | crossed-swords 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5e1.svg"> | dagger | <img src="https://twemoji.maxcdn.com/v/latest/svg/2699.svg"> | gear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f528.svg"> | hammer | <img src="https://twemoji.maxcdn.com/v/latest/svg/2692.svg"> | hammer-and-pick 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e0.svg"> | hammer-and-wrench | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9d.svg"> | hook 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9c.svg"> | ladder | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f517.svg"> | link 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f2.svg"> | magnet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f529.svg"> | nut-and-bolt 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26cf.svg"> | pick | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52b.svg"> | pistol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa9b.svg"> | screwdriver | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e1.svg"> | shield 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f0.svg"> | toolbox | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9af.svg"> | white-cane 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f527.svg"> | wrench | <img src="https://twemoji.maxcdn.com/v/latest/svg/2712.svg"> | black-nib 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f58d.svg"> | crayon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f58b.svg"> | fountain-pen 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4dd.svg"> | memo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f58c.svg"> | paintbrush 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f58a.svg"> | pen | <img src="https://twemoji.maxcdn.com/v/latest/svg/270f.svg"> | pencil 
 
 ## People and Body
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-waving-hand-dark-skin-tone"></i> | waving-hand-dark-skin-tone | <i class="twa twa-hand-with-fingers-splayed-medium-dark-skin-tone"></i> | hand-with-fingers-splayed-medium-dark-skin-tone 
-| <i class="twa twa-raised-back-of-hand-medium-skin-tone"></i> | raised-back-of-hand-medium-skin-tone | <i class="twa twa-raised-back-of-hand-medium-dark-skin-tone"></i> | raised-back-of-hand-medium-dark-skin-tone 
-| <i class="twa twa-raised-hand-light-skin-tone"></i> | raised-hand-light-skin-tone | <i class="twa twa-hand-with-fingers-splayed-medium-light-skin-tone"></i> | hand-with-fingers-splayed-medium-light-skin-tone 
-| <i class="twa twa-hand-with-fingers-splayed-dark-skin-tone"></i> | hand-with-fingers-splayed-dark-skin-tone | <i class="twa twa-raised-hand"></i> | raised-hand 
-| <i class="twa twa-raised-hand-medium-light-skin-tone"></i> | raised-hand-medium-light-skin-tone | <i class="twa twa-raised-hand-medium-dark-skin-tone"></i> | raised-hand-medium-dark-skin-tone 
-| <i class="twa twa-vulcan-salute-light-skin-tone"></i> | vulcan-salute-light-skin-tone | <i class="twa twa-vulcan-salute"></i> | vulcan-salute 
-| <i class="twa twa-vulcan-salute-dark-skin-tone"></i> | vulcan-salute-dark-skin-tone | <i class="twa twa-vulcan-salute-medium-dark-skin-tone"></i> | vulcan-salute-medium-dark-skin-tone 
-| <i class="twa twa-raised-hand-medium-skin-tone"></i> | raised-hand-medium-skin-tone | <i class="twa twa-ok-hand"></i> | ok-hand 
-| <i class="twa twa-vulcan-salute-medium-skin-tone"></i> | vulcan-salute-medium-skin-tone | <i class="twa twa-ok-hand-light-skin-tone"></i> | ok-hand-light-skin-tone 
-| <i class="twa twa-ok-hand-medium-light-skin-tone"></i> | ok-hand-medium-light-skin-tone | <i class="twa twa-pinching-hand"></i> | pinching-hand 
-| <i class="twa twa-pinching-hand-medium-skin-tone"></i> | pinching-hand-medium-skin-tone | <i class="twa twa-pinching-hand-light-skin-tone"></i> | pinching-hand-light-skin-tone 
-| <i class="twa twa-ok-hand-medium-dark-skin-tone"></i> | ok-hand-medium-dark-skin-tone | <i class="twa twa-pinched-fingers-medium-skin-tone"></i> | pinched-fingers-medium-skin-tone 
-| <i class="twa twa-vulcan-salute-medium-light-skin-tone"></i> | vulcan-salute-medium-light-skin-tone | <i class="twa twa-ok-hand-medium-skin-tone"></i> | ok-hand-medium-skin-tone 
-| <i class="twa twa-pinched-fingers"></i> | pinched-fingers | <i class="twa twa-pinching-hand-dark-skin-tone"></i> | pinching-hand-dark-skin-tone 
-| <i class="twa twa-raised-back-of-hand-light-skin-tone"></i> | raised-back-of-hand-light-skin-tone | <i class="twa twa-pinched-fingers-light-skin-tone"></i> | pinched-fingers-light-skin-tone 
-| <i class="twa twa-pinched-fingers-medium-light-skin-tone"></i> | pinched-fingers-medium-light-skin-tone | <i class="twa twa-pinched-fingers-medium-dark-skin-tone"></i> | pinched-fingers-medium-dark-skin-tone 
-| <i class="twa twa-victory-hand"></i> | victory-hand | <i class="twa twa-pinched-fingers-dark-skin-tone"></i> | pinched-fingers-dark-skin-tone 
-| <i class="twa twa-hand-with-fingers-splayed-medium-skin-tone"></i> | hand-with-fingers-splayed-medium-skin-tone | <i class="twa twa-victory-hand-medium-skin-tone"></i> | victory-hand-medium-skin-tone 
-| <i class="twa twa-victory-hand-dark-skin-tone"></i> | victory-hand-dark-skin-tone | <i class="twa twa-love-you-gesture"></i> | love-you-gesture 
-| <i class="twa twa-love-you-gesture-dark-skin-tone"></i> | love-you-gesture-dark-skin-tone | <i class="twa twa-ok-hand-dark-skin-tone"></i> | ok-hand-dark-skin-tone 
-| <i class="twa twa-crossed-fingers-medium-dark-skin-tone"></i> | crossed-fingers-medium-dark-skin-tone | <i class="twa twa-crossed-fingers"></i> | crossed-fingers 
-| <i class="twa twa-victory-hand-medium-dark-skin-tone"></i> | victory-hand-medium-dark-skin-tone | <i class="twa twa-crossed-fingers-medium-skin-tone"></i> | crossed-fingers-medium-skin-tone 
-| <i class="twa twa-call-me-hand-dark-skin-tone"></i> | call-me-hand-dark-skin-tone | <i class="twa twa-sign-of-the-horns-medium-dark-skin-tone"></i> | sign-of-the-horns-medium-dark-skin-tone 
-| <i class="twa twa-thumbs-up-dark-skin-tone"></i> | thumbs-up-dark-skin-tone | <i class="twa twa-thumbs-down-light-skin-tone"></i> | thumbs-down-light-skin-tone 
-| <i class="twa twa-call-me-hand-light-skin-tone"></i> | call-me-hand-light-skin-tone | <i class="twa twa-thumbs-down"></i> | thumbs-down 
-| <i class="twa twa-victory-hand-medium-light-skin-tone"></i> | victory-hand-medium-light-skin-tone | <i class="twa twa-sign-of-the-horns-medium-skin-tone"></i> | sign-of-the-horns-medium-skin-tone 
-| <i class="twa twa-thumbs-down-dark-skin-tone"></i> | thumbs-down-dark-skin-tone | <i class="twa twa-thumbs-down-medium-skin-tone"></i> | thumbs-down-medium-skin-tone 
-| <i class="twa twa-waving-hand"></i> | waving-hand | <i class="twa twa-oncoming-fist-medium-skin-tone"></i> | oncoming-fist-medium-skin-tone 
-| <i class="twa twa-raised-fist-dark-skin-tone"></i> | raised-fist-dark-skin-tone | <i class="twa twa-raised-fist-medium-dark-skin-tone"></i> | raised-fist-medium-dark-skin-tone 
-| <i class="twa twa-thumbs-down-medium-dark-skin-tone"></i> | thumbs-down-medium-dark-skin-tone | <i class="twa twa-oncoming-fist-medium-light-skin-tone"></i> | oncoming-fist-medium-light-skin-tone 
-| <i class="twa twa-middle-finger-medium-light-skin-tone"></i> | middle-finger-medium-light-skin-tone | <i class="twa twa-raised-fist-light-skin-tone"></i> | raised-fist-light-skin-tone 
-| <i class="twa twa-backhand-index-pointing-up-dark-skin-tone"></i> | backhand-index-pointing-up-dark-skin-tone | <i class="twa twa-oncoming-fist-light-skin-tone"></i> | oncoming-fist-light-skin-tone 
-| <i class="twa twa-right-facing-fist"></i> | right-facing-fist | <i class="twa twa-oncoming-fist"></i> | oncoming-fist 
-| <i class="twa twa-left-facing-fist-medium-skin-tone"></i> | left-facing-fist-medium-skin-tone | <i class="twa twa-left-facing-fist-medium-dark-skin-tone"></i> | left-facing-fist-medium-dark-skin-tone 
-| <i class="twa twa-oncoming-fist-medium-dark-skin-tone"></i> | oncoming-fist-medium-dark-skin-tone | <i class="twa twa-right-facing-fist-dark-skin-tone"></i> | right-facing-fist-dark-skin-tone 
-| <i class="twa twa-right-facing-fist-light-skin-tone"></i> | right-facing-fist-light-skin-tone | <i class="twa twa-backhand-index-pointing-left-dark-skin-tone"></i> | backhand-index-pointing-left-dark-skin-tone 
-| <i class="twa twa-clapping-hands"></i> | clapping-hands | <i class="twa twa-index-pointing-up"></i> | index-pointing-up 
-| <i class="twa twa-left-facing-fist"></i> | left-facing-fist | <i class="twa twa-left-facing-fist-light-skin-tone"></i> | left-facing-fist-light-skin-tone 
-| <i class="twa twa-selfie-medium-light-skin-tone"></i> | selfie-medium-light-skin-tone | <i class="twa twa-right-facing-fist-medium-skin-tone"></i> | right-facing-fist-medium-skin-tone 
-| <i class="twa twa-thumbs-down-medium-light-skin-tone"></i> | thumbs-down-medium-light-skin-tone | <i class="twa twa-right-facing-fist-medium-light-skin-tone"></i> | right-facing-fist-medium-light-skin-tone 
-| <i class="twa twa-raising-hands-medium-skin-tone"></i> | raising-hands-medium-skin-tone | <i class="twa twa-flexed-biceps-dark-skin-tone"></i> | flexed-biceps-dark-skin-tone 
-| <i class="twa twa-left-facing-fist-dark-skin-tone"></i> | left-facing-fist-dark-skin-tone | <i class="twa twa-right-facing-fist-medium-dark-skin-tone"></i> | right-facing-fist-medium-dark-skin-tone 
-| <i class="twa twa-leg-light-skin-tone"></i> | leg-light-skin-tone | <i class="twa twa-flexed-biceps-medium-dark-skin-tone"></i> | flexed-biceps-medium-dark-skin-tone 
-| <i class="twa twa-left-facing-fist-medium-light-skin-tone"></i> | left-facing-fist-medium-light-skin-tone | <i class="twa twa-flexed-biceps"></i> | flexed-biceps 
-| <i class="twa twa-flexed-biceps-medium-light-skin-tone"></i> | flexed-biceps-medium-light-skin-tone | <i class="twa twa-selfie-dark-skin-tone"></i> | selfie-dark-skin-tone 
-| <i class="twa twa-leg-medium-light-skin-tone"></i> | leg-medium-light-skin-tone | <i class="twa twa-leg-medium-dark-skin-tone"></i> | leg-medium-dark-skin-tone 
-| <i class="twa twa-foot-light-skin-tone"></i> | foot-light-skin-tone | <i class="twa twa-leg-dark-skin-tone"></i> | leg-dark-skin-tone 
-| <i class="twa twa-ear-medium-skin-tone"></i> | ear-medium-skin-tone | <i class="twa twa-flexed-biceps-medium-skin-tone"></i> | flexed-biceps-medium-skin-tone 
-| <i class="twa twa-foot-medium-dark-skin-tone"></i> | foot-medium-dark-skin-tone | <i class="twa twa-leg"></i> | leg 
-| <i class="twa twa-ear-with-hearing-aid-medium-light-skin-tone"></i> | ear-with-hearing-aid-medium-light-skin-tone | <i class="twa twa-ear"></i> | ear 
-| <i class="twa twa-mechanical-arm"></i> | mechanical-arm | <i class="twa twa-foot-medium-skin-tone"></i> | foot-medium-skin-tone 
-| <i class="twa twa-ear-with-hearing-aid-medium-dark-skin-tone"></i> | ear-with-hearing-aid-medium-dark-skin-tone | <i class="twa twa-mechanical-leg"></i> | mechanical-leg 
-| <i class="twa twa-foot"></i> | foot | <i class="twa twa-foot-dark-skin-tone"></i> | foot-dark-skin-tone 
-| <i class="twa twa-nose-medium-dark-skin-tone"></i> | nose-medium-dark-skin-tone | <i class="twa twa-ear-medium-dark-skin-tone"></i> | ear-medium-dark-skin-tone 
-| <i class="twa twa-nose-light-skin-tone"></i> | nose-light-skin-tone | <i class="twa twa-ear-medium-light-skin-tone"></i> | ear-medium-light-skin-tone 
-| <i class="twa twa-nose-medium-light-skin-tone"></i> | nose-medium-light-skin-tone | <i class="twa twa-tooth"></i> | tooth 
-| <i class="twa twa-ear-light-skin-tone"></i> | ear-light-skin-tone | <i class="twa twa-nose"></i> | nose 
-| <i class="twa twa-eye"></i> | eye | <i class="twa twa-ear-with-hearing-aid-dark-skin-tone"></i> | ear-with-hearing-aid-dark-skin-tone 
-| <i class="twa twa-eyes"></i> | eyes | <i class="twa twa-nose-dark-skin-tone"></i> | nose-dark-skin-tone 
-| <i class="twa twa-brain"></i> | brain | <i class="twa twa-foot-medium-light-skin-tone"></i> | foot-medium-light-skin-tone 
-| <i class="twa twa-bone"></i> | bone | <i class="twa twa-ear-with-hearing-aid"></i> | ear-with-hearing-aid 
-| <i class="twa twa-baby-medium-skin-tone"></i> | baby-medium-skin-tone | <i class="twa twa-child-medium-skin-tone"></i> | child-medium-skin-tone 
-| <i class="twa twa-anatomical-heart"></i> | anatomical-heart | <i class="twa twa-boy"></i> | boy 
-| <i class="twa twa-baby-medium-light-skin-tone"></i> | baby-medium-light-skin-tone | <i class="twa twa-tongue"></i> | tongue 
-| <i class="twa twa-child-light-skin-tone"></i> | child-light-skin-tone | <i class="twa twa-child-medium-dark-skin-tone"></i> | child-medium-dark-skin-tone 
-| <i class="twa twa-baby-dark-skin-tone"></i> | baby-dark-skin-tone | <i class="twa twa-baby"></i> | baby 
-| <i class="twa twa-baby-medium-dark-skin-tone"></i> | baby-medium-dark-skin-tone | <i class="twa twa-person-medium-light-skin-tone"></i> | person-medium-light-skin-tone 
-| <i class="twa twa-person-medium-dark-skin-tone"></i> | person-medium-dark-skin-tone | <i class="twa twa-child-medium-light-skin-tone"></i> | child-medium-light-skin-tone 
-| <i class="twa twa-boy-medium-light-skin-tone"></i> | boy-medium-light-skin-tone | <i class="twa twa-person"></i> | person 
-| <i class="twa twa-girl-light-skin-tone"></i> | girl-light-skin-tone | <i class="twa twa-girl-medium-light-skin-tone"></i> | girl-medium-light-skin-tone 
-| <i class="twa twa-girl-dark-skin-tone"></i> | girl-dark-skin-tone | <i class="twa twa-child"></i> | child 
-| <i class="twa twa-boy-dark-skin-tone"></i> | boy-dark-skin-tone | <i class="twa twa-man-light-skin-tone"></i> | man-light-skin-tone 
-| <i class="twa twa-person-dark-skin-tone-blond-hair"></i> | person-dark-skin-tone-blond-hair | <i class="twa twa-child-dark-skin-tone"></i> | child-dark-skin-tone 
-| <i class="twa twa-thumbs-up-medium-skin-tone"></i> | thumbs-up-medium-skin-tone | <i class="twa twa-man"></i> | man 
-| <i class="twa twa-person-medium-skin-tone"></i> | person-medium-skin-tone | <i class="twa twa-person-blond-hair"></i> | person-blond-hair 
-| <i class="twa twa-man-dark-skin-tone"></i> | man-dark-skin-tone | <i class="twa twa-man-medium-dark-skin-tone"></i> | man-medium-dark-skin-tone 
-| <i class="twa twa-person-light-skin-tone-blond-hair"></i> | person-light-skin-tone-blond-hair | <i class="twa twa-person-medium-skin-tone-blond-hair"></i> | person-medium-skin-tone-blond-hair 
-| <i class="twa twa-person-light-skin-tone"></i> | person-light-skin-tone | <i class="twa twa-person-medium-dark-skin-tone-blond-hair"></i> | person-medium-dark-skin-tone-blond-hair 
-| <i class="twa twa-man-medium-skin-tone-red-hair"></i> | man-medium-skin-tone-red-hair | <i class="twa twa-man-medium-light-skin-tone"></i> | man-medium-light-skin-tone 
-| <i class="twa twa-person-dark-skin-tone"></i> | person-dark-skin-tone | <i class="twa twa-man-dark-skin-tone-curly-hair"></i> | man-dark-skin-tone-curly-hair 
-| <i class="twa twa-leg-medium-skin-tone"></i> | leg-medium-skin-tone | <i class="twa twa-ear-with-hearing-aid-medium-skin-tone"></i> | ear-with-hearing-aid-medium-skin-tone 
-| <i class="twa twa-man-medium-dark-skin-tone-curly-hair"></i> | man-medium-dark-skin-tone-curly-hair | <i class="twa twa-man-dark-skin-tone-red-hair"></i> | man-dark-skin-tone-red-hair 
-| <i class="twa twa-man-curly-hair"></i> | man-curly-hair | <i class="twa twa-nose-medium-skin-tone"></i> | nose-medium-skin-tone 
-| <i class="twa twa-man-medium-light-skin-tone-beard"></i> | man-medium-light-skin-tone-beard | <i class="twa twa-man-medium-skin-tone-beard"></i> | man-medium-skin-tone-beard 
-| <i class="twa twa-man-medium-light-skin-tone-white-hair"></i> | man-medium-light-skin-tone-white-hair | <i class="twa twa-man-dark-skin-tone-beard"></i> | man-dark-skin-tone-beard 
-| <i class="twa twa-man-white-hair"></i> | man-white-hair | <i class="twa twa-woman-medium-skin-tone"></i> | woman-medium-skin-tone 
-| <i class="twa twa-man-medium-dark-skin-tone-beard"></i> | man-medium-dark-skin-tone-beard | <i class="twa twa-man-beard"></i> | man-beard 
-| <i class="twa twa-man-medium-light-skin-tone-bald"></i> | man-medium-light-skin-tone-bald | <i class="twa twa-man-medium-dark-skin-tone-red-hair"></i> | man-medium-dark-skin-tone-red-hair 
-| <i class="twa twa-man-red-hair"></i> | man-red-hair | <i class="twa twa-man-light-skin-tone-red-hair"></i> | man-light-skin-tone-red-hair 
-| <i class="twa twa-lungs"></i> | lungs | <i class="twa twa-man-medium-skin-tone"></i> | man-medium-skin-tone 
-| <i class="twa twa-man-light-skin-tone-curly-hair"></i> | man-light-skin-tone-curly-hair | <i class="twa twa-man-medium-light-skin-tone-curly-hair"></i> | man-medium-light-skin-tone-curly-hair 
-| <i class="twa twa-man-medium-skin-tone-curly-hair"></i> | man-medium-skin-tone-curly-hair | <i class="twa twa-man-medium-skin-tone-white-hair"></i> | man-medium-skin-tone-white-hair 
-| <i class="twa twa-woman-medium-dark-skin-tone-red-hair"></i> | woman-medium-dark-skin-tone-red-hair | <i class="twa twa-man-dark-skin-tone-white-hair"></i> | man-dark-skin-tone-white-hair 
-| <i class="twa twa-man-light-skin-tone-white-hair"></i> | man-light-skin-tone-white-hair | <i class="twa twa-man-light-skin-tone-bald"></i> | man-light-skin-tone-bald 
-| <i class="twa twa-woman-dark-skin-tone"></i> | woman-dark-skin-tone | <i class="twa twa-woman-light-skin-tone-curly-hair"></i> | woman-light-skin-tone-curly-hair 
-| <i class="twa twa-person-curly-hair"></i> | person-curly-hair | <i class="twa twa-woman-medium-dark-skin-tone"></i> | woman-medium-dark-skin-tone 
-| <i class="twa twa-person-medium-skin-tone-red-hair"></i> | person-medium-skin-tone-red-hair | <i class="twa twa-person-light-skin-tone-curly-hair"></i> | person-light-skin-tone-curly-hair 
-| <i class="twa twa-woman-medium-light-skin-tone-bald"></i> | woman-medium-light-skin-tone-bald | <i class="twa twa-woman-white-hair"></i> | woman-white-hair 
-| <i class="twa twa-man-medium-dark-skin-tone-bald"></i> | man-medium-dark-skin-tone-bald | <i class="twa twa-man-dark-skin-tone-bald"></i> | man-dark-skin-tone-bald 
-| <i class="twa twa-man-bald"></i> | man-bald | <i class="twa twa-woman-light-skin-tone-red-hair"></i> | woman-light-skin-tone-red-hair 
-| <i class="twa twa-person-bald"></i> | person-bald | <i class="twa twa-woman-medium-light-skin-tone-blond-hair"></i> | woman-medium-light-skin-tone-blond-hair 
-| <i class="twa twa-woman-medium-skin-tone-bald"></i> | woman-medium-skin-tone-bald | <i class="twa twa-woman-medium-light-skin-tone-red-hair"></i> | woman-medium-light-skin-tone-red-hair 
-| <i class="twa twa-selfie-medium-skin-tone"></i> | selfie-medium-skin-tone | <i class="twa twa-person-light-skin-tone-white-hair"></i> | person-light-skin-tone-white-hair 
-| <i class="twa twa-person-medium-skin-tone-bald"></i> | person-medium-skin-tone-bald | <i class="twa twa-woman-dark-skin-tone-red-hair"></i> | woman-dark-skin-tone-red-hair 
-| <i class="twa twa-person-red-hair"></i> | person-red-hair | <i class="twa twa-person-medium-light-skin-tone-red-hair"></i> | person-medium-light-skin-tone-red-hair 
-| <i class="twa twa-person-medium-dark-skin-tone-white-hair"></i> | person-medium-dark-skin-tone-white-hair | <i class="twa twa-person-medium-dark-skin-tone-curly-hair"></i> | person-medium-dark-skin-tone-curly-hair 
-| <i class="twa twa-older-person"></i> | older-person | <i class="twa twa-person-light-skin-tone-red-hair"></i> | person-light-skin-tone-red-hair 
-| <i class="twa twa-woman-dark-skin-tone-blond-hair"></i> | woman-dark-skin-tone-blond-hair | <i class="twa twa-woman-dark-skin-tone-bald"></i> | woman-dark-skin-tone-bald 
-| <i class="twa twa-person-medium-light-skin-tone-white-hair"></i> | person-medium-light-skin-tone-white-hair | <i class="twa twa-person-medium-skin-tone-curly-hair"></i> | person-medium-skin-tone-curly-hair 
-| <i class="twa twa-person-dark-skin-tone-red-hair"></i> | person-dark-skin-tone-red-hair | <i class="twa twa-person-dark-skin-tone-white-hair"></i> | person-dark-skin-tone-white-hair 
-| <i class="twa twa-person-dark-skin-tone-curly-hair"></i> | person-dark-skin-tone-curly-hair | <i class="twa twa-man-gesturing-ok-light-skin-tone"></i> | man-gesturing-ok-light-skin-tone 
-| <i class="twa twa-old-woman-dark-skin-tone"></i> | old-woman-dark-skin-tone | <i class="twa twa-man-gesturing-ok"></i> | man-gesturing-ok 
-| <i class="twa twa-person-gesturing-ok-medium-light-skin-tone"></i> | person-gesturing-ok-medium-light-skin-tone | <i class="twa twa-person-dark-skin-tone-bald"></i> | person-dark-skin-tone-bald 
-| <i class="twa twa-person-frowning-medium-skin-tone"></i> | person-frowning-medium-skin-tone | <i class="twa twa-man-frowning-medium-light-skin-tone"></i> | man-frowning-medium-light-skin-tone 
-| <i class="twa twa-person-frowning-medium-dark-skin-tone"></i> | person-frowning-medium-dark-skin-tone | <i class="twa twa-woman-frowning-dark-skin-tone"></i> | woman-frowning-dark-skin-tone 
-| <i class="twa twa-woman-frowning-medium-dark-skin-tone"></i> | woman-frowning-medium-dark-skin-tone | <i class="twa twa-person-pouting-light-skin-tone"></i> | person-pouting-light-skin-tone 
-| <i class="twa twa-person-pouting-dark-skin-tone"></i> | person-pouting-dark-skin-tone | <i class="twa twa-woman-frowning-medium-skin-tone"></i> | woman-frowning-medium-skin-tone 
-| <i class="twa twa-person-pouting"></i> | person-pouting | <i class="twa twa-man-frowning-medium-dark-skin-tone"></i> | man-frowning-medium-dark-skin-tone 
-| <i class="twa twa-man-pouting"></i> | man-pouting | <i class="twa twa-person-pouting-medium-skin-tone"></i> | person-pouting-medium-skin-tone 
-| <i class="twa twa-man-pouting-light-skin-tone"></i> | man-pouting-light-skin-tone | <i class="twa twa-woman-frowning-medium-light-skin-tone"></i> | woman-frowning-medium-light-skin-tone 
-| <i class="twa twa-person-pouting-medium-dark-skin-tone"></i> | person-pouting-medium-dark-skin-tone | <i class="twa twa-woman-pouting-light-skin-tone"></i> | woman-pouting-light-skin-tone 
-| <i class="twa twa-man-pouting-medium-dark-skin-tone"></i> | man-pouting-medium-dark-skin-tone | <i class="twa twa-man-pouting-medium-light-skin-tone"></i> | man-pouting-medium-light-skin-tone 
-| <i class="twa twa-woman-pouting-medium-dark-skin-tone"></i> | woman-pouting-medium-dark-skin-tone | <i class="twa twa-man-pouting-medium-skin-tone"></i> | man-pouting-medium-skin-tone 
-| <i class="twa twa-woman-dark-skin-tone-white-hair"></i> | woman-dark-skin-tone-white-hair | <i class="twa twa-old-man-medium-dark-skin-tone"></i> | old-man-medium-dark-skin-tone 
-| <i class="twa twa-woman-gesturing-no-dark-skin-tone"></i> | woman-gesturing-no-dark-skin-tone | <i class="twa twa-man-pouting-dark-skin-tone"></i> | man-pouting-dark-skin-tone 
-| <i class="twa twa-baby-light-skin-tone"></i> | baby-light-skin-tone | <i class="twa twa-boy-medium-skin-tone"></i> | boy-medium-skin-tone 
-| <i class="twa twa-mouth"></i> | mouth | <i class="twa twa-person-medium-light-skin-tone-blond-hair"></i> | person-medium-light-skin-tone-blond-hair 
-| <i class="twa twa-man-medium-light-skin-tone-red-hair"></i> | man-medium-light-skin-tone-red-hair | <i class="twa twa-person-frowning-medium-light-skin-tone"></i> | person-frowning-medium-light-skin-tone 
-| <i class="twa twa-man-medium-skin-tone-blond-hair"></i> | man-medium-skin-tone-blond-hair | <i class="twa twa-thumbs-up"></i> | thumbs-up 
-| <i class="twa twa-person-medium-dark-skin-tone-red-hair"></i> | person-medium-dark-skin-tone-red-hair | <i class="twa twa-waving-hand-medium-dark-skin-tone"></i> | waving-hand-medium-dark-skin-tone 
-| <i class="twa twa-sign-of-the-horns-dark-skin-tone"></i> | sign-of-the-horns-dark-skin-tone | <i class="twa twa-backhand-index-pointing-up-medium-dark-skin-tone"></i> | backhand-index-pointing-up-medium-dark-skin-tone 
-| <i class="twa twa-backhand-index-pointing-right-medium-skin-tone"></i> | backhand-index-pointing-right-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down"></i> | backhand-index-pointing-down 
-| <i class="twa twa-middle-finger-medium-dark-skin-tone"></i> | middle-finger-medium-dark-skin-tone | <i class="twa twa-backhand-index-pointing-up-medium-light-skin-tone"></i> | backhand-index-pointing-up-medium-light-skin-tone 
-| <i class="twa twa-middle-finger-light-skin-tone"></i> | middle-finger-light-skin-tone | <i class="twa twa-backhand-index-pointing-up-light-skin-tone"></i> | backhand-index-pointing-up-light-skin-tone 
-| <i class="twa twa-backhand-index-pointing-down-dark-skin-tone"></i> | backhand-index-pointing-down-dark-skin-tone | <i class="twa twa-middle-finger"></i> | middle-finger 
-| <i class="twa twa-middle-finger-medium-skin-tone"></i> | middle-finger-medium-skin-tone | <i class="twa twa-backhand-index-pointing-right-medium-light-skin-tone"></i> | backhand-index-pointing-right-medium-light-skin-tone 
-| <i class="twa twa-index-pointing-up-light-skin-tone"></i> | index-pointing-up-light-skin-tone | <i class="twa twa-index-pointing-up-medium-light-skin-tone"></i> | index-pointing-up-medium-light-skin-tone 
-| <i class="twa twa-backhand-index-pointing-down-light-skin-tone"></i> | backhand-index-pointing-down-light-skin-tone | <i class="twa twa-backhand-index-pointing-right-dark-skin-tone"></i> | backhand-index-pointing-right-dark-skin-tone 
-| <i class="twa twa-index-pointing-up-dark-skin-tone"></i> | index-pointing-up-dark-skin-tone | <i class="twa twa-index-pointing-up-medium-dark-skin-tone"></i> | index-pointing-up-medium-dark-skin-tone 
-| <i class="twa twa-clapping-hands-medium-light-skin-tone"></i> | clapping-hands-medium-light-skin-tone | <i class="twa twa-raising-hands-dark-skin-tone"></i> | raising-hands-dark-skin-tone 
-| <i class="twa twa-index-pointing-up-medium-skin-tone"></i> | index-pointing-up-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down-medium-light-skin-tone"></i> | backhand-index-pointing-down-medium-light-skin-tone 
-| <i class="twa twa-clapping-hands-light-skin-tone"></i> | clapping-hands-light-skin-tone | <i class="twa twa-open-hands"></i> | open-hands 
-| <i class="twa twa-open-hands-light-skin-tone"></i> | open-hands-light-skin-tone | <i class="twa twa-open-hands-medium-dark-skin-tone"></i> | open-hands-medium-dark-skin-tone 
-| <i class="twa twa-raising-hands"></i> | raising-hands | <i class="twa twa-clapping-hands-medium-skin-tone"></i> | clapping-hands-medium-skin-tone 
-| <i class="twa twa-palms-up-together-medium-light-skin-tone"></i> | palms-up-together-medium-light-skin-tone | <i class="twa twa-open-hands-medium-skin-tone"></i> | open-hands-medium-skin-tone 
-| <i class="twa twa-raising-hands-medium-light-skin-tone"></i> | raising-hands-medium-light-skin-tone | <i class="twa twa-clapping-hands-medium-dark-skin-tone"></i> | clapping-hands-medium-dark-skin-tone 
-| <i class="twa twa-raising-hands-medium-dark-skin-tone"></i> | raising-hands-medium-dark-skin-tone | <i class="twa twa-palms-up-together-medium-skin-tone"></i> | palms-up-together-medium-skin-tone 
-| <i class="twa twa-folded-hands"></i> | folded-hands | <i class="twa twa-palms-up-together"></i> | palms-up-together 
-| <i class="twa twa-raising-hands-light-skin-tone"></i> | raising-hands-light-skin-tone | <i class="twa twa-palms-up-together-light-skin-tone"></i> | palms-up-together-light-skin-tone 
-| <i class="twa twa-waving-hand-medium-skin-tone"></i> | waving-hand-medium-skin-tone | <i class="twa twa-waving-hand-medium-light-skin-tone"></i> | waving-hand-medium-light-skin-tone 
-| <i class="twa twa-backhand-index-pointing-left-medium-skin-tone"></i> | backhand-index-pointing-left-medium-skin-tone | <i class="twa twa-call-me-hand-medium-skin-tone"></i> | call-me-hand-medium-skin-tone 
-| <i class="twa twa-backhand-index-pointing-up-medium-skin-tone"></i> | backhand-index-pointing-up-medium-skin-tone | <i class="twa twa-backhand-index-pointing-down-medium-skin-tone"></i> | backhand-index-pointing-down-medium-skin-tone 
-| <i class="twa twa-backhand-index-pointing-down-medium-dark-skin-tone"></i> | backhand-index-pointing-down-medium-dark-skin-tone | <i class="twa twa-clapping-hands-dark-skin-tone"></i> | clapping-hands-dark-skin-tone 
-| <i class="twa twa-folded-hands-light-skin-tone"></i> | folded-hands-light-skin-tone | <i class="twa twa-palms-up-together-dark-skin-tone"></i> | palms-up-together-dark-skin-tone 
-| <i class="twa twa-writing-hand-dark-skin-tone"></i> | writing-hand-dark-skin-tone | <i class="twa twa-folded-hands-medium-light-skin-tone"></i> | folded-hands-medium-light-skin-tone 
-| <i class="twa twa-selfie"></i> | selfie | <i class="twa twa-handshake"></i> | handshake 
-| <i class="twa twa-folded-hands-medium-dark-skin-tone"></i> | folded-hands-medium-dark-skin-tone | <i class="twa twa-writing-hand-medium-skin-tone"></i> | writing-hand-medium-skin-tone 
-| <i class="twa twa-nail-polish-medium-skin-tone"></i> | nail-polish-medium-skin-tone | <i class="twa twa-nail-polish-medium-dark-skin-tone"></i> | nail-polish-medium-dark-skin-tone 
-| <i class="twa twa-palms-up-together-medium-dark-skin-tone"></i> | palms-up-together-medium-dark-skin-tone | <i class="twa twa-folded-hands-dark-skin-tone"></i> | folded-hands-dark-skin-tone 
-| <i class="twa twa-open-hands-medium-light-skin-tone"></i> | open-hands-medium-light-skin-tone | <i class="twa twa-selfie-medium-dark-skin-tone"></i> | selfie-medium-dark-skin-tone 
-| <i class="twa twa-nail-polish"></i> | nail-polish | <i class="twa twa-folded-hands-medium-skin-tone"></i> | folded-hands-medium-skin-tone 
-| <i class="twa twa-selfie-light-skin-tone"></i> | selfie-light-skin-tone | <i class="twa twa-writing-hand"></i> | writing-hand 
-| <i class="twa twa-writing-hand-medium-light-skin-tone"></i> | writing-hand-medium-light-skin-tone | <i class="twa twa-nail-polish-dark-skin-tone"></i> | nail-polish-dark-skin-tone 
-| <i class="twa twa-nail-polish-light-skin-tone"></i> | nail-polish-light-skin-tone | <i class="twa twa-writing-hand-medium-dark-skin-tone"></i> | writing-hand-medium-dark-skin-tone 
-| <i class="twa twa-writing-hand-light-skin-tone"></i> | writing-hand-light-skin-tone | <i class="twa twa-open-hands-dark-skin-tone"></i> | open-hands-dark-skin-tone 
-| <i class="twa twa-hand-with-fingers-splayed"></i> | hand-with-fingers-splayed | <i class="twa twa-sign-of-the-horns-light-skin-tone"></i> | sign-of-the-horns-light-skin-tone 
-| <i class="twa twa-woman-red-hair"></i> | woman-red-hair | <i class="twa twa-flexed-biceps-light-skin-tone"></i> | flexed-biceps-light-skin-tone 
-| <i class="twa twa-woman-curly-hair"></i> | woman-curly-hair | <i class="twa twa-person-white-hair"></i> | person-white-hair 
-| <i class="twa twa-person-medium-skin-tone-white-hair"></i> | person-medium-skin-tone-white-hair | <i class="twa twa-woman-dark-skin-tone-curly-hair"></i> | woman-dark-skin-tone-curly-hair 
-| <i class="twa twa-woman-medium-light-skin-tone-curly-hair"></i> | woman-medium-light-skin-tone-curly-hair | <i class="twa twa-woman-light-skin-tone"></i> | woman-light-skin-tone 
-| <i class="twa twa-woman-bald"></i> | woman-bald | <i class="twa twa-woman-medium-light-skin-tone-white-hair"></i> | woman-medium-light-skin-tone-white-hair 
-| <i class="twa twa-woman-medium-dark-skin-tone-curly-hair"></i> | woman-medium-dark-skin-tone-curly-hair | <i class="twa twa-woman-medium-dark-skin-tone-bald"></i> | woman-medium-dark-skin-tone-bald 
-| <i class="twa twa-girl-medium-skin-tone"></i> | girl-medium-skin-tone | <i class="twa twa-boy-light-skin-tone"></i> | boy-light-skin-tone 
-| <i class="twa twa-girl-medium-dark-skin-tone"></i> | girl-medium-dark-skin-tone | <i class="twa twa-woman-gesturing-ok-dark-skin-tone"></i> | woman-gesturing-ok-dark-skin-tone 
-| <i class="twa twa-person-tipping-hand-medium-light-skin-tone"></i> | person-tipping-hand-medium-light-skin-tone | <i class="twa twa-person-medium-light-skin-tone-curly-hair"></i> | person-medium-light-skin-tone-curly-hair 
-| <i class="twa twa-man-tipping-hand"></i> | man-tipping-hand | <i class="twa twa-man-tipping-hand-light-skin-tone"></i> | man-tipping-hand-light-skin-tone 
-| <i class="twa twa-girl"></i> | girl | <i class="twa twa-boy-medium-dark-skin-tone"></i> | boy-medium-dark-skin-tone 
-| <i class="twa twa-person-tipping-hand-medium-skin-tone"></i> | person-tipping-hand-medium-skin-tone | <i class="twa twa-man-tipping-hand-medium-dark-skin-tone"></i> | man-tipping-hand-medium-dark-skin-tone 
-| <i class="twa twa-person-tipping-hand-dark-skin-tone"></i> | person-tipping-hand-dark-skin-tone | <i class="twa twa-pinching-hand-medium-dark-skin-tone"></i> | pinching-hand-medium-dark-skin-tone 
-| <i class="twa twa-love-you-gesture-light-skin-tone"></i> | love-you-gesture-light-skin-tone | <i class="twa twa-love-you-gesture-medium-light-skin-tone"></i> | love-you-gesture-medium-light-skin-tone 
-| <i class="twa twa-nail-polish-medium-light-skin-tone"></i> | nail-polish-medium-light-skin-tone | <i class="twa twa-man-tipping-hand-medium-skin-tone"></i> | man-tipping-hand-medium-skin-tone 
-| <i class="twa twa-man-tipping-hand-dark-skin-tone"></i> | man-tipping-hand-dark-skin-tone | <i class="twa twa-woman-tipping-hand"></i> | woman-tipping-hand 
-| <i class="twa twa-woman-tipping-hand-light-skin-tone"></i> | woman-tipping-hand-light-skin-tone | <i class="twa twa-woman-tipping-hand-medium-light-skin-tone"></i> | woman-tipping-hand-medium-light-skin-tone 
-| <i class="twa twa-woman-tipping-hand-dark-skin-tone"></i> | woman-tipping-hand-dark-skin-tone | <i class="twa twa-woman-tipping-hand-medium-skin-tone"></i> | woman-tipping-hand-medium-skin-tone 
-| <i class="twa twa-person-raising-hand-light-skin-tone"></i> | person-raising-hand-light-skin-tone | <i class="twa twa-woman-tipping-hand-medium-dark-skin-tone"></i> | woman-tipping-hand-medium-dark-skin-tone 
-| <i class="twa twa-man-raising-hand"></i> | man-raising-hand | <i class="twa twa-woman-raising-hand-medium-light-skin-tone"></i> | woman-raising-hand-medium-light-skin-tone 
-| <i class="twa twa-person-raising-hand-medium-dark-skin-tone"></i> | person-raising-hand-medium-dark-skin-tone | <i class="twa twa-person-raising-hand-dark-skin-tone"></i> | person-raising-hand-dark-skin-tone 
-| <i class="twa twa-person-raising-hand-medium-light-skin-tone"></i> | person-raising-hand-medium-light-skin-tone | <i class="twa twa-woman-raising-hand-medium-dark-skin-tone"></i> | woman-raising-hand-medium-dark-skin-tone 
-| <i class="twa twa-woman-raising-hand-medium-skin-tone"></i> | woman-raising-hand-medium-skin-tone | <i class="twa twa-backhand-index-pointing-left-light-skin-tone"></i> | backhand-index-pointing-left-light-skin-tone 
-| <i class="twa twa-backhand-index-pointing-left"></i> | backhand-index-pointing-left | <i class="twa twa-sign-of-the-horns"></i> | sign-of-the-horns 
-| <i class="twa twa-backhand-index-pointing-left-medium-light-skin-tone"></i> | backhand-index-pointing-left-medium-light-skin-tone | <i class="twa twa-deaf-person-medium-light-skin-tone"></i> | deaf-person-medium-light-skin-tone 
-| <i class="twa twa-woman-raising-hand-dark-skin-tone"></i> | woman-raising-hand-dark-skin-tone | <i class="twa twa-deaf-person"></i> | deaf-person 
-| <i class="twa twa-deaf-person-medium-skin-tone"></i> | deaf-person-medium-skin-tone | <i class="twa twa-deaf-person-dark-skin-tone"></i> | deaf-person-dark-skin-tone 
-| <i class="twa twa-deaf-woman-medium-skin-tone"></i> | deaf-woman-medium-skin-tone | <i class="twa twa-deaf-woman-medium-dark-skin-tone"></i> | deaf-woman-medium-dark-skin-tone 
-| <i class="twa twa-person-bowing-medium-dark-skin-tone"></i> | person-bowing-medium-dark-skin-tone | <i class="twa twa-person-bowing-dark-skin-tone"></i> | person-bowing-dark-skin-tone 
-| <i class="twa twa-person-bowing-medium-skin-tone"></i> | person-bowing-medium-skin-tone | <i class="twa twa-person-bowing-medium-light-skin-tone"></i> | person-bowing-medium-light-skin-tone 
-| <i class="twa twa-person-bowing-light-skin-tone"></i> | person-bowing-light-skin-tone | <i class="twa twa-woman-medium-dark-skin-tone-white-hair"></i> | woman-medium-dark-skin-tone-white-hair 
-| <i class="twa twa-deaf-woman-dark-skin-tone"></i> | deaf-woman-dark-skin-tone | <i class="twa twa-man-bowing-medium-light-skin-tone"></i> | man-bowing-medium-light-skin-tone 
-| <i class="twa twa-man-bowing-medium-dark-skin-tone"></i> | man-bowing-medium-dark-skin-tone | <i class="twa twa-woman-bowing"></i> | woman-bowing 
-| <i class="twa twa-man-bowing-light-skin-tone"></i> | man-bowing-light-skin-tone | <i class="twa twa-person-bowing"></i> | person-bowing 
-| <i class="twa twa-man-bowing-medium-skin-tone"></i> | man-bowing-medium-skin-tone | <i class="twa twa-woman-bowing-medium-dark-skin-tone"></i> | woman-bowing-medium-dark-skin-tone 
-| <i class="twa twa-woman-medium-skin-tone-blond-hair"></i> | woman-medium-skin-tone-blond-hair | <i class="twa twa-man-gesturing-ok-medium-skin-tone"></i> | man-gesturing-ok-medium-skin-tone 
-| <i class="twa twa-crossed-fingers-light-skin-tone"></i> | crossed-fingers-light-skin-tone | <i class="twa twa-man-gesturing-ok-medium-dark-skin-tone"></i> | man-gesturing-ok-medium-dark-skin-tone 
-| <i class="twa twa-woman-facepalming-medium-skin-tone"></i> | woman-facepalming-medium-skin-tone | <i class="twa twa-person-shrugging"></i> | person-shrugging 
-| <i class="twa twa-person-shrugging-medium-light-skin-tone"></i> | person-shrugging-medium-light-skin-tone | <i class="twa twa-person-shrugging-dark-skin-tone"></i> | person-shrugging-dark-skin-tone 
-| <i class="twa twa-person-shrugging-medium-dark-skin-tone"></i> | person-shrugging-medium-dark-skin-tone | <i class="twa twa-man-shrugging"></i> | man-shrugging 
-| <i class="twa twa-person-shrugging-light-skin-tone"></i> | person-shrugging-light-skin-tone | <i class="twa twa-call-me-hand-medium-light-skin-tone"></i> | call-me-hand-medium-light-skin-tone 
-| <i class="twa twa-woman-medium-skin-tone-white-hair"></i> | woman-medium-skin-tone-white-hair | <i class="twa twa-thumbs-up-medium-light-skin-tone"></i> | thumbs-up-medium-light-skin-tone 
-| <i class="twa twa-thumbs-up-light-skin-tone"></i> | thumbs-up-light-skin-tone | <i class="twa twa-raised-fist"></i> | raised-fist 
-| <i class="twa twa-raised-back-of-hand-medium-light-skin-tone"></i> | raised-back-of-hand-medium-light-skin-tone | <i class="twa twa-raised-back-of-hand"></i> | raised-back-of-hand 
-| <i class="twa twa-thumbs-up-medium-dark-skin-tone"></i> | thumbs-up-medium-dark-skin-tone | <i class="twa twa-raised-fist-medium-skin-tone"></i> | raised-fist-medium-skin-tone 
-| <i class="twa twa-woman-facepalming-light-skin-tone"></i> | woman-facepalming-light-skin-tone | <i class="twa twa-raised-back-of-hand-dark-skin-tone"></i> | raised-back-of-hand-dark-skin-tone 
-| <i class="twa twa-backhand-index-pointing-right-medium-dark-skin-tone"></i> | backhand-index-pointing-right-medium-dark-skin-tone | <i class="twa twa-call-me-hand"></i> | call-me-hand 
-| <i class="twa twa-backhand-index-pointing-right-light-skin-tone"></i> | backhand-index-pointing-right-light-skin-tone | <i class="twa twa-backhand-index-pointing-right"></i> | backhand-index-pointing-right 
-| <i class="twa twa-raised-fist-medium-light-skin-tone"></i> | raised-fist-medium-light-skin-tone | <i class="twa twa-crossed-fingers-medium-light-skin-tone"></i> | crossed-fingers-medium-light-skin-tone 
-| <i class="twa twa-woman-shrugging"></i> | woman-shrugging | <i class="twa twa-man-shrugging-dark-skin-tone"></i> | man-shrugging-dark-skin-tone 
-| <i class="twa twa-man-shrugging-medium-dark-skin-tone"></i> | man-shrugging-medium-dark-skin-tone | <i class="twa twa-person-tipping-hand-light-skin-tone"></i> | person-tipping-hand-light-skin-tone 
-| <i class="twa twa-woman-gesturing-ok-medium-dark-skin-tone"></i> | woman-gesturing-ok-medium-dark-skin-tone | <i class="twa twa-person-tipping-hand"></i> | person-tipping-hand 
-| <i class="twa twa-woman-shrugging-light-skin-tone"></i> | woman-shrugging-light-skin-tone | <i class="twa twa-man-medium-dark-skin-tone-white-hair"></i> | man-medium-dark-skin-tone-white-hair 
-| <i class="twa twa-woman-medium-skin-tone-red-hair"></i> | woman-medium-skin-tone-red-hair | <i class="twa twa-man-light-skin-tone-beard"></i> | man-light-skin-tone-beard 
-| <i class="twa twa-person-light-skin-tone-bald"></i> | person-light-skin-tone-bald | <i class="twa twa-woman-light-skin-tone-blond-hair"></i> | woman-light-skin-tone-blond-hair 
-| <i class="twa twa-person-medium-light-skin-tone-bald"></i> | person-medium-light-skin-tone-bald | <i class="twa twa-person-medium-dark-skin-tone-bald"></i> | person-medium-dark-skin-tone-bald 
-| <i class="twa twa-man-light-skin-tone-blond-hair"></i> | man-light-skin-tone-blond-hair | <i class="twa twa-woman-light-skin-tone-bald"></i> | woman-light-skin-tone-bald 
-| <i class="twa twa-man-tipping-hand-medium-light-skin-tone"></i> | man-tipping-hand-medium-light-skin-tone | <i class="twa twa-man-health-worker-medium-dark-skin-tone"></i> | man-health-worker-medium-dark-skin-tone 
-| <i class="twa twa-man-health-worker-medium-skin-tone"></i> | man-health-worker-medium-skin-tone | <i class="twa twa-health-worker-medium-light-skin-tone"></i> | health-worker-medium-light-skin-tone 
-| <i class="twa twa-man-health-worker-dark-skin-tone"></i> | man-health-worker-dark-skin-tone | <i class="twa twa-woman-health-worker"></i> | woman-health-worker 
-| <i class="twa twa-man-raising-hand-medium-skin-tone"></i> | man-raising-hand-medium-skin-tone | <i class="twa twa-health-worker-medium-skin-tone"></i> | health-worker-medium-skin-tone 
-| <i class="twa twa-woman-gesturing-no"></i> | woman-gesturing-no | <i class="twa twa-woman-medium-skin-tone-curly-hair"></i> | woman-medium-skin-tone-curly-hair 
-| <i class="twa twa-person-frowning-dark-skin-tone"></i> | person-frowning-dark-skin-tone | <i class="twa twa-person-frowning-light-skin-tone"></i> | person-frowning-light-skin-tone 
-| <i class="twa twa-woman-blond-hair"></i> | woman-blond-hair | <i class="twa twa-raised-hand-dark-skin-tone"></i> | raised-hand-dark-skin-tone 
-| <i class="twa twa-ear-dark-skin-tone"></i> | ear-dark-skin-tone | <i class="twa twa-man-raising-hand-light-skin-tone"></i> | man-raising-hand-light-skin-tone 
-| <i class="twa twa-woman-frowning"></i> | woman-frowning | <i class="twa twa-person-frowning"></i> | person-frowning 
-| <i class="twa twa-man-frowning"></i> | man-frowning | <i class="twa twa-old-woman-medium-dark-skin-tone"></i> | old-woman-medium-dark-skin-tone 
-| <i class="twa twa-old-woman-medium-skin-tone"></i> | old-woman-medium-skin-tone | <i class="twa twa-man-frowning-medium-skin-tone"></i> | man-frowning-medium-skin-tone 
-| <i class="twa twa-man-frowning-light-skin-tone"></i> | man-frowning-light-skin-tone | <i class="twa twa-man-frowning-dark-skin-tone"></i> | man-frowning-dark-skin-tone 
-| <i class="twa twa-old-woman-light-skin-tone"></i> | old-woman-light-skin-tone | <i class="twa twa-woman-frowning-light-skin-tone"></i> | woman-frowning-light-skin-tone 
-| <i class="twa twa-deaf-man-light-skin-tone"></i> | deaf-man-light-skin-tone | <i class="twa twa-deaf-man-medium-dark-skin-tone"></i> | deaf-man-medium-dark-skin-tone 
-| <i class="twa twa-old-woman-medium-light-skin-tone"></i> | old-woman-medium-light-skin-tone | <i class="twa twa-person-raising-hand-medium-skin-tone"></i> | person-raising-hand-medium-skin-tone 
-| <i class="twa twa-deaf-man-medium-light-skin-tone"></i> | deaf-man-medium-light-skin-tone | <i class="twa twa-person-pouting-medium-light-skin-tone"></i> | person-pouting-medium-light-skin-tone 
-| <i class="twa twa-deaf-man-dark-skin-tone"></i> | deaf-man-dark-skin-tone | <i class="twa twa-backhand-index-pointing-left-medium-dark-skin-tone"></i> | backhand-index-pointing-left-medium-dark-skin-tone 
-| <i class="twa twa-older-person-light-skin-tone"></i> | older-person-light-skin-tone | <i class="twa twa-old-man"></i> | old-man 
-| <i class="twa twa-man-gesturing-no-medium-skin-tone"></i> | man-gesturing-no-medium-skin-tone | <i class="twa twa-man-medium-dark-skin-tone-blond-hair"></i> | man-medium-dark-skin-tone-blond-hair 
-| <i class="twa twa-woman-gesturing-no-light-skin-tone"></i> | woman-gesturing-no-light-skin-tone | <i class="twa twa-person-gesturing-ok-light-skin-tone"></i> | person-gesturing-ok-light-skin-tone 
-| <i class="twa twa-deaf-man-medium-skin-tone"></i> | deaf-man-medium-skin-tone | <i class="twa twa-deaf-woman-medium-light-skin-tone"></i> | deaf-woman-medium-light-skin-tone 
-| <i class="twa twa-man-gesturing-no-light-skin-tone"></i> | man-gesturing-no-light-skin-tone | <i class="twa twa-woman-gesturing-ok-medium-skin-tone"></i> | woman-gesturing-ok-medium-skin-tone 
-| <i class="twa twa-person-gesturing-ok"></i> | person-gesturing-ok | <i class="twa twa-crossed-fingers-dark-skin-tone"></i> | crossed-fingers-dark-skin-tone 
-| <i class="twa twa-woman-light-skin-tone-white-hair"></i> | woman-light-skin-tone-white-hair | <i class="twa twa-older-person-medium-light-skin-tone"></i> | older-person-medium-light-skin-tone 
-| <i class="twa twa-old-man-medium-skin-tone"></i> | old-man-medium-skin-tone | <i class="twa twa-old-man-light-skin-tone"></i> | old-man-light-skin-tone 
-| <i class="twa twa-person-gesturing-ok-medium-skin-tone"></i> | person-gesturing-ok-medium-skin-tone | <i class="twa twa-person-gesturing-ok-medium-dark-skin-tone"></i> | person-gesturing-ok-medium-dark-skin-tone 
-| <i class="twa twa-person-gesturing-ok-dark-skin-tone"></i> | person-gesturing-ok-dark-skin-tone | <i class="twa twa-ear-with-hearing-aid-light-skin-tone"></i> | ear-with-hearing-aid-light-skin-tone 
-| <i class="twa twa-man-facepalming-light-skin-tone"></i> | man-facepalming-light-skin-tone | <i class="twa twa-man-facepalming"></i> | man-facepalming 
-| <i class="twa twa-man-facepalming-medium-dark-skin-tone"></i> | man-facepalming-medium-dark-skin-tone | <i class="twa twa-man-facepalming-medium-light-skin-tone"></i> | man-facepalming-medium-light-skin-tone 
-| <i class="twa twa-man-facepalming-dark-skin-tone"></i> | man-facepalming-dark-skin-tone | <i class="twa twa-man-facepalming-medium-skin-tone"></i> | man-facepalming-medium-skin-tone 
-| <i class="twa twa-woman-gesturing-ok-light-skin-tone"></i> | woman-gesturing-ok-light-skin-tone | <i class="twa twa-woman"></i> | woman 
-| <i class="twa twa-man-bowing"></i> | man-bowing | <i class="twa twa-woman-bowing-medium-light-skin-tone"></i> | woman-bowing-medium-light-skin-tone 
-| <i class="twa twa-man-medium-light-skin-tone-blond-hair"></i> | man-medium-light-skin-tone-blond-hair | <i class="twa twa-victory-hand-light-skin-tone"></i> | victory-hand-light-skin-tone 
-| <i class="twa twa-call-me-hand-medium-dark-skin-tone"></i> | call-me-hand-medium-dark-skin-tone | <i class="twa twa-man-bowing-dark-skin-tone"></i> | man-bowing-dark-skin-tone 
-| <i class="twa twa-woman-bowing-light-skin-tone"></i> | woman-bowing-light-skin-tone | <i class="twa twa-person-facepalming-medium-skin-tone"></i> | person-facepalming-medium-skin-tone 
-| <i class="twa twa-woman-facepalming-medium-dark-skin-tone"></i> | woman-facepalming-medium-dark-skin-tone | <i class="twa twa-person-facepalming-dark-skin-tone"></i> | person-facepalming-dark-skin-tone 
-| <i class="twa twa-person-facepalming"></i> | person-facepalming | <i class="twa twa-deaf-person-light-skin-tone"></i> | deaf-person-light-skin-tone 
-| <i class="twa twa-person-facepalming-medium-light-skin-tone"></i> | person-facepalming-medium-light-skin-tone | <i class="twa twa-person-gesturing-no-medium-skin-tone"></i> | person-gesturing-no-medium-skin-tone 
-| <i class="twa twa-woman-medium-light-skin-tone"></i> | woman-medium-light-skin-tone | <i class="twa twa-woman-pouting-medium-skin-tone"></i> | woman-pouting-medium-skin-tone 
-| <i class="twa twa-person-gesturing-no"></i> | person-gesturing-no | <i class="twa twa-woman-pouting-medium-light-skin-tone"></i> | woman-pouting-medium-light-skin-tone 
-| <i class="twa twa-woman-pouting-dark-skin-tone"></i> | woman-pouting-dark-skin-tone | <i class="twa twa-woman-health-worker-medium-light-skin-tone"></i> | woman-health-worker-medium-light-skin-tone 
-| <i class="twa twa-woman-health-worker-medium-skin-tone"></i> | woman-health-worker-medium-skin-tone | <i class="twa twa-person-gesturing-no-dark-skin-tone"></i> | person-gesturing-no-dark-skin-tone 
-| <i class="twa twa-woman-health-worker-medium-dark-skin-tone"></i> | woman-health-worker-medium-dark-skin-tone | <i class="twa twa-person-gesturing-no-light-skin-tone"></i> | person-gesturing-no-light-skin-tone 
-| <i class="twa twa-woman-health-worker-dark-skin-tone"></i> | woman-health-worker-dark-skin-tone | <i class="twa twa-man-gesturing-no"></i> | man-gesturing-no 
-| <i class="twa twa-woman-pouting"></i> | woman-pouting | <i class="twa twa-student-light-skin-tone"></i> | student-light-skin-tone 
-| <i class="twa twa-student-medium-light-skin-tone"></i> | student-medium-light-skin-tone | <i class="twa twa-student-dark-skin-tone"></i> | student-dark-skin-tone 
-| <i class="twa twa-man-gesturing-ok-medium-light-skin-tone"></i> | man-gesturing-ok-medium-light-skin-tone | <i class="twa twa-student"></i> | student 
-| <i class="twa twa-man-student"></i> | man-student | <i class="twa twa-man-raising-hand-medium-dark-skin-tone"></i> | man-raising-hand-medium-dark-skin-tone 
-| <i class="twa twa-health-worker"></i> | health-worker | <i class="twa twa-man-student-medium-skin-tone"></i> | man-student-medium-skin-tone 
-| <i class="twa twa-student-medium-dark-skin-tone"></i> | student-medium-dark-skin-tone | <i class="twa twa-man-student-medium-dark-skin-tone"></i> | man-student-medium-dark-skin-tone 
-| <i class="twa twa-man-student-medium-light-skin-tone"></i> | man-student-medium-light-skin-tone | <i class="twa twa-woman-student"></i> | woman-student 
-| <i class="twa twa-health-worker-light-skin-tone"></i> | health-worker-light-skin-tone | <i class="twa twa-woman-student-light-skin-tone"></i> | woman-student-light-skin-tone 
-| <i class="twa twa-woman-student-medium-light-skin-tone"></i> | woman-student-medium-light-skin-tone | <i class="twa twa-man-student-dark-skin-tone"></i> | man-student-dark-skin-tone 
-| <i class="twa twa-woman-student-medium-dark-skin-tone"></i> | woman-student-medium-dark-skin-tone | <i class="twa twa-man-health-worker-light-skin-tone"></i> | man-health-worker-light-skin-tone 
-| <i class="twa twa-student-medium-skin-tone"></i> | student-medium-skin-tone | <i class="twa twa-woman-gesturing-ok"></i> | woman-gesturing-ok 
-| <i class="twa twa-woman-shrugging-medium-light-skin-tone"></i> | woman-shrugging-medium-light-skin-tone | <i class="twa twa-man-medium-skin-tone-bald"></i> | man-medium-skin-tone-bald 
-| <i class="twa twa-teacher"></i> | teacher | <i class="twa twa-woman-shrugging-medium-skin-tone"></i> | woman-shrugging-medium-skin-tone 
-| <i class="twa twa-teacher-medium-skin-tone"></i> | teacher-medium-skin-tone | <i class="twa twa-teacher-medium-light-skin-tone"></i> | teacher-medium-light-skin-tone 
-| <i class="twa twa-teacher-dark-skin-tone"></i> | teacher-dark-skin-tone | <i class="twa twa-teacher-medium-dark-skin-tone"></i> | teacher-medium-dark-skin-tone 
-| <i class="twa twa-man-teacher-medium-skin-tone"></i> | man-teacher-medium-skin-tone | <i class="twa twa-man-teacher-medium-dark-skin-tone"></i> | man-teacher-medium-dark-skin-tone 
-| <i class="twa twa-woman-teacher-light-skin-tone"></i> | woman-teacher-light-skin-tone | <i class="twa twa-woman-teacher-medium-light-skin-tone"></i> | woman-teacher-medium-light-skin-tone 
-| <i class="twa twa-woman-teacher-medium-dark-skin-tone"></i> | woman-teacher-medium-dark-skin-tone | <i class="twa twa-man-gesturing-ok-dark-skin-tone"></i> | man-gesturing-ok-dark-skin-tone 
-| <i class="twa twa-woman-student-dark-skin-tone"></i> | woman-student-dark-skin-tone | <i class="twa twa-woman-teacher"></i> | woman-teacher 
-| <i class="twa twa-judge-light-skin-tone"></i> | judge-light-skin-tone | <i class="twa twa-judge"></i> | judge 
-| <i class="twa twa-judge-medium-skin-tone"></i> | judge-medium-skin-tone | <i class="twa twa-woman-student-medium-skin-tone"></i> | woman-student-medium-skin-tone 
-| <i class="twa twa-man-shrugging-medium-skin-tone"></i> | man-shrugging-medium-skin-tone | <i class="twa twa-judge-medium-light-skin-tone"></i> | judge-medium-light-skin-tone 
-| <i class="twa twa-judge-dark-skin-tone"></i> | judge-dark-skin-tone | <i class="twa twa-man-judge"></i> | man-judge 
-| <i class="twa twa-man-judge-light-skin-tone"></i> | man-judge-light-skin-tone | <i class="twa twa-judge-medium-dark-skin-tone"></i> | judge-medium-dark-skin-tone 
-| <i class="twa twa-man-health-worker-medium-light-skin-tone"></i> | man-health-worker-medium-light-skin-tone | <i class="twa twa-teacher-light-skin-tone"></i> | teacher-light-skin-tone 
-| <i class="twa twa-man-judge-medium-light-skin-tone"></i> | man-judge-medium-light-skin-tone | <i class="twa twa-man-judge-medium-skin-tone"></i> | man-judge-medium-skin-tone 
-| <i class="twa twa-health-worker-medium-dark-skin-tone"></i> | health-worker-medium-dark-skin-tone | <i class="twa twa-man-judge-medium-dark-skin-tone"></i> | man-judge-medium-dark-skin-tone 
-| <i class="twa twa-man-teacher-medium-light-skin-tone"></i> | man-teacher-medium-light-skin-tone | <i class="twa twa-man-judge-dark-skin-tone"></i> | man-judge-dark-skin-tone 
-| <i class="twa twa-woman-teacher-dark-skin-tone"></i> | woman-teacher-dark-skin-tone | <i class="twa twa-man-teacher-dark-skin-tone"></i> | man-teacher-dark-skin-tone 
-| <i class="twa twa-woman-judge-light-skin-tone"></i> | woman-judge-light-skin-tone | <i class="twa twa-woman-teacher-medium-skin-tone"></i> | woman-teacher-medium-skin-tone 
-| <i class="twa twa-woman-judge-medium-skin-tone"></i> | woman-judge-medium-skin-tone | <i class="twa twa-woman-judge-medium-dark-skin-tone"></i> | woman-judge-medium-dark-skin-tone 
-| <i class="twa twa-woman-judge-medium-light-skin-tone"></i> | woman-judge-medium-light-skin-tone | <i class="twa twa-woman-judge-dark-skin-tone"></i> | woman-judge-dark-skin-tone 
-| <i class="twa twa-farmer"></i> | farmer | <i class="twa twa-farmer-light-skin-tone"></i> | farmer-light-skin-tone 
-| <i class="twa twa-woman-judge"></i> | woman-judge | <i class="twa twa-farmer-medium-skin-tone"></i> | farmer-medium-skin-tone 
-| <i class="twa twa-farmer-medium-light-skin-tone"></i> | farmer-medium-light-skin-tone | <i class="twa twa-man-farmer"></i> | man-farmer 
-| <i class="twa twa-man-farmer-light-skin-tone"></i> | man-farmer-light-skin-tone | <i class="twa twa-man-farmer-medium-skin-tone"></i> | man-farmer-medium-skin-tone 
-| <i class="twa twa-woman-farmer-light-skin-tone"></i> | woman-farmer-light-skin-tone | <i class="twa twa-man-farmer-dark-skin-tone"></i> | man-farmer-dark-skin-tone 
-| <i class="twa twa-farmer-medium-dark-skin-tone"></i> | farmer-medium-dark-skin-tone | <i class="twa twa-farmer-dark-skin-tone"></i> | farmer-dark-skin-tone 
-| <i class="twa twa-woman-farmer"></i> | woman-farmer | <i class="twa twa-man-farmer-medium-dark-skin-tone"></i> | man-farmer-medium-dark-skin-tone 
-| <i class="twa twa-man-farmer-medium-light-skin-tone"></i> | man-farmer-medium-light-skin-tone | <i class="twa twa-woman-farmer-medium-light-skin-tone"></i> | woman-farmer-medium-light-skin-tone 
-| <i class="twa twa-woman-farmer-medium-skin-tone"></i> | woman-farmer-medium-skin-tone | <i class="twa twa-woman-farmer-dark-skin-tone"></i> | woman-farmer-dark-skin-tone 
-| <i class="twa twa-cook"></i> | cook | <i class="twa twa-woman-farmer-medium-dark-skin-tone"></i> | woman-farmer-medium-dark-skin-tone 
-| <i class="twa twa-cook-light-skin-tone"></i> | cook-light-skin-tone | <i class="twa twa-cook-dark-skin-tone"></i> | cook-dark-skin-tone 
-| <i class="twa twa-cook-medium-dark-skin-tone"></i> | cook-medium-dark-skin-tone | <i class="twa twa-cook-medium-skin-tone"></i> | cook-medium-skin-tone 
-| <i class="twa twa-cook-medium-light-skin-tone"></i> | cook-medium-light-skin-tone | <i class="twa twa-man-cook-light-skin-tone"></i> | man-cook-light-skin-tone 
-| <i class="twa twa-man-cook"></i> | man-cook | <i class="twa twa-man-cook-medium-skin-tone"></i> | man-cook-medium-skin-tone 
-| <i class="twa twa-man-cook-medium-light-skin-tone"></i> | man-cook-medium-light-skin-tone | <i class="twa twa-man-cook-dark-skin-tone"></i> | man-cook-dark-skin-tone 
-| <i class="twa twa-man-cook-medium-dark-skin-tone"></i> | man-cook-medium-dark-skin-tone | <i class="twa twa-oncoming-fist-dark-skin-tone"></i> | oncoming-fist-dark-skin-tone 
-| <i class="twa twa-woman-cook"></i> | woman-cook | <i class="twa twa-woman-cook-light-skin-tone"></i> | woman-cook-light-skin-tone 
-| <i class="twa twa-pinching-hand-medium-light-skin-tone"></i> | pinching-hand-medium-light-skin-tone | <i class="twa twa-hand-with-fingers-splayed-light-skin-tone"></i> | hand-with-fingers-splayed-light-skin-tone 
-| <i class="twa twa-waving-hand-light-skin-tone"></i> | waving-hand-light-skin-tone | <i class="twa twa-woman-cook-medium-skin-tone"></i> | woman-cook-medium-skin-tone 
-| <i class="twa twa-woman-cook-medium-light-skin-tone"></i> | woman-cook-medium-light-skin-tone | <i class="twa twa-love-you-gesture-medium-skin-tone"></i> | love-you-gesture-medium-skin-tone 
-| <i class="twa twa-sign-of-the-horns-medium-light-skin-tone"></i> | sign-of-the-horns-medium-light-skin-tone | <i class="twa twa-middle-finger-dark-skin-tone"></i> | middle-finger-dark-skin-tone 
-| <i class="twa twa-love-you-gesture-medium-dark-skin-tone"></i> | love-you-gesture-medium-dark-skin-tone | <i class="twa twa-woman-cook-dark-skin-tone"></i> | woman-cook-dark-skin-tone 
-| <i class="twa twa-woman-cook-medium-dark-skin-tone"></i> | woman-cook-medium-dark-skin-tone | <i class="twa twa-mechanic"></i> | mechanic 
-| <i class="twa twa-man-mechanic-medium-skin-tone"></i> | man-mechanic-medium-skin-tone | <i class="twa twa-mechanic-medium-skin-tone"></i> | mechanic-medium-skin-tone 
-| <i class="twa twa-mechanic-light-skin-tone"></i> | mechanic-light-skin-tone | <i class="twa twa-mechanic-medium-light-skin-tone"></i> | mechanic-medium-light-skin-tone 
-| <i class="twa twa-man-mechanic-medium-light-skin-tone"></i> | man-mechanic-medium-light-skin-tone | <i class="twa twa-mechanic-medium-dark-skin-tone"></i> | mechanic-medium-dark-skin-tone 
-| <i class="twa twa-man-mechanic-light-skin-tone"></i> | man-mechanic-light-skin-tone | <i class="twa twa-man-mechanic-medium-dark-skin-tone"></i> | man-mechanic-medium-dark-skin-tone 
-| <i class="twa twa-woman-mechanic-light-skin-tone"></i> | woman-mechanic-light-skin-tone | <i class="twa twa-woman-mechanic-dark-skin-tone"></i> | woman-mechanic-dark-skin-tone 
-| <i class="twa twa-woman-mechanic"></i> | woman-mechanic | <i class="twa twa-man-mechanic"></i> | man-mechanic 
-| <i class="twa twa-woman-mechanic-medium-dark-skin-tone"></i> | woman-mechanic-medium-dark-skin-tone | <i class="twa twa-man-mechanic-dark-skin-tone"></i> | man-mechanic-dark-skin-tone 
-| <i class="twa twa-woman-mechanic-medium-skin-tone"></i> | woman-mechanic-medium-skin-tone | <i class="twa twa-woman-bowing-dark-skin-tone"></i> | woman-bowing-dark-skin-tone 
-| <i class="twa twa-person-facepalming-light-skin-tone"></i> | person-facepalming-light-skin-tone | <i class="twa twa-woman-facepalming-medium-light-skin-tone"></i> | woman-facepalming-medium-light-skin-tone 
-| <i class="twa twa-woman-mechanic-medium-light-skin-tone"></i> | woman-mechanic-medium-light-skin-tone | <i class="twa twa-woman-facepalming"></i> | woman-facepalming 
-| <i class="twa twa-factory-worker"></i> | factory-worker | <i class="twa twa-person-facepalming-medium-dark-skin-tone"></i> | person-facepalming-medium-dark-skin-tone 
-| <i class="twa twa-woman-bowing-medium-skin-tone"></i> | woman-bowing-medium-skin-tone | <i class="twa twa-backhand-index-pointing-up"></i> | backhand-index-pointing-up 
-| <i class="twa twa-woman-facepalming-dark-skin-tone"></i> | woman-facepalming-dark-skin-tone | <i class="twa twa-person-shrugging-medium-skin-tone"></i> | person-shrugging-medium-skin-tone 
-| <i class="twa twa-factory-worker-light-skin-tone"></i> | factory-worker-light-skin-tone | <i class="twa twa-man-factory-worker"></i> | man-factory-worker 
-| <i class="twa twa-factory-worker-medium-light-skin-tone"></i> | factory-worker-medium-light-skin-tone | <i class="twa twa-factory-worker-medium-dark-skin-tone"></i> | factory-worker-medium-dark-skin-tone 
-| <i class="twa twa-factory-worker-dark-skin-tone"></i> | factory-worker-dark-skin-tone | <i class="twa twa-man-factory-worker-light-skin-tone"></i> | man-factory-worker-light-skin-tone 
-| <i class="twa twa-mechanic-dark-skin-tone"></i> | mechanic-dark-skin-tone | <i class="twa twa-factory-worker-medium-skin-tone"></i> | factory-worker-medium-skin-tone 
-| <i class="twa twa-man-shrugging-light-skin-tone"></i> | man-shrugging-light-skin-tone | <i class="twa twa-man-factory-worker-medium-skin-tone"></i> | man-factory-worker-medium-skin-tone 
-| <i class="twa twa-man-factory-worker-medium-light-skin-tone"></i> | man-factory-worker-medium-light-skin-tone | <i class="twa twa-man-factory-worker-dark-skin-tone"></i> | man-factory-worker-dark-skin-tone 
-| <i class="twa twa-man-factory-worker-medium-dark-skin-tone"></i> | man-factory-worker-medium-dark-skin-tone | <i class="twa twa-woman-factory-worker"></i> | woman-factory-worker 
-| <i class="twa twa-man-raising-hand-dark-skin-tone"></i> | man-raising-hand-dark-skin-tone | <i class="twa twa-woman-factory-worker-light-skin-tone"></i> | woman-factory-worker-light-skin-tone 
-| <i class="twa twa-woman-medium-dark-skin-tone-blond-hair"></i> | woman-medium-dark-skin-tone-blond-hair | <i class="twa twa-man-gesturing-no-medium-dark-skin-tone"></i> | man-gesturing-no-medium-dark-skin-tone 
-| <i class="twa twa-woman-raising-hand-light-skin-tone"></i> | woman-raising-hand-light-skin-tone | <i class="twa twa-woman-factory-worker-medium-light-skin-tone"></i> | woman-factory-worker-medium-light-skin-tone 
-| <i class="twa twa-woman-factory-worker-medium-skin-tone"></i> | woman-factory-worker-medium-skin-tone | <i class="twa twa-woman-factory-worker-dark-skin-tone"></i> | woman-factory-worker-dark-skin-tone 
-| <i class="twa twa-woman-factory-worker-medium-dark-skin-tone"></i> | woman-factory-worker-medium-dark-skin-tone | <i class="twa twa-old-man-dark-skin-tone"></i> | old-man-dark-skin-tone 
-| <i class="twa twa-older-person-medium-skin-tone"></i> | older-person-medium-skin-tone | <i class="twa twa-older-person-dark-skin-tone"></i> | older-person-dark-skin-tone 
-| <i class="twa twa-person-gesturing-no-medium-dark-skin-tone"></i> | person-gesturing-no-medium-dark-skin-tone | <i class="twa twa-old-woman"></i> | old-woman 
-| <i class="twa twa-man-dark-skin-tone-blond-hair"></i> | man-dark-skin-tone-blond-hair | <i class="twa twa-person-gesturing-no-medium-light-skin-tone"></i> | person-gesturing-no-medium-light-skin-tone 
-| <i class="twa twa-deaf-woman"></i> | deaf-woman | <i class="twa twa-older-person-medium-dark-skin-tone"></i> | older-person-medium-dark-skin-tone 
-| <i class="twa twa-deaf-woman-light-skin-tone"></i> | deaf-woman-light-skin-tone | <i class="twa twa-office-worker-medium-skin-tone"></i> | office-worker-medium-skin-tone 
-| <i class="twa twa-office-worker-medium-light-skin-tone"></i> | office-worker-medium-light-skin-tone | <i class="twa twa-office-worker-light-skin-tone"></i> | office-worker-light-skin-tone 
-| <i class="twa twa-old-man-medium-light-skin-tone"></i> | old-man-medium-light-skin-tone | <i class="twa twa-office-worker"></i> | office-worker 
-| <i class="twa twa-woman-gesturing-no-medium-skin-tone"></i> | woman-gesturing-no-medium-skin-tone | <i class="twa twa-man-shrugging-medium-light-skin-tone"></i> | man-shrugging-medium-light-skin-tone 
-| <i class="twa twa-woman-gesturing-no-medium-dark-skin-tone"></i> | woman-gesturing-no-medium-dark-skin-tone | <i class="twa twa-man-gesturing-no-medium-light-skin-tone"></i> | man-gesturing-no-medium-light-skin-tone 
-| <i class="twa twa-man-gesturing-no-dark-skin-tone"></i> | man-gesturing-no-dark-skin-tone | <i class="twa twa-office-worker-medium-dark-skin-tone"></i> | office-worker-medium-dark-skin-tone 
-| <i class="twa twa-woman-shrugging-medium-dark-skin-tone"></i> | woman-shrugging-medium-dark-skin-tone | <i class="twa twa-office-worker-dark-skin-tone"></i> | office-worker-dark-skin-tone 
-| <i class="twa twa-man-office-worker-light-skin-tone"></i> | man-office-worker-light-skin-tone | <i class="twa twa-man-student-light-skin-tone"></i> | man-student-light-skin-tone 
-| <i class="twa twa-woman-raising-hand"></i> | woman-raising-hand | <i class="twa twa-man-raising-hand-medium-light-skin-tone"></i> | man-raising-hand-medium-light-skin-tone 
-| <i class="twa twa-man-office-worker"></i> | man-office-worker | <i class="twa twa-woman-shrugging-dark-skin-tone"></i> | woman-shrugging-dark-skin-tone 
-| <i class="twa twa-person-raising-hand"></i> | person-raising-hand | <i class="twa twa-man-office-worker-medium-skin-tone"></i> | man-office-worker-medium-skin-tone 
-| <i class="twa twa-man-office-worker-medium-light-skin-tone"></i> | man-office-worker-medium-light-skin-tone | <i class="twa twa-woman-office-worker"></i> | woman-office-worker 
-| <i class="twa twa-man-office-worker-dark-skin-tone"></i> | man-office-worker-dark-skin-tone | <i class="twa twa-scientist"></i> | scientist 
-| <i class="twa twa-scientist-medium-dark-skin-tone"></i> | scientist-medium-dark-skin-tone | <i class="twa twa-man-scientist-light-skin-tone"></i> | man-scientist-light-skin-tone 
-| <i class="twa twa-woman-office-worker-dark-skin-tone"></i> | woman-office-worker-dark-skin-tone | <i class="twa twa-scientist-light-skin-tone"></i> | scientist-light-skin-tone 
-| <i class="twa twa-woman-office-worker-medium-light-skin-tone"></i> | woman-office-worker-medium-light-skin-tone | <i class="twa twa-scientist-dark-skin-tone"></i> | scientist-dark-skin-tone 
-| <i class="twa twa-scientist-medium-light-skin-tone"></i> | scientist-medium-light-skin-tone | <i class="twa twa-man-scientist-medium-skin-tone"></i> | man-scientist-medium-skin-tone 
-| <i class="twa twa-scientist-medium-skin-tone"></i> | scientist-medium-skin-tone | <i class="twa twa-woman-office-worker-medium-dark-skin-tone"></i> | woman-office-worker-medium-dark-skin-tone 
-| <i class="twa twa-woman-office-worker-light-skin-tone"></i> | woman-office-worker-light-skin-tone | <i class="twa twa-woman-office-worker-medium-skin-tone"></i> | woman-office-worker-medium-skin-tone 
-| <i class="twa twa-man-scientist-medium-dark-skin-tone"></i> | man-scientist-medium-dark-skin-tone | <i class="twa twa-man-scientist"></i> | man-scientist 
-| <i class="twa twa-man-scientist-medium-light-skin-tone"></i> | man-scientist-medium-light-skin-tone | <i class="twa twa-woman-scientist-light-skin-tone"></i> | woman-scientist-light-skin-tone 
-| <i class="twa twa-woman-scientist-medium-light-skin-tone"></i> | woman-scientist-medium-light-skin-tone | <i class="twa twa-man-scientist-dark-skin-tone"></i> | man-scientist-dark-skin-tone 
-| <i class="twa twa-man-office-worker-medium-dark-skin-tone"></i> | man-office-worker-medium-dark-skin-tone | <i class="twa twa-woman-scientist-medium-skin-tone"></i> | woman-scientist-medium-skin-tone 
-| <i class="twa twa-woman-scientist-dark-skin-tone"></i> | woman-scientist-dark-skin-tone | <i class="twa twa-woman-scientist-medium-dark-skin-tone"></i> | woman-scientist-medium-dark-skin-tone 
-| <i class="twa twa-technologist"></i> | technologist | <i class="twa twa-technologist-light-skin-tone"></i> | technologist-light-skin-tone 
-| <i class="twa twa-man-technologist-light-skin-tone"></i> | man-technologist-light-skin-tone | <i class="twa twa-man-technologist-medium-skin-tone"></i> | man-technologist-medium-skin-tone 
-| <i class="twa twa-man-technologist-medium-light-skin-tone"></i> | man-technologist-medium-light-skin-tone | <i class="twa twa-man-technologist-dark-skin-tone"></i> | man-technologist-dark-skin-tone 
-| <i class="twa twa-man-technologist-medium-dark-skin-tone"></i> | man-technologist-medium-dark-skin-tone | <i class="twa twa-woman-technologist"></i> | woman-technologist 
-| <i class="twa twa-woman-technologist-light-skin-tone"></i> | woman-technologist-light-skin-tone | <i class="twa twa-woman-technologist-medium-light-skin-tone"></i> | woman-technologist-medium-light-skin-tone 
-| <i class="twa twa-woman-technologist-medium-skin-tone"></i> | woman-technologist-medium-skin-tone | <i class="twa twa-woman-technologist-medium-dark-skin-tone"></i> | woman-technologist-medium-dark-skin-tone 
-| <i class="twa twa-woman-technologist-dark-skin-tone"></i> | woman-technologist-dark-skin-tone | <i class="twa twa-singer"></i> | singer 
-| <i class="twa twa-man-singer"></i> | man-singer | <i class="twa twa-singer-dark-skin-tone"></i> | singer-dark-skin-tone 
-| <i class="twa twa-man-singer-light-skin-tone"></i> | man-singer-light-skin-tone | <i class="twa twa-singer-light-skin-tone"></i> | singer-light-skin-tone 
-| <i class="twa twa-singer-medium-skin-tone"></i> | singer-medium-skin-tone | <i class="twa twa-singer-medium-light-skin-tone"></i> | singer-medium-light-skin-tone 
-| <i class="twa twa-man-singer-medium-light-skin-tone"></i> | man-singer-medium-light-skin-tone | <i class="twa twa-singer-medium-dark-skin-tone"></i> | singer-medium-dark-skin-tone 
-| <i class="twa twa-man-singer-medium-skin-tone"></i> | man-singer-medium-skin-tone | <i class="twa twa-woman-singer-light-skin-tone"></i> | woman-singer-light-skin-tone 
-| <i class="twa twa-woman-singer"></i> | woman-singer | <i class="twa twa-man-singer-dark-skin-tone"></i> | man-singer-dark-skin-tone 
-| <i class="twa twa-man-singer-medium-dark-skin-tone"></i> | man-singer-medium-dark-skin-tone | <i class="twa twa-woman-singer-medium-dark-skin-tone"></i> | woman-singer-medium-dark-skin-tone 
-| <i class="twa twa-woman-singer-medium-light-skin-tone"></i> | woman-singer-medium-light-skin-tone | <i class="twa twa-woman-singer-dark-skin-tone"></i> | woman-singer-dark-skin-tone 
-| <i class="twa twa-woman-singer-medium-skin-tone"></i> | woman-singer-medium-skin-tone | <i class="twa twa-artist-medium-skin-tone"></i> | artist-medium-skin-tone 
-| <i class="twa twa-artist"></i> | artist | <i class="twa twa-artist-light-skin-tone"></i> | artist-light-skin-tone 
-| <i class="twa twa-artist-medium-dark-skin-tone"></i> | artist-medium-dark-skin-tone | <i class="twa twa-man-artist"></i> | man-artist 
-| <i class="twa twa-artist-dark-skin-tone"></i> | artist-dark-skin-tone | <i class="twa twa-man-artist-medium-dark-skin-tone"></i> | man-artist-medium-dark-skin-tone 
-| <i class="twa twa-man-artist-dark-skin-tone"></i> | man-artist-dark-skin-tone | <i class="twa twa-man-artist-light-skin-tone"></i> | man-artist-light-skin-tone 
-| <i class="twa twa-woman-artist-light-skin-tone"></i> | woman-artist-light-skin-tone | <i class="twa twa-man-artist-medium-light-skin-tone"></i> | man-artist-medium-light-skin-tone 
-| <i class="twa twa-man-artist-medium-skin-tone"></i> | man-artist-medium-skin-tone | <i class="twa twa-man-technologist"></i> | man-technologist 
-| <i class="twa twa-woman-artist-medium-skin-tone"></i> | woman-artist-medium-skin-tone | <i class="twa twa-woman-artist-dark-skin-tone"></i> | woman-artist-dark-skin-tone 
-| <i class="twa twa-pilot"></i> | pilot | <i class="twa twa-woman-artist-medium-dark-skin-tone"></i> | woman-artist-medium-dark-skin-tone 
-| <i class="twa twa-pilot-medium-skin-tone"></i> | pilot-medium-skin-tone | <i class="twa twa-pilot-medium-light-skin-tone"></i> | pilot-medium-light-skin-tone 
-| <i class="twa twa-man-pilot"></i> | man-pilot | <i class="twa twa-pilot-dark-skin-tone"></i> | pilot-dark-skin-tone 
-| <i class="twa twa-man-pilot-light-skin-tone"></i> | man-pilot-light-skin-tone | <i class="twa twa-man-pilot-medium-light-skin-tone"></i> | man-pilot-medium-light-skin-tone 
-| <i class="twa twa-man-pilot-medium-skin-tone"></i> | man-pilot-medium-skin-tone | <i class="twa twa-man-pilot-medium-dark-skin-tone"></i> | man-pilot-medium-dark-skin-tone 
-| <i class="twa twa-woman-pilot"></i> | woman-pilot | <i class="twa twa-woman-pilot-light-skin-tone"></i> | woman-pilot-light-skin-tone 
-| <i class="twa twa-woman-pilot-medium-skin-tone"></i> | woman-pilot-medium-skin-tone | <i class="twa twa-man-pilot-dark-skin-tone"></i> | man-pilot-dark-skin-tone 
-| <i class="twa twa-woman-pilot-medium-light-skin-tone"></i> | woman-pilot-medium-light-skin-tone | <i class="twa twa-woman-pilot-medium-dark-skin-tone"></i> | woman-pilot-medium-dark-skin-tone 
-| <i class="twa twa-man-astronaut-light-skin-tone"></i> | man-astronaut-light-skin-tone | <i class="twa twa-man-astronaut"></i> | man-astronaut 
-| <i class="twa twa-woman-artist"></i> | woman-artist | <i class="twa twa-woman-artist-medium-light-skin-tone"></i> | woman-artist-medium-light-skin-tone 
-| <i class="twa twa-woman-pilot-dark-skin-tone"></i> | woman-pilot-dark-skin-tone | <i class="twa twa-astronaut-medium-light-skin-tone"></i> | astronaut-medium-light-skin-tone 
-| <i class="twa twa-astronaut-light-skin-tone"></i> | astronaut-light-skin-tone | <i class="twa twa-astronaut-dark-skin-tone"></i> | astronaut-dark-skin-tone 
-| <i class="twa twa-astronaut-medium-skin-tone"></i> | astronaut-medium-skin-tone | <i class="twa twa-astronaut-medium-dark-skin-tone"></i> | astronaut-medium-dark-skin-tone 
-| <i class="twa twa-artist-medium-light-skin-tone"></i> | artist-medium-light-skin-tone | <i class="twa twa-astronaut"></i> | astronaut 
-| <i class="twa twa-pilot-medium-dark-skin-tone"></i> | pilot-medium-dark-skin-tone | <i class="twa twa-man-astronaut-medium-skin-tone"></i> | man-astronaut-medium-skin-tone 
-| <i class="twa twa-pilot-light-skin-tone"></i> | pilot-light-skin-tone | <i class="twa twa-man-astronaut-medium-light-skin-tone"></i> | man-astronaut-medium-light-skin-tone 
-| <i class="twa twa-man-astronaut-medium-dark-skin-tone"></i> | man-astronaut-medium-dark-skin-tone | <i class="twa twa-woman-astronaut-light-skin-tone"></i> | woman-astronaut-light-skin-tone 
-| <i class="twa twa-woman-astronaut"></i> | woman-astronaut | <i class="twa twa-woman-astronaut-medium-light-skin-tone"></i> | woman-astronaut-medium-light-skin-tone 
-| <i class="twa twa-woman-astronaut-medium-skin-tone"></i> | woman-astronaut-medium-skin-tone | <i class="twa twa-woman-astronaut-medium-dark-skin-tone"></i> | woman-astronaut-medium-dark-skin-tone 
-| <i class="twa twa-woman-astronaut-dark-skin-tone"></i> | woman-astronaut-dark-skin-tone | <i class="twa twa-firefighter-light-skin-tone"></i> | firefighter-light-skin-tone 
-| <i class="twa twa-firefighter"></i> | firefighter | <i class="twa twa-firefighter-medium-light-skin-tone"></i> | firefighter-medium-light-skin-tone 
-| <i class="twa twa-person-tipping-hand-medium-dark-skin-tone"></i> | person-tipping-hand-medium-dark-skin-tone | <i class="twa twa-man-blond-hair"></i> | man-blond-hair 
-| <i class="twa twa-man-firefighter-medium-skin-tone"></i> | man-firefighter-medium-skin-tone | <i class="twa twa-man-firefighter"></i> | man-firefighter 
-| <i class="twa twa-man-firefighter-medium-light-skin-tone"></i> | man-firefighter-medium-light-skin-tone | <i class="twa twa-man-firefighter-medium-dark-skin-tone"></i> | man-firefighter-medium-dark-skin-tone 
-| <i class="twa twa-man-firefighter-dark-skin-tone"></i> | man-firefighter-dark-skin-tone | <i class="twa twa-man-health-worker"></i> | man-health-worker 
-| <i class="twa twa-woman-firefighter-light-skin-tone"></i> | woman-firefighter-light-skin-tone | <i class="twa twa-health-worker-dark-skin-tone"></i> | health-worker-dark-skin-tone 
-| <i class="twa twa-woman-health-worker-light-skin-tone"></i> | woman-health-worker-light-skin-tone | <i class="twa twa-deaf-man"></i> | deaf-man 
-| <i class="twa twa-woman-firefighter"></i> | woman-firefighter | <i class="twa twa-woman-firefighter-medium-light-skin-tone"></i> | woman-firefighter-medium-light-skin-tone 
-| <i class="twa twa-woman-firefighter-medium-skin-tone"></i> | woman-firefighter-medium-skin-tone | <i class="twa twa-police-officer-light-skin-tone"></i> | police-officer-light-skin-tone 
-| <i class="twa twa-woman-firefighter-dark-skin-tone"></i> | woman-firefighter-dark-skin-tone | <i class="twa twa-police-officer"></i> | police-officer 
-| <i class="twa twa-woman-firefighter-medium-dark-skin-tone"></i> | woman-firefighter-medium-dark-skin-tone | <i class="twa twa-police-officer-medium-light-skin-tone"></i> | police-officer-medium-light-skin-tone 
-| <i class="twa twa-deaf-person-medium-dark-skin-tone"></i> | deaf-person-medium-dark-skin-tone | <i class="twa twa-police-officer-medium-dark-skin-tone"></i> | police-officer-medium-dark-skin-tone 
-| <i class="twa twa-police-officer-medium-skin-tone"></i> | police-officer-medium-skin-tone | <i class="twa twa-police-officer-dark-skin-tone"></i> | police-officer-dark-skin-tone 
-| <i class="twa twa-man-police-officer"></i> | man-police-officer | <i class="twa twa-woman-gesturing-no-medium-light-skin-tone"></i> | woman-gesturing-no-medium-light-skin-tone 
-| <i class="twa twa-man-police-officer-medium-light-skin-tone"></i> | man-police-officer-medium-light-skin-tone | <i class="twa twa-man-police-officer-medium-skin-tone"></i> | man-police-officer-medium-skin-tone 
-| <i class="twa twa-firefighter-medium-skin-tone"></i> | firefighter-medium-skin-tone | <i class="twa twa-firefighter-medium-dark-skin-tone"></i> | firefighter-medium-dark-skin-tone 
-| <i class="twa twa-man-police-officer-dark-skin-tone"></i> | man-police-officer-dark-skin-tone | <i class="twa twa-woman-police-officer"></i> | woman-police-officer 
-| <i class="twa twa-woman-police-officer-medium-light-skin-tone"></i> | woman-police-officer-medium-light-skin-tone | <i class="twa twa-woman-police-officer-medium-dark-skin-tone"></i> | woman-police-officer-medium-dark-skin-tone 
-| <i class="twa twa-woman-police-officer-light-skin-tone"></i> | woman-police-officer-light-skin-tone | <i class="twa twa-firefighter-dark-skin-tone"></i> | firefighter-dark-skin-tone 
-| <i class="twa twa-man-firefighter-light-skin-tone"></i> | man-firefighter-light-skin-tone | <i class="twa twa-woman-police-officer-dark-skin-tone"></i> | woman-police-officer-dark-skin-tone 
-| <i class="twa twa-detective"></i> | detective | <i class="twa twa-man-police-officer-light-skin-tone"></i> | man-police-officer-light-skin-tone 
-| <i class="twa twa-detective-light-skin-tone"></i> | detective-light-skin-tone | <i class="twa twa-detective-medium-skin-tone"></i> | detective-medium-skin-tone 
-| <i class="twa twa-woman-police-officer-medium-skin-tone"></i> | woman-police-officer-medium-skin-tone | <i class="twa twa-detective-medium-dark-skin-tone"></i> | detective-medium-dark-skin-tone 
-| <i class="twa twa-man-police-officer-medium-dark-skin-tone"></i> | man-police-officer-medium-dark-skin-tone | <i class="twa twa-detective-medium-light-skin-tone"></i> | detective-medium-light-skin-tone 
-| <i class="twa twa-detective-dark-skin-tone"></i> | detective-dark-skin-tone | <i class="twa twa-man-detective"></i> | man-detective 
-| <i class="twa twa-man-detective-medium-light-skin-tone"></i> | man-detective-medium-light-skin-tone | <i class="twa twa-woman-scientist"></i> | woman-scientist 
-| <i class="twa twa-man-detective-dark-skin-tone"></i> | man-detective-dark-skin-tone | <i class="twa twa-man-detective-medium-skin-tone"></i> | man-detective-medium-skin-tone 
-| <i class="twa twa-woman-detective"></i> | woman-detective | <i class="twa twa-woman-detective-light-skin-tone"></i> | woman-detective-light-skin-tone 
-| <i class="twa twa-man-detective-medium-dark-skin-tone"></i> | man-detective-medium-dark-skin-tone | <i class="twa twa-woman-detective-medium-light-skin-tone"></i> | woman-detective-medium-light-skin-tone 
-| <i class="twa twa-woman-detective-medium-dark-skin-tone"></i> | woman-detective-medium-dark-skin-tone | <i class="twa twa-woman-detective-dark-skin-tone"></i> | woman-detective-dark-skin-tone 
-| <i class="twa twa-guard"></i> | guard | <i class="twa twa-guard-light-skin-tone"></i> | guard-light-skin-tone 
-| <i class="twa twa-guard-medium-light-skin-tone"></i> | guard-medium-light-skin-tone | <i class="twa twa-guard-medium-dark-skin-tone"></i> | guard-medium-dark-skin-tone 
-| <i class="twa twa-man-detective-light-skin-tone"></i> | man-detective-light-skin-tone | <i class="twa twa-guard-medium-skin-tone"></i> | guard-medium-skin-tone 
-| <i class="twa twa-man-guard-light-skin-tone"></i> | man-guard-light-skin-tone | <i class="twa twa-guard-dark-skin-tone"></i> | guard-dark-skin-tone 
-| <i class="twa twa-man-guard"></i> | man-guard | <i class="twa twa-man-guard-medium-light-skin-tone"></i> | man-guard-medium-light-skin-tone 
-| <i class="twa twa-man-guard-dark-skin-tone"></i> | man-guard-dark-skin-tone | <i class="twa twa-woman-guard"></i> | woman-guard 
-| <i class="twa twa-man-guard-medium-skin-tone"></i> | man-guard-medium-skin-tone | <i class="twa twa-woman-guard-light-skin-tone"></i> | woman-guard-light-skin-tone 
-| <i class="twa twa-woman-guard-medium-light-skin-tone"></i> | woman-guard-medium-light-skin-tone | <i class="twa twa-man-guard-medium-dark-skin-tone"></i> | man-guard-medium-dark-skin-tone 
-| <i class="twa twa-woman-detective-medium-skin-tone"></i> | woman-detective-medium-skin-tone | <i class="twa twa-woman-guard-medium-skin-tone"></i> | woman-guard-medium-skin-tone 
-| <i class="twa twa-woman-guard-medium-dark-skin-tone"></i> | woman-guard-medium-dark-skin-tone | <i class="twa twa-woman-guard-dark-skin-tone"></i> | woman-guard-dark-skin-tone 
-| <i class="twa twa-ninja"></i> | ninja | <i class="twa twa-ninja-medium-light-skin-tone"></i> | ninja-medium-light-skin-tone 
-| <i class="twa twa-ninja-light-skin-tone"></i> | ninja-light-skin-tone | <i class="twa twa-construction-worker"></i> | construction-worker 
-| <i class="twa twa-ninja-medium-skin-tone"></i> | ninja-medium-skin-tone | <i class="twa twa-ninja-medium-dark-skin-tone"></i> | ninja-medium-dark-skin-tone 
-| <i class="twa twa-ninja-dark-skin-tone"></i> | ninja-dark-skin-tone | <i class="twa twa-construction-worker-light-skin-tone"></i> | construction-worker-light-skin-tone 
-| <i class="twa twa-construction-worker-medium-skin-tone"></i> | construction-worker-medium-skin-tone | <i class="twa twa-construction-worker-medium-dark-skin-tone"></i> | construction-worker-medium-dark-skin-tone 
-| <i class="twa twa-construction-worker-medium-light-skin-tone"></i> | construction-worker-medium-light-skin-tone | <i class="twa twa-man-construction-worker"></i> | man-construction-worker 
-| <i class="twa twa-man-construction-worker-medium-light-skin-tone"></i> | man-construction-worker-medium-light-skin-tone | <i class="twa twa-construction-worker-dark-skin-tone"></i> | construction-worker-dark-skin-tone 
-| <i class="twa twa-man-construction-worker-light-skin-tone"></i> | man-construction-worker-light-skin-tone | <i class="twa twa-man-construction-worker-medium-dark-skin-tone"></i> | man-construction-worker-medium-dark-skin-tone 
-| <i class="twa twa-man-construction-worker-dark-skin-tone"></i> | man-construction-worker-dark-skin-tone | <i class="twa twa-man-construction-worker-medium-skin-tone"></i> | man-construction-worker-medium-skin-tone 
-| <i class="twa twa-woman-construction-worker"></i> | woman-construction-worker | <i class="twa twa-woman-construction-worker-light-skin-tone"></i> | woman-construction-worker-light-skin-tone 
-| <i class="twa twa-woman-construction-worker-medium-light-skin-tone"></i> | woman-construction-worker-medium-light-skin-tone | <i class="twa twa-woman-construction-worker-medium-skin-tone"></i> | woman-construction-worker-medium-skin-tone 
-| <i class="twa twa-woman-construction-worker-medium-dark-skin-tone"></i> | woman-construction-worker-medium-dark-skin-tone | <i class="twa twa-woman-construction-worker-dark-skin-tone"></i> | woman-construction-worker-dark-skin-tone 
-| <i class="twa twa-man-astronaut-dark-skin-tone"></i> | man-astronaut-dark-skin-tone | <i class="twa twa-prince"></i> | prince 
-| <i class="twa twa-prince-medium-light-skin-tone"></i> | prince-medium-light-skin-tone | <i class="twa twa-prince-light-skin-tone"></i> | prince-light-skin-tone 
-| <i class="twa twa-prince-medium-skin-tone"></i> | prince-medium-skin-tone | <i class="twa twa-prince-medium-dark-skin-tone"></i> | prince-medium-dark-skin-tone 
-| <i class="twa twa-princess-medium-light-skin-tone"></i> | princess-medium-light-skin-tone | <i class="twa twa-princess-medium-skin-tone"></i> | princess-medium-skin-tone 
-| <i class="twa twa-princess-dark-skin-tone"></i> | princess-dark-skin-tone | <i class="twa twa-prince-dark-skin-tone"></i> | prince-dark-skin-tone 
-| <i class="twa twa-person-wearing-turban"></i> | person-wearing-turban | <i class="twa twa-princess-light-skin-tone"></i> | princess-light-skin-tone 
-| <i class="twa twa-princess"></i> | princess | <i class="twa twa-princess-medium-dark-skin-tone"></i> | princess-medium-dark-skin-tone 
-| <i class="twa twa-person-wearing-turban-medium-light-skin-tone"></i> | person-wearing-turban-medium-light-skin-tone | <i class="twa twa-person-wearing-turban-light-skin-tone"></i> | person-wearing-turban-light-skin-tone 
-| <i class="twa twa-person-wearing-turban-medium-skin-tone"></i> | person-wearing-turban-medium-skin-tone | <i class="twa twa-person-wearing-turban-medium-dark-skin-tone"></i> | person-wearing-turban-medium-dark-skin-tone 
-| <i class="twa twa-man-wearing-turban"></i> | man-wearing-turban | <i class="twa twa-man-wearing-turban-medium-light-skin-tone"></i> | man-wearing-turban-medium-light-skin-tone 
-| <i class="twa twa-man-wearing-turban-light-skin-tone"></i> | man-wearing-turban-light-skin-tone | <i class="twa twa-person-wearing-turban-dark-skin-tone"></i> | person-wearing-turban-dark-skin-tone 
-| <i class="twa twa-man-wearing-turban-medium-skin-tone"></i> | man-wearing-turban-medium-skin-tone | <i class="twa twa-man-wearing-turban-medium-dark-skin-tone"></i> | man-wearing-turban-medium-dark-skin-tone 
-| <i class="twa twa-man-wearing-turban-dark-skin-tone"></i> | man-wearing-turban-dark-skin-tone | <i class="twa twa-woman-wearing-turban-medium-light-skin-tone"></i> | woman-wearing-turban-medium-light-skin-tone 
-| <i class="twa twa-woman-wearing-turban"></i> | woman-wearing-turban | <i class="twa twa-woman-wearing-turban-medium-skin-tone"></i> | woman-wearing-turban-medium-skin-tone 
-| <i class="twa twa-woman-wearing-turban-medium-dark-skin-tone"></i> | woman-wearing-turban-medium-dark-skin-tone | <i class="twa twa-person-with-skullcap"></i> | person-with-skullcap 
-| <i class="twa twa-person-with-skullcap-medium-light-skin-tone"></i> | person-with-skullcap-medium-light-skin-tone | <i class="twa twa-man-teacher"></i> | man-teacher 
-| <i class="twa twa-person-with-skullcap-light-skin-tone"></i> | person-with-skullcap-light-skin-tone | <i class="twa twa-man-teacher-light-skin-tone"></i> | man-teacher-light-skin-tone 
-| <i class="twa twa-person-with-skullcap-medium-dark-skin-tone"></i> | person-with-skullcap-medium-dark-skin-tone | <i class="twa twa-person-with-skullcap-medium-skin-tone"></i> | person-with-skullcap-medium-skin-tone 
-| <i class="twa twa-person-with-skullcap-dark-skin-tone"></i> | person-with-skullcap-dark-skin-tone | <i class="twa twa-woman-with-headscarf-medium-light-skin-tone"></i> | woman-with-headscarf-medium-light-skin-tone 
-| <i class="twa twa-woman-with-headscarf-light-skin-tone"></i> | woman-with-headscarf-light-skin-tone | <i class="twa twa-woman-with-headscarf-medium-dark-skin-tone"></i> | woman-with-headscarf-medium-dark-skin-tone 
-| <i class="twa twa-woman-with-headscarf-medium-skin-tone"></i> | woman-with-headscarf-medium-skin-tone | <i class="twa twa-woman-wearing-turban-light-skin-tone"></i> | woman-wearing-turban-light-skin-tone 
-| <i class="twa twa-person-in-tuxedo-medium-skin-tone"></i> | person-in-tuxedo-medium-skin-tone | <i class="twa twa-person-in-tuxedo-medium-light-skin-tone"></i> | person-in-tuxedo-medium-light-skin-tone 
-| <i class="twa twa-person-in-tuxedo"></i> | person-in-tuxedo | <i class="twa twa-person-in-tuxedo-dark-skin-tone"></i> | person-in-tuxedo-dark-skin-tone 
-| <i class="twa twa-person-in-tuxedo-light-skin-tone"></i> | person-in-tuxedo-light-skin-tone | <i class="twa twa-person-in-tuxedo-medium-dark-skin-tone"></i> | person-in-tuxedo-medium-dark-skin-tone 
-| <i class="twa twa-man-in-tuxedo-light-skin-tone"></i> | man-in-tuxedo-light-skin-tone | <i class="twa twa-man-in-tuxedo"></i> | man-in-tuxedo 
-| <i class="twa twa-woman-with-headscarf"></i> | woman-with-headscarf | <i class="twa twa-woman-in-tuxedo-medium-light-skin-tone"></i> | woman-in-tuxedo-medium-light-skin-tone 
-| <i class="twa twa-man-in-tuxedo-medium-light-skin-tone"></i> | man-in-tuxedo-medium-light-skin-tone | <i class="twa twa-man-in-tuxedo-dark-skin-tone"></i> | man-in-tuxedo-dark-skin-tone 
-| <i class="twa twa-man-in-tuxedo-medium-dark-skin-tone"></i> | man-in-tuxedo-medium-dark-skin-tone | <i class="twa twa-man-in-tuxedo-medium-skin-tone"></i> | man-in-tuxedo-medium-skin-tone 
-| <i class="twa twa-woman-in-tuxedo"></i> | woman-in-tuxedo | <i class="twa twa-woman-wearing-turban-dark-skin-tone"></i> | woman-wearing-turban-dark-skin-tone 
-| <i class="twa twa-woman-with-headscarf-dark-skin-tone"></i> | woman-with-headscarf-dark-skin-tone | <i class="twa twa-woman-in-tuxedo-light-skin-tone"></i> | woman-in-tuxedo-light-skin-tone 
-| <i class="twa twa-woman-in-tuxedo-medium-skin-tone"></i> | woman-in-tuxedo-medium-skin-tone | <i class="twa twa-woman-in-tuxedo-medium-dark-skin-tone"></i> | woman-in-tuxedo-medium-dark-skin-tone 
-| <i class="twa twa-woman-in-tuxedo-dark-skin-tone"></i> | woman-in-tuxedo-dark-skin-tone | <i class="twa twa-person-with-veil"></i> | person-with-veil 
-| <i class="twa twa-person-with-veil-medium-light-skin-tone"></i> | person-with-veil-medium-light-skin-tone | <i class="twa twa-person-with-veil-medium-skin-tone"></i> | person-with-veil-medium-skin-tone 
-| <i class="twa twa-man-with-veil"></i> | man-with-veil | <i class="twa twa-person-with-veil-light-skin-tone"></i> | person-with-veil-light-skin-tone 
-| <i class="twa twa-person-with-veil-dark-skin-tone"></i> | person-with-veil-dark-skin-tone | <i class="twa twa-person-with-veil-medium-dark-skin-tone"></i> | person-with-veil-medium-dark-skin-tone 
-| <i class="twa twa-man-with-veil-light-skin-tone"></i> | man-with-veil-light-skin-tone | <i class="twa twa-man-with-veil-medium-skin-tone"></i> | man-with-veil-medium-skin-tone 
-| <i class="twa twa-man-with-veil-medium-light-skin-tone"></i> | man-with-veil-medium-light-skin-tone | <i class="twa twa-man-with-veil-medium-dark-skin-tone"></i> | man-with-veil-medium-dark-skin-tone 
-| <i class="twa twa-man-with-veil-dark-skin-tone"></i> | man-with-veil-dark-skin-tone | <i class="twa twa-woman-with-veil"></i> | woman-with-veil 
-| <i class="twa twa-woman-with-veil-medium-dark-skin-tone"></i> | woman-with-veil-medium-dark-skin-tone | <i class="twa twa-woman-with-veil-dark-skin-tone"></i> | woman-with-veil-dark-skin-tone 
-| <i class="twa twa-pregnant-woman-medium-light-skin-tone"></i> | pregnant-woman-medium-light-skin-tone | <i class="twa twa-woman-with-veil-medium-light-skin-tone"></i> | woman-with-veil-medium-light-skin-tone 
-| <i class="twa twa-breast-feeding"></i> | breast-feeding | <i class="twa twa-woman-with-veil-light-skin-tone"></i> | woman-with-veil-light-skin-tone 
-| <i class="twa twa-pregnant-woman-light-skin-tone"></i> | pregnant-woman-light-skin-tone | <i class="twa twa-woman-with-veil-medium-skin-tone"></i> | woman-with-veil-medium-skin-tone 
-| <i class="twa twa-pregnant-woman-dark-skin-tone"></i> | pregnant-woman-dark-skin-tone | <i class="twa twa-breast-feeding-medium-light-skin-tone"></i> | breast-feeding-medium-light-skin-tone 
-| <i class="twa twa-breast-feeding-medium-dark-skin-tone"></i> | breast-feeding-medium-dark-skin-tone | <i class="twa twa-breast-feeding-medium-skin-tone"></i> | breast-feeding-medium-skin-tone 
-| <i class="twa twa-breast-feeding-light-skin-tone"></i> | breast-feeding-light-skin-tone | <i class="twa twa-woman-feeding-baby"></i> | woman-feeding-baby 
-| <i class="twa twa-breast-feeding-dark-skin-tone"></i> | breast-feeding-dark-skin-tone | <i class="twa twa-pregnant-woman-medium-skin-tone"></i> | pregnant-woman-medium-skin-tone 
-| <i class="twa twa-woman-feeding-baby-medium-light-skin-tone"></i> | woman-feeding-baby-medium-light-skin-tone | <i class="twa twa-pregnant-woman-medium-dark-skin-tone"></i> | pregnant-woman-medium-dark-skin-tone 
-| <i class="twa twa-man-feeding-baby"></i> | man-feeding-baby | <i class="twa twa-man-feeding-baby-medium-light-skin-tone"></i> | man-feeding-baby-medium-light-skin-tone 
-| <i class="twa twa-woman-feeding-baby-light-skin-tone"></i> | woman-feeding-baby-light-skin-tone | <i class="twa twa-woman-feeding-baby-dark-skin-tone"></i> | woman-feeding-baby-dark-skin-tone 
-| <i class="twa twa-man-feeding-baby-medium-skin-tone"></i> | man-feeding-baby-medium-skin-tone | <i class="twa twa-man-feeding-baby-medium-dark-skin-tone"></i> | man-feeding-baby-medium-dark-skin-tone 
-| <i class="twa twa-woman-feeding-baby-medium-dark-skin-tone"></i> | woman-feeding-baby-medium-dark-skin-tone | <i class="twa twa-man-feeding-baby-dark-skin-tone"></i> | man-feeding-baby-dark-skin-tone 
-| <i class="twa twa-woman-feeding-baby-medium-skin-tone"></i> | woman-feeding-baby-medium-skin-tone | <i class="twa twa-man-feeding-baby-light-skin-tone"></i> | man-feeding-baby-light-skin-tone 
-| <i class="twa twa-person-feeding-baby"></i> | person-feeding-baby | <i class="twa twa-baby-angel"></i> | baby-angel 
-| <i class="twa twa-person-feeding-baby-light-skin-tone"></i> | person-feeding-baby-light-skin-tone | <i class="twa twa-person-feeding-baby-dark-skin-tone"></i> | person-feeding-baby-dark-skin-tone 
-| <i class="twa twa-baby-angel-light-skin-tone"></i> | baby-angel-light-skin-tone | <i class="twa twa-person-feeding-baby-medium-dark-skin-tone"></i> | person-feeding-baby-medium-dark-skin-tone 
-| <i class="twa twa-person-feeding-baby-medium-light-skin-tone"></i> | person-feeding-baby-medium-light-skin-tone | <i class="twa twa-person-feeding-baby-medium-skin-tone"></i> | person-feeding-baby-medium-skin-tone 
-| <i class="twa twa-baby-angel-medium-skin-tone"></i> | baby-angel-medium-skin-tone | <i class="twa twa-baby-angel-medium-dark-skin-tone"></i> | baby-angel-medium-dark-skin-tone 
-| <i class="twa twa-santa-claus"></i> | santa-claus | <i class="twa twa-baby-angel-dark-skin-tone"></i> | baby-angel-dark-skin-tone 
-| <i class="twa twa-baby-angel-medium-light-skin-tone"></i> | baby-angel-medium-light-skin-tone | <i class="twa twa-santa-claus-medium-light-skin-tone"></i> | santa-claus-medium-light-skin-tone 
-| <i class="twa twa-santa-claus-light-skin-tone"></i> | santa-claus-light-skin-tone | <i class="twa twa-santa-claus-medium-skin-tone"></i> | santa-claus-medium-skin-tone 
-| <i class="twa twa-santa-claus-medium-dark-skin-tone"></i> | santa-claus-medium-dark-skin-tone | <i class="twa twa-santa-claus-dark-skin-tone"></i> | santa-claus-dark-skin-tone 
-| <i class="twa twa-mrs-claus-medium-skin-tone"></i> | mrs-claus-medium-skin-tone | <i class="twa twa-mrs-claus-medium-light-skin-tone"></i> | mrs-claus-medium-light-skin-tone 
-| <i class="twa twa-mrs-claus"></i> | mrs-claus | <i class="twa twa-mrs-claus-light-skin-tone"></i> | mrs-claus-light-skin-tone 
-| <i class="twa twa-mx-claus"></i> | mx-claus | <i class="twa twa-mrs-claus-dark-skin-tone"></i> | mrs-claus-dark-skin-tone 
-| <i class="twa twa-mx-claus-medium-light-skin-tone"></i> | mx-claus-medium-light-skin-tone | <i class="twa twa-mrs-claus-medium-dark-skin-tone"></i> | mrs-claus-medium-dark-skin-tone 
-| <i class="twa twa-mx-claus-light-skin-tone"></i> | mx-claus-light-skin-tone | <i class="twa twa-superhero-medium-light-skin-tone"></i> | superhero-medium-light-skin-tone 
-| <i class="twa twa-superhero"></i> | superhero | <i class="twa twa-superhero-light-skin-tone"></i> | superhero-light-skin-tone 
-| <i class="twa twa-mx-claus-dark-skin-tone"></i> | mx-claus-dark-skin-tone | <i class="twa twa-superhero-medium-dark-skin-tone"></i> | superhero-medium-dark-skin-tone 
-| <i class="twa twa-superhero-medium-skin-tone"></i> | superhero-medium-skin-tone | <i class="twa twa-man-superhero-medium-light-skin-tone"></i> | man-superhero-medium-light-skin-tone 
-| <i class="twa twa-man-superhero"></i> | man-superhero | <i class="twa twa-superhero-dark-skin-tone"></i> | superhero-dark-skin-tone 
-| <i class="twa twa-man-superhero-light-skin-tone"></i> | man-superhero-light-skin-tone | <i class="twa twa-man-superhero-medium-skin-tone"></i> | man-superhero-medium-skin-tone 
-| <i class="twa twa-man-superhero-medium-dark-skin-tone"></i> | man-superhero-medium-dark-skin-tone | <i class="twa twa-woman-superhero"></i> | woman-superhero 
-| <i class="twa twa-man-superhero-dark-skin-tone"></i> | man-superhero-dark-skin-tone | <i class="twa twa-woman-superhero-light-skin-tone"></i> | woman-superhero-light-skin-tone 
-| <i class="twa twa-woman-superhero-medium-skin-tone"></i> | woman-superhero-medium-skin-tone | <i class="twa twa-woman-superhero-medium-light-skin-tone"></i> | woman-superhero-medium-light-skin-tone 
-| <i class="twa twa-woman-superhero-medium-dark-skin-tone"></i> | woman-superhero-medium-dark-skin-tone | <i class="twa twa-woman-superhero-dark-skin-tone"></i> | woman-superhero-dark-skin-tone 
-| <i class="twa twa-supervillain-medium-skin-tone"></i> | supervillain-medium-skin-tone | <i class="twa twa-supervillain-light-skin-tone"></i> | supervillain-light-skin-tone 
-| <i class="twa twa-supervillain"></i> | supervillain | <i class="twa twa-supervillain-medium-dark-skin-tone"></i> | supervillain-medium-dark-skin-tone 
-| <i class="twa twa-man-supervillain-light-skin-tone"></i> | man-supervillain-light-skin-tone | <i class="twa twa-supervillain-medium-light-skin-tone"></i> | supervillain-medium-light-skin-tone 
-| <i class="twa twa-man-supervillain"></i> | man-supervillain | <i class="twa twa-supervillain-dark-skin-tone"></i> | supervillain-dark-skin-tone 
-| <i class="twa twa-man-supervillain-medium-light-skin-tone"></i> | man-supervillain-medium-light-skin-tone | <i class="twa twa-man-supervillain-medium-skin-tone"></i> | man-supervillain-medium-skin-tone 
-| <i class="twa twa-man-supervillain-medium-dark-skin-tone"></i> | man-supervillain-medium-dark-skin-tone | <i class="twa twa-man-supervillain-dark-skin-tone"></i> | man-supervillain-dark-skin-tone 
-| <i class="twa twa-woman-supervillain"></i> | woman-supervillain | <i class="twa twa-woman-supervillain-light-skin-tone"></i> | woman-supervillain-light-skin-tone 
-| <i class="twa twa-woman-supervillain-medium-light-skin-tone"></i> | woman-supervillain-medium-light-skin-tone | <i class="twa twa-technologist-medium-light-skin-tone"></i> | technologist-medium-light-skin-tone 
-| <i class="twa twa-woman-supervillain-medium-skin-tone"></i> | woman-supervillain-medium-skin-tone | <i class="twa twa-technologist-dark-skin-tone"></i> | technologist-dark-skin-tone 
-| <i class="twa twa-technologist-medium-skin-tone"></i> | technologist-medium-skin-tone | <i class="twa twa-technologist-medium-dark-skin-tone"></i> | technologist-medium-dark-skin-tone 
-| <i class="twa twa-woman-supervillain-dark-skin-tone"></i> | woman-supervillain-dark-skin-tone | <i class="twa twa-woman-supervillain-medium-dark-skin-tone"></i> | woman-supervillain-medium-dark-skin-tone 
-| <i class="twa twa-mage"></i> | mage | <i class="twa twa-mage-light-skin-tone"></i> | mage-light-skin-tone 
-| <i class="twa twa-mage-medium-light-skin-tone"></i> | mage-medium-light-skin-tone | <i class="twa twa-mage-medium-dark-skin-tone"></i> | mage-medium-dark-skin-tone 
-| <i class="twa twa-mage-medium-skin-tone"></i> | mage-medium-skin-tone | <i class="twa twa-man-mage"></i> | man-mage 
-| <i class="twa twa-mage-dark-skin-tone"></i> | mage-dark-skin-tone | <i class="twa twa-man-mage-medium-light-skin-tone"></i> | man-mage-medium-light-skin-tone 
-| <i class="twa twa-man-mage-medium-skin-tone"></i> | man-mage-medium-skin-tone | <i class="twa twa-man-mage-medium-dark-skin-tone"></i> | man-mage-medium-dark-skin-tone 
-| <i class="twa twa-woman-mage"></i> | woman-mage | <i class="twa twa-man-mage-dark-skin-tone"></i> | man-mage-dark-skin-tone 
-| <i class="twa twa-woman-mage-light-skin-tone"></i> | woman-mage-light-skin-tone | <i class="twa twa-man-mage-light-skin-tone"></i> | man-mage-light-skin-tone 
-| <i class="twa twa-woman-mage-medium-light-skin-tone"></i> | woman-mage-medium-light-skin-tone | <i class="twa twa-woman-mage-medium-skin-tone"></i> | woman-mage-medium-skin-tone 
-| <i class="twa twa-woman-mage-medium-dark-skin-tone"></i> | woman-mage-medium-dark-skin-tone | <i class="twa twa-woman-mage-dark-skin-tone"></i> | woman-mage-dark-skin-tone 
-| <i class="twa twa-fairy-medium-light-skin-tone"></i> | fairy-medium-light-skin-tone | <i class="twa twa-fairy-light-skin-tone"></i> | fairy-light-skin-tone 
-| <i class="twa twa-fairy-dark-skin-tone"></i> | fairy-dark-skin-tone | <i class="twa twa-fairy-medium-dark-skin-tone"></i> | fairy-medium-dark-skin-tone 
-| <i class="twa twa-fairy-medium-skin-tone"></i> | fairy-medium-skin-tone | <i class="twa twa-man-fairy-light-skin-tone"></i> | man-fairy-light-skin-tone 
-| <i class="twa twa-man-fairy"></i> | man-fairy | <i class="twa twa-man-fairy-medium-light-skin-tone"></i> | man-fairy-medium-light-skin-tone 
-| <i class="twa twa-man-fairy-medium-skin-tone"></i> | man-fairy-medium-skin-tone | <i class="twa twa-pregnant-woman"></i> | pregnant-woman 
-| <i class="twa twa-man-fairy-medium-dark-skin-tone"></i> | man-fairy-medium-dark-skin-tone | <i class="twa twa-man-fairy-dark-skin-tone"></i> | man-fairy-dark-skin-tone 
-| <i class="twa twa-woman-fairy"></i> | woman-fairy | <i class="twa twa-woman-fairy-medium-light-skin-tone"></i> | woman-fairy-medium-light-skin-tone 
-| <i class="twa twa-woman-fairy-medium-skin-tone"></i> | woman-fairy-medium-skin-tone | <i class="twa twa-woman-fairy-light-skin-tone"></i> | woman-fairy-light-skin-tone 
-| <i class="twa twa-woman-fairy-medium-dark-skin-tone"></i> | woman-fairy-medium-dark-skin-tone | <i class="twa twa-woman-fairy-dark-skin-tone"></i> | woman-fairy-dark-skin-tone 
-| <i class="twa twa-fairy"></i> | fairy | <i class="twa twa-vampire"></i> | vampire 
-| <i class="twa twa-vampire-medium-light-skin-tone"></i> | vampire-medium-light-skin-tone | <i class="twa twa-vampire-medium-dark-skin-tone"></i> | vampire-medium-dark-skin-tone 
-| <i class="twa twa-vampire-dark-skin-tone"></i> | vampire-dark-skin-tone | <i class="twa twa-vampire-medium-skin-tone"></i> | vampire-medium-skin-tone 
-| <i class="twa twa-man-vampire-medium-light-skin-tone"></i> | man-vampire-medium-light-skin-tone | <i class="twa twa-man-vampire-light-skin-tone"></i> | man-vampire-light-skin-tone 
-| <i class="twa twa-man-vampire"></i> | man-vampire | <i class="twa twa-vampire-light-skin-tone"></i> | vampire-light-skin-tone 
-| <i class="twa twa-man-vampire-medium-skin-tone"></i> | man-vampire-medium-skin-tone | <i class="twa twa-man-vampire-medium-dark-skin-tone"></i> | man-vampire-medium-dark-skin-tone 
-| <i class="twa twa-man-vampire-dark-skin-tone"></i> | man-vampire-dark-skin-tone | <i class="twa twa-woman-vampire"></i> | woman-vampire 
-| <i class="twa twa-woman-vampire-light-skin-tone"></i> | woman-vampire-light-skin-tone | <i class="twa twa-woman-vampire-medium-light-skin-tone"></i> | woman-vampire-medium-light-skin-tone 
-| <i class="twa twa-woman-vampire-medium-skin-tone"></i> | woman-vampire-medium-skin-tone | <i class="twa twa-woman-vampire-medium-dark-skin-tone"></i> | woman-vampire-medium-dark-skin-tone 
-| <i class="twa twa-woman-vampire-dark-skin-tone"></i> | woman-vampire-dark-skin-tone | <i class="twa twa-merperson"></i> | merperson 
-| <i class="twa twa-merperson-light-skin-tone"></i> | merperson-light-skin-tone | <i class="twa twa-merperson-medium-light-skin-tone"></i> | merperson-medium-light-skin-tone 
-| <i class="twa twa-merperson-medium-skin-tone"></i> | merperson-medium-skin-tone | <i class="twa twa-merperson-medium-dark-skin-tone"></i> | merperson-medium-dark-skin-tone 
-| <i class="twa twa-merperson-dark-skin-tone"></i> | merperson-dark-skin-tone | <i class="twa twa-merman"></i> | merman 
-| <i class="twa twa-merman-light-skin-tone"></i> | merman-light-skin-tone | <i class="twa twa-merman-medium-dark-skin-tone"></i> | merman-medium-dark-skin-tone 
-| <i class="twa twa-merman-medium-skin-tone"></i> | merman-medium-skin-tone | <i class="twa twa-merman-dark-skin-tone"></i> | merman-dark-skin-tone 
-| <i class="twa twa-mermaid"></i> | mermaid | <i class="twa twa-mermaid-medium-skin-tone"></i> | mermaid-medium-skin-tone 
-| <i class="twa twa-mermaid-light-skin-tone"></i> | mermaid-light-skin-tone | <i class="twa twa-mermaid-medium-dark-skin-tone"></i> | mermaid-medium-dark-skin-tone 
-| <i class="twa twa-elf-light-skin-tone"></i> | elf-light-skin-tone | <i class="twa twa-elf-medium-light-skin-tone"></i> | elf-medium-light-skin-tone 
-| <i class="twa twa-elf"></i> | elf | <i class="twa twa-mermaid-dark-skin-tone"></i> | mermaid-dark-skin-tone 
-| <i class="twa twa-mermaid-medium-light-skin-tone"></i> | mermaid-medium-light-skin-tone | <i class="twa twa-elf-dark-skin-tone"></i> | elf-dark-skin-tone 
-| <i class="twa twa-elf-medium-dark-skin-tone"></i> | elf-medium-dark-skin-tone | <i class="twa twa-man-elf-light-skin-tone"></i> | man-elf-light-skin-tone 
-| <i class="twa twa-man-elf"></i> | man-elf | <i class="twa twa-man-elf-medium-light-skin-tone"></i> | man-elf-medium-light-skin-tone 
-| <i class="twa twa-man-elf-medium-skin-tone"></i> | man-elf-medium-skin-tone | <i class="twa twa-man-elf-medium-dark-skin-tone"></i> | man-elf-medium-dark-skin-tone 
-| <i class="twa twa-man-elf-dark-skin-tone"></i> | man-elf-dark-skin-tone | <i class="twa twa-merman-medium-light-skin-tone"></i> | merman-medium-light-skin-tone 
-| <i class="twa twa-woman-elf"></i> | woman-elf | <i class="twa twa-woman-elf-light-skin-tone"></i> | woman-elf-light-skin-tone 
-| <i class="twa twa-woman-elf-medium-light-skin-tone"></i> | woman-elf-medium-light-skin-tone | <i class="twa twa-woman-elf-medium-skin-tone"></i> | woman-elf-medium-skin-tone 
-| <i class="twa twa-woman-elf-medium-dark-skin-tone"></i> | woman-elf-medium-dark-skin-tone | <i class="twa twa-woman-elf-dark-skin-tone"></i> | woman-elf-dark-skin-tone 
-| <i class="twa twa-genie"></i> | genie | <i class="twa twa-man-genie"></i> | man-genie 
-| <i class="twa twa-woman-genie"></i> | woman-genie | <i class="twa twa-zombie"></i> | zombie 
-| <i class="twa twa-man-zombie"></i> | man-zombie | <i class="twa twa-person-getting-massage-light-skin-tone"></i> | person-getting-massage-light-skin-tone 
-| <i class="twa twa-woman-zombie"></i> | woman-zombie | <i class="twa twa-person-getting-massage"></i> | person-getting-massage 
-| <i class="twa twa-person-getting-massage-medium-skin-tone"></i> | person-getting-massage-medium-skin-tone | <i class="twa twa-person-getting-massage-medium-light-skin-tone"></i> | person-getting-massage-medium-light-skin-tone 
-| <i class="twa twa-woman-gesturing-ok-medium-light-skin-tone"></i> | woman-gesturing-ok-medium-light-skin-tone | <i class="twa twa-person-getting-massage-medium-dark-skin-tone"></i> | person-getting-massage-medium-dark-skin-tone 
-| <i class="twa twa-person-getting-massage-dark-skin-tone"></i> | person-getting-massage-dark-skin-tone | <i class="twa twa-man-getting-massage"></i> | man-getting-massage 
-| <i class="twa twa-man-getting-massage-light-skin-tone"></i> | man-getting-massage-light-skin-tone | <i class="twa twa-man-getting-massage-medium-light-skin-tone"></i> | man-getting-massage-medium-light-skin-tone 
-| <i class="twa twa-man-getting-massage-medium-skin-tone"></i> | man-getting-massage-medium-skin-tone | <i class="twa twa-woman-getting-massage"></i> | woman-getting-massage 
-| <i class="twa twa-man-getting-massage-medium-dark-skin-tone"></i> | man-getting-massage-medium-dark-skin-tone | <i class="twa twa-man-getting-massage-dark-skin-tone"></i> | man-getting-massage-dark-skin-tone 
-| <i class="twa twa-woman-getting-massage-light-skin-tone"></i> | woman-getting-massage-light-skin-tone | <i class="twa twa-woman-getting-massage-medium-light-skin-tone"></i> | woman-getting-massage-medium-light-skin-tone 
-| <i class="twa twa-woman-getting-massage-medium-skin-tone"></i> | woman-getting-massage-medium-skin-tone | <i class="twa twa-person-getting-haircut-light-skin-tone"></i> | person-getting-haircut-light-skin-tone 
-| <i class="twa twa-woman-getting-massage-medium-dark-skin-tone"></i> | woman-getting-massage-medium-dark-skin-tone | <i class="twa twa-woman-getting-massage-dark-skin-tone"></i> | woman-getting-massage-dark-skin-tone 
-| <i class="twa twa-person-getting-haircut"></i> | person-getting-haircut | <i class="twa twa-person-getting-haircut-medium-skin-tone"></i> | person-getting-haircut-medium-skin-tone 
-| <i class="twa twa-person-getting-haircut-medium-light-skin-tone"></i> | person-getting-haircut-medium-light-skin-tone | <i class="twa twa-person-getting-haircut-medium-dark-skin-tone"></i> | person-getting-haircut-medium-dark-skin-tone 
-| <i class="twa twa-man-getting-haircut"></i> | man-getting-haircut | <i class="twa twa-man-getting-haircut-light-skin-tone"></i> | man-getting-haircut-light-skin-tone 
-| <i class="twa twa-man-getting-haircut-medium-light-skin-tone"></i> | man-getting-haircut-medium-light-skin-tone | <i class="twa twa-person-getting-haircut-dark-skin-tone"></i> | person-getting-haircut-dark-skin-tone 
-| <i class="twa twa-man-getting-haircut-medium-skin-tone"></i> | man-getting-haircut-medium-skin-tone | <i class="twa twa-man-getting-haircut-medium-dark-skin-tone"></i> | man-getting-haircut-medium-dark-skin-tone 
-| <i class="twa twa-man-getting-haircut-dark-skin-tone"></i> | man-getting-haircut-dark-skin-tone | <i class="twa twa-woman-getting-haircut"></i> | woman-getting-haircut 
-| <i class="twa twa-woman-getting-haircut-medium-light-skin-tone"></i> | woman-getting-haircut-medium-light-skin-tone | <i class="twa twa-woman-getting-haircut-light-skin-tone"></i> | woman-getting-haircut-light-skin-tone 
-| <i class="twa twa-woman-getting-haircut-medium-skin-tone"></i> | woman-getting-haircut-medium-skin-tone | <i class="twa twa-woman-getting-haircut-medium-dark-skin-tone"></i> | woman-getting-haircut-medium-dark-skin-tone 
-| <i class="twa twa-person-walking"></i> | person-walking | <i class="twa twa-person-walking-light-skin-tone"></i> | person-walking-light-skin-tone 
-| <i class="twa twa-person-walking-medium-light-skin-tone"></i> | person-walking-medium-light-skin-tone | <i class="twa twa-person-walking-dark-skin-tone"></i> | person-walking-dark-skin-tone 
-| <i class="twa twa-woman-getting-haircut-dark-skin-tone"></i> | woman-getting-haircut-dark-skin-tone | <i class="twa twa-person-walking-medium-skin-tone"></i> | person-walking-medium-skin-tone 
-| <i class="twa twa-person-walking-medium-dark-skin-tone"></i> | person-walking-medium-dark-skin-tone | <i class="twa twa-man-walking"></i> | man-walking 
-| <i class="twa twa-man-walking-light-skin-tone"></i> | man-walking-light-skin-tone | <i class="twa twa-man-walking-medium-light-skin-tone"></i> | man-walking-medium-light-skin-tone 
-| <i class="twa twa-man-walking-medium-skin-tone"></i> | man-walking-medium-skin-tone | <i class="twa twa-man-walking-medium-dark-skin-tone"></i> | man-walking-medium-dark-skin-tone 
-| <i class="twa twa-man-walking-dark-skin-tone"></i> | man-walking-dark-skin-tone | <i class="twa twa-elf-medium-skin-tone"></i> | elf-medium-skin-tone 
-| <i class="twa twa-woman-walking-medium-light-skin-tone"></i> | woman-walking-medium-light-skin-tone | <i class="twa twa-woman-walking-light-skin-tone"></i> | woman-walking-light-skin-tone 
-| <i class="twa twa-woman-walking-medium-skin-tone"></i> | woman-walking-medium-skin-tone | <i class="twa twa-woman-walking-dark-skin-tone"></i> | woman-walking-dark-skin-tone 
-| <i class="twa twa-person-standing-medium-light-skin-tone"></i> | person-standing-medium-light-skin-tone | <i class="twa twa-person-standing-dark-skin-tone"></i> | person-standing-dark-skin-tone 
-| <i class="twa twa-person-standing-medium-dark-skin-tone"></i> | person-standing-medium-dark-skin-tone | <i class="twa twa-person-standing-medium-skin-tone"></i> | person-standing-medium-skin-tone 
-| <i class="twa twa-man-standing-medium-light-skin-tone"></i> | man-standing-medium-light-skin-tone | <i class="twa twa-man-standing"></i> | man-standing 
-| <i class="twa twa-man-standing-light-skin-tone"></i> | man-standing-light-skin-tone | <i class="twa twa-man-standing-medium-dark-skin-tone"></i> | man-standing-medium-dark-skin-tone 
-| <i class="twa twa-person-standing"></i> | person-standing | <i class="twa twa-woman-standing-medium-light-skin-tone"></i> | woman-standing-medium-light-skin-tone 
-| <i class="twa twa-woman-walking-medium-dark-skin-tone"></i> | woman-walking-medium-dark-skin-tone | <i class="twa twa-person-kneeling-medium-light-skin-tone"></i> | person-kneeling-medium-light-skin-tone 
-| <i class="twa twa-woman-standing-medium-skin-tone"></i> | woman-standing-medium-skin-tone | <i class="twa twa-person-standing-light-skin-tone"></i> | person-standing-light-skin-tone 
-| <i class="twa twa-woman-standing-dark-skin-tone"></i> | woman-standing-dark-skin-tone | <i class="twa twa-man-kneeling-light-skin-tone"></i> | man-kneeling-light-skin-tone 
-| <i class="twa twa-person-kneeling"></i> | person-kneeling | <i class="twa twa-woman-standing-medium-dark-skin-tone"></i> | woman-standing-medium-dark-skin-tone 
-| <i class="twa twa-person-kneeling-dark-skin-tone"></i> | person-kneeling-dark-skin-tone | <i class="twa twa-person-kneeling-medium-dark-skin-tone"></i> | person-kneeling-medium-dark-skin-tone 
-| <i class="twa twa-man-kneeling"></i> | man-kneeling | <i class="twa twa-man-kneeling-medium-light-skin-tone"></i> | man-kneeling-medium-light-skin-tone 
-| <i class="twa twa-man-kneeling-medium-dark-skin-tone"></i> | man-kneeling-medium-dark-skin-tone | <i class="twa twa-person-kneeling-medium-skin-tone"></i> | person-kneeling-medium-skin-tone 
-| <i class="twa twa-woman-kneeling-medium-light-skin-tone"></i> | woman-kneeling-medium-light-skin-tone | <i class="twa twa-woman-kneeling-medium-skin-tone"></i> | woman-kneeling-medium-skin-tone 
-| <i class="twa twa-woman-kneeling-medium-dark-skin-tone"></i> | woman-kneeling-medium-dark-skin-tone | <i class="twa twa-woman-kneeling-dark-skin-tone"></i> | woman-kneeling-dark-skin-tone 
-| <i class="twa twa-person-with-white-cane-dark-skin-tone"></i> | person-with-white-cane-dark-skin-tone | <i class="twa twa-man-with-white-cane-medium-skin-tone"></i> | man-with-white-cane-medium-skin-tone 
-| <i class="twa twa-man-with-white-cane"></i> | man-with-white-cane | <i class="twa twa-person-with-white-cane"></i> | person-with-white-cane 
-| <i class="twa twa-man-with-white-cane-dark-skin-tone"></i> | man-with-white-cane-dark-skin-tone | <i class="twa twa-person-with-white-cane-medium-light-skin-tone"></i> | person-with-white-cane-medium-light-skin-tone 
-| <i class="twa twa-man-with-white-cane-medium-light-skin-tone"></i> | man-with-white-cane-medium-light-skin-tone | <i class="twa twa-man-with-white-cane-medium-dark-skin-tone"></i> | man-with-white-cane-medium-dark-skin-tone 
-| <i class="twa twa-person-with-white-cane-medium-skin-tone"></i> | person-with-white-cane-medium-skin-tone | <i class="twa twa-woman-with-white-cane"></i> | woman-with-white-cane 
-| <i class="twa twa-woman-with-white-cane-medium-skin-tone"></i> | woman-with-white-cane-medium-skin-tone | <i class="twa twa-person-with-white-cane-light-skin-tone"></i> | person-with-white-cane-light-skin-tone 
-| <i class="twa twa-woman-with-white-cane-light-skin-tone"></i> | woman-with-white-cane-light-skin-tone | <i class="twa twa-person-with-white-cane-medium-dark-skin-tone"></i> | person-with-white-cane-medium-dark-skin-tone 
-| <i class="twa twa-woman-with-white-cane-medium-dark-skin-tone"></i> | woman-with-white-cane-medium-dark-skin-tone | <i class="twa twa-man-with-white-cane-light-skin-tone"></i> | man-with-white-cane-light-skin-tone 
-| <i class="twa twa-woman-with-white-cane-dark-skin-tone"></i> | woman-with-white-cane-dark-skin-tone | <i class="twa twa-woman-with-white-cane-medium-light-skin-tone"></i> | woman-with-white-cane-medium-light-skin-tone 
-| <i class="twa twa-man-in-motorized-wheelchair-medium-light-skin-tone"></i> | man-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair"></i> | man-in-motorized-wheelchair 
-| <i class="twa twa-person-in-motorized-wheelchair-light-skin-tone"></i> | person-in-motorized-wheelchair-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-medium-dark-skin-tone"></i> | man-in-motorized-wheelchair-medium-dark-skin-tone 
-| <i class="twa twa-person-in-motorized-wheelchair"></i> | person-in-motorized-wheelchair | <i class="twa twa-person-in-motorized-wheelchair-medium-skin-tone"></i> | person-in-motorized-wheelchair-medium-skin-tone 
-| <i class="twa twa-person-in-motorized-wheelchair-medium-light-skin-tone"></i> | person-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-light-skin-tone"></i> | woman-in-motorized-wheelchair-light-skin-tone 
-| <i class="twa twa-woman-in-motorized-wheelchair"></i> | woman-in-motorized-wheelchair | <i class="twa twa-mx-claus-medium-dark-skin-tone"></i> | mx-claus-medium-dark-skin-tone 
-| <i class="twa twa-mx-claus-medium-skin-tone"></i> | mx-claus-medium-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-medium-skin-tone"></i> | woman-in-motorized-wheelchair-medium-skin-tone 
-| <i class="twa twa-woman-in-motorized-wheelchair-medium-light-skin-tone"></i> | woman-in-motorized-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-motorized-wheelchair-medium-dark-skin-tone"></i> | woman-in-motorized-wheelchair-medium-dark-skin-tone 
-| <i class="twa twa-woman-in-motorized-wheelchair-dark-skin-tone"></i> | woman-in-motorized-wheelchair-dark-skin-tone | <i class="twa twa-person-in-manual-wheelchair-medium-light-skin-tone"></i> | person-in-manual-wheelchair-medium-light-skin-tone 
-| <i class="twa twa-person-in-manual-wheelchair-medium-skin-tone"></i> | person-in-manual-wheelchair-medium-skin-tone | <i class="twa twa-man-standing-medium-skin-tone"></i> | man-standing-medium-skin-tone 
-| <i class="twa twa-man-standing-dark-skin-tone"></i> | man-standing-dark-skin-tone | <i class="twa twa-woman-standing"></i> | woman-standing 
-| <i class="twa twa-woman-walking"></i> | woman-walking | <i class="twa twa-woman-standing-light-skin-tone"></i> | woman-standing-light-skin-tone 
-| <i class="twa twa-man-in-manual-wheelchair-light-skin-tone"></i> | man-in-manual-wheelchair-light-skin-tone | <i class="twa twa-man-in-manual-wheelchair"></i> | man-in-manual-wheelchair 
-| <i class="twa twa-person-in-manual-wheelchair-medium-dark-skin-tone"></i> | person-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-in-manual-wheelchair-dark-skin-tone"></i> | person-in-manual-wheelchair-dark-skin-tone 
-| <i class="twa twa-man-in-manual-wheelchair-medium-light-skin-tone"></i> | man-in-manual-wheelchair-medium-light-skin-tone | <i class="twa twa-man-in-manual-wheelchair-medium-skin-tone"></i> | man-in-manual-wheelchair-medium-skin-tone 
-| <i class="twa twa-man-in-manual-wheelchair-medium-dark-skin-tone"></i> | man-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-man-kneeling-dark-skin-tone"></i> | man-kneeling-dark-skin-tone 
-| <i class="twa twa-man-in-manual-wheelchair-dark-skin-tone"></i> | man-in-manual-wheelchair-dark-skin-tone | <i class="twa twa-woman-in-manual-wheelchair"></i> | woman-in-manual-wheelchair 
-| <i class="twa twa-woman-in-manual-wheelchair-medium-skin-tone"></i> | woman-in-manual-wheelchair-medium-skin-tone | <i class="twa twa-man-kneeling-medium-skin-tone"></i> | man-kneeling-medium-skin-tone 
-| <i class="twa twa-woman-in-manual-wheelchair-medium-light-skin-tone"></i> | woman-in-manual-wheelchair-medium-light-skin-tone | <i class="twa twa-woman-in-manual-wheelchair-light-skin-tone"></i> | woman-in-manual-wheelchair-light-skin-tone 
-| <i class="twa twa-woman-in-manual-wheelchair-dark-skin-tone"></i> | woman-in-manual-wheelchair-dark-skin-tone | <i class="twa twa-person-running-light-skin-tone"></i> | person-running-light-skin-tone 
-| <i class="twa twa-woman-in-manual-wheelchair-medium-dark-skin-tone"></i> | woman-in-manual-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-running"></i> | person-running 
-| <i class="twa twa-person-running-dark-skin-tone"></i> | person-running-dark-skin-tone | <i class="twa twa-person-running-medium-light-skin-tone"></i> | person-running-medium-light-skin-tone 
-| <i class="twa twa-person-kneeling-light-skin-tone"></i> | person-kneeling-light-skin-tone | <i class="twa twa-person-running-medium-dark-skin-tone"></i> | person-running-medium-dark-skin-tone 
-| <i class="twa twa-woman-kneeling-light-skin-tone"></i> | woman-kneeling-light-skin-tone | <i class="twa twa-person-running-medium-skin-tone"></i> | person-running-medium-skin-tone 
-| <i class="twa twa-man-running"></i> | man-running | <i class="twa twa-man-running-medium-light-skin-tone"></i> | man-running-medium-light-skin-tone 
-| <i class="twa twa-man-running-light-skin-tone"></i> | man-running-light-skin-tone | <i class="twa twa-man-running-medium-skin-tone"></i> | man-running-medium-skin-tone 
-| <i class="twa twa-man-running-medium-dark-skin-tone"></i> | man-running-medium-dark-skin-tone | <i class="twa twa-man-running-dark-skin-tone"></i> | man-running-dark-skin-tone 
-| <i class="twa twa-woman-running"></i> | woman-running | <i class="twa twa-woman-kneeling"></i> | woman-kneeling 
-| <i class="twa twa-person-in-motorized-wheelchair-medium-dark-skin-tone"></i> | person-in-motorized-wheelchair-medium-dark-skin-tone | <i class="twa twa-person-in-motorized-wheelchair-dark-skin-tone"></i> | person-in-motorized-wheelchair-dark-skin-tone 
-| <i class="twa twa-woman-running-medium-light-skin-tone"></i> | woman-running-medium-light-skin-tone | <i class="twa twa-woman-running-light-skin-tone"></i> | woman-running-light-skin-tone 
-| <i class="twa twa-woman-running-medium-skin-tone"></i> | woman-running-medium-skin-tone | <i class="twa twa-woman-running-medium-dark-skin-tone"></i> | woman-running-medium-dark-skin-tone 
-| <i class="twa twa-man-in-motorized-wheelchair-light-skin-tone"></i> | man-in-motorized-wheelchair-light-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-medium-skin-tone"></i> | man-in-motorized-wheelchair-medium-skin-tone 
-| <i class="twa twa-woman-running-dark-skin-tone"></i> | woman-running-dark-skin-tone | <i class="twa twa-woman-dancing"></i> | woman-dancing 
-| <i class="twa twa-woman-dancing-light-skin-tone"></i> | woman-dancing-light-skin-tone | <i class="twa twa-woman-dancing-medium-skin-tone"></i> | woman-dancing-medium-skin-tone 
-| <i class="twa twa-woman-dancing-medium-light-skin-tone"></i> | woman-dancing-medium-light-skin-tone | <i class="twa twa-woman-dancing-dark-skin-tone"></i> | woman-dancing-dark-skin-tone 
-| <i class="twa twa-woman-dancing-medium-dark-skin-tone"></i> | woman-dancing-medium-dark-skin-tone | <i class="twa twa-man-dancing"></i> | man-dancing 
-| <i class="twa twa-man-dancing-light-skin-tone"></i> | man-dancing-light-skin-tone | <i class="twa twa-man-dancing-medium-skin-tone"></i> | man-dancing-medium-skin-tone 
-| <i class="twa twa-man-dancing-medium-light-skin-tone"></i> | man-dancing-medium-light-skin-tone | <i class="twa twa-man-dancing-dark-skin-tone"></i> | man-dancing-dark-skin-tone 
-| <i class="twa twa-man-dancing-medium-dark-skin-tone"></i> | man-dancing-medium-dark-skin-tone | <i class="twa twa-person-in-suit-levitating-medium-light-skin-tone"></i> | person-in-suit-levitating-medium-light-skin-tone 
-| <i class="twa twa-person-in-suit-levitating"></i> | person-in-suit-levitating | <i class="twa twa-person-in-suit-levitating-light-skin-tone"></i> | person-in-suit-levitating-light-skin-tone 
-| <i class="twa twa-person-in-suit-levitating-medium-dark-skin-tone"></i> | person-in-suit-levitating-medium-dark-skin-tone | <i class="twa twa-man-in-motorized-wheelchair-dark-skin-tone"></i> | man-in-motorized-wheelchair-dark-skin-tone 
-| <i class="twa twa-people-with-bunny-ears"></i> | people-with-bunny-ears | <i class="twa twa-person-in-suit-levitating-medium-skin-tone"></i> | person-in-suit-levitating-medium-skin-tone 
-| <i class="twa twa-person-in-suit-levitating-dark-skin-tone"></i> | person-in-suit-levitating-dark-skin-tone | <i class="twa twa-men-with-bunny-ears"></i> | men-with-bunny-ears 
-| <i class="twa twa-women-with-bunny-ears"></i> | women-with-bunny-ears | <i class="twa twa-person-in-steamy-room-light-skin-tone"></i> | person-in-steamy-room-light-skin-tone 
-| <i class="twa twa-person-in-steamy-room-medium-skin-tone"></i> | person-in-steamy-room-medium-skin-tone | <i class="twa twa-person-in-steamy-room-medium-light-skin-tone"></i> | person-in-steamy-room-medium-light-skin-tone 
-| <i class="twa twa-person-in-steamy-room"></i> | person-in-steamy-room | <i class="twa twa-person-in-steamy-room-medium-dark-skin-tone"></i> | person-in-steamy-room-medium-dark-skin-tone 
-| <i class="twa twa-person-in-steamy-room-dark-skin-tone"></i> | person-in-steamy-room-dark-skin-tone | <i class="twa twa-man-in-steamy-room"></i> | man-in-steamy-room 
-| <i class="twa twa-man-in-steamy-room-light-skin-tone"></i> | man-in-steamy-room-light-skin-tone | <i class="twa twa-man-in-steamy-room-medium-skin-tone"></i> | man-in-steamy-room-medium-skin-tone 
-| <i class="twa twa-man-in-steamy-room-medium-dark-skin-tone"></i> | man-in-steamy-room-medium-dark-skin-tone | <i class="twa twa-man-in-steamy-room-medium-light-skin-tone"></i> | man-in-steamy-room-medium-light-skin-tone 
-| <i class="twa twa-woman-in-steamy-room"></i> | woman-in-steamy-room | <i class="twa twa-woman-in-steamy-room-light-skin-tone"></i> | woman-in-steamy-room-light-skin-tone 
-| <i class="twa twa-man-in-steamy-room-dark-skin-tone"></i> | man-in-steamy-room-dark-skin-tone | <i class="twa twa-woman-in-steamy-room-medium-light-skin-tone"></i> | woman-in-steamy-room-medium-light-skin-tone 
-| <i class="twa twa-woman-in-steamy-room-medium-dark-skin-tone"></i> | woman-in-steamy-room-medium-dark-skin-tone | <i class="twa twa-woman-in-steamy-room-medium-skin-tone"></i> | woman-in-steamy-room-medium-skin-tone 
-| <i class="twa twa-woman-in-steamy-room-dark-skin-tone"></i> | woman-in-steamy-room-dark-skin-tone | <i class="twa twa-person-climbing-medium-dark-skin-tone"></i> | person-climbing-medium-dark-skin-tone 
-| <i class="twa twa-person-climbing-medium-skin-tone"></i> | person-climbing-medium-skin-tone | <i class="twa twa-man-climbing"></i> | man-climbing 
-| <i class="twa twa-person-climbing-medium-light-skin-tone"></i> | person-climbing-medium-light-skin-tone | <i class="twa twa-man-climbing-light-skin-tone"></i> | man-climbing-light-skin-tone 
-| <i class="twa twa-man-climbing-dark-skin-tone"></i> | man-climbing-dark-skin-tone | <i class="twa twa-woman-climbing-medium-light-skin-tone"></i> | woman-climbing-medium-light-skin-tone 
-| <i class="twa twa-woman-climbing-light-skin-tone"></i> | woman-climbing-light-skin-tone | <i class="twa twa-woman-climbing"></i> | woman-climbing 
-| <i class="twa twa-woman-climbing-medium-skin-tone"></i> | woman-climbing-medium-skin-tone | <i class="twa twa-horse-racing"></i> | horse-racing 
-| <i class="twa twa-woman-climbing-dark-skin-tone"></i> | woman-climbing-dark-skin-tone | <i class="twa twa-snowboarder-medium-light-skin-tone"></i> | snowboarder-medium-light-skin-tone 
-| <i class="twa twa-snowboarder"></i> | snowboarder | <i class="twa twa-horse-racing-medium-light-skin-tone"></i> | horse-racing-medium-light-skin-tone 
-| <i class="twa twa-person-fencing"></i> | person-fencing | <i class="twa twa-snowboarder-medium-skin-tone"></i> | snowboarder-medium-skin-tone 
-| <i class="twa twa-horse-racing-light-skin-tone"></i> | horse-racing-light-skin-tone | <i class="twa twa-woman-climbing-medium-dark-skin-tone"></i> | woman-climbing-medium-dark-skin-tone 
-| <i class="twa twa-horse-racing-medium-dark-skin-tone"></i> | horse-racing-medium-dark-skin-tone | <i class="twa twa-horse-racing-dark-skin-tone"></i> | horse-racing-dark-skin-tone 
-| <i class="twa twa-skier"></i> | skier | <i class="twa twa-snowboarder-light-skin-tone"></i> | snowboarder-light-skin-tone 
-| <i class="twa twa-man-climbing-medium-skin-tone"></i> | man-climbing-medium-skin-tone | <i class="twa twa-snowboarder-medium-dark-skin-tone"></i> | snowboarder-medium-dark-skin-tone 
-| <i class="twa twa-person-golfing-light-skin-tone"></i> | person-golfing-light-skin-tone | <i class="twa twa-snowboarder-dark-skin-tone"></i> | snowboarder-dark-skin-tone 
-| <i class="twa twa-person-golfing"></i> | person-golfing | <i class="twa twa-person-golfing-medium-skin-tone"></i> | person-golfing-medium-skin-tone 
-| <i class="twa twa-horse-racing-medium-skin-tone"></i> | horse-racing-medium-skin-tone | <i class="twa twa-person-golfing-dark-skin-tone"></i> | person-golfing-dark-skin-tone 
-| <i class="twa twa-person-golfing-medium-dark-skin-tone"></i> | person-golfing-medium-dark-skin-tone | <i class="twa twa-person-climbing"></i> | person-climbing 
-| <i class="twa twa-person-climbing-light-skin-tone"></i> | person-climbing-light-skin-tone | <i class="twa twa-person-climbing-dark-skin-tone"></i> | person-climbing-dark-skin-tone 
-| <i class="twa twa-man-climbing-medium-dark-skin-tone"></i> | man-climbing-medium-dark-skin-tone | <i class="twa twa-man-climbing-medium-light-skin-tone"></i> | man-climbing-medium-light-skin-tone 
-| <i class="twa twa-man-golfing-light-skin-tone"></i> | man-golfing-light-skin-tone | <i class="twa twa-man-golfing"></i> | man-golfing 
-| <i class="twa twa-person-golfing-medium-light-skin-tone"></i> | person-golfing-medium-light-skin-tone | <i class="twa twa-man-golfing-medium-skin-tone"></i> | man-golfing-medium-skin-tone 
-| <i class="twa twa-man-golfing-medium-light-skin-tone"></i> | man-golfing-medium-light-skin-tone | <i class="twa twa-man-golfing-medium-dark-skin-tone"></i> | man-golfing-medium-dark-skin-tone 
-| <i class="twa twa-man-golfing-dark-skin-tone"></i> | man-golfing-dark-skin-tone | <i class="twa twa-woman-golfing"></i> | woman-golfing 
-| <i class="twa twa-woman-golfing-light-skin-tone"></i> | woman-golfing-light-skin-tone | <i class="twa twa-woman-golfing-medium-light-skin-tone"></i> | woman-golfing-medium-light-skin-tone 
-| <i class="twa twa-woman-golfing-medium-skin-tone"></i> | woman-golfing-medium-skin-tone | <i class="twa twa-woman-golfing-medium-dark-skin-tone"></i> | woman-golfing-medium-dark-skin-tone 
-| <i class="twa twa-person-surfing-light-skin-tone"></i> | person-surfing-light-skin-tone | <i class="twa twa-person-surfing"></i> | person-surfing 
-| <i class="twa twa-woman-golfing-dark-skin-tone"></i> | woman-golfing-dark-skin-tone | <i class="twa twa-person-surfing-medium-light-skin-tone"></i> | person-surfing-medium-light-skin-tone 
-| <i class="twa twa-person-surfing-medium-skin-tone"></i> | person-surfing-medium-skin-tone | <i class="twa twa-man-surfing"></i> | man-surfing 
-| <i class="twa twa-person-surfing-medium-dark-skin-tone"></i> | person-surfing-medium-dark-skin-tone | <i class="twa twa-man-surfing-light-skin-tone"></i> | man-surfing-light-skin-tone 
-| <i class="twa twa-man-surfing-medium-light-skin-tone"></i> | man-surfing-medium-light-skin-tone | <i class="twa twa-man-surfing-medium-skin-tone"></i> | man-surfing-medium-skin-tone 
-| <i class="twa twa-man-surfing-medium-dark-skin-tone"></i> | man-surfing-medium-dark-skin-tone | <i class="twa twa-man-surfing-dark-skin-tone"></i> | man-surfing-dark-skin-tone 
-| <i class="twa twa-person-surfing-dark-skin-tone"></i> | person-surfing-dark-skin-tone | <i class="twa twa-woman-surfing"></i> | woman-surfing 
-| <i class="twa twa-person-rowing-boat"></i> | person-rowing-boat | <i class="twa twa-woman-surfing-medium-light-skin-tone"></i> | woman-surfing-medium-light-skin-tone 
-| <i class="twa twa-person-rowing-boat-medium-skin-tone"></i> | person-rowing-boat-medium-skin-tone | <i class="twa twa-woman-surfing-medium-dark-skin-tone"></i> | woman-surfing-medium-dark-skin-tone 
-| <i class="twa twa-woman-surfing-light-skin-tone"></i> | woman-surfing-light-skin-tone | <i class="twa twa-person-rowing-boat-light-skin-tone"></i> | person-rowing-boat-light-skin-tone 
-| <i class="twa twa-woman-surfing-dark-skin-tone"></i> | woman-surfing-dark-skin-tone | <i class="twa twa-woman-surfing-medium-skin-tone"></i> | woman-surfing-medium-skin-tone 
-| <i class="twa twa-person-rowing-boat-medium-light-skin-tone"></i> | person-rowing-boat-medium-light-skin-tone | <i class="twa twa-person-rowing-boat-dark-skin-tone"></i> | person-rowing-boat-dark-skin-tone 
-| <i class="twa twa-man-rowing-boat"></i> | man-rowing-boat | <i class="twa twa-person-rowing-boat-medium-dark-skin-tone"></i> | person-rowing-boat-medium-dark-skin-tone 
-| <i class="twa twa-man-rowing-boat-medium-light-skin-tone"></i> | man-rowing-boat-medium-light-skin-tone | <i class="twa twa-man-rowing-boat-light-skin-tone"></i> | man-rowing-boat-light-skin-tone 
-| <i class="twa twa-man-rowing-boat-medium-dark-skin-tone"></i> | man-rowing-boat-medium-dark-skin-tone | <i class="twa twa-man-rowing-boat-medium-skin-tone"></i> | man-rowing-boat-medium-skin-tone 
-| <i class="twa twa-woman-rowing-boat"></i> | woman-rowing-boat | <i class="twa twa-woman-rowing-boat-medium-light-skin-tone"></i> | woman-rowing-boat-medium-light-skin-tone 
-| <i class="twa twa-man-rowing-boat-dark-skin-tone"></i> | man-rowing-boat-dark-skin-tone | <i class="twa twa-woman-rowing-boat-light-skin-tone"></i> | woman-rowing-boat-light-skin-tone 
-| <i class="twa twa-woman-rowing-boat-medium-skin-tone"></i> | woman-rowing-boat-medium-skin-tone | <i class="twa twa-person-swimming"></i> | person-swimming 
-| <i class="twa twa-woman-rowing-boat-dark-skin-tone"></i> | woman-rowing-boat-dark-skin-tone | <i class="twa twa-person-swimming-medium-skin-tone"></i> | person-swimming-medium-skin-tone 
-| <i class="twa twa-person-swimming-dark-skin-tone"></i> | person-swimming-dark-skin-tone | <i class="twa twa-person-swimming-light-skin-tone"></i> | person-swimming-light-skin-tone 
-| <i class="twa twa-person-swimming-medium-light-skin-tone"></i> | person-swimming-medium-light-skin-tone | <i class="twa twa-person-swimming-medium-dark-skin-tone"></i> | person-swimming-medium-dark-skin-tone 
-| <i class="twa twa-man-swimming"></i> | man-swimming | <i class="twa twa-man-swimming-light-skin-tone"></i> | man-swimming-light-skin-tone 
-| <i class="twa twa-man-swimming-medium-dark-skin-tone"></i> | man-swimming-medium-dark-skin-tone | <i class="twa twa-man-swimming-medium-light-skin-tone"></i> | man-swimming-medium-light-skin-tone 
-| <i class="twa twa-man-swimming-medium-skin-tone"></i> | man-swimming-medium-skin-tone | <i class="twa twa-man-swimming-dark-skin-tone"></i> | man-swimming-dark-skin-tone 
-| <i class="twa twa-woman-swimming"></i> | woman-swimming | <i class="twa twa-woman-swimming-light-skin-tone"></i> | woman-swimming-light-skin-tone 
-| <i class="twa twa-woman-swimming-medium-skin-tone"></i> | woman-swimming-medium-skin-tone | <i class="twa twa-woman-swimming-medium-dark-skin-tone"></i> | woman-swimming-medium-dark-skin-tone 
-| <i class="twa twa-woman-swimming-dark-skin-tone"></i> | woman-swimming-dark-skin-tone | <i class="twa twa-person-bouncing-ball-light-skin-tone"></i> | person-bouncing-ball-light-skin-tone 
-| <i class="twa twa-person-bouncing-ball-medium-light-skin-tone"></i> | person-bouncing-ball-medium-light-skin-tone | <i class="twa twa-person-in-manual-wheelchair-light-skin-tone"></i> | person-in-manual-wheelchair-light-skin-tone 
-| <i class="twa twa-person-in-manual-wheelchair"></i> | person-in-manual-wheelchair | <i class="twa twa-person-bouncing-ball-medium-skin-tone"></i> | person-bouncing-ball-medium-skin-tone 
-| <i class="twa twa-person-bouncing-ball-dark-skin-tone"></i> | person-bouncing-ball-dark-skin-tone | <i class="twa twa-man-bouncing-ball"></i> | man-bouncing-ball 
-| <i class="twa twa-person-bouncing-ball-medium-dark-skin-tone"></i> | person-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-man-bouncing-ball-medium-light-skin-tone"></i> | man-bouncing-ball-medium-light-skin-tone 
-| <i class="twa twa-man-bouncing-ball-medium-dark-skin-tone"></i> | man-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-man-bouncing-ball-medium-skin-tone"></i> | man-bouncing-ball-medium-skin-tone 
-| <i class="twa twa-man-bouncing-ball-dark-skin-tone"></i> | man-bouncing-ball-dark-skin-tone | <i class="twa twa-man-bouncing-ball-light-skin-tone"></i> | man-bouncing-ball-light-skin-tone 
-| <i class="twa twa-woman-bouncing-ball-light-skin-tone"></i> | woman-bouncing-ball-light-skin-tone | <i class="twa twa-woman-bouncing-ball"></i> | woman-bouncing-ball 
-| <i class="twa twa-woman-bouncing-ball-medium-light-skin-tone"></i> | woman-bouncing-ball-medium-light-skin-tone | <i class="twa twa-person-lifting-weights-light-skin-tone"></i> | person-lifting-weights-light-skin-tone 
-| <i class="twa twa-woman-bouncing-ball-dark-skin-tone"></i> | woman-bouncing-ball-dark-skin-tone | <i class="twa twa-person-lifting-weights"></i> | person-lifting-weights 
-| <i class="twa twa-woman-bouncing-ball-medium-dark-skin-tone"></i> | woman-bouncing-ball-medium-dark-skin-tone | <i class="twa twa-person-lifting-weights-medium-light-skin-tone"></i> | person-lifting-weights-medium-light-skin-tone 
-| <i class="twa twa-person-lifting-weights-medium-skin-tone"></i> | person-lifting-weights-medium-skin-tone | <i class="twa twa-person-lifting-weights-medium-dark-skin-tone"></i> | person-lifting-weights-medium-dark-skin-tone 
-| <i class="twa twa-person-lifting-weights-dark-skin-tone"></i> | person-lifting-weights-dark-skin-tone | <i class="twa twa-man-lifting-weights-light-skin-tone"></i> | man-lifting-weights-light-skin-tone 
-| <i class="twa twa-man-lifting-weights-medium-light-skin-tone"></i> | man-lifting-weights-medium-light-skin-tone | <i class="twa twa-man-lifting-weights-medium-skin-tone"></i> | man-lifting-weights-medium-skin-tone 
-| <i class="twa twa-man-lifting-weights-medium-dark-skin-tone"></i> | man-lifting-weights-medium-dark-skin-tone | <i class="twa twa-man-lifting-weights-dark-skin-tone"></i> | man-lifting-weights-dark-skin-tone 
-| <i class="twa twa-woman-lifting-weights"></i> | woman-lifting-weights | <i class="twa twa-woman-lifting-weights-light-skin-tone"></i> | woman-lifting-weights-light-skin-tone 
-| <i class="twa twa-woman-lifting-weights-medium-skin-tone"></i> | woman-lifting-weights-medium-skin-tone | <i class="twa twa-woman-lifting-weights-medium-dark-skin-tone"></i> | woman-lifting-weights-medium-dark-skin-tone 
-| <i class="twa twa-woman-lifting-weights-dark-skin-tone"></i> | woman-lifting-weights-dark-skin-tone | <i class="twa twa-person-biking-light-skin-tone"></i> | person-biking-light-skin-tone 
-| <i class="twa twa-person-biking"></i> | person-biking | <i class="twa twa-man-biking"></i> | man-biking 
-| <i class="twa twa-man-biking-light-skin-tone"></i> | man-biking-light-skin-tone | <i class="twa twa-man-biking-medium-skin-tone"></i> | man-biking-medium-skin-tone 
-| <i class="twa twa-man-biking-medium-light-skin-tone"></i> | man-biking-medium-light-skin-tone | <i class="twa twa-man-biking-dark-skin-tone"></i> | man-biking-dark-skin-tone 
-| <i class="twa twa-man-biking-medium-dark-skin-tone"></i> | man-biking-medium-dark-skin-tone | <i class="twa twa-woman-biking-light-skin-tone"></i> | woman-biking-light-skin-tone 
-| <i class="twa twa-woman-biking-medium-skin-tone"></i> | woman-biking-medium-skin-tone | <i class="twa twa-woman-biking-medium-light-skin-tone"></i> | woman-biking-medium-light-skin-tone 
-| <i class="twa twa-woman-biking-dark-skin-tone"></i> | woman-biking-dark-skin-tone | <i class="twa twa-woman-biking-medium-dark-skin-tone"></i> | woman-biking-medium-dark-skin-tone 
-| <i class="twa twa-person-mountain-biking"></i> | person-mountain-biking | <i class="twa twa-person-mountain-biking-light-skin-tone"></i> | person-mountain-biking-light-skin-tone 
-| <i class="twa twa-woman-biking"></i> | woman-biking | <i class="twa twa-person-mountain-biking-medium-skin-tone"></i> | person-mountain-biking-medium-skin-tone 
-| <i class="twa twa-person-mountain-biking-medium-light-skin-tone"></i> | person-mountain-biking-medium-light-skin-tone | <i class="twa twa-person-mountain-biking-dark-skin-tone"></i> | person-mountain-biking-dark-skin-tone 
-| <i class="twa twa-man-mountain-biking"></i> | man-mountain-biking | <i class="twa twa-man-mountain-biking-light-skin-tone"></i> | man-mountain-biking-light-skin-tone 
-| <i class="twa twa-man-mountain-biking-medium-light-skin-tone"></i> | man-mountain-biking-medium-light-skin-tone | <i class="twa twa-man-mountain-biking-medium-skin-tone"></i> | man-mountain-biking-medium-skin-tone 
-| <i class="twa twa-man-mountain-biking-medium-dark-skin-tone"></i> | man-mountain-biking-medium-dark-skin-tone | <i class="twa twa-woman-mountain-biking-light-skin-tone"></i> | woman-mountain-biking-light-skin-tone 
-| <i class="twa twa-man-mountain-biking-dark-skin-tone"></i> | man-mountain-biking-dark-skin-tone | <i class="twa twa-woman-mountain-biking"></i> | woman-mountain-biking 
-| <i class="twa twa-woman-mountain-biking-medium-light-skin-tone"></i> | woman-mountain-biking-medium-light-skin-tone | <i class="twa twa-woman-mountain-biking-medium-dark-skin-tone"></i> | woman-mountain-biking-medium-dark-skin-tone 
-| <i class="twa twa-person-cartwheeling-dark-skin-tone"></i> | person-cartwheeling-dark-skin-tone | <i class="twa twa-woman-mountain-biking-dark-skin-tone"></i> | woman-mountain-biking-dark-skin-tone 
-| <i class="twa twa-man-cartwheeling-light-skin-tone"></i> | man-cartwheeling-light-skin-tone | <i class="twa twa-man-cartwheeling"></i> | man-cartwheeling 
-| <i class="twa twa-person-cartwheeling"></i> | person-cartwheeling | <i class="twa twa-man-cartwheeling-medium-skin-tone"></i> | man-cartwheeling-medium-skin-tone 
-| <i class="twa twa-person-cartwheeling-medium-dark-skin-tone"></i> | person-cartwheeling-medium-dark-skin-tone | <i class="twa twa-person-cartwheeling-light-skin-tone"></i> | person-cartwheeling-light-skin-tone 
-| <i class="twa twa-person-cartwheeling-medium-light-skin-tone"></i> | person-cartwheeling-medium-light-skin-tone | <i class="twa twa-man-cartwheeling-medium-dark-skin-tone"></i> | man-cartwheeling-medium-dark-skin-tone 
-| <i class="twa twa-woman-cartwheeling"></i> | woman-cartwheeling | <i class="twa twa-woman-cartwheeling-medium-skin-tone"></i> | woman-cartwheeling-medium-skin-tone 
-| <i class="twa twa-woman-cartwheeling-medium-light-skin-tone"></i> | woman-cartwheeling-medium-light-skin-tone | <i class="twa twa-person-cartwheeling-medium-skin-tone"></i> | person-cartwheeling-medium-skin-tone 
-| <i class="twa twa-woman-mountain-biking-medium-skin-tone"></i> | woman-mountain-biking-medium-skin-tone | <i class="twa twa-man-cartwheeling-medium-light-skin-tone"></i> | man-cartwheeling-medium-light-skin-tone 
-| <i class="twa twa-woman-cartwheeling-dark-skin-tone"></i> | woman-cartwheeling-dark-skin-tone | <i class="twa twa-people-wrestling"></i> | people-wrestling 
-| <i class="twa twa-woman-bouncing-ball-medium-skin-tone"></i> | woman-bouncing-ball-medium-skin-tone | <i class="twa twa-women-wrestling"></i> | women-wrestling 
-| <i class="twa twa-person-mountain-biking-medium-dark-skin-tone"></i> | person-mountain-biking-medium-dark-skin-tone | <i class="twa twa-woman-cartwheeling-medium-dark-skin-tone"></i> | woman-cartwheeling-medium-dark-skin-tone 
-| <i class="twa twa-woman-rowing-boat-medium-dark-skin-tone"></i> | woman-rowing-boat-medium-dark-skin-tone | <i class="twa twa-person-playing-water-polo-light-skin-tone"></i> | person-playing-water-polo-light-skin-tone 
-| <i class="twa twa-person-playing-water-polo-medium-light-skin-tone"></i> | person-playing-water-polo-medium-light-skin-tone | <i class="twa twa-person-playing-water-polo"></i> | person-playing-water-polo 
-| <i class="twa twa-person-playing-water-polo-medium-skin-tone"></i> | person-playing-water-polo-medium-skin-tone | <i class="twa twa-person-playing-water-polo-medium-dark-skin-tone"></i> | person-playing-water-polo-medium-dark-skin-tone 
-| <i class="twa twa-person-playing-water-polo-dark-skin-tone"></i> | person-playing-water-polo-dark-skin-tone | <i class="twa twa-man-cartwheeling-dark-skin-tone"></i> | man-cartwheeling-dark-skin-tone 
-| <i class="twa twa-woman-cartwheeling-light-skin-tone"></i> | woman-cartwheeling-light-skin-tone | <i class="twa twa-man-lifting-weights"></i> | man-lifting-weights 
-| <i class="twa twa-man-playing-water-polo-medium-light-skin-tone"></i> | man-playing-water-polo-medium-light-skin-tone | <i class="twa twa-man-playing-water-polo-dark-skin-tone"></i> | man-playing-water-polo-dark-skin-tone 
-| <i class="twa twa-woman-playing-water-polo-medium-light-skin-tone"></i> | woman-playing-water-polo-medium-light-skin-tone | <i class="twa twa-woman-playing-water-polo-medium-dark-skin-tone"></i> | woman-playing-water-polo-medium-dark-skin-tone 
-| <i class="twa twa-woman-playing-water-polo-dark-skin-tone"></i> | woman-playing-water-polo-dark-skin-tone | <i class="twa twa-woman-swimming-medium-light-skin-tone"></i> | woman-swimming-medium-light-skin-tone 
-| <i class="twa twa-woman-playing-water-polo-medium-skin-tone"></i> | woman-playing-water-polo-medium-skin-tone | <i class="twa twa-woman-playing-water-polo"></i> | woman-playing-water-polo 
-| <i class="twa twa-person-playing-handball-medium-light-skin-tone"></i> | person-playing-handball-medium-light-skin-tone | <i class="twa twa-person-playing-handball-medium-dark-skin-tone"></i> | person-playing-handball-medium-dark-skin-tone 
-| <i class="twa twa-person-playing-handball"></i> | person-playing-handball | <i class="twa twa-man-playing-handball-medium-light-skin-tone"></i> | man-playing-handball-medium-light-skin-tone 
-| <i class="twa twa-man-playing-handball-medium-dark-skin-tone"></i> | man-playing-handball-medium-dark-skin-tone | <i class="twa twa-woman-playing-handball"></i> | woman-playing-handball 
-| <i class="twa twa-man-playing-handball-medium-skin-tone"></i> | man-playing-handball-medium-skin-tone | <i class="twa twa-man-playing-handball-dark-skin-tone"></i> | man-playing-handball-dark-skin-tone 
-| <i class="twa twa-woman-playing-handball-medium-light-skin-tone"></i> | woman-playing-handball-medium-light-skin-tone | <i class="twa twa-person-juggling-medium-skin-tone"></i> | person-juggling-medium-skin-tone 
-| <i class="twa twa-man-juggling"></i> | man-juggling | <i class="twa twa-person-juggling-dark-skin-tone"></i> | person-juggling-dark-skin-tone 
-| <i class="twa twa-woman-playing-handball-dark-skin-tone"></i> | woman-playing-handball-dark-skin-tone | <i class="twa twa-person-juggling-medium-dark-skin-tone"></i> | person-juggling-medium-dark-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone 
-| <i class="twa twa-man-playing-water-polo-light-skin-tone"></i> | man-playing-water-polo-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-man-playing-handball"></i> | man-playing-handball | <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-dark-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone 
-| <i class="twa twa-woman-in-lotus-position-light-skin-tone"></i> | woman-in-lotus-position-light-skin-tone | <i class="twa twa-person-in-lotus-position-dark-skin-tone"></i> | person-in-lotus-position-dark-skin-tone 
-| <i class="twa twa-woman-in-lotus-position"></i> | woman-in-lotus-position | <i class="twa twa-woman-in-lotus-position-medium-light-skin-tone"></i> | woman-in-lotus-position-medium-light-skin-tone 
-| <i class="twa twa-man-in-lotus-position-medium-light-skin-tone"></i> | man-in-lotus-position-medium-light-skin-tone | <i class="twa twa-man-in-lotus-position-medium-dark-skin-tone"></i> | man-in-lotus-position-medium-dark-skin-tone 
-| <i class="twa twa-woman-in-lotus-position-medium-skin-tone"></i> | woman-in-lotus-position-medium-skin-tone | <i class="twa twa-person-in-bed-medium-dark-skin-tone"></i> | person-in-bed-medium-dark-skin-tone 
-| <i class="twa twa-man-juggling-medium-skin-tone"></i> | man-juggling-medium-skin-tone | <i class="twa twa-person-in-lotus-position-medium-light-skin-tone"></i> | person-in-lotus-position-medium-light-skin-tone 
-| <i class="twa twa-people-holding-hands-medium-light-skin-tone"></i> | people-holding-hands-medium-light-skin-tone | <i class="twa twa-person-in-bed-dark-skin-tone"></i> | person-in-bed-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-skin-tone-light-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-dark-skin-tone"></i> | people-holding-hands-light-skin-tone-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-light-skin-tone"></i> | women-holding-hands-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-dark-skin-tone"></i> | women-holding-hands-light-skin-tone-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-women-holding-hands-medium-skin-tone"></i> | women-holding-hands-medium-skin-tone 
-| <i class="twa twa-woman-playing-handball-light-skin-tone"></i> | woman-playing-handball-light-skin-tone | <i class="twa twa-women-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-women-holding-hands-dark-skin-tone-medium-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-skin-tone-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| <i class="twa twa-men-holding-hands"></i> | men-holding-hands | <i class="twa twa-women-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-dark-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone | <i class="twa twa-man-juggling-light-skin-tone"></i> | man-juggling-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands"></i> | woman-and-man-holding-hands | <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-light-skin-tone"></i> | men-holding-hands-medium-light-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-light-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-skin-tone-light-skin-tone 
-| <i class="twa twa-man-in-lotus-position-dark-skin-tone"></i> | man-in-lotus-position-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-woman-in-lotus-position-medium-dark-skin-tone"></i> | woman-in-lotus-position-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-light-skin-tone-dark-skin-tone"></i> | men-holding-hands-light-skin-tone-dark-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-medium-skin-tone-medium-light-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone"></i> | men-holding-hands-medium-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-men-holding-hands-dark-skin-tone-light-skin-tone"></i> | men-holding-hands-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-dark-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone | <i class="twa twa-kiss-woman-man"></i> | kiss-woman-man 
-| <i class="twa twa-men-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-dark-skin-tone-medium-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-skin-tone 
-| <i class="twa twa-men-holding-hands-dark-skin-tone"></i> | men-holding-hands-dark-skin-tone | <i class="twa twa-woman-playing-handball-medium-skin-tone"></i> | woman-playing-handball-medium-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-medium-skin-tone-medium-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-skin-tone-dark-skin-tone 
-| <i class="twa twa-family"></i> | family | <i class="twa twa-family-man-woman-boy"></i> | family-man-woman-boy 
-| <i class="twa twa-family-man-woman-girl-boy"></i> | family-man-woman-girl-boy | <i class="twa twa-family-man-woman-girl"></i> | family-man-woman-girl 
-| <i class="twa twa-family-man-man-boy"></i> | family-man-man-boy | <i class="twa twa-family-man-woman-girl-girl"></i> | family-man-woman-girl-girl 
-| <i class="twa twa-family-man-woman-boy-boy"></i> | family-man-woman-boy-boy | <i class="twa twa-family-man-man-girl"></i> | family-man-man-girl 
-| <i class="twa twa-family-man-man-boy-boy"></i> | family-man-man-boy-boy | <i class="twa twa-woman-playing-handball-medium-dark-skin-tone"></i> | woman-playing-handball-medium-dark-skin-tone 
-| <i class="twa twa-family-woman-woman-girl"></i> | family-woman-woman-girl | <i class="twa twa-family-man-man-girl-girl"></i> | family-man-man-girl-girl 
-| <i class="twa twa-family-man-boy"></i> | family-man-boy | <i class="twa twa-family-woman-woman-boy-boy"></i> | family-woman-woman-boy-boy 
-| <i class="twa twa-family-man-boy-boy"></i> | family-man-boy-boy | <i class="twa twa-family-woman-woman-girl-boy"></i> | family-woman-woman-girl-boy 
-| <i class="twa twa-family-man-girl-girl"></i> | family-man-girl-girl | <i class="twa twa-family-woman-woman-girl-girl"></i> | family-woman-woman-girl-girl 
-| <i class="twa twa-family-woman-boy"></i> | family-woman-boy | <i class="twa twa-family-woman-boy-boy"></i> | family-woman-boy-boy 
-| <i class="twa twa-people-hugging"></i> | people-hugging | <i class="twa twa-speaking-head"></i> | speaking-head 
-| <i class="twa twa-family-woman-girl"></i> | family-woman-girl | <i class="twa twa-family-man-girl-boy"></i> | family-man-girl-boy 
-| <i class="twa twa-family-woman-girl-girl"></i> | family-woman-girl-girl | <i class="twa twa-busts-in-silhouette"></i> | busts-in-silhouette 
-| <i class="twa twa-person-juggling"></i> | person-juggling | <i class="twa twa-woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone"></i> | woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-light-skin-tone | <i class="twa twa-person-taking-bath-medium-dark-skin-tone"></i> | person-taking-bath-medium-dark-skin-tone 
-| <i class="twa twa-men-holding-hands-light-skin-tone"></i> | men-holding-hands-light-skin-tone | <i class="twa twa-person-juggling-light-skin-tone"></i> | person-juggling-light-skin-tone 
-| <i class="twa twa-family-man-man-girl-boy"></i> | family-man-man-girl-boy | <i class="twa twa-women-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | women-holding-hands-medium-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-person-juggling-medium-light-skin-tone"></i> | person-juggling-medium-light-skin-tone | <i class="twa twa-person-playing-handball-light-skin-tone"></i> | person-playing-handball-light-skin-tone 
-| <i class="twa twa-man-playing-water-polo-medium-dark-skin-tone"></i> | man-playing-water-polo-medium-dark-skin-tone | <i class="twa twa-person-in-bed-medium-light-skin-tone"></i> | person-in-bed-medium-light-skin-tone 
-| <i class="twa twa-person-in-bed-light-skin-tone"></i> | person-in-bed-light-skin-tone | <i class="twa twa-person-taking-bath-medium-light-skin-tone"></i> | person-taking-bath-medium-light-skin-tone 
-| <i class="twa twa-person-taking-bath-dark-skin-tone"></i> | person-taking-bath-dark-skin-tone | <i class="twa twa-person-taking-bath-light-skin-tone"></i> | person-taking-bath-light-skin-tone 
-| <i class="twa twa-person-taking-bath-medium-skin-tone"></i> | person-taking-bath-medium-skin-tone | <i class="twa twa-person-in-bed"></i> | person-in-bed 
-| <i class="twa twa-person-taking-bath"></i> | person-taking-bath | <i class="twa twa-woman-lifting-weights-medium-light-skin-tone"></i> | woman-lifting-weights-medium-light-skin-tone 
-| <i class="twa twa-family-man-girl"></i> | family-man-girl | <i class="twa twa-family-woman-girl-boy"></i> | family-woman-girl-boy 
-| <i class="twa twa-people-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-men-wrestling"></i> | men-wrestling 
-| <i class="twa twa-man-playing-water-polo"></i> | man-playing-water-polo | <i class="twa twa-women-holding-hands-medium-light-skin-tone"></i> | women-holding-hands-medium-light-skin-tone 
-| <i class="twa twa-woman-playing-water-polo-light-skin-tone"></i> | woman-playing-water-polo-light-skin-tone | <i class="twa twa-people-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-light-skin-tone 
-| <i class="twa twa-person-playing-handball-medium-skin-tone"></i> | person-playing-handball-medium-skin-tone | <i class="twa twa-people-holding-hands"></i> | people-holding-hands 
-| <i class="twa twa-people-holding-hands-light-skin-tone"></i> | people-holding-hands-light-skin-tone | <i class="twa twa-woman-in-lotus-position-dark-skin-tone"></i> | woman-in-lotus-position-dark-skin-tone 
-| <i class="twa twa-person-in-bed-medium-skin-tone"></i> | person-in-bed-medium-skin-tone | <i class="twa twa-bust-in-silhouette"></i> | bust-in-silhouette 
-| <i class="twa twa-footprints"></i> | footprints | <i class="twa twa-people-holding-hands-medium-dark-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-light-skin-tone"></i> | people-holding-hands-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | women-holding-hands-medium-light-skin-tone-medium-skin-tone | <i class="twa twa-people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-man-playing-handball-light-skin-tone"></i> | man-playing-handball-light-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-people-holding-hands-dark-skin-tone-medium-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-skin-tone | <i class="twa twa-people-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-dark-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-medium-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-skin-tone 
-| <i class="twa twa-people-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-light-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-people-holding-hands-medium-skin-tone-light-skin-tone"></i> | people-holding-hands-medium-skin-tone-light-skin-tone | <i class="twa twa-women-holding-hands-light-skin-tone-medium-light-skin-tone"></i> | women-holding-hands-light-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-people-holding-hands-dark-skin-tone"></i> | people-holding-hands-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| <i class="twa twa-men-holding-hands-light-skin-tone-medium-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-skin-tone | <i class="twa twa-men-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-dark-skin-tone-dark-skin-tone 
-| <i class="twa twa-woman-juggling-medium-skin-tone"></i> | woman-juggling-medium-skin-tone | <i class="twa twa-kiss"></i> | kiss 
-| <i class="twa twa-person-playing-handball-dark-skin-tone"></i> | person-playing-handball-dark-skin-tone | <i class="twa twa-woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone"></i> | woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone 
-| <i class="twa twa-women-holding-hands-dark-skin-tone"></i> | women-holding-hands-dark-skin-tone | <i class="twa twa-man-in-lotus-position-light-skin-tone"></i> | man-in-lotus-position-light-skin-tone 
-| <i class="twa twa-person-in-lotus-position-medium-dark-skin-tone"></i> | person-in-lotus-position-medium-dark-skin-tone | <i class="twa twa-man-in-lotus-position-medium-skin-tone"></i> | man-in-lotus-position-medium-skin-tone 
-| <i class="twa twa-people-holding-hands-medium-dark-skin-tone"></i> | people-holding-hands-medium-dark-skin-tone | <i class="twa twa-person-in-lotus-position"></i> | person-in-lotus-position 
-| <i class="twa twa-men-holding-hands-dark-skin-tone-medium-light-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-light-skin-tone | <i class="twa twa-person-in-lotus-position-light-skin-tone"></i> | person-in-lotus-position-light-skin-tone 
-| <i class="twa twa-couple-with-heart"></i> | couple-with-heart | <i class="twa twa-men-holding-hands-dark-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-dark-skin-tone-medium-dark-skin-tone 
-| <i class="twa twa-couple-with-heart-man-man"></i> | couple-with-heart-man-man | <i class="twa twa-women-holding-hands-dark-skin-tone-light-skin-tone"></i> | women-holding-hands-dark-skin-tone-light-skin-tone 
-| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-medium-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-medium-skin-tone | <i class="twa twa-man-juggling-dark-skin-tone"></i> | man-juggling-dark-skin-tone 
-| <i class="twa twa-person-in-lotus-position-medium-skin-tone"></i> | person-in-lotus-position-medium-skin-tone | <i class="twa twa-women-holding-hands"></i> | women-holding-hands 
-| <i class="twa twa-women-holding-hands-medium-dark-skin-tone-dark-skin-tone"></i> | women-holding-hands-medium-dark-skin-tone-dark-skin-tone | <i class="twa twa-person-bouncing-ball"></i> | person-bouncing-ball 
-| <i class="twa twa-couple-with-heart-woman-man"></i> | couple-with-heart-woman-man | <i class="twa twa-couple-with-heart-woman-woman"></i> | couple-with-heart-woman-woman 
-| <i class="twa twa-people-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-men-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-medium-skin-tone 
-| <i class="twa twa-men-holding-hands-light-skin-tone-medium-dark-skin-tone"></i> | men-holding-hands-light-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone-dark-skin-tone"></i> | people-holding-hands-medium-skin-tone-dark-skin-tone 
-| <i class="twa twa-woman-juggling-medium-dark-skin-tone"></i> | woman-juggling-medium-dark-skin-tone | <i class="twa twa-woman-juggling-dark-skin-tone"></i> | woman-juggling-dark-skin-tone 
-| <i class="twa twa-woman-juggling"></i> | woman-juggling | <i class="twa twa-man-juggling-medium-light-skin-tone"></i> | man-juggling-medium-light-skin-tone 
-| <i class="twa twa-woman-juggling-light-skin-tone"></i> | woman-juggling-light-skin-tone | <i class="twa twa-man-juggling-medium-dark-skin-tone"></i> | man-juggling-medium-dark-skin-tone 
-| <i class="twa twa-man-in-lotus-position"></i> | man-in-lotus-position | <i class="twa twa-woman-juggling-medium-light-skin-tone"></i> | woman-juggling-medium-light-skin-tone 
-| <i class="twa twa-kiss-man-man"></i> | kiss-man-man | <i class="twa twa-family-woman-woman-boy"></i> | family-woman-woman-boy 
-| <i class="twa twa-people-holding-hands-medium-skin-tone-medium-dark-skin-tone"></i> | people-holding-hands-medium-skin-tone-medium-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone"></i> | people-holding-hands-medium-skin-tone 
-| <i class="twa twa-men-holding-hands-medium-light-skin-tone-dark-skin-tone"></i> | men-holding-hands-medium-light-skin-tone-dark-skin-tone | <i class="twa twa-people-holding-hands-medium-skin-tone-medium-light-skin-tone"></i> | people-holding-hands-medium-skin-tone-medium-light-skin-tone 
-| <i class="twa twa-people-holding-hands-medium-light-skin-tone-medium-skin-tone"></i> | people-holding-hands-medium-light-skin-tone-medium-skin-tone | <i class="twa twa-kiss-woman-woman"></i> | kiss-woman-woman 
-| <i class="twa twa-person-biking-medium-dark-skin-tone"></i> | person-biking-medium-dark-skin-tone | <i class="twa twa-person-biking-medium-skin-tone"></i> | person-biking-medium-skin-tone 
-| <i class="twa twa-person-biking-medium-light-skin-tone"></i> | person-biking-medium-light-skin-tone | <i class="twa twa-person-biking-dark-skin-tone"></i> | person-biking-dark-skin-tone 
-| <i class="twa twa-man-playing-water-polo-medium-skin-tone"></i> | man-playing-water-polo-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fac0.svg"> | anatomical-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b4.svg"> | bone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e0.svg"> | brain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442.svg"> | ear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb.svg"> | ear-with-hearing-aid | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb-1f3ff.svg"> | ear-with-hearing-aid-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb-1f3fb.svg"> | ear-with-hearing-aid-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb-1f3fd.svg"> | ear-with-hearing-aid-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb-1f3fe.svg"> | ear-with-hearing-aid-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bb-1f3fc.svg"> | ear-with-hearing-aid-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442-1f3ff.svg"> | ear-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442-1f3fb.svg"> | ear-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442-1f3fd.svg"> | ear-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442-1f3fe.svg"> | ear-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f442-1f3fc.svg"> | ear-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f441.svg"> | eye 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f440.svg"> | eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa.svg"> | flexed-biceps 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa-1f3ff.svg"> | flexed-biceps-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa-1f3fb.svg"> | flexed-biceps-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa-1f3fd.svg"> | flexed-biceps-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa-1f3fe.svg"> | flexed-biceps-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4aa-1f3fc.svg"> | flexed-biceps-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6.svg"> | foot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6-1f3ff.svg"> | foot-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6-1f3fb.svg"> | foot-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6-1f3fd.svg"> | foot-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6-1f3fe.svg"> | foot-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b6-1f3fc.svg"> | foot-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5.svg"> | leg 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5-1f3ff.svg"> | leg-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5-1f3fb.svg"> | leg-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5-1f3fd.svg"> | leg-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5-1f3fe.svg"> | leg-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b5-1f3fc.svg"> | leg-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fac1.svg"> | lungs 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9be.svg"> | mechanical-arm | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bf.svg"> | mechanical-leg 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f444.svg"> | mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443.svg"> | nose 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443-1f3ff.svg"> | nose-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443-1f3fb.svg"> | nose-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443-1f3fd.svg"> | nose-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443-1f3fe.svg"> | nose-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f443-1f3fc.svg"> | nose-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f445.svg"> | tongue 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b7.svg"> | tooth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f491.svg"> | couple-with-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-2764-fe0f-200d-1f468.svg"> | couple-with-heart-man-man | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2764-fe0f-200d-1f468.svg"> | couple-with-heart-woman-man 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2764-fe0f-200d-1f469.svg"> | couple-with-heart-woman-woman | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46a.svg"> | family 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f466.svg"> | family-man-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f466-200d-1f466.svg"> | family-man-boy-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f467.svg"> | family-man-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f467-200d-1f466.svg"> | family-man-girl-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f467-200d-1f467.svg"> | family-man-girl-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f468-200d-1f466.svg"> | family-man-man-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f468-200d-1f466-200d-1f466.svg"> | family-man-man-boy-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f468-200d-1f467.svg"> | family-man-man-girl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f468-200d-1f467-200d-1f466.svg"> | family-man-man-girl-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f468-200d-1f467-200d-1f467.svg"> | family-man-man-girl-girl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f469-200d-1f466.svg"> | family-man-woman-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f469-200d-1f466-200d-1f466.svg"> | family-man-woman-boy-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f469-200d-1f467.svg"> | family-man-woman-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f469-200d-1f467-200d-1f466.svg"> | family-man-woman-girl-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f469-200d-1f467-200d-1f467.svg"> | family-man-woman-girl-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f466.svg"> | family-woman-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f466-200d-1f466.svg"> | family-woman-boy-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f467.svg"> | family-woman-girl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f467-200d-1f466.svg"> | family-woman-girl-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f467-200d-1f467.svg"> | family-woman-girl-girl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f469-200d-1f466.svg"> | family-woman-woman-boy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f469-200d-1f466-200d-1f466.svg"> | family-woman-woman-boy-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f469-200d-1f467.svg"> | family-woman-woman-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f469-200d-1f467-200d-1f466.svg"> | family-woman-woman-girl-boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f469-200d-1f467-200d-1f467.svg"> | family-woman-woman-girl-girl | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48f.svg"> | kiss 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.svg"> | kiss-man-man | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.svg"> | kiss-woman-man 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.svg"> | kiss-woman-woman | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c.svg"> | men-holding-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c-1f3ff.svg"> | men-holding-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb.svg"> | men-holding-hands-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd.svg"> | men-holding-hands-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe.svg"> | men-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc.svg"> | men-holding-hands-dark-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c-1f3fb.svg"> | men-holding-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f91d-200d-1f468-1f3ff.svg"> | men-holding-hands-light-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f91d-200d-1f468-1f3fd.svg"> | men-holding-hands-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f91d-200d-1f468-1f3fe.svg"> | men-holding-hands-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f91d-200d-1f468-1f3fc.svg"> | men-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c-1f3fd.svg"> | men-holding-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f91d-200d-1f468-1f3ff.svg"> | men-holding-hands-medium-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb.svg"> | men-holding-hands-medium-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f91d-200d-1f468-1f3fe.svg"> | men-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc.svg"> | men-holding-hands-medium-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c-1f3fe.svg"> | men-holding-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f91d-200d-1f468-1f3ff.svg"> | men-holding-hands-medium-dark-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb.svg"> | men-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd.svg"> | men-holding-hands-medium-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc.svg"> | men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46c-1f3fc.svg"> | men-holding-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f91d-200d-1f468-1f3ff.svg"> | men-holding-hands-medium-light-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb.svg"> | men-holding-hands-medium-light-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f91d-200d-1f468-1f3fd.svg"> | men-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f91d-200d-1f468-1f3fe.svg"> | men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f91d-200d-1f9d1.svg"> | people-holding-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff.svg"> | people-holding-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb.svg"> | people-holding-hands-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd.svg"> | people-holding-hands-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe.svg"> | people-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc.svg"> | people-holding-hands-dark-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb.svg"> | people-holding-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3ff.svg"> | people-holding-hands-light-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fd.svg"> | people-holding-hands-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fe.svg"> | people-holding-hands-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fc.svg"> | people-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd.svg"> | people-holding-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3ff.svg"> | people-holding-hands-medium-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb.svg"> | people-holding-hands-medium-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fe.svg"> | people-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc.svg"> | people-holding-hands-medium-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe.svg"> | people-holding-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3ff.svg"> | people-holding-hands-medium-dark-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb.svg"> | people-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd.svg"> | people-holding-hands-medium-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc.svg"> | people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc.svg"> | people-holding-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3ff.svg"> | people-holding-hands-medium-light-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb.svg"> | people-holding-hands-medium-light-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fd.svg"> | people-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fe.svg"> | people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b.svg"> | woman-and-man-holding-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b-1f3ff.svg"> | woman-and-man-holding-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb.svg"> | woman-and-man-holding-hands-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd.svg"> | woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe.svg"> | woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc.svg"> | woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b-1f3fb.svg"> | woman-and-man-holding-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff.svg"> | woman-and-man-holding-hands-light-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd.svg"> | woman-and-man-holding-hands-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe.svg"> | woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc.svg"> | woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b-1f3fd.svg"> | woman-and-man-holding-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff.svg"> | woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb.svg"> | woman-and-man-holding-hands-medium-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe.svg"> | woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc.svg"> | woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b-1f3fe.svg"> | woman-and-man-holding-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff.svg"> | woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb.svg"> | woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd.svg"> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc.svg"> | woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46b-1f3fc.svg"> | woman-and-man-holding-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff.svg"> | woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb.svg"> | woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd.svg"> | woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe.svg"> | woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d.svg"> | women-holding-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d-1f3ff.svg"> | women-holding-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb.svg"> | women-holding-hands-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd.svg"> | women-holding-hands-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe.svg"> | women-holding-hands-dark-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc.svg"> | women-holding-hands-dark-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d-1f3fb.svg"> | women-holding-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f469-1f3ff.svg"> | women-holding-hands-light-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f469-1f3fd.svg"> | women-holding-hands-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f469-1f3fe.svg"> | women-holding-hands-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f91d-200d-1f469-1f3fc.svg"> | women-holding-hands-light-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d-1f3fd.svg"> | women-holding-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f469-1f3ff.svg"> | women-holding-hands-medium-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb.svg"> | women-holding-hands-medium-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f469-1f3fe.svg"> | women-holding-hands-medium-skin-tone-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc.svg"> | women-holding-hands-medium-skin-tone-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d-1f3fe.svg"> | women-holding-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f469-1f3ff.svg"> | women-holding-hands-medium-dark-skin-tone-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb.svg"> | women-holding-hands-medium-dark-skin-tone-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd.svg"> | women-holding-hands-medium-dark-skin-tone-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc.svg"> | women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46d-1f3fc.svg"> | women-holding-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f469-1f3ff.svg"> | women-holding-hands-medium-light-skin-tone-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb.svg"> | women-holding-hands-medium-light-skin-tone-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f469-1f3fd.svg"> | women-holding-hands-medium-light-skin-tone-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f91d-200d-1f469-1f3fe.svg"> | women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b.svg"> | left-facing-fist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b-1f3ff.svg"> | left-facing-fist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b-1f3fb.svg"> | left-facing-fist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b-1f3fd.svg"> | left-facing-fist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b-1f3fe.svg"> | left-facing-fist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91b-1f3fc.svg"> | left-facing-fist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a.svg"> | oncoming-fist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a-1f3ff.svg"> | oncoming-fist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a-1f3fb.svg"> | oncoming-fist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a-1f3fd.svg"> | oncoming-fist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a-1f3fe.svg"> | oncoming-fist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44a-1f3fc.svg"> | oncoming-fist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270a.svg"> | raised-fist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270a-1f3ff.svg"> | raised-fist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270a-1f3fb.svg"> | raised-fist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270a-1f3fd.svg"> | raised-fist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270a-1f3fe.svg"> | raised-fist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270a-1f3fc.svg"> | raised-fist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c.svg"> | right-facing-fist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c-1f3ff.svg"> | right-facing-fist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c-1f3fb.svg"> | right-facing-fist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c-1f3fd.svg"> | right-facing-fist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c-1f3fe.svg"> | right-facing-fist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91c-1f3fc.svg"> | right-facing-fist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e.svg"> | thumbs-down 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e-1f3ff.svg"> | thumbs-down-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e-1f3fb.svg"> | thumbs-down-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e-1f3fd.svg"> | thumbs-down-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e-1f3fe.svg"> | thumbs-down-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44e-1f3fc.svg"> | thumbs-down-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"> | thumbs-up 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3ff.svg"> | thumbs-up-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3fb.svg"> | thumbs-up-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3fd.svg"> | thumbs-up-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3fe.svg"> | thumbs-up-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3fc.svg"> | thumbs-up-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590.svg"> | hand-with-fingers-splayed 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590-1f3ff.svg"> | hand-with-fingers-splayed-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590-1f3fb.svg"> | hand-with-fingers-splayed-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590-1f3fd.svg"> | hand-with-fingers-splayed-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590-1f3fe.svg"> | hand-with-fingers-splayed-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f590-1f3fc.svg"> | hand-with-fingers-splayed-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a.svg"> | raised-back-of-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a-1f3ff.svg"> | raised-back-of-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a-1f3fb.svg"> | raised-back-of-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a-1f3fd.svg"> | raised-back-of-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a-1f3fe.svg"> | raised-back-of-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91a-1f3fc.svg"> | raised-back-of-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270b.svg"> | raised-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270b-1f3ff.svg"> | raised-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270b-1f3fb.svg"> | raised-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270b-1f3fd.svg"> | raised-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270b-1f3fe.svg"> | raised-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270b-1f3fc.svg"> | raised-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596.svg"> | vulcan-salute 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596-1f3ff.svg"> | vulcan-salute-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596-1f3fb.svg"> | vulcan-salute-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596-1f3fd.svg"> | vulcan-salute-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596-1f3fe.svg"> | vulcan-salute-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f596-1f3fc.svg"> | vulcan-salute-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg"> | waving-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b-1f3ff.svg"> | waving-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b-1f3fb.svg"> | waving-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b-1f3fd.svg"> | waving-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b-1f3fe.svg"> | waving-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b-1f3fc.svg"> | waving-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919.svg"> | call-me-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919-1f3ff.svg"> | call-me-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919-1f3fb.svg"> | call-me-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919-1f3fd.svg"> | call-me-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919-1f3fe.svg"> | call-me-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f919-1f3fc.svg"> | call-me-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e.svg"> | crossed-fingers 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e-1f3ff.svg"> | crossed-fingers-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e-1f3fb.svg"> | crossed-fingers-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e-1f3fd.svg"> | crossed-fingers-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e-1f3fe.svg"> | crossed-fingers-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91e-1f3fc.svg"> | crossed-fingers-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f.svg"> | love-you-gesture 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f-1f3ff.svg"> | love-you-gesture-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f-1f3fb.svg"> | love-you-gesture-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f-1f3fd.svg"> | love-you-gesture-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f-1f3fe.svg"> | love-you-gesture-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91f-1f3fc.svg"> | love-you-gesture-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c.svg"> | ok-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c-1f3ff.svg"> | ok-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c-1f3fb.svg"> | ok-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c-1f3fd.svg"> | ok-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c-1f3fe.svg"> | ok-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44c-1f3fc.svg"> | ok-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c.svg"> | pinched-fingers 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c-1f3ff.svg"> | pinched-fingers-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c-1f3fb.svg"> | pinched-fingers-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c-1f3fd.svg"> | pinched-fingers-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c-1f3fe.svg"> | pinched-fingers-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90c-1f3fc.svg"> | pinched-fingers-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f.svg"> | pinching-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f-1f3ff.svg"> | pinching-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f-1f3fb.svg"> | pinching-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f-1f3fd.svg"> | pinching-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f-1f3fe.svg"> | pinching-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90f-1f3fc.svg"> | pinching-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918.svg"> | sign-of-the-horns 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918-1f3ff.svg"> | sign-of-the-horns-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918-1f3fb.svg"> | sign-of-the-horns-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918-1f3fd.svg"> | sign-of-the-horns-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918-1f3fe.svg"> | sign-of-the-horns-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f918-1f3fc.svg"> | sign-of-the-horns-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270c.svg"> | victory-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270c-1f3ff.svg"> | victory-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270c-1f3fb.svg"> | victory-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270c-1f3fd.svg"> | victory-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270c-1f3fe.svg"> | victory-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270c-1f3fc.svg"> | victory-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485.svg"> | nail-polish 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485-1f3ff.svg"> | nail-polish-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485-1f3fb.svg"> | nail-polish-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485-1f3fd.svg"> | nail-polish-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485-1f3fe.svg"> | nail-polish-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f485-1f3fc.svg"> | nail-polish-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933.svg"> | selfie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933-1f3ff.svg"> | selfie-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933-1f3fb.svg"> | selfie-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933-1f3fd.svg"> | selfie-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933-1f3fe.svg"> | selfie-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f933-1f3fc.svg"> | selfie-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270d.svg"> | writing-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270d-1f3ff.svg"> | writing-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270d-1f3fb.svg"> | writing-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270d-1f3fd.svg"> | writing-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/270d-1f3fe.svg"> | writing-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/270d-1f3fc.svg"> | writing-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447.svg"> | backhand-index-pointing-down 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447-1f3ff.svg"> | backhand-index-pointing-down-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447-1f3fb.svg"> | backhand-index-pointing-down-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447-1f3fd.svg"> | backhand-index-pointing-down-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447-1f3fe.svg"> | backhand-index-pointing-down-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f447-1f3fc.svg"> | backhand-index-pointing-down-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448.svg"> | backhand-index-pointing-left 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448-1f3ff.svg"> | backhand-index-pointing-left-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448-1f3fb.svg"> | backhand-index-pointing-left-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448-1f3fd.svg"> | backhand-index-pointing-left-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448-1f3fe.svg"> | backhand-index-pointing-left-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f448-1f3fc.svg"> | backhand-index-pointing-left-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449.svg"> | backhand-index-pointing-right 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449-1f3ff.svg"> | backhand-index-pointing-right-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449-1f3fb.svg"> | backhand-index-pointing-right-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449-1f3fd.svg"> | backhand-index-pointing-right-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449-1f3fe.svg"> | backhand-index-pointing-right-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f449-1f3fc.svg"> | backhand-index-pointing-right-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446.svg"> | backhand-index-pointing-up 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446-1f3ff.svg"> | backhand-index-pointing-up-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446-1f3fb.svg"> | backhand-index-pointing-up-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446-1f3fd.svg"> | backhand-index-pointing-up-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446-1f3fe.svg"> | backhand-index-pointing-up-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f446-1f3fc.svg"> | backhand-index-pointing-up-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/261d.svg"> | index-pointing-up 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/261d-1f3ff.svg"> | index-pointing-up-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/261d-1f3fb.svg"> | index-pointing-up-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/261d-1f3fd.svg"> | index-pointing-up-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/261d-1f3fe.svg"> | index-pointing-up-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/261d-1f3fc.svg"> | index-pointing-up-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595.svg"> | middle-finger 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595-1f3ff.svg"> | middle-finger-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595-1f3fb.svg"> | middle-finger-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595-1f3fd.svg"> | middle-finger-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595-1f3fe.svg"> | middle-finger-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f595-1f3fc.svg"> | middle-finger-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"> | clapping-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f-1f3ff.svg"> | clapping-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f-1f3fb.svg"> | clapping-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f-1f3fd.svg"> | clapping-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f-1f3fe.svg"> | clapping-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44f-1f3fc.svg"> | clapping-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"> | folded-hands 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3ff.svg"> | folded-hands-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3fb.svg"> | folded-hands-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3fd.svg"> | folded-hands-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3fe.svg"> | folded-hands-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3fc.svg"> | folded-hands-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f91d.svg"> | handshake 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450.svg"> | open-hands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450-1f3ff.svg"> | open-hands-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450-1f3fb.svg"> | open-hands-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450-1f3fd.svg"> | open-hands-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450-1f3fe.svg"> | open-hands-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f450-1f3fc.svg"> | open-hands-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932.svg"> | palms-up-together | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932-1f3ff.svg"> | palms-up-together-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932-1f3fb.svg"> | palms-up-together-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932-1f3fd.svg"> | palms-up-together-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932-1f3fe.svg"> | palms-up-together-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f932-1f3fc.svg"> | palms-up-together-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"> | raising-hands | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3ff.svg"> | raising-hands-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fb.svg"> | raising-hands-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fd.svg"> | raising-hands-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fe.svg"> | raising-hands-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fc.svg"> | raising-hands-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-200d-2642-fe0f.svg"> | man-climbing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3ff-200d-2642-fe0f.svg"> | man-climbing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fb-200d-2642-fe0f.svg"> | man-climbing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fd-200d-2642-fe0f.svg"> | man-climbing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fe-200d-2642-fe0f.svg"> | man-climbing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fc-200d-2642-fe0f.svg"> | man-climbing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a.svg"> | man-dancing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a-1f3ff.svg"> | man-dancing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a-1f3fb.svg"> | man-dancing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a-1f3fd.svg"> | man-dancing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a-1f3fe.svg"> | man-dancing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f57a-1f3fc.svg"> | man-dancing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-200d-2642-fe0f.svg"> | man-getting-haircut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3ff-200d-2642-fe0f.svg"> | man-getting-haircut-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fb-200d-2642-fe0f.svg"> | man-getting-haircut-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fd-200d-2642-fe0f.svg"> | man-getting-haircut-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fe-200d-2642-fe0f.svg"> | man-getting-haircut-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fc-200d-2642-fe0f.svg"> | man-getting-haircut-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-200d-2642-fe0f.svg"> | man-getting-massage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3ff-200d-2642-fe0f.svg"> | man-getting-massage-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fb-200d-2642-fe0f.svg"> | man-getting-massage-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fd-200d-2642-fe0f.svg"> | man-getting-massage-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fe-200d-2642-fe0f.svg"> | man-getting-massage-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fc-200d-2642-fe0f.svg"> | man-getting-massage-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9bd.svg"> | man-in-manual-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9bd.svg"> | man-in-manual-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9bd.svg"> | man-in-manual-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9bd.svg"> | man-in-manual-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9bd.svg"> | man-in-manual-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9bd.svg"> | man-in-manual-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9bc.svg"> | man-in-motorized-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9bc.svg"> | man-in-motorized-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9bc.svg"> | man-in-motorized-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9bc.svg"> | man-in-motorized-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9bc.svg"> | man-in-motorized-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9bc.svg"> | man-in-motorized-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-200d-2642-fe0f.svg"> | man-in-steamy-room | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3ff-200d-2642-fe0f.svg"> | man-in-steamy-room-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fb-200d-2642-fe0f.svg"> | man-in-steamy-room-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fd-200d-2642-fe0f.svg"> | man-in-steamy-room-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fe-200d-2642-fe0f.svg"> | man-in-steamy-room-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fc-200d-2642-fe0f.svg"> | man-in-steamy-room-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-200d-2642-fe0f.svg"> | man-kneeling | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3ff-200d-2642-fe0f.svg"> | man-kneeling-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fb-200d-2642-fe0f.svg"> | man-kneeling-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fd-200d-2642-fe0f.svg"> | man-kneeling-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fe-200d-2642-fe0f.svg"> | man-kneeling-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fc-200d-2642-fe0f.svg"> | man-kneeling-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-200d-2642-fe0f.svg"> | man-running | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3ff-200d-2642-fe0f.svg"> | man-running-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fb-200d-2642-fe0f.svg"> | man-running-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fd-200d-2642-fe0f.svg"> | man-running-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fe-200d-2642-fe0f.svg"> | man-running-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fc-200d-2642-fe0f.svg"> | man-running-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-200d-2642-fe0f.svg"> | man-standing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3ff-200d-2642-fe0f.svg"> | man-standing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fb-200d-2642-fe0f.svg"> | man-standing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fd-200d-2642-fe0f.svg"> | man-standing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fe-200d-2642-fe0f.svg"> | man-standing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fc-200d-2642-fe0f.svg"> | man-standing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-200d-2642-fe0f.svg"> | man-walking | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3ff-200d-2642-fe0f.svg"> | man-walking-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fb-200d-2642-fe0f.svg"> | man-walking-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fd-200d-2642-fe0f.svg"> | man-walking-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fe-200d-2642-fe0f.svg"> | man-walking-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fc-200d-2642-fe0f.svg"> | man-walking-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9af.svg"> | man-with-white-cane | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9af.svg"> | man-with-white-cane-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9af.svg"> | man-with-white-cane-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9af.svg"> | man-with-white-cane-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9af.svg"> | man-with-white-cane-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9af.svg"> | man-with-white-cane-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46f-200d-2642-fe0f.svg"> | men-with-bunny-ears | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46f.svg"> | people-with-bunny-ears 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7.svg"> | person-climbing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3ff.svg"> | person-climbing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fb.svg"> | person-climbing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fd.svg"> | person-climbing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fe.svg"> | person-climbing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fc.svg"> | person-climbing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487.svg"> | person-getting-haircut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3ff.svg"> | person-getting-haircut-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fb.svg"> | person-getting-haircut-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fd.svg"> | person-getting-haircut-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fe.svg"> | person-getting-haircut-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fc.svg"> | person-getting-haircut-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486.svg"> | person-getting-massage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3ff.svg"> | person-getting-massage-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fb.svg"> | person-getting-massage-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fd.svg"> | person-getting-massage-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fe.svg"> | person-getting-massage-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fc.svg"> | person-getting-massage-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9bd.svg"> | person-in-manual-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9bd.svg"> | person-in-manual-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9bd.svg"> | person-in-manual-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9bd.svg"> | person-in-manual-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9bd.svg"> | person-in-manual-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9bd.svg"> | person-in-manual-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9bc.svg"> | person-in-motorized-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9bc.svg"> | person-in-motorized-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9bc.svg"> | person-in-motorized-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9bc.svg"> | person-in-motorized-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9bc.svg"> | person-in-motorized-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9bc.svg"> | person-in-motorized-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6.svg"> | person-in-steamy-room | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3ff.svg"> | person-in-steamy-room-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fb.svg"> | person-in-steamy-room-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fd.svg"> | person-in-steamy-room-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fe.svg"> | person-in-steamy-room-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fc.svg"> | person-in-steamy-room-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574.svg"> | person-in-suit-levitating | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574-1f3ff.svg"> | person-in-suit-levitating-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574-1f3fb.svg"> | person-in-suit-levitating-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574-1f3fd.svg"> | person-in-suit-levitating-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574-1f3fe.svg"> | person-in-suit-levitating-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f574-1f3fc.svg"> | person-in-suit-levitating-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce.svg"> | person-kneeling | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3ff.svg"> | person-kneeling-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fb.svg"> | person-kneeling-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fd.svg"> | person-kneeling-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fe.svg"> | person-kneeling-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fc.svg"> | person-kneeling-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3.svg"> | person-running | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3ff.svg"> | person-running-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fb.svg"> | person-running-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fd.svg"> | person-running-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fe.svg"> | person-running-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fc.svg"> | person-running-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd.svg"> | person-standing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3ff.svg"> | person-standing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fb.svg"> | person-standing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fd.svg"> | person-standing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fe.svg"> | person-standing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fc.svg"> | person-standing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6.svg"> | person-walking | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3ff.svg"> | person-walking-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fb.svg"> | person-walking-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fd.svg"> | person-walking-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fe.svg"> | person-walking-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fc.svg"> | person-walking-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9af.svg"> | person-with-white-cane | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9af.svg"> | person-with-white-cane-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9af.svg"> | person-with-white-cane-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9af.svg"> | person-with-white-cane-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9af.svg"> | person-with-white-cane-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9af.svg"> | person-with-white-cane-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-200d-2640-fe0f.svg"> | woman-climbing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3ff-200d-2640-fe0f.svg"> | woman-climbing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fb-200d-2640-fe0f.svg"> | woman-climbing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fd-200d-2640-fe0f.svg"> | woman-climbing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fe-200d-2640-fe0f.svg"> | woman-climbing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d7-1f3fc-200d-2640-fe0f.svg"> | woman-climbing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483.svg"> | woman-dancing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483-1f3ff.svg"> | woman-dancing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483-1f3fb.svg"> | woman-dancing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483-1f3fd.svg"> | woman-dancing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483-1f3fe.svg"> | woman-dancing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f483-1f3fc.svg"> | woman-dancing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-200d-2640-fe0f.svg"> | woman-getting-haircut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3ff-200d-2640-fe0f.svg"> | woman-getting-haircut-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fb-200d-2640-fe0f.svg"> | woman-getting-haircut-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fd-200d-2640-fe0f.svg"> | woman-getting-haircut-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fe-200d-2640-fe0f.svg"> | woman-getting-haircut-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f487-1f3fc-200d-2640-fe0f.svg"> | woman-getting-haircut-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-200d-2640-fe0f.svg"> | woman-getting-massage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3ff-200d-2640-fe0f.svg"> | woman-getting-massage-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fb-200d-2640-fe0f.svg"> | woman-getting-massage-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fd-200d-2640-fe0f.svg"> | woman-getting-massage-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fe-200d-2640-fe0f.svg"> | woman-getting-massage-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f486-1f3fc-200d-2640-fe0f.svg"> | woman-getting-massage-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9bd.svg"> | woman-in-manual-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9bd.svg"> | woman-in-manual-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9bd.svg"> | woman-in-manual-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9bd.svg"> | woman-in-manual-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9bd.svg"> | woman-in-manual-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9bd.svg"> | woman-in-manual-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9bc.svg"> | woman-in-motorized-wheelchair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9bc.svg"> | woman-in-motorized-wheelchair-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9bc.svg"> | woman-in-motorized-wheelchair-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9bc.svg"> | woman-in-motorized-wheelchair-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9bc.svg"> | woman-in-motorized-wheelchair-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9bc.svg"> | woman-in-motorized-wheelchair-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-200d-2640-fe0f.svg"> | woman-in-steamy-room | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3ff-200d-2640-fe0f.svg"> | woman-in-steamy-room-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fb-200d-2640-fe0f.svg"> | woman-in-steamy-room-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fd-200d-2640-fe0f.svg"> | woman-in-steamy-room-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fe-200d-2640-fe0f.svg"> | woman-in-steamy-room-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d6-1f3fc-200d-2640-fe0f.svg"> | woman-in-steamy-room-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-200d-2640-fe0f.svg"> | woman-kneeling | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3ff-200d-2640-fe0f.svg"> | woman-kneeling-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fb-200d-2640-fe0f.svg"> | woman-kneeling-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fd-200d-2640-fe0f.svg"> | woman-kneeling-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fe-200d-2640-fe0f.svg"> | woman-kneeling-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ce-1f3fc-200d-2640-fe0f.svg"> | woman-kneeling-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-200d-2640-fe0f.svg"> | woman-running | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3ff-200d-2640-fe0f.svg"> | woman-running-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fb-200d-2640-fe0f.svg"> | woman-running-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fd-200d-2640-fe0f.svg"> | woman-running-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fe-200d-2640-fe0f.svg"> | woman-running-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c3-1f3fc-200d-2640-fe0f.svg"> | woman-running-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-200d-2640-fe0f.svg"> | woman-standing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3ff-200d-2640-fe0f.svg"> | woman-standing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fb-200d-2640-fe0f.svg"> | woman-standing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fd-200d-2640-fe0f.svg"> | woman-standing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fe-200d-2640-fe0f.svg"> | woman-standing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cd-1f3fc-200d-2640-fe0f.svg"> | woman-standing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-200d-2640-fe0f.svg"> | woman-walking | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3ff-200d-2640-fe0f.svg"> | woman-walking-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fb-200d-2640-fe0f.svg"> | woman-walking-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fd-200d-2640-fe0f.svg"> | woman-walking-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fe-200d-2640-fe0f.svg"> | woman-walking-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b6-1f3fc-200d-2640-fe0f.svg"> | woman-walking-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9af.svg"> | woman-with-white-cane | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9af.svg"> | woman-with-white-cane-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9af.svg"> | woman-with-white-cane-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9af.svg"> | woman-with-white-cane-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9af.svg"> | woman-with-white-cane-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9af.svg"> | woman-with-white-cane-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46f-200d-2640-fe0f.svg"> | women-with-bunny-ears | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c.svg"> | baby-angel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c-1f3ff.svg"> | baby-angel-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c-1f3fb.svg"> | baby-angel-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c-1f3fd.svg"> | baby-angel-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c-1f3fe.svg"> | baby-angel-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47c-1f3fc.svg"> | baby-angel-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd.svg"> | elf 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3ff.svg"> | elf-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fb.svg"> | elf-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fd.svg"> | elf-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fe.svg"> | elf-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fc.svg"> | elf-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da.svg"> | fairy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3ff.svg"> | fairy-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fb.svg"> | fairy-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fd.svg"> | fairy-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fe.svg"> | fairy-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fc.svg"> | fairy-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9de.svg"> | genie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9.svg"> | mage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3ff.svg"> | mage-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fb.svg"> | mage-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fd.svg"> | mage-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fe.svg"> | mage-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fc.svg"> | mage-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-200d-2642-fe0f.svg"> | man-elf | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3ff-200d-2642-fe0f.svg"> | man-elf-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fb-200d-2642-fe0f.svg"> | man-elf-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fd-200d-2642-fe0f.svg"> | man-elf-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fe-200d-2642-fe0f.svg"> | man-elf-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fc-200d-2642-fe0f.svg"> | man-elf-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-200d-2642-fe0f.svg"> | man-fairy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3ff-200d-2642-fe0f.svg"> | man-fairy-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fb-200d-2642-fe0f.svg"> | man-fairy-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fd-200d-2642-fe0f.svg"> | man-fairy-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fe-200d-2642-fe0f.svg"> | man-fairy-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fc-200d-2642-fe0f.svg"> | man-fairy-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9de-200d-2642-fe0f.svg"> | man-genie | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-200d-2642-fe0f.svg"> | man-mage 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3ff-200d-2642-fe0f.svg"> | man-mage-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fb-200d-2642-fe0f.svg"> | man-mage-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fd-200d-2642-fe0f.svg"> | man-mage-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fe-200d-2642-fe0f.svg"> | man-mage-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fc-200d-2642-fe0f.svg"> | man-mage-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-200d-2642-fe0f.svg"> | man-superhero 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3ff-200d-2642-fe0f.svg"> | man-superhero-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fb-200d-2642-fe0f.svg"> | man-superhero-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fd-200d-2642-fe0f.svg"> | man-superhero-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fe-200d-2642-fe0f.svg"> | man-superhero-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fc-200d-2642-fe0f.svg"> | man-superhero-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-200d-2642-fe0f.svg"> | man-supervillain 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3ff-200d-2642-fe0f.svg"> | man-supervillain-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fb-200d-2642-fe0f.svg"> | man-supervillain-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fd-200d-2642-fe0f.svg"> | man-supervillain-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fe-200d-2642-fe0f.svg"> | man-supervillain-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fc-200d-2642-fe0f.svg"> | man-supervillain-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-200d-2642-fe0f.svg"> | man-vampire 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3ff-200d-2642-fe0f.svg"> | man-vampire-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fb-200d-2642-fe0f.svg"> | man-vampire-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fd-200d-2642-fe0f.svg"> | man-vampire-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fe-200d-2642-fe0f.svg"> | man-vampire-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fc-200d-2642-fe0f.svg"> | man-vampire-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9df-200d-2642-fe0f.svg"> | man-zombie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-200d-2640-fe0f.svg"> | mermaid | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3ff-200d-2640-fe0f.svg"> | mermaid-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fb-200d-2640-fe0f.svg"> | mermaid-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fd-200d-2640-fe0f.svg"> | mermaid-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fe-200d-2640-fe0f.svg"> | mermaid-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fc-200d-2640-fe0f.svg"> | mermaid-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-200d-2642-fe0f.svg"> | merman | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3ff-200d-2642-fe0f.svg"> | merman-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fb-200d-2642-fe0f.svg"> | merman-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fd-200d-2642-fe0f.svg"> | merman-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fe-200d-2642-fe0f.svg"> | merman-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fc-200d-2642-fe0f.svg"> | merman-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc.svg"> | merperson | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3ff.svg"> | merperson-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fb.svg"> | merperson-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fd.svg"> | merperson-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fe.svg"> | merperson-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dc-1f3fc.svg"> | merperson-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936.svg"> | mrs-claus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936-1f3ff.svg"> | mrs-claus-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936-1f3fb.svg"> | mrs-claus-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936-1f3fd.svg"> | mrs-claus-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936-1f3fe.svg"> | mrs-claus-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f936-1f3fc.svg"> | mrs-claus-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f384.svg"> | mx-claus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f384.svg"> | mx-claus-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f384.svg"> | mx-claus-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f384.svg"> | mx-claus-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f384.svg"> | mx-claus-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f384.svg"> | mx-claus-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385.svg"> | santa-claus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385-1f3ff.svg"> | santa-claus-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385-1f3fb.svg"> | santa-claus-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385-1f3fd.svg"> | santa-claus-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385-1f3fe.svg"> | santa-claus-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f385-1f3fc.svg"> | santa-claus-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8.svg"> | superhero | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3ff.svg"> | superhero-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fb.svg"> | superhero-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fd.svg"> | superhero-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fe.svg"> | superhero-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fc.svg"> | superhero-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9.svg"> | supervillain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3ff.svg"> | supervillain-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fb.svg"> | supervillain-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fd.svg"> | supervillain-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fe.svg"> | supervillain-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fc.svg"> | supervillain-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db.svg"> | vampire | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3ff.svg"> | vampire-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fb.svg"> | vampire-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fd.svg"> | vampire-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fe.svg"> | vampire-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fc.svg"> | vampire-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-200d-2640-fe0f.svg"> | woman-elf | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3ff-200d-2640-fe0f.svg"> | woman-elf-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fb-200d-2640-fe0f.svg"> | woman-elf-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fd-200d-2640-fe0f.svg"> | woman-elf-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fe-200d-2640-fe0f.svg"> | woman-elf-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9dd-1f3fc-200d-2640-fe0f.svg"> | woman-elf-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-200d-2640-fe0f.svg"> | woman-fairy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3ff-200d-2640-fe0f.svg"> | woman-fairy-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fb-200d-2640-fe0f.svg"> | woman-fairy-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fd-200d-2640-fe0f.svg"> | woman-fairy-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fe-200d-2640-fe0f.svg"> | woman-fairy-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9da-1f3fc-200d-2640-fe0f.svg"> | woman-fairy-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9de-200d-2640-fe0f.svg"> | woman-genie | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-200d-2640-fe0f.svg"> | woman-mage 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3ff-200d-2640-fe0f.svg"> | woman-mage-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fb-200d-2640-fe0f.svg"> | woman-mage-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fd-200d-2640-fe0f.svg"> | woman-mage-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fe-200d-2640-fe0f.svg"> | woman-mage-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d9-1f3fc-200d-2640-fe0f.svg"> | woman-mage-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-200d-2640-fe0f.svg"> | woman-superhero 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3ff-200d-2640-fe0f.svg"> | woman-superhero-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fb-200d-2640-fe0f.svg"> | woman-superhero-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fd-200d-2640-fe0f.svg"> | woman-superhero-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fe-200d-2640-fe0f.svg"> | woman-superhero-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b8-1f3fc-200d-2640-fe0f.svg"> | woman-superhero-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-200d-2640-fe0f.svg"> | woman-supervillain 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3ff-200d-2640-fe0f.svg"> | woman-supervillain-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fb-200d-2640-fe0f.svg"> | woman-supervillain-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fd-200d-2640-fe0f.svg"> | woman-supervillain-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fe-200d-2640-fe0f.svg"> | woman-supervillain-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9b9-1f3fc-200d-2640-fe0f.svg"> | woman-supervillain-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-200d-2640-fe0f.svg"> | woman-vampire 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3ff-200d-2640-fe0f.svg"> | woman-vampire-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fb-200d-2640-fe0f.svg"> | woman-vampire-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fd-200d-2640-fe0f.svg"> | woman-vampire-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fe-200d-2640-fe0f.svg"> | woman-vampire-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9db-1f3fc-200d-2640-fe0f.svg"> | woman-vampire-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9df-200d-2640-fe0f.svg"> | woman-zombie 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9df.svg"> | zombie | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-200d-2642-fe0f.svg"> | deaf-man 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3ff-200d-2642-fe0f.svg"> | deaf-man-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fb-200d-2642-fe0f.svg"> | deaf-man-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fd-200d-2642-fe0f.svg"> | deaf-man-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fe-200d-2642-fe0f.svg"> | deaf-man-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fc-200d-2642-fe0f.svg"> | deaf-man-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf.svg"> | deaf-person 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3ff.svg"> | deaf-person-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fb.svg"> | deaf-person-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fd.svg"> | deaf-person-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fe.svg"> | deaf-person-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fc.svg"> | deaf-person-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-200d-2640-fe0f.svg"> | deaf-woman 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3ff-200d-2640-fe0f.svg"> | deaf-woman-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fb-200d-2640-fe0f.svg"> | deaf-woman-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fd-200d-2640-fe0f.svg"> | deaf-woman-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fe-200d-2640-fe0f.svg"> | deaf-woman-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9cf-1f3fc-200d-2640-fe0f.svg"> | deaf-woman-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-200d-2642-fe0f.svg"> | man-bowing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3ff-200d-2642-fe0f.svg"> | man-bowing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fb-200d-2642-fe0f.svg"> | man-bowing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fd-200d-2642-fe0f.svg"> | man-bowing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fe-200d-2642-fe0f.svg"> | man-bowing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fc-200d-2642-fe0f.svg"> | man-bowing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-200d-2642-fe0f.svg"> | man-facepalming 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3ff-200d-2642-fe0f.svg"> | man-facepalming-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fb-200d-2642-fe0f.svg"> | man-facepalming-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fd-200d-2642-fe0f.svg"> | man-facepalming-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fe-200d-2642-fe0f.svg"> | man-facepalming-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fc-200d-2642-fe0f.svg"> | man-facepalming-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-200d-2642-fe0f.svg"> | man-frowning 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3ff-200d-2642-fe0f.svg"> | man-frowning-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fb-200d-2642-fe0f.svg"> | man-frowning-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fd-200d-2642-fe0f.svg"> | man-frowning-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fe-200d-2642-fe0f.svg"> | man-frowning-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fc-200d-2642-fe0f.svg"> | man-frowning-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-200d-2642-fe0f.svg"> | man-gesturing-no 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3ff-200d-2642-fe0f.svg"> | man-gesturing-no-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fb-200d-2642-fe0f.svg"> | man-gesturing-no-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fd-200d-2642-fe0f.svg"> | man-gesturing-no-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fe-200d-2642-fe0f.svg"> | man-gesturing-no-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fc-200d-2642-fe0f.svg"> | man-gesturing-no-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-200d-2642-fe0f.svg"> | man-gesturing-ok 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3ff-200d-2642-fe0f.svg"> | man-gesturing-ok-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fb-200d-2642-fe0f.svg"> | man-gesturing-ok-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fd-200d-2642-fe0f.svg"> | man-gesturing-ok-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fe-200d-2642-fe0f.svg"> | man-gesturing-ok-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fc-200d-2642-fe0f.svg"> | man-gesturing-ok-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-200d-2642-fe0f.svg"> | man-pouting 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3ff-200d-2642-fe0f.svg"> | man-pouting-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fb-200d-2642-fe0f.svg"> | man-pouting-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fd-200d-2642-fe0f.svg"> | man-pouting-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fe-200d-2642-fe0f.svg"> | man-pouting-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fc-200d-2642-fe0f.svg"> | man-pouting-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-200d-2642-fe0f.svg"> | man-raising-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3ff-200d-2642-fe0f.svg"> | man-raising-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fb-200d-2642-fe0f.svg"> | man-raising-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fd-200d-2642-fe0f.svg"> | man-raising-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fe-200d-2642-fe0f.svg"> | man-raising-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fc-200d-2642-fe0f.svg"> | man-raising-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-200d-2642-fe0f.svg"> | man-shrugging 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3ff-200d-2642-fe0f.svg"> | man-shrugging-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fb-200d-2642-fe0f.svg"> | man-shrugging-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fd-200d-2642-fe0f.svg"> | man-shrugging-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fe-200d-2642-fe0f.svg"> | man-shrugging-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fc-200d-2642-fe0f.svg"> | man-shrugging-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-200d-2642-fe0f.svg"> | man-tipping-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3ff-200d-2642-fe0f.svg"> | man-tipping-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fb-200d-2642-fe0f.svg"> | man-tipping-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fd-200d-2642-fe0f.svg"> | man-tipping-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fe-200d-2642-fe0f.svg"> | man-tipping-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fc-200d-2642-fe0f.svg"> | man-tipping-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647.svg"> | person-bowing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3ff.svg"> | person-bowing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fb.svg"> | person-bowing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fd.svg"> | person-bowing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fe.svg"> | person-bowing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fc.svg"> | person-bowing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926.svg"> | person-facepalming 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3ff.svg"> | person-facepalming-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fb.svg"> | person-facepalming-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fd.svg"> | person-facepalming-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fe.svg"> | person-facepalming-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fc.svg"> | person-facepalming-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d.svg"> | person-frowning 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3ff.svg"> | person-frowning-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fb.svg"> | person-frowning-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fd.svg"> | person-frowning-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fe.svg"> | person-frowning-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fc.svg"> | person-frowning-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645.svg"> | person-gesturing-no 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3ff.svg"> | person-gesturing-no-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fb.svg"> | person-gesturing-no-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fd.svg"> | person-gesturing-no-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fe.svg"> | person-gesturing-no-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fc.svg"> | person-gesturing-no-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646.svg"> | person-gesturing-ok 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3ff.svg"> | person-gesturing-ok-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fb.svg"> | person-gesturing-ok-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fd.svg"> | person-gesturing-ok-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fe.svg"> | person-gesturing-ok-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fc.svg"> | person-gesturing-ok-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e.svg"> | person-pouting 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3ff.svg"> | person-pouting-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fb.svg"> | person-pouting-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fd.svg"> | person-pouting-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fe.svg"> | person-pouting-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fc.svg"> | person-pouting-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b.svg"> | person-raising-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3ff.svg"> | person-raising-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fb.svg"> | person-raising-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fd.svg"> | person-raising-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fe.svg"> | person-raising-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fc.svg"> | person-raising-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937.svg"> | person-shrugging 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3ff.svg"> | person-shrugging-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fb.svg"> | person-shrugging-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fd.svg"> | person-shrugging-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fe.svg"> | person-shrugging-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fc.svg"> | person-shrugging-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481.svg"> | person-tipping-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3ff.svg"> | person-tipping-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fb.svg"> | person-tipping-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fd.svg"> | person-tipping-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fe.svg"> | person-tipping-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fc.svg"> | person-tipping-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-200d-2640-fe0f.svg"> | woman-bowing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3ff-200d-2640-fe0f.svg"> | woman-bowing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fb-200d-2640-fe0f.svg"> | woman-bowing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fd-200d-2640-fe0f.svg"> | woman-bowing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fe-200d-2640-fe0f.svg"> | woman-bowing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f647-1f3fc-200d-2640-fe0f.svg"> | woman-bowing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-200d-2640-fe0f.svg"> | woman-facepalming 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3ff-200d-2640-fe0f.svg"> | woman-facepalming-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fb-200d-2640-fe0f.svg"> | woman-facepalming-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fd-200d-2640-fe0f.svg"> | woman-facepalming-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fe-200d-2640-fe0f.svg"> | woman-facepalming-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f926-1f3fc-200d-2640-fe0f.svg"> | woman-facepalming-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-200d-2640-fe0f.svg"> | woman-frowning 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3ff-200d-2640-fe0f.svg"> | woman-frowning-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fb-200d-2640-fe0f.svg"> | woman-frowning-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fd-200d-2640-fe0f.svg"> | woman-frowning-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fe-200d-2640-fe0f.svg"> | woman-frowning-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64d-1f3fc-200d-2640-fe0f.svg"> | woman-frowning-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-200d-2640-fe0f.svg"> | woman-gesturing-no 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3ff-200d-2640-fe0f.svg"> | woman-gesturing-no-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fb-200d-2640-fe0f.svg"> | woman-gesturing-no-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fd-200d-2640-fe0f.svg"> | woman-gesturing-no-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fe-200d-2640-fe0f.svg"> | woman-gesturing-no-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f645-1f3fc-200d-2640-fe0f.svg"> | woman-gesturing-no-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-200d-2640-fe0f.svg"> | woman-gesturing-ok 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3ff-200d-2640-fe0f.svg"> | woman-gesturing-ok-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fb-200d-2640-fe0f.svg"> | woman-gesturing-ok-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fd-200d-2640-fe0f.svg"> | woman-gesturing-ok-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fe-200d-2640-fe0f.svg"> | woman-gesturing-ok-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f646-1f3fc-200d-2640-fe0f.svg"> | woman-gesturing-ok-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-200d-2640-fe0f.svg"> | woman-pouting 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3ff-200d-2640-fe0f.svg"> | woman-pouting-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fb-200d-2640-fe0f.svg"> | woman-pouting-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fd-200d-2640-fe0f.svg"> | woman-pouting-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fe-200d-2640-fe0f.svg"> | woman-pouting-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64e-1f3fc-200d-2640-fe0f.svg"> | woman-pouting-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-200d-2640-fe0f.svg"> | woman-raising-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3ff-200d-2640-fe0f.svg"> | woman-raising-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fb-200d-2640-fe0f.svg"> | woman-raising-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fd-200d-2640-fe0f.svg"> | woman-raising-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fe-200d-2640-fe0f.svg"> | woman-raising-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64b-1f3fc-200d-2640-fe0f.svg"> | woman-raising-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-200d-2640-fe0f.svg"> | woman-shrugging 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3ff-200d-2640-fe0f.svg"> | woman-shrugging-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fb-200d-2640-fe0f.svg"> | woman-shrugging-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fd-200d-2640-fe0f.svg"> | woman-shrugging-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fe-200d-2640-fe0f.svg"> | woman-shrugging-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f937-1f3fc-200d-2640-fe0f.svg"> | woman-shrugging-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-200d-2640-fe0f.svg"> | woman-tipping-hand 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3ff-200d-2640-fe0f.svg"> | woman-tipping-hand-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fb-200d-2640-fe0f.svg"> | woman-tipping-hand-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fd-200d-2640-fe0f.svg"> | woman-tipping-hand-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fe-200d-2640-fe0f.svg"> | woman-tipping-hand-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f481-1f3fc-200d-2640-fe0f.svg"> | woman-tipping-hand-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-200d-2642-fe0f.svg"> | man-in-lotus-position 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3ff-200d-2642-fe0f.svg"> | man-in-lotus-position-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fb-200d-2642-fe0f.svg"> | man-in-lotus-position-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fd-200d-2642-fe0f.svg"> | man-in-lotus-position-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fe-200d-2642-fe0f.svg"> | man-in-lotus-position-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fc-200d-2642-fe0f.svg"> | man-in-lotus-position-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc.svg"> | person-in-bed 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc-1f3ff.svg"> | person-in-bed-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc-1f3fb.svg"> | person-in-bed-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc-1f3fd.svg"> | person-in-bed-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc-1f3fe.svg"> | person-in-bed-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6cc-1f3fc.svg"> | person-in-bed-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8.svg"> | person-in-lotus-position 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3ff.svg"> | person-in-lotus-position-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fb.svg"> | person-in-lotus-position-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fd.svg"> | person-in-lotus-position-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fe.svg"> | person-in-lotus-position-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fc.svg"> | person-in-lotus-position-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0.svg"> | person-taking-bath 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0-1f3ff.svg"> | person-taking-bath-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0-1f3fb.svg"> | person-taking-bath-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0-1f3fd.svg"> | person-taking-bath-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0-1f3fe.svg"> | person-taking-bath-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c0-1f3fc.svg"> | person-taking-bath-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-200d-2640-fe0f.svg"> | woman-in-lotus-position 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3ff-200d-2640-fe0f.svg"> | woman-in-lotus-position-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fb-200d-2640-fe0f.svg"> | woman-in-lotus-position-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fd-200d-2640-fe0f.svg"> | woman-in-lotus-position-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fe-200d-2640-fe0f.svg"> | woman-in-lotus-position-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d8-1f3fc-200d-2640-fe0f.svg"> | woman-in-lotus-position-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f3a8.svg"> | artist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f3a8.svg"> | artist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f3a8.svg"> | artist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f3a8.svg"> | artist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f3a8.svg"> | artist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f3a8.svg"> | artist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f680.svg"> | astronaut 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f680.svg"> | astronaut-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f680.svg"> | astronaut-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f680.svg"> | astronaut-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f680.svg"> | astronaut-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f680.svg"> | astronaut-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931.svg"> | breast-feeding 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931-1f3ff.svg"> | breast-feeding-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931-1f3fb.svg"> | breast-feeding-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931-1f3fd.svg"> | breast-feeding-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931-1f3fe.svg"> | breast-feeding-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f931-1f3fc.svg"> | breast-feeding-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477.svg"> | construction-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3ff.svg"> | construction-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fb.svg"> | construction-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fd.svg"> | construction-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fe.svg"> | construction-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fc.svg"> | construction-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f373.svg"> | cook 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f373.svg"> | cook-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f373.svg"> | cook-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f373.svg"> | cook-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f373.svg"> | cook-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f373.svg"> | cook-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575.svg"> | detective 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3ff.svg"> | detective-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fb.svg"> | detective-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fd.svg"> | detective-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fe.svg"> | detective-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fc.svg"> | detective-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f3ed.svg"> | factory-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f3ed.svg"> | factory-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f3ed.svg"> | factory-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f3ed.svg"> | factory-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f3ed.svg"> | factory-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f3ed.svg"> | factory-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f33e.svg"> | farmer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f33e.svg"> | farmer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f33e.svg"> | farmer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f33e.svg"> | farmer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f33e.svg"> | farmer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f33e.svg"> | farmer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f692.svg"> | firefighter 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f692.svg"> | firefighter-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f692.svg"> | firefighter-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f692.svg"> | firefighter-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f692.svg"> | firefighter-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f692.svg"> | firefighter-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482.svg"> | guard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3ff.svg"> | guard-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fb.svg"> | guard-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fd.svg"> | guard-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fe.svg"> | guard-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fc.svg"> | guard-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-2695-fe0f.svg"> | health-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-2695-fe0f.svg"> | health-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-2695-fe0f.svg"> | health-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-2695-fe0f.svg"> | health-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-2695-fe0f.svg"> | health-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-2695-fe0f.svg"> | health-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-2696-fe0f.svg"> | judge 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-2696-fe0f.svg"> | judge-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-2696-fe0f.svg"> | judge-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-2696-fe0f.svg"> | judge-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-2696-fe0f.svg"> | judge-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-2696-fe0f.svg"> | judge-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f3a8.svg"> | man-artist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f3a8.svg"> | man-artist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f3a8.svg"> | man-artist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f3a8.svg"> | man-artist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f3a8.svg"> | man-artist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f3a8.svg"> | man-artist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f680.svg"> | man-astronaut 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f680.svg"> | man-astronaut-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f680.svg"> | man-astronaut-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f680.svg"> | man-astronaut-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f680.svg"> | man-astronaut-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f680.svg"> | man-astronaut-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-200d-2642-fe0f.svg"> | man-construction-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3ff-200d-2642-fe0f.svg"> | man-construction-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fb-200d-2642-fe0f.svg"> | man-construction-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fd-200d-2642-fe0f.svg"> | man-construction-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fe-200d-2642-fe0f.svg"> | man-construction-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fc-200d-2642-fe0f.svg"> | man-construction-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f373.svg"> | man-cook 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f373.svg"> | man-cook-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f373.svg"> | man-cook-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f373.svg"> | man-cook-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f373.svg"> | man-cook-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f373.svg"> | man-cook-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-fe0f-200d-2642-fe0f.svg"> | man-detective 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3ff-200d-2642-fe0f.svg"> | man-detective-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fb-200d-2642-fe0f.svg"> | man-detective-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fd-200d-2642-fe0f.svg"> | man-detective-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fe-200d-2642-fe0f.svg"> | man-detective-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fc-200d-2642-fe0f.svg"> | man-detective-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f3ed.svg"> | man-factory-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f3ed.svg"> | man-factory-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f3ed.svg"> | man-factory-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f3ed.svg"> | man-factory-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f3ed.svg"> | man-factory-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f3ed.svg"> | man-factory-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f33e.svg"> | man-farmer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f33e.svg"> | man-farmer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f33e.svg"> | man-farmer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f33e.svg"> | man-farmer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f33e.svg"> | man-farmer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f33e.svg"> | man-farmer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f37c.svg"> | man-feeding-baby 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f37c.svg"> | man-feeding-baby-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f37c.svg"> | man-feeding-baby-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f37c.svg"> | man-feeding-baby-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f37c.svg"> | man-feeding-baby-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f37c.svg"> | man-feeding-baby-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f692.svg"> | man-firefighter 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f692.svg"> | man-firefighter-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f692.svg"> | man-firefighter-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f692.svg"> | man-firefighter-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f692.svg"> | man-firefighter-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f692.svg"> | man-firefighter-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-200d-2642-fe0f.svg"> | man-guard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3ff-200d-2642-fe0f.svg"> | man-guard-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fb-200d-2642-fe0f.svg"> | man-guard-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fd-200d-2642-fe0f.svg"> | man-guard-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fe-200d-2642-fe0f.svg"> | man-guard-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fc-200d-2642-fe0f.svg"> | man-guard-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-2695-fe0f.svg"> | man-health-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-2695-fe0f.svg"> | man-health-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-2695-fe0f.svg"> | man-health-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-2695-fe0f.svg"> | man-health-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-2695-fe0f.svg"> | man-health-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-2695-fe0f.svg"> | man-health-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-200d-2642-fe0f.svg"> | man-in-tuxedo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3ff-200d-2642-fe0f.svg"> | man-in-tuxedo-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fb-200d-2642-fe0f.svg"> | man-in-tuxedo-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fd-200d-2642-fe0f.svg"> | man-in-tuxedo-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fe-200d-2642-fe0f.svg"> | man-in-tuxedo-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fc-200d-2642-fe0f.svg"> | man-in-tuxedo-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-2696-fe0f.svg"> | man-judge 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-2696-fe0f.svg"> | man-judge-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-2696-fe0f.svg"> | man-judge-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-2696-fe0f.svg"> | man-judge-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-2696-fe0f.svg"> | man-judge-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-2696-fe0f.svg"> | man-judge-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f527.svg"> | man-mechanic 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f527.svg"> | man-mechanic-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f527.svg"> | man-mechanic-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f527.svg"> | man-mechanic-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f527.svg"> | man-mechanic-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f527.svg"> | man-mechanic-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f4bc.svg"> | man-office-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f4bc.svg"> | man-office-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f4bc.svg"> | man-office-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f4bc.svg"> | man-office-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f4bc.svg"> | man-office-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f4bc.svg"> | man-office-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-2708-fe0f.svg"> | man-pilot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-2708-fe0f.svg"> | man-pilot-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-2708-fe0f.svg"> | man-pilot-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-2708-fe0f.svg"> | man-pilot-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-2708-fe0f.svg"> | man-pilot-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-2708-fe0f.svg"> | man-pilot-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-200d-2642-fe0f.svg"> | man-police-officer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3ff-200d-2642-fe0f.svg"> | man-police-officer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fb-200d-2642-fe0f.svg"> | man-police-officer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fd-200d-2642-fe0f.svg"> | man-police-officer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fe-200d-2642-fe0f.svg"> | man-police-officer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fc-200d-2642-fe0f.svg"> | man-police-officer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f52c.svg"> | man-scientist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f52c.svg"> | man-scientist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f52c.svg"> | man-scientist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f52c.svg"> | man-scientist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f52c.svg"> | man-scientist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f52c.svg"> | man-scientist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f3a4.svg"> | man-singer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f3a4.svg"> | man-singer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f3a4.svg"> | man-singer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f3a4.svg"> | man-singer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f3a4.svg"> | man-singer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f3a4.svg"> | man-singer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f393.svg"> | man-student 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f393.svg"> | man-student-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f393.svg"> | man-student-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f393.svg"> | man-student-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f393.svg"> | man-student-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f393.svg"> | man-student-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f3eb.svg"> | man-teacher 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f3eb.svg"> | man-teacher-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f3eb.svg"> | man-teacher-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f3eb.svg"> | man-teacher-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f3eb.svg"> | man-teacher-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f3eb.svg"> | man-teacher-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f4bb.svg"> | man-technologist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f4bb.svg"> | man-technologist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f4bb.svg"> | man-technologist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f4bb.svg"> | man-technologist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f4bb.svg"> | man-technologist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f4bb.svg"> | man-technologist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-200d-2642-fe0f.svg"> | man-wearing-turban 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3ff-200d-2642-fe0f.svg"> | man-wearing-turban-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fb-200d-2642-fe0f.svg"> | man-wearing-turban-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fd-200d-2642-fe0f.svg"> | man-wearing-turban-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fe-200d-2642-fe0f.svg"> | man-wearing-turban-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fc-200d-2642-fe0f.svg"> | man-wearing-turban-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-200d-2642-fe0f.svg"> | man-with-veil 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3ff-200d-2642-fe0f.svg"> | man-with-veil-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fb-200d-2642-fe0f.svg"> | man-with-veil-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fd-200d-2642-fe0f.svg"> | man-with-veil-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fe-200d-2642-fe0f.svg"> | man-with-veil-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fc-200d-2642-fe0f.svg"> | man-with-veil-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f527.svg"> | mechanic 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f527.svg"> | mechanic-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f527.svg"> | mechanic-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f527.svg"> | mechanic-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f527.svg"> | mechanic-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f527.svg"> | mechanic-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977.svg"> | ninja 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3ff.svg"> | ninja-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3fb.svg"> | ninja-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3fd.svg"> | ninja-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3fe.svg"> | ninja-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3fc.svg"> | ninja-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f4bc.svg"> | office-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f4bc.svg"> | office-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f4bc.svg"> | office-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f4bc.svg"> | office-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f4bc.svg"> | office-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f4bc.svg"> | office-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f37c.svg"> | person-feeding-baby 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f37c.svg"> | person-feeding-baby-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f37c.svg"> | person-feeding-baby-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f37c.svg"> | person-feeding-baby-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f37c.svg"> | person-feeding-baby-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f37c.svg"> | person-feeding-baby-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935.svg"> | person-in-tuxedo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3ff.svg"> | person-in-tuxedo-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fb.svg"> | person-in-tuxedo-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fd.svg"> | person-in-tuxedo-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fe.svg"> | person-in-tuxedo-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fc.svg"> | person-in-tuxedo-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473.svg"> | person-wearing-turban 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3ff.svg"> | person-wearing-turban-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fb.svg"> | person-wearing-turban-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fd.svg"> | person-wearing-turban-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fe.svg"> | person-wearing-turban-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fc.svg"> | person-wearing-turban-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472.svg"> | person-with-skullcap 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472-1f3ff.svg"> | person-with-skullcap-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472-1f3fb.svg"> | person-with-skullcap-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472-1f3fd.svg"> | person-with-skullcap-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472-1f3fe.svg"> | person-with-skullcap-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f472-1f3fc.svg"> | person-with-skullcap-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470.svg"> | person-with-veil 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3ff.svg"> | person-with-veil-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fb.svg"> | person-with-veil-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fd.svg"> | person-with-veil-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fe.svg"> | person-with-veil-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fc.svg"> | person-with-veil-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-2708-fe0f.svg"> | pilot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-2708-fe0f.svg"> | pilot-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-2708-fe0f.svg"> | pilot-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-2708-fe0f.svg"> | pilot-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-2708-fe0f.svg"> | pilot-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-2708-fe0f.svg"> | pilot-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e.svg"> | police-officer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3ff.svg"> | police-officer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fb.svg"> | police-officer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fd.svg"> | police-officer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fe.svg"> | police-officer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fc.svg"> | police-officer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930.svg"> | pregnant-woman 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930-1f3ff.svg"> | pregnant-woman-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930-1f3fb.svg"> | pregnant-woman-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930-1f3fd.svg"> | pregnant-woman-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930-1f3fe.svg"> | pregnant-woman-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f930-1f3fc.svg"> | pregnant-woman-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934.svg"> | prince 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934-1f3ff.svg"> | prince-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934-1f3fb.svg"> | prince-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934-1f3fd.svg"> | prince-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934-1f3fe.svg"> | prince-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f934-1f3fc.svg"> | prince-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478.svg"> | princess 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478-1f3ff.svg"> | princess-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478-1f3fb.svg"> | princess-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478-1f3fd.svg"> | princess-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478-1f3fe.svg"> | princess-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f478-1f3fc.svg"> | princess-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f52c.svg"> | scientist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f52c.svg"> | scientist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f52c.svg"> | scientist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f52c.svg"> | scientist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f52c.svg"> | scientist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f52c.svg"> | scientist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f3a4.svg"> | singer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f3a4.svg"> | singer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f3a4.svg"> | singer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f3a4.svg"> | singer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f3a4.svg"> | singer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f3a4.svg"> | singer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f393.svg"> | student 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f393.svg"> | student-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f393.svg"> | student-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f393.svg"> | student-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f393.svg"> | student-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f393.svg"> | student-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f3eb.svg"> | teacher 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f3eb.svg"> | teacher-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f3eb.svg"> | teacher-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f3eb.svg"> | teacher-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f3eb.svg"> | teacher-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f3eb.svg"> | teacher-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f4bb.svg"> | technologist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f4bb.svg"> | technologist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f4bb.svg"> | technologist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f4bb.svg"> | technologist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f4bb.svg"> | technologist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f4bb.svg"> | technologist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f3a8.svg"> | woman-artist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f3a8.svg"> | woman-artist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f3a8.svg"> | woman-artist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f3a8.svg"> | woman-artist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f3a8.svg"> | woman-artist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f3a8.svg"> | woman-artist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f680.svg"> | woman-astronaut 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f680.svg"> | woman-astronaut-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f680.svg"> | woman-astronaut-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f680.svg"> | woman-astronaut-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f680.svg"> | woman-astronaut-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f680.svg"> | woman-astronaut-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-200d-2640-fe0f.svg"> | woman-construction-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3ff-200d-2640-fe0f.svg"> | woman-construction-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fb-200d-2640-fe0f.svg"> | woman-construction-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fd-200d-2640-fe0f.svg"> | woman-construction-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fe-200d-2640-fe0f.svg"> | woman-construction-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f477-1f3fc-200d-2640-fe0f.svg"> | woman-construction-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f373.svg"> | woman-cook 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f373.svg"> | woman-cook-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f373.svg"> | woman-cook-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f373.svg"> | woman-cook-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f373.svg"> | woman-cook-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f373.svg"> | woman-cook-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-fe0f-200d-2640-fe0f.svg"> | woman-detective 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3ff-200d-2640-fe0f.svg"> | woman-detective-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fb-200d-2640-fe0f.svg"> | woman-detective-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fd-200d-2640-fe0f.svg"> | woman-detective-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fe-200d-2640-fe0f.svg"> | woman-detective-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575-1f3fc-200d-2640-fe0f.svg"> | woman-detective-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f3ed.svg"> | woman-factory-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f3ed.svg"> | woman-factory-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f3ed.svg"> | woman-factory-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f3ed.svg"> | woman-factory-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f3ed.svg"> | woman-factory-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f3ed.svg"> | woman-factory-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f33e.svg"> | woman-farmer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f33e.svg"> | woman-farmer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f33e.svg"> | woman-farmer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f33e.svg"> | woman-farmer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f33e.svg"> | woman-farmer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f33e.svg"> | woman-farmer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f37c.svg"> | woman-feeding-baby 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f37c.svg"> | woman-feeding-baby-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f37c.svg"> | woman-feeding-baby-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f37c.svg"> | woman-feeding-baby-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f37c.svg"> | woman-feeding-baby-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f37c.svg"> | woman-feeding-baby-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f692.svg"> | woman-firefighter 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f692.svg"> | woman-firefighter-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f692.svg"> | woman-firefighter-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f692.svg"> | woman-firefighter-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f692.svg"> | woman-firefighter-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f692.svg"> | woman-firefighter-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-200d-2640-fe0f.svg"> | woman-guard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3ff-200d-2640-fe0f.svg"> | woman-guard-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fb-200d-2640-fe0f.svg"> | woman-guard-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fd-200d-2640-fe0f.svg"> | woman-guard-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fe-200d-2640-fe0f.svg"> | woman-guard-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f482-1f3fc-200d-2640-fe0f.svg"> | woman-guard-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2695-fe0f.svg"> | woman-health-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-2695-fe0f.svg"> | woman-health-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-2695-fe0f.svg"> | woman-health-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-2695-fe0f.svg"> | woman-health-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-2695-fe0f.svg"> | woman-health-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-2695-fe0f.svg"> | woman-health-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-200d-2640-fe0f.svg"> | woman-in-tuxedo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3ff-200d-2640-fe0f.svg"> | woman-in-tuxedo-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fb-200d-2640-fe0f.svg"> | woman-in-tuxedo-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fd-200d-2640-fe0f.svg"> | woman-in-tuxedo-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fe-200d-2640-fe0f.svg"> | woman-in-tuxedo-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f935-1f3fc-200d-2640-fe0f.svg"> | woman-in-tuxedo-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2696-fe0f.svg"> | woman-judge 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-2696-fe0f.svg"> | woman-judge-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-2696-fe0f.svg"> | woman-judge-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-2696-fe0f.svg"> | woman-judge-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-2696-fe0f.svg"> | woman-judge-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-2696-fe0f.svg"> | woman-judge-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f527.svg"> | woman-mechanic 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f527.svg"> | woman-mechanic-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f527.svg"> | woman-mechanic-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f527.svg"> | woman-mechanic-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f527.svg"> | woman-mechanic-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f527.svg"> | woman-mechanic-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f4bc.svg"> | woman-office-worker 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f4bc.svg"> | woman-office-worker-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f4bc.svg"> | woman-office-worker-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f4bc.svg"> | woman-office-worker-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f4bc.svg"> | woman-office-worker-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f4bc.svg"> | woman-office-worker-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-2708-fe0f.svg"> | woman-pilot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-2708-fe0f.svg"> | woman-pilot-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-2708-fe0f.svg"> | woman-pilot-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-2708-fe0f.svg"> | woman-pilot-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-2708-fe0f.svg"> | woman-pilot-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-2708-fe0f.svg"> | woman-pilot-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-200d-2640-fe0f.svg"> | woman-police-officer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3ff-200d-2640-fe0f.svg"> | woman-police-officer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fb-200d-2640-fe0f.svg"> | woman-police-officer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fd-200d-2640-fe0f.svg"> | woman-police-officer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fe-200d-2640-fe0f.svg"> | woman-police-officer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f46e-1f3fc-200d-2640-fe0f.svg"> | woman-police-officer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f52c.svg"> | woman-scientist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f52c.svg"> | woman-scientist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f52c.svg"> | woman-scientist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f52c.svg"> | woman-scientist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f52c.svg"> | woman-scientist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f52c.svg"> | woman-scientist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f3a4.svg"> | woman-singer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f3a4.svg"> | woman-singer-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f3a4.svg"> | woman-singer-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f3a4.svg"> | woman-singer-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f3a4.svg"> | woman-singer-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f3a4.svg"> | woman-singer-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f393.svg"> | woman-student 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f393.svg"> | woman-student-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f393.svg"> | woman-student-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f393.svg"> | woman-student-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f393.svg"> | woman-student-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f393.svg"> | woman-student-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f3eb.svg"> | woman-teacher 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f3eb.svg"> | woman-teacher-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f3eb.svg"> | woman-teacher-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f3eb.svg"> | woman-teacher-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f3eb.svg"> | woman-teacher-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f3eb.svg"> | woman-teacher-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f4bb.svg"> | woman-technologist 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f4bb.svg"> | woman-technologist-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f4bb.svg"> | woman-technologist-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f4bb.svg"> | woman-technologist-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f4bb.svg"> | woman-technologist-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f4bb.svg"> | woman-technologist-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-200d-2640-fe0f.svg"> | woman-wearing-turban 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3ff-200d-2640-fe0f.svg"> | woman-wearing-turban-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fb-200d-2640-fe0f.svg"> | woman-wearing-turban-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fd-200d-2640-fe0f.svg"> | woman-wearing-turban-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fe-200d-2640-fe0f.svg"> | woman-wearing-turban-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f473-1f3fc-200d-2640-fe0f.svg"> | woman-wearing-turban-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5.svg"> | woman-with-headscarf 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5-1f3ff.svg"> | woman-with-headscarf-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5-1f3fb.svg"> | woman-with-headscarf-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5-1f3fd.svg"> | woman-with-headscarf-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5-1f3fe.svg"> | woman-with-headscarf-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d5-1f3fc.svg"> | woman-with-headscarf-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-200d-2640-fe0f.svg"> | woman-with-veil 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3ff-200d-2640-fe0f.svg"> | woman-with-veil-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fb-200d-2640-fe0f.svg"> | woman-with-veil-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fd-200d-2640-fe0f.svg"> | woman-with-veil-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fe-200d-2640-fe0f.svg"> | woman-with-veil-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f470-1f3fc-200d-2640-fe0f.svg"> | woman-with-veil-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7.svg"> | horse-racing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7-1f3ff.svg"> | horse-racing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7-1f3fb.svg"> | horse-racing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7-1f3fd.svg"> | horse-racing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7-1f3fe.svg"> | horse-racing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c7-1f3fc.svg"> | horse-racing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-200d-2642-fe0f.svg"> | man-biking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3ff-200d-2642-fe0f.svg"> | man-biking-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fb-200d-2642-fe0f.svg"> | man-biking-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fd-200d-2642-fe0f.svg"> | man-biking-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fe-200d-2642-fe0f.svg"> | man-biking-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fc-200d-2642-fe0f.svg"> | man-biking-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-fe0f-200d-2642-fe0f.svg"> | man-bouncing-ball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3ff-200d-2642-fe0f.svg"> | man-bouncing-ball-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fb-200d-2642-fe0f.svg"> | man-bouncing-ball-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fd-200d-2642-fe0f.svg"> | man-bouncing-ball-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fe-200d-2642-fe0f.svg"> | man-bouncing-ball-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fc-200d-2642-fe0f.svg"> | man-bouncing-ball-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-200d-2642-fe0f.svg"> | man-cartwheeling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3ff-200d-2642-fe0f.svg"> | man-cartwheeling-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fb-200d-2642-fe0f.svg"> | man-cartwheeling-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fd-200d-2642-fe0f.svg"> | man-cartwheeling-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fe-200d-2642-fe0f.svg"> | man-cartwheeling-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fc-200d-2642-fe0f.svg"> | man-cartwheeling-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-fe0f-200d-2642-fe0f.svg"> | man-golfing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3ff-200d-2642-fe0f.svg"> | man-golfing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fb-200d-2642-fe0f.svg"> | man-golfing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fd-200d-2642-fe0f.svg"> | man-golfing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fe-200d-2642-fe0f.svg"> | man-golfing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fc-200d-2642-fe0f.svg"> | man-golfing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-200d-2642-fe0f.svg"> | man-juggling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3ff-200d-2642-fe0f.svg"> | man-juggling-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fb-200d-2642-fe0f.svg"> | man-juggling-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fd-200d-2642-fe0f.svg"> | man-juggling-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fe-200d-2642-fe0f.svg"> | man-juggling-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fc-200d-2642-fe0f.svg"> | man-juggling-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-fe0f-200d-2642-fe0f.svg"> | man-lifting-weights 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3ff-200d-2642-fe0f.svg"> | man-lifting-weights-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fb-200d-2642-fe0f.svg"> | man-lifting-weights-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fd-200d-2642-fe0f.svg"> | man-lifting-weights-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fe-200d-2642-fe0f.svg"> | man-lifting-weights-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fc-200d-2642-fe0f.svg"> | man-lifting-weights-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-200d-2642-fe0f.svg"> | man-mountain-biking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3ff-200d-2642-fe0f.svg"> | man-mountain-biking-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fb-200d-2642-fe0f.svg"> | man-mountain-biking-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fd-200d-2642-fe0f.svg"> | man-mountain-biking-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fe-200d-2642-fe0f.svg"> | man-mountain-biking-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fc-200d-2642-fe0f.svg"> | man-mountain-biking-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-200d-2642-fe0f.svg"> | man-playing-handball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3ff-200d-2642-fe0f.svg"> | man-playing-handball-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fb-200d-2642-fe0f.svg"> | man-playing-handball-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fd-200d-2642-fe0f.svg"> | man-playing-handball-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fe-200d-2642-fe0f.svg"> | man-playing-handball-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fc-200d-2642-fe0f.svg"> | man-playing-handball-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-200d-2642-fe0f.svg"> | man-playing-water-polo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3ff-200d-2642-fe0f.svg"> | man-playing-water-polo-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fb-200d-2642-fe0f.svg"> | man-playing-water-polo-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fd-200d-2642-fe0f.svg"> | man-playing-water-polo-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fe-200d-2642-fe0f.svg"> | man-playing-water-polo-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fc-200d-2642-fe0f.svg"> | man-playing-water-polo-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-200d-2642-fe0f.svg"> | man-rowing-boat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3ff-200d-2642-fe0f.svg"> | man-rowing-boat-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fb-200d-2642-fe0f.svg"> | man-rowing-boat-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fd-200d-2642-fe0f.svg"> | man-rowing-boat-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fe-200d-2642-fe0f.svg"> | man-rowing-boat-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fc-200d-2642-fe0f.svg"> | man-rowing-boat-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-200d-2642-fe0f.svg"> | man-surfing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3ff-200d-2642-fe0f.svg"> | man-surfing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fb-200d-2642-fe0f.svg"> | man-surfing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fd-200d-2642-fe0f.svg"> | man-surfing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fe-200d-2642-fe0f.svg"> | man-surfing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fc-200d-2642-fe0f.svg"> | man-surfing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-200d-2642-fe0f.svg"> | man-swimming 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3ff-200d-2642-fe0f.svg"> | man-swimming-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fb-200d-2642-fe0f.svg"> | man-swimming-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fd-200d-2642-fe0f.svg"> | man-swimming-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fe-200d-2642-fe0f.svg"> | man-swimming-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fc-200d-2642-fe0f.svg"> | man-swimming-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93c-200d-2642-fe0f.svg"> | men-wrestling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93c.svg"> | people-wrestling | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4.svg"> | person-biking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3ff.svg"> | person-biking-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fb.svg"> | person-biking-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fd.svg"> | person-biking-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fe.svg"> | person-biking-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fc.svg"> | person-biking-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9.svg"> | person-bouncing-ball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3ff.svg"> | person-bouncing-ball-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fb.svg"> | person-bouncing-ball-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fd.svg"> | person-bouncing-ball-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fe.svg"> | person-bouncing-ball-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fc.svg"> | person-bouncing-ball-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938.svg"> | person-cartwheeling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3ff.svg"> | person-cartwheeling-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fb.svg"> | person-cartwheeling-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fd.svg"> | person-cartwheeling-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fe.svg"> | person-cartwheeling-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fc.svg"> | person-cartwheeling-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93a.svg"> | person-fencing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc.svg"> | person-golfing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3ff.svg"> | person-golfing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fb.svg"> | person-golfing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fd.svg"> | person-golfing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fe.svg"> | person-golfing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fc.svg"> | person-golfing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939.svg"> | person-juggling | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3ff.svg"> | person-juggling-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fb.svg"> | person-juggling-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fd.svg"> | person-juggling-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fe.svg"> | person-juggling-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fc.svg"> | person-juggling-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb.svg"> | person-lifting-weights | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3ff.svg"> | person-lifting-weights-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fb.svg"> | person-lifting-weights-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fd.svg"> | person-lifting-weights-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fe.svg"> | person-lifting-weights-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fc.svg"> | person-lifting-weights-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5.svg"> | person-mountain-biking | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3ff.svg"> | person-mountain-biking-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fb.svg"> | person-mountain-biking-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fd.svg"> | person-mountain-biking-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fe.svg"> | person-mountain-biking-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fc.svg"> | person-mountain-biking-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e.svg"> | person-playing-handball | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3ff.svg"> | person-playing-handball-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fb.svg"> | person-playing-handball-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fd.svg"> | person-playing-handball-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fe.svg"> | person-playing-handball-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fc.svg"> | person-playing-handball-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d.svg"> | person-playing-water-polo | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3ff.svg"> | person-playing-water-polo-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fb.svg"> | person-playing-water-polo-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fd.svg"> | person-playing-water-polo-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fe.svg"> | person-playing-water-polo-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fc.svg"> | person-playing-water-polo-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3.svg"> | person-rowing-boat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3ff.svg"> | person-rowing-boat-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fb.svg"> | person-rowing-boat-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fd.svg"> | person-rowing-boat-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fe.svg"> | person-rowing-boat-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fc.svg"> | person-rowing-boat-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4.svg"> | person-surfing | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3ff.svg"> | person-surfing-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fb.svg"> | person-surfing-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fd.svg"> | person-surfing-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fe.svg"> | person-surfing-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fc.svg"> | person-surfing-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca.svg"> | person-swimming | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3ff.svg"> | person-swimming-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fb.svg"> | person-swimming-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fd.svg"> | person-swimming-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fe.svg"> | person-swimming-medium-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fc.svg"> | person-swimming-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f7.svg"> | skier | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2.svg"> | snowboarder 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2-1f3ff.svg"> | snowboarder-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2-1f3fb.svg"> | snowboarder-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2-1f3fd.svg"> | snowboarder-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2-1f3fe.svg"> | snowboarder-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c2-1f3fc.svg"> | snowboarder-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-200d-2640-fe0f.svg"> | woman-biking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3ff-200d-2640-fe0f.svg"> | woman-biking-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fb-200d-2640-fe0f.svg"> | woman-biking-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fd-200d-2640-fe0f.svg"> | woman-biking-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fe-200d-2640-fe0f.svg"> | woman-biking-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b4-1f3fc-200d-2640-fe0f.svg"> | woman-biking-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-fe0f-200d-2640-fe0f.svg"> | woman-bouncing-ball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3ff-200d-2640-fe0f.svg"> | woman-bouncing-ball-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fb-200d-2640-fe0f.svg"> | woman-bouncing-ball-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fd-200d-2640-fe0f.svg"> | woman-bouncing-ball-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fe-200d-2640-fe0f.svg"> | woman-bouncing-ball-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f9-1f3fc-200d-2640-fe0f.svg"> | woman-bouncing-ball-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-200d-2640-fe0f.svg"> | woman-cartwheeling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3ff-200d-2640-fe0f.svg"> | woman-cartwheeling-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fb-200d-2640-fe0f.svg"> | woman-cartwheeling-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fd-200d-2640-fe0f.svg"> | woman-cartwheeling-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fe-200d-2640-fe0f.svg"> | woman-cartwheeling-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f938-1f3fc-200d-2640-fe0f.svg"> | woman-cartwheeling-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-fe0f-200d-2640-fe0f.svg"> | woman-golfing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3ff-200d-2640-fe0f.svg"> | woman-golfing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fb-200d-2640-fe0f.svg"> | woman-golfing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fd-200d-2640-fe0f.svg"> | woman-golfing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fe-200d-2640-fe0f.svg"> | woman-golfing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cc-1f3fc-200d-2640-fe0f.svg"> | woman-golfing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-200d-2640-fe0f.svg"> | woman-juggling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3ff-200d-2640-fe0f.svg"> | woman-juggling-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fb-200d-2640-fe0f.svg"> | woman-juggling-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fd-200d-2640-fe0f.svg"> | woman-juggling-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fe-200d-2640-fe0f.svg"> | woman-juggling-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f939-1f3fc-200d-2640-fe0f.svg"> | woman-juggling-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-fe0f-200d-2640-fe0f.svg"> | woman-lifting-weights 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3ff-200d-2640-fe0f.svg"> | woman-lifting-weights-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fb-200d-2640-fe0f.svg"> | woman-lifting-weights-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fd-200d-2640-fe0f.svg"> | woman-lifting-weights-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fe-200d-2640-fe0f.svg"> | woman-lifting-weights-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cb-1f3fc-200d-2640-fe0f.svg"> | woman-lifting-weights-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-200d-2640-fe0f.svg"> | woman-mountain-biking 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3ff-200d-2640-fe0f.svg"> | woman-mountain-biking-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fb-200d-2640-fe0f.svg"> | woman-mountain-biking-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fd-200d-2640-fe0f.svg"> | woman-mountain-biking-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fe-200d-2640-fe0f.svg"> | woman-mountain-biking-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b5-1f3fc-200d-2640-fe0f.svg"> | woman-mountain-biking-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-200d-2640-fe0f.svg"> | woman-playing-handball 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3ff-200d-2640-fe0f.svg"> | woman-playing-handball-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fb-200d-2640-fe0f.svg"> | woman-playing-handball-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fd-200d-2640-fe0f.svg"> | woman-playing-handball-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fe-200d-2640-fe0f.svg"> | woman-playing-handball-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93e-1f3fc-200d-2640-fe0f.svg"> | woman-playing-handball-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-200d-2640-fe0f.svg"> | woman-playing-water-polo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3ff-200d-2640-fe0f.svg"> | woman-playing-water-polo-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fb-200d-2640-fe0f.svg"> | woman-playing-water-polo-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fd-200d-2640-fe0f.svg"> | woman-playing-water-polo-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fe-200d-2640-fe0f.svg"> | woman-playing-water-polo-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93d-1f3fc-200d-2640-fe0f.svg"> | woman-playing-water-polo-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-200d-2640-fe0f.svg"> | woman-rowing-boat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3ff-200d-2640-fe0f.svg"> | woman-rowing-boat-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fb-200d-2640-fe0f.svg"> | woman-rowing-boat-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fd-200d-2640-fe0f.svg"> | woman-rowing-boat-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fe-200d-2640-fe0f.svg"> | woman-rowing-boat-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a3-1f3fc-200d-2640-fe0f.svg"> | woman-rowing-boat-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-200d-2640-fe0f.svg"> | woman-surfing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3ff-200d-2640-fe0f.svg"> | woman-surfing-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fb-200d-2640-fe0f.svg"> | woman-surfing-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fd-200d-2640-fe0f.svg"> | woman-surfing-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fe-200d-2640-fe0f.svg"> | woman-surfing-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3c4-1f3fc-200d-2640-fe0f.svg"> | woman-surfing-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-200d-2640-fe0f.svg"> | woman-swimming 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3ff-200d-2640-fe0f.svg"> | woman-swimming-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fb-200d-2640-fe0f.svg"> | woman-swimming-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fd-200d-2640-fe0f.svg"> | woman-swimming-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fe-200d-2640-fe0f.svg"> | woman-swimming-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ca-1f3fc-200d-2640-fe0f.svg"> | woman-swimming-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f93c-200d-2640-fe0f.svg"> | women-wrestling 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f464.svg"> | bust-in-silhouette | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f465.svg"> | busts-in-silhouette 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f463.svg"> | footprints | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fac2.svg"> | people-hugging 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5e3.svg"> | speaking-head | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476.svg"> | baby 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476-1f3ff.svg"> | baby-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476-1f3fb.svg"> | baby-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476-1f3fd.svg"> | baby-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476-1f3fe.svg"> | baby-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f476-1f3fc.svg"> | baby-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466.svg"> | boy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466-1f3ff.svg"> | boy-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466-1f3fb.svg"> | boy-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466-1f3fd.svg"> | boy-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466-1f3fe.svg"> | boy-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f466-1f3fc.svg"> | boy-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2.svg"> | child 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2-1f3ff.svg"> | child-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2-1f3fb.svg"> | child-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2-1f3fd.svg"> | child-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2-1f3fe.svg"> | child-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d2-1f3fc.svg"> | child-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467.svg"> | girl 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467-1f3ff.svg"> | girl-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467-1f3fb.svg"> | girl-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467-1f3fd.svg"> | girl-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467-1f3fe.svg"> | girl-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f467-1f3fc.svg"> | girl-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468.svg"> | man 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9b2.svg"> | man-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4.svg"> | man-beard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-200d-2642-fe0f.svg"> | man-blond-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9b1.svg"> | man-curly-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff.svg"> | man-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9b2.svg"> | man-dark-skin-tone-bald 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4-1f3ff.svg"> | man-dark-skin-tone-beard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3ff-200d-2642-fe0f.svg"> | man-dark-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9b1.svg"> | man-dark-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9b0.svg"> | man-dark-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3ff-200d-1f9b3.svg"> | man-dark-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb.svg"> | man-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9b2.svg"> | man-light-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4-1f3fb.svg"> | man-light-skin-tone-beard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fb-200d-2642-fe0f.svg"> | man-light-skin-tone-blond-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9b1.svg"> | man-light-skin-tone-curly-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9b0.svg"> | man-light-skin-tone-red-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fb-200d-1f9b3.svg"> | man-light-skin-tone-white-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd.svg"> | man-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9b2.svg"> | man-medium-skin-tone-bald 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4-1f3fd.svg"> | man-medium-skin-tone-beard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fd-200d-2642-fe0f.svg"> | man-medium-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9b1.svg"> | man-medium-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9b0.svg"> | man-medium-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fd-200d-1f9b3.svg"> | man-medium-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe.svg"> | man-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9b2.svg"> | man-medium-dark-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4-1f3fe.svg"> | man-medium-dark-skin-tone-beard 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fe-200d-2642-fe0f.svg"> | man-medium-dark-skin-tone-blond-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9b1.svg"> | man-medium-dark-skin-tone-curly-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9b0.svg"> | man-medium-dark-skin-tone-red-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fe-200d-1f9b3.svg"> | man-medium-dark-skin-tone-white-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc.svg"> | man-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9b2.svg"> | man-medium-light-skin-tone-bald 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d4-1f3fc.svg"> | man-medium-light-skin-tone-beard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fc-200d-2642-fe0f.svg"> | man-medium-light-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9b1.svg"> | man-medium-light-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9b0.svg"> | man-medium-light-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-1f3fc-200d-1f9b3.svg"> | man-medium-light-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9b0.svg"> | man-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f468-200d-1f9b3.svg"> | man-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474.svg"> | old-man 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474-1f3ff.svg"> | old-man-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474-1f3fb.svg"> | old-man-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474-1f3fd.svg"> | old-man-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474-1f3fe.svg"> | old-man-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f474-1f3fc.svg"> | old-man-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475.svg"> | old-woman 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475-1f3ff.svg"> | old-woman-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475-1f3fb.svg"> | old-woman-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475-1f3fd.svg"> | old-woman-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475-1f3fe.svg"> | old-woman-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f475-1f3fc.svg"> | old-woman-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3.svg"> | older-person 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3-1f3ff.svg"> | older-person-dark-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3-1f3fb.svg"> | older-person-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3-1f3fd.svg"> | older-person-medium-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3-1f3fe.svg"> | older-person-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d3-1f3fc.svg"> | older-person-medium-light-skin-tone | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1.svg"> | person 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9b2.svg"> | person-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471.svg"> | person-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9b1.svg"> | person-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff.svg"> | person-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9b2.svg"> | person-dark-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3ff.svg"> | person-dark-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9b1.svg"> | person-dark-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9b0.svg"> | person-dark-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3ff-200d-1f9b3.svg"> | person-dark-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb.svg"> | person-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9b2.svg"> | person-light-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fb.svg"> | person-light-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9b1.svg"> | person-light-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9b0.svg"> | person-light-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f9b3.svg"> | person-light-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd.svg"> | person-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9b2.svg"> | person-medium-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fd.svg"> | person-medium-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9b1.svg"> | person-medium-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9b0.svg"> | person-medium-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fd-200d-1f9b3.svg"> | person-medium-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe.svg"> | person-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9b2.svg"> | person-medium-dark-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fe.svg"> | person-medium-dark-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9b1.svg"> | person-medium-dark-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9b0.svg"> | person-medium-dark-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fe-200d-1f9b3.svg"> | person-medium-dark-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc.svg"> | person-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9b2.svg"> | person-medium-light-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fc.svg"> | person-medium-light-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9b1.svg"> | person-medium-light-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9b0.svg"> | person-medium-light-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fc-200d-1f9b3.svg"> | person-medium-light-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9b0.svg"> | person-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-200d-1f9b3.svg"> | person-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469.svg"> | woman 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9b2.svg"> | woman-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-200d-2640-fe0f.svg"> | woman-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9b1.svg"> | woman-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff.svg"> | woman-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9b2.svg"> | woman-dark-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3ff-200d-2640-fe0f.svg"> | woman-dark-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9b1.svg"> | woman-dark-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9b0.svg"> | woman-dark-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3ff-200d-1f9b3.svg"> | woman-dark-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb.svg"> | woman-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9b2.svg"> | woman-light-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fb-200d-2640-fe0f.svg"> | woman-light-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9b1.svg"> | woman-light-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9b0.svg"> | woman-light-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fb-200d-1f9b3.svg"> | woman-light-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd.svg"> | woman-medium-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9b2.svg"> | woman-medium-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fd-200d-2640-fe0f.svg"> | woman-medium-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9b1.svg"> | woman-medium-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9b0.svg"> | woman-medium-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fd-200d-1f9b3.svg"> | woman-medium-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe.svg"> | woman-medium-dark-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9b2.svg"> | woman-medium-dark-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fe-200d-2640-fe0f.svg"> | woman-medium-dark-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9b1.svg"> | woman-medium-dark-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9b0.svg"> | woman-medium-dark-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fe-200d-1f9b3.svg"> | woman-medium-dark-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc.svg"> | woman-medium-light-skin-tone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9b2.svg"> | woman-medium-light-skin-tone-bald | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f471-1f3fc-200d-2640-fe0f.svg"> | woman-medium-light-skin-tone-blond-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9b1.svg"> | woman-medium-light-skin-tone-curly-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9b0.svg"> | woman-medium-light-skin-tone-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-1f3fc-200d-1f9b3.svg"> | woman-medium-light-skin-tone-white-hair | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9b0.svg"> | woman-red-hair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f469-200d-1f9b3.svg"> | woman-white-hair 
 ## Smileys and Emotion
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-grinning-face-with-smiling-eyes"></i> | grinning-face-with-smiling-eyes | <i class="twa twa-lying-face"></i> | lying-face 
-| <i class="twa twa-revolving-hearts"></i> | revolving-hearts | <i class="twa twa-broken-heart"></i> | broken-heart 
-| <i class="twa twa-winking-face"></i> | winking-face | <i class="twa twa-blue-heart"></i> | blue-heart 
-| <i class="twa twa-face-savoring-food"></i> | face-savoring-food | <i class="twa twa-orange-heart"></i> | orange-heart 
-| <i class="twa twa-money-mouth-face"></i> | money-mouth-face | <i class="twa twa-heart-with-ribbon"></i> | heart-with-ribbon 
-| <i class="twa twa-heart-exclamation"></i> | heart-exclamation | <i class="twa twa-black-heart"></i> | black-heart 
-| <i class="twa twa-heart-decoration"></i> | heart-decoration | <i class="twa twa-purple-heart"></i> | purple-heart 
-| <i class="twa twa-yellow-heart"></i> | yellow-heart | <i class="twa twa-dizzy"></i> | dizzy 
-| <i class="twa twa-red-heart"></i> | red-heart | <i class="twa twa-hundred-points"></i> | hundred-points 
-| <i class="twa twa-collision"></i> | collision | <i class="twa twa-slightly-smiling-face"></i> | slightly-smiling-face 
-| <i class="twa twa-face-with-hand-over-mouth"></i> | face-with-hand-over-mouth | <i class="twa twa-unamused-face"></i> | unamused-face 
-| <i class="twa twa-white-heart"></i> | white-heart | <i class="twa twa-zany-face"></i> | zany-face 
-| <i class="twa twa-sneezing-face"></i> | sneezing-face | <i class="twa twa-smiling-cat-with-heart-eyes"></i> | smiling-cat-with-heart-eyes 
-| <i class="twa twa-kiss-mark"></i> | kiss-mark | <i class="twa twa-downcast-face-with-sweat"></i> | downcast-face-with-sweat 
-| <i class="twa twa-alien-monster"></i> | alien-monster | <i class="twa twa-clown-face"></i> | clown-face 
-| <i class="twa twa-cat-with-wry-smile"></i> | cat-with-wry-smile | <i class="twa twa-alien"></i> | alien 
-| <i class="twa twa-pile-of-poo"></i> | pile-of-poo | <i class="twa twa-skull-and-crossbones"></i> | skull-and-crossbones 
-| <i class="twa twa-loudly-crying-face"></i> | loudly-crying-face | <i class="twa twa-ogre"></i> | ogre 
-| <i class="twa twa-hear-no-evil-monkey"></i> | hear-no-evil-monkey | <i class="twa twa-weary-cat"></i> | weary-cat 
-| <i class="twa twa-speak-no-evil-monkey"></i> | speak-no-evil-monkey | <i class="twa twa-robot"></i> | robot 
-| <i class="twa twa-grinning-cat"></i> | grinning-cat | <i class="twa twa-beating-heart"></i> | beating-heart 
-| <i class="twa twa-thought-balloon"></i> | thought-balloon | <i class="twa twa-star-struck"></i> | star-struck 
-| <i class="twa twa-smiling-face"></i> | smiling-face | <i class="twa twa-smiling-face-with-tear"></i> | smiling-face-with-tear 
-| <i class="twa twa-face-with-raised-eyebrow"></i> | face-with-raised-eyebrow | <i class="twa twa-squinting-face-with-tongue"></i> | squinting-face-with-tongue 
-| <i class="twa twa-winking-face-with-tongue"></i> | winking-face-with-tongue | <i class="twa twa-kissing-face-with-closed-eyes"></i> | kissing-face-with-closed-eyes 
-| <i class="twa twa-face-vomiting"></i> | face-vomiting | <i class="twa twa-grimacing-face"></i> | grimacing-face 
-| <i class="twa twa-zipper-mouth-face"></i> | zipper-mouth-face | <i class="twa twa-thinking-face"></i> | thinking-face 
-| <i class="twa twa-face-with-rolling-eyes"></i> | face-with-rolling-eyes | <i class="twa twa-sleepy-face"></i> | sleepy-face 
-| <i class="twa twa-dizzy-face"></i> | dizzy-face | <i class="twa twa-face-with-medical-mask"></i> | face-with-medical-mask 
-| <i class="twa twa-face-with-thermometer"></i> | face-with-thermometer | <i class="twa twa-relieved-face"></i> | relieved-face 
-| <i class="twa twa-neutral-face"></i> | neutral-face | <i class="twa twa-expressionless-face"></i> | expressionless-face 
-| <i class="twa twa-drooling-face"></i> | drooling-face | <i class="twa twa-heart-with-arrow"></i> | heart-with-arrow 
-| <i class="twa twa-confused-face"></i> | confused-face | <i class="twa twa-pouting-cat"></i> | pouting-cat 
-| <i class="twa twa-face-with-monocle"></i> | face-with-monocle | <i class="twa twa-nauseated-face"></i> | nauseated-face 
-| <i class="twa twa-smirking-face"></i> | smirking-face | <i class="twa twa-anguished-face"></i> | anguished-face 
-| <i class="twa twa-love-letter"></i> | love-letter | <i class="twa twa-anger-symbol"></i> | anger-symbol 
-| <i class="twa twa-shushing-face"></i> | shushing-face | <i class="twa twa-sleeping-face"></i> | sleeping-face 
-| <i class="twa twa-green-heart"></i> | green-heart | <i class="twa twa-disguised-face"></i> | disguised-face 
-| <i class="twa twa-hot-face"></i> | hot-face | <i class="twa twa-sweat-droplets"></i> | sweat-droplets 
-| <i class="twa twa-nerd-face"></i> | nerd-face | <i class="twa twa-smiling-face-with-sunglasses"></i> | smiling-face-with-sunglasses 
-| <i class="twa twa-two-hearts"></i> | two-hearts | <i class="twa twa-eye-in-speech-bubble"></i> | eye-in-speech-bubble 
-| <i class="twa twa-hole"></i> | hole | <i class="twa twa-sparkling-heart"></i> | sparkling-heart 
-| <i class="twa twa-bomb"></i> | bomb | <i class="twa twa-speech-balloon"></i> | speech-balloon 
-| <i class="twa twa-right-anger-bubble"></i> | right-anger-bubble | <i class="twa twa-brown-heart"></i> | brown-heart 
-| <i class="twa twa-dashing-away"></i> | dashing-away | <i class="twa twa-grinning-face-with-big-eyes"></i> | grinning-face-with-big-eyes 
-| <i class="twa twa-rolling-on-the-floor-laughing"></i> | rolling-on-the-floor-laughing | <i class="twa twa-beaming-face-with-smiling-eyes"></i> | beaming-face-with-smiling-eyes 
-| <i class="twa twa-grinning-squinting-face"></i> | grinning-squinting-face | <i class="twa twa-smiling-face-with-heart-eyes"></i> | smiling-face-with-heart-eyes 
-| <i class="twa twa-upside-down-face"></i> | upside-down-face | <i class="twa twa-grinning-face"></i> | grinning-face 
-| <i class="twa twa-grinning-face-with-sweat"></i> | grinning-face-with-sweat | <i class="twa twa-face-with-tears-of-joy"></i> | face-with-tears-of-joy 
-| <i class="twa twa-kissing-face"></i> | kissing-face | <i class="twa twa-smiling-face-with-smiling-eyes"></i> | smiling-face-with-smiling-eyes 
-| <i class="twa twa-face-with-tongue"></i> | face-with-tongue | <i class="twa twa-kissing-face-with-smiling-eyes"></i> | kissing-face-with-smiling-eyes 
-| <i class="twa twa-slightly-frowning-face"></i> | slightly-frowning-face | <i class="twa twa-worried-face"></i> | worried-face 
-| <i class="twa twa-cowboy-hat-face"></i> | cowboy-hat-face | <i class="twa twa-face-with-open-mouth"></i> | face-with-open-mouth 
-| <i class="twa twa-face-without-mouth"></i> | face-without-mouth | <i class="twa twa-woozy-face"></i> | woozy-face 
-| <i class="twa twa-frowning-face"></i> | frowning-face | <i class="twa twa-anxious-face-with-sweat"></i> | anxious-face-with-sweat 
-| <i class="twa twa-astonished-face"></i> | astonished-face | <i class="twa twa-frowning-face-with-open-mouth"></i> | frowning-face-with-open-mouth 
-| <i class="twa twa-hushed-face"></i> | hushed-face | <i class="twa twa-crying-face"></i> | crying-face 
-| <i class="twa twa-smiling-face-with-hearts"></i> | smiling-face-with-hearts | <i class="twa twa-persevering-face"></i> | persevering-face 
-| <i class="twa twa-smiling-face-with-halo"></i> | smiling-face-with-halo | <i class="twa twa-face-blowing-a-kiss"></i> | face-blowing-a-kiss 
-| <i class="twa twa-skull"></i> | skull | <i class="twa twa-angry-face"></i> | angry-face 
-| <i class="twa twa-yawning-face"></i> | yawning-face | <i class="twa twa-disappointed-face"></i> | disappointed-face 
-| <i class="twa twa-tired-face"></i> | tired-face | <i class="twa twa-fearful-face"></i> | fearful-face 
-| <i class="twa twa-hugging-face"></i> | hugging-face | <i class="twa twa-pouting-face"></i> | pouting-face 
-| <i class="twa twa-cold-face"></i> | cold-face | <i class="twa twa-face-with-head-bandage"></i> | face-with-head-bandage 
-| <i class="twa twa-exploding-head"></i> | exploding-head | <i class="twa twa-goblin"></i> | goblin 
-| <i class="twa twa-ghost"></i> | ghost | <i class="twa twa-partying-face"></i> | partying-face 
-| <i class="twa twa-angry-face-with-horns"></i> | angry-face-with-horns | <i class="twa twa-smiling-face-with-horns"></i> | smiling-face-with-horns 
-| <i class="twa twa-confounded-face"></i> | confounded-face | <i class="twa twa-kissing-cat"></i> | kissing-cat 
-| <i class="twa twa-crying-cat"></i> | crying-cat | <i class="twa twa-cat-with-tears-of-joy"></i> | cat-with-tears-of-joy 
-| <i class="twa twa-growing-heart"></i> | growing-heart | <i class="twa twa-face-with-symbols-on-mouth"></i> | face-with-symbols-on-mouth 
-| <i class="twa twa-left-speech-bubble"></i> | left-speech-bubble | <i class="twa twa-zzz"></i> | zzz 
-| <i class="twa twa-sad-but-relieved-face"></i> | sad-but-relieved-face | <i class="twa twa-pensive-face"></i> | pensive-face 
-| <i class="twa twa-flushed-face"></i> | flushed-face | <i class="twa twa-pleading-face"></i> | pleading-face 
-| <i class="twa twa-weary-face"></i> | weary-face | <i class="twa twa-face-screaming-in-fear"></i> | face-screaming-in-fear 
-| <i class="twa twa-grinning-cat-with-smiling-eyes"></i> | grinning-cat-with-smiling-eyes | <i class="twa twa-face-with-steam-from-nose"></i> | face-with-steam-from-nose 
-| <i class="twa twa-see-no-evil-monkey"></i> | see-no-evil-monkey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f639.svg"> | cat-with-tears-of-joy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63c.svg"> | cat-with-wry-smile 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63f.svg"> | crying-cat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63a.svg"> | grinning-cat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f638.svg"> | grinning-cat-with-smiling-eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63d.svg"> | kissing-cat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63e.svg"> | pouting-cat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f63b.svg"> | smiling-cat-with-heart-eyes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f640.svg"> | weary-cat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a2.svg"> | anger-symbol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f493.svg"> | beating-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5a4.svg"> | black-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f499.svg"> | blue-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a3.svg"> | bomb 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f494.svg"> | broken-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90e.svg"> | brown-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a5.svg"> | collision | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a8.svg"> | dashing-away 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ab.svg"> | dizzy | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f441-200d-1f5e8.svg"> | eye-in-speech-bubble 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49a.svg"> | green-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f497.svg"> | growing-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49f.svg"> | heart-decoration | <img src="https://twemoji.maxcdn.com/v/latest/svg/2763.svg"> | heart-exclamation 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f498.svg"> | heart-with-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49d.svg"> | heart-with-ribbon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f573.svg"> | hole | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4af.svg"> | hundred-points 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48b.svg"> | kiss-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5e8.svg"> | left-speech-bubble 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f48c.svg"> | love-letter | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e1.svg"> | orange-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49c.svg"> | purple-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/2764.svg"> | red-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49e.svg"> | revolving-hearts | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5ef.svg"> | right-anger-bubble 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f496.svg"> | sparkling-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ac.svg"> | speech-balloon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a6.svg"> | sweat-droplets | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ad.svg"> | thought-balloon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f495.svg"> | two-hearts | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f90d.svg"> | white-heart 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f49b.svg"> | yellow-heart | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a4.svg"> | zzz 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f618.svg"> | face-blowing-a-kiss | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f617.svg"> | kissing-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61a.svg"> | kissing-face-with-closed-eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f619.svg"> | kissing-face-with-smiling-eyes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/263a.svg"> | smiling-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg"> | smiling-face-with-heart-eyes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f970.svg"> | smiling-face-with-hearts | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f972.svg"> | smiling-face-with-tear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f929.svg"> | star-struck | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f627.svg"> | anguished-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f630.svg"> | anxious-face-with-sweat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f632.svg"> | astonished-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f616.svg"> | confounded-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f615.svg"> | confused-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f622.svg"> | crying-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61e.svg"> | disappointed-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f613.svg"> | downcast-face-with-sweat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f631.svg"> | face-screaming-in-fear 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62e.svg"> | face-with-open-mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f628.svg"> | fearful-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f633.svg"> | flushed-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/2639.svg"> | frowning-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f626.svg"> | frowning-face-with-open-mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62f.svg"> | hushed-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62d.svg"> | loudly-crying-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f623.svg"> | persevering-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f97a.svg"> | pleading-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f625.svg"> | sad-but-relieved-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f641.svg"> | slightly-frowning-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62b.svg"> | tired-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f629.svg"> | weary-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61f.svg"> | worried-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f971.svg"> | yawning-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47d.svg"> | alien 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47e.svg"> | alien-monster | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f921.svg"> | clown-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47b.svg"> | ghost | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47a.svg"> | goblin 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f479.svg"> | ogre | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a9.svg"> | pile-of-poo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f916.svg"> | robot | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d0.svg"> | face-with-monocle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f913.svg"> | nerd-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60e.svg"> | smiling-face-with-sunglasses 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92d.svg"> | face-with-hand-over-mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f917.svg"> | hugging-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92b.svg"> | shushing-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f914.svg"> | thinking-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f920.svg"> | cowboy-hat-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f978.svg"> | disguised-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"> | partying-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f620.svg"> | angry-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f47f.svg"> | angry-face-with-horns | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f624.svg"> | face-with-steam-from-nose 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92c.svg"> | face-with-symbols-on-mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f621.svg"> | pouting-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f480.svg"> | skull | <img src="https://twemoji.maxcdn.com/v/latest/svg/2620.svg"> | skull-and-crossbones 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f608.svg"> | smiling-face-with-horns | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f611.svg"> | expressionless-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f928.svg"> | face-with-raised-eyebrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f644.svg"> | face-with-rolling-eyes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f636.svg"> | face-without-mouth | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62c.svg"> | grimacing-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f925.svg"> | lying-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f610.svg"> | neutral-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60f.svg"> | smirking-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f612.svg"> | unamused-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f910.svg"> | zipper-mouth-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f924.svg"> | drooling-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f614.svg"> | pensive-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60c.svg"> | relieved-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f634.svg"> | sleeping-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f62a.svg"> | sleepy-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f601.svg"> | beaming-face-with-smiling-eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"> | face-with-tears-of-joy 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f600.svg"> | grinning-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f603.svg"> | grinning-face-with-big-eyes 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f604.svg"> | grinning-face-with-smiling-eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f605.svg"> | grinning-face-with-sweat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f606.svg"> | grinning-squinting-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f923.svg"> | rolling-on-the-floor-laughing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f642.svg"> | slightly-smiling-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f607.svg"> | smiling-face-with-halo 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60a.svg"> | smiling-face-with-smiling-eyes | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f643.svg"> | upside-down-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f609.svg"> | winking-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f60b.svg"> | face-savoring-food 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61b.svg"> | face-with-tongue | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f911.svg"> | money-mouth-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61d.svg"> | squinting-face-with-tongue | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f61c.svg"> | winking-face-with-tongue 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92a.svg"> | zany-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f976.svg"> | cold-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f635.svg"> | dizzy-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92f.svg"> | exploding-head 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f92e.svg"> | face-vomiting | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f915.svg"> | face-with-head-bandage 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f637.svg"> | face-with-medical-mask | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f912.svg"> | face-with-thermometer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f975.svg"> | hot-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f922.svg"> | nauseated-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f927.svg"> | sneezing-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f974.svg"> | woozy-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f649.svg"> | hear-no-evil-monkey | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f648.svg"> | see-no-evil-monkey 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f64a.svg"> | speak-no-evil-monkey 
 ## Symbols
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-womens-room"></i> | womens-room | <i class="twa twa-litter-in-bin-sign"></i> | litter-in-bin-sign 
-| <i class="twa twa-wheelchair-symbol"></i> | wheelchair-symbol | <i class="twa twa-atm-sign"></i> | atm-sign 
-| <i class="twa twa-potable-water"></i> | potable-water | <i class="twa twa-mens-room"></i> | mens-room 
-| <i class="twa twa-restroom"></i> | restroom | <i class="twa twa-customs"></i> | customs 
-| <i class="twa twa-prohibited"></i> | prohibited | <i class="twa twa-left-luggage"></i> | left-luggage 
-| <i class="twa twa-water-closet"></i> | water-closet | <i class="twa twa-passport-control"></i> | passport-control 
-| <i class="twa twa-no-smoking"></i> | no-smoking | <i class="twa twa-baggage-claim"></i> | baggage-claim 
-| <i class="twa twa-no-mobile-phones"></i> | no-mobile-phones | <i class="twa twa-warning"></i> | warning 
-| <i class="twa twa-no-bicycles"></i> | no-bicycles | <i class="twa twa-radioactive"></i> | radioactive 
-| <i class="twa twa-no-one-under-eighteen"></i> | no-one-under-eighteen | <i class="twa twa-up-arrow"></i> | up-arrow 
-| <i class="twa twa-no-pedestrians"></i> | no-pedestrians | <i class="twa twa-no-littering"></i> | no-littering 
-| <i class="twa twa-children-crossing"></i> | children-crossing | <i class="twa twa-biohazard"></i> | biohazard 
-| <i class="twa twa-non-potable-water"></i> | non-potable-water | <i class="twa twa-no-entry"></i> | no-entry 
-| <i class="twa twa-baby-symbol"></i> | baby-symbol | <i class="twa twa-up-right-arrow"></i> | up-right-arrow 
-| <i class="twa twa-down-right-arrow"></i> | down-right-arrow | <i class="twa twa-right-arrow"></i> | right-arrow 
-| <i class="twa twa-down-left-arrow"></i> | down-left-arrow | <i class="twa twa-up-left-arrow"></i> | up-left-arrow 
-| <i class="twa twa-left-arrow"></i> | left-arrow | <i class="twa twa-up-down-arrow"></i> | up-down-arrow 
-| <i class="twa twa-right-arrow-curving-left"></i> | right-arrow-curving-left | <i class="twa twa-left-arrow-curving-right"></i> | left-arrow-curving-right 
-| <i class="twa twa-right-arrow-curving-up"></i> | right-arrow-curving-up | <i class="twa twa-right-arrow-curving-down"></i> | right-arrow-curving-down 
-| <i class="twa twa-clockwise-vertical-arrows"></i> | clockwise-vertical-arrows | <i class="twa twa-counterclockwise-arrows-button"></i> | counterclockwise-arrows-button 
-| <i class="twa twa-back-arrow"></i> | back-arrow | <i class="twa twa-on-arrow"></i> | on-arrow 
-| <i class="twa twa-soon-arrow"></i> | soon-arrow | <i class="twa twa-end-arrow"></i> | end-arrow 
-| <i class="twa twa-top-arrow"></i> | top-arrow | <i class="twa twa-place-of-worship"></i> | place-of-worship 
-| <i class="twa twa-atom-symbol"></i> | atom-symbol | <i class="twa twa-om"></i> | om 
-| <i class="twa twa-wheel-of-dharma"></i> | wheel-of-dharma | <i class="twa twa-yin-yang"></i> | yin-yang 
-| <i class="twa twa-star-of-david"></i> | star-of-david | <i class="twa twa-latin-cross"></i> | latin-cross 
-| <i class="twa twa-orthodox-cross"></i> | orthodox-cross | <i class="twa twa-peace-symbol"></i> | peace-symbol 
-| <i class="twa twa-dotted-six-pointed-star"></i> | dotted-six-pointed-star | <i class="twa twa-star-and-crescent"></i> | star-and-crescent 
-| <i class="twa twa-aries"></i> | aries | <i class="twa twa-taurus"></i> | taurus 
-| <i class="twa twa-menorah"></i> | menorah | <i class="twa twa-cancer"></i> | cancer 
-| <i class="twa twa-gemini"></i> | gemini | <i class="twa twa-sagittarius"></i> | sagittarius 
-| <i class="twa twa-capricorn"></i> | capricorn | <i class="twa twa-aquarius"></i> | aquarius 
-| <i class="twa twa-pisces"></i> | pisces | <i class="twa twa-play-button"></i> | play-button 
-| <i class="twa twa-shuffle-tracks-button"></i> | shuffle-tracks-button | <i class="twa twa-ophiuchus"></i> | ophiuchus 
-| <i class="twa twa-fast-forward-button"></i> | fast-forward-button | <i class="twa twa-play-or-pause-button"></i> | play-or-pause-button 
-| <i class="twa twa-next-track-button"></i> | next-track-button | <i class="twa twa-upwards-button"></i> | upwards-button 
-| <i class="twa twa-pause-button"></i> | pause-button | <i class="twa twa-fast-up-button"></i> | fast-up-button 
-| <i class="twa twa-record-button"></i> | record-button | <i class="twa twa-eject-button"></i> | eject-button 
-| <i class="twa twa-bright-button"></i> | bright-button | <i class="twa twa-vibration-mode"></i> | vibration-mode 
-| <i class="twa twa-cinema"></i> | cinema | <i class="twa twa-dim-button"></i> | dim-button 
-| <i class="twa twa-antenna-bars"></i> | antenna-bars | <i class="twa twa-mobile-phone-off"></i> | mobile-phone-off 
-| <i class="twa twa-male-sign"></i> | male-sign | <i class="twa twa-plus"></i> | plus 
-| <i class="twa twa-female-sign"></i> | female-sign | <i class="twa twa-transgender-symbol"></i> | transgender-symbol 
-| <i class="twa twa-multiply"></i> | multiply | <i class="twa twa-minus"></i> | minus 
-| <i class="twa twa-divide"></i> | divide | <i class="twa twa-infinity"></i> | infinity 
-| <i class="twa twa-double-exclamation-mark"></i> | double-exclamation-mark | <i class="twa twa-question-mark"></i> | question-mark 
-| <i class="twa twa-white-question-mark"></i> | white-question-mark | <i class="twa twa-exclamation-question-mark"></i> | exclamation-question-mark 
-| <i class="twa twa-white-exclamation-mark"></i> | white-exclamation-mark | <i class="twa twa-exclamation-mark"></i> | exclamation-mark 
-| <i class="twa twa-currency-exchange"></i> | currency-exchange | <i class="twa twa-down-arrow"></i> | down-arrow 
-| <i class="twa twa-wavy-dash"></i> | wavy-dash | <i class="twa twa-heavy-dollar-sign"></i> | heavy-dollar-sign 
-| <i class="twa twa-medical-symbol"></i> | medical-symbol | <i class="twa twa-fleur-de-lis"></i> | fleur-de-lis 
-| <i class="twa twa-recycling-symbol"></i> | recycling-symbol | <i class="twa twa-japanese-symbol-for-beginner"></i> | japanese-symbol-for-beginner 
-| <i class="twa twa-name-badge"></i> | name-badge | <i class="twa twa-hollow-red-circle"></i> | hollow-red-circle 
-| <i class="twa twa-check-mark-button"></i> | check-mark-button | <i class="twa twa-trident-emblem"></i> | trident-emblem 
-| <i class="twa twa-check-box-with-check"></i> | check-box-with-check | <i class="twa twa-check-mark"></i> | check-mark 
-| <i class="twa twa-cross-mark"></i> | cross-mark | <i class="twa twa-cross-mark-button"></i> | cross-mark-button 
-| <i class="twa twa-curly-loop"></i> | curly-loop | <i class="twa twa-double-curly-loop"></i> | double-curly-loop 
-| <i class="twa twa-eight-spoked-asterisk"></i> | eight-spoked-asterisk | <i class="twa twa-part-alternation-mark"></i> | part-alternation-mark 
-| <i class="twa twa-eight-pointed-star"></i> | eight-pointed-star | <i class="twa twa-sparkle"></i> | sparkle 
-| <i class="twa twa-trade-mark"></i> | trade-mark | <i class="twa twa-input-latin-lowercase"></i> | input-latin-lowercase 
-| <i class="twa twa-input-latin-uppercase"></i> | input-latin-uppercase | <i class="twa twa-input-numbers"></i> | input-numbers 
-| <i class="twa twa-input-symbols"></i> | input-symbols | <i class="twa twa-keycap-10"></i> | keycap-10 
-| <i class="twa twa-input-latin-letters"></i> | input-latin-letters | <i class="twa twa-a-button-blood-type"></i> | a-button-blood-type 
-| <i class="twa twa-ab-button-blood-type"></i> | ab-button-blood-type | <i class="twa twa-scorpio"></i> | scorpio 
-| <i class="twa twa-b-button-blood-type"></i> | b-button-blood-type | <i class="twa twa-cl-button"></i> | cl-button 
-| <i class="twa twa-libra"></i> | libra | <i class="twa twa-virgo"></i> | virgo 
-| <i class="twa twa-free-button"></i> | free-button | <i class="twa twa-cool-button"></i> | cool-button 
-| <i class="twa twa-information"></i> | information | <i class="twa twa-id-button"></i> | id-button 
-| <i class="twa twa-circled-m"></i> | circled-m | <i class="twa twa-o-button-blood-type"></i> | o-button-blood-type 
-| <i class="twa twa-new-button"></i> | new-button | <i class="twa twa-ng-button"></i> | ng-button 
-| <i class="twa twa-p-button"></i> | p-button | <i class="twa twa-ok-button"></i> | ok-button 
-| <i class="twa twa-sos-button"></i> | sos-button | <i class="twa twa-up-button"></i> | up-button 
-| <i class="twa twa-japanese-here-button"></i> | japanese-here-button | <i class="twa twa-vs-button"></i> | vs-button 
-| <i class="twa twa-japanese-service-charge-button"></i> | japanese-service-charge-button | <i class="twa twa-japanese-monthly-amount-button"></i> | japanese-monthly-amount-button 
-| <i class="twa twa-japanese-not-free-of-charge-button"></i> | japanese-not-free-of-charge-button | <i class="twa twa-japanese-acceptable-button"></i> | japanese-acceptable-button 
-| <i class="twa twa-japanese-prohibited-button"></i> | japanese-prohibited-button | <i class="twa twa-japanese-vacancy-button"></i> | japanese-vacancy-button 
-| <i class="twa twa-japanese-reserved-button"></i> | japanese-reserved-button | <i class="twa twa-japanese-passing-grade-button"></i> | japanese-passing-grade-button 
-| <i class="twa twa-japanese-bargain-button"></i> | japanese-bargain-button | <i class="twa twa-japanese-application-button"></i> | japanese-application-button 
-| <i class="twa twa-japanese-congratulations-button"></i> | japanese-congratulations-button | <i class="twa twa-japanese-discount-button"></i> | japanese-discount-button 
-| <i class="twa twa-japanese-free-of-charge-button"></i> | japanese-free-of-charge-button | <i class="twa twa-japanese-secret-button"></i> | japanese-secret-button 
-| <i class="twa twa-japanese-no-vacancy-button"></i> | japanese-no-vacancy-button | <i class="twa twa-green-circle"></i> | green-circle 
-| <i class="twa twa-japanese-open-for-business-button"></i> | japanese-open-for-business-button | <i class="twa twa-red-circle"></i> | red-circle 
-| <i class="twa twa-black-circle"></i> | black-circle | <i class="twa twa-orange-circle"></i> | orange-circle 
-| <i class="twa twa-red-square"></i> | red-square | <i class="twa twa-yellow-circle"></i> | yellow-circle 
-| <i class="twa twa-brown-circle"></i> | brown-circle | <i class="twa twa-purple-circle"></i> | purple-circle 
-| <i class="twa twa-white-circle"></i> | white-circle | <i class="twa twa-orange-square"></i> | orange-square 
-| <i class="twa twa-blue-circle"></i> | blue-circle | <i class="twa twa-purple-square"></i> | purple-square 
-| <i class="twa twa-green-square"></i> | green-square | <i class="twa twa-yellow-square"></i> | yellow-square 
-| <i class="twa twa-blue-square"></i> | blue-square | <i class="twa twa-brown-square"></i> | brown-square 
-| <i class="twa twa-white-large-square"></i> | white-large-square | <i class="twa twa-black-large-square"></i> | black-large-square 
-| <i class="twa twa-black-medium-square"></i> | black-medium-square | <i class="twa twa-white-medium-square"></i> | white-medium-square 
-| <i class="twa twa-black-small-square"></i> | black-small-square | <i class="twa twa-black-medium-small-square"></i> | black-medium-small-square 
-| <i class="twa twa-white-medium-small-square"></i> | white-medium-small-square | <i class="twa twa-large-orange-diamond"></i> | large-orange-diamond 
-| <i class="twa twa-small-blue-diamond"></i> | small-blue-diamond | <i class="twa twa-white-small-square"></i> | white-small-square 
-| <i class="twa twa-red-triangle-pointed-up"></i> | red-triangle-pointed-up | <i class="twa twa-small-orange-diamond"></i> | small-orange-diamond 
-| <i class="twa twa-large-blue-diamond"></i> | large-blue-diamond | <i class="twa twa-diamond-with-a-dot"></i> | diamond-with-a-dot 
-| <i class="twa twa-radio-button"></i> | radio-button | <i class="twa twa-red-triangle-pointed-down"></i> | red-triangle-pointed-down 
-| <i class="twa twa-black-square-button"></i> | black-square-button | <i class="twa twa-white-square-button"></i> | white-square-button 
-| <i class="twa twa-left-right-arrow"></i> | left-right-arrow | <i class="twa twa-leo"></i> | leo 
-| <i class="twa twa-last-track-button"></i> | last-track-button | <i class="twa twa-stop-button"></i> | stop-button 
-| <i class="twa twa-repeat-single-button"></i> | repeat-single-button | <i class="twa twa-fast-reverse-button"></i> | fast-reverse-button 
-| <i class="twa twa-reverse-button"></i> | reverse-button | <i class="twa twa-fast-down-button"></i> | fast-down-button 
-| <i class="twa twa-repeat-button"></i> | repeat-button | <i class="twa twa-downwards-button"></i> | downwards-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f170.svg"> | a-button-blood-type | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f18e.svg"> | ab-button-blood-type 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f171.svg"> | b-button-blood-type | <img src="https://twemoji.maxcdn.com/v/latest/svg/24c2.svg"> | circled-m 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f191.svg"> | cl-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f192.svg"> | cool-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f193.svg"> | free-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f194.svg"> | id-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2139.svg"> | information | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f524.svg"> | input-latin-letters 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f521.svg"> | input-latin-lowercase | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f520.svg"> | input-latin-uppercase 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f522.svg"> | input-numbers | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f523.svg"> | input-symbols 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f251.svg"> | japanese-acceptable-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f238.svg"> | japanese-application-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f250.svg"> | japanese-bargain-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/3297.svg"> | japanese-congratulations-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f239.svg"> | japanese-discount-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f21a.svg"> | japanese-free-of-charge-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f201.svg"> | japanese-here-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f237.svg"> | japanese-monthly-amount-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f235.svg"> | japanese-no-vacancy-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f236.svg"> | japanese-not-free-of-charge-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f23a.svg"> | japanese-open-for-business-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f234.svg"> | japanese-passing-grade-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f232.svg"> | japanese-prohibited-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f22f.svg"> | japanese-reserved-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/3299.svg"> | japanese-secret-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f202.svg"> | japanese-service-charge-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f233.svg"> | japanese-vacancy-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f195.svg"> | new-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f196.svg"> | ng-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f17e.svg"> | o-button-blood-type 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f197.svg"> | ok-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f17f.svg"> | p-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f198.svg"> | sos-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f199.svg"> | up-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f19a.svg"> | vs-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f519.svg"> | back-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f503.svg"> | clockwise-vertical-arrows | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f504.svg"> | counterclockwise-arrows-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b07.svg"> | down-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/2199.svg"> | down-left-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2198.svg"> | down-right-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51a.svg"> | end-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b05.svg"> | left-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/21aa.svg"> | left-arrow-curving-right 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2194.svg"> | left-right-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51b.svg"> | on-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/27a1.svg"> | right-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/2935.svg"> | right-arrow-curving-down 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/21a9.svg"> | right-arrow-curving-left | <img src="https://twemoji.maxcdn.com/v/latest/svg/2934.svg"> | right-arrow-curving-up 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51c.svg"> | soon-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51d.svg"> | top-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b06.svg"> | up-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/2195.svg"> | up-down-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2196.svg"> | up-left-arrow | <img src="https://twemoji.maxcdn.com/v/latest/svg/2197.svg"> | up-right-arrow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f6.svg"> | antenna-bars | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f506.svg"> | bright-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a6.svg"> | cinema | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f505.svg"> | dim-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f53d.svg"> | downwards-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23cf.svg"> | eject-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23ec.svg"> | fast-down-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23ea.svg"> | fast-reverse-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23eb.svg"> | fast-up-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23e9.svg"> | fast-forward-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23ee.svg"> | last-track-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f4.svg"> | mobile-phone-off 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23ed.svg"> | next-track-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23f8.svg"> | pause-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/25b6.svg"> | play-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23ef.svg"> | play-or-pause-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23fa.svg"> | record-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f501.svg"> | repeat-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f502.svg"> | repeat-single-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/25c0.svg"> | reverse-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f500.svg"> | shuffle-tracks-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/23f9.svg"> | stop-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f53c.svg"> | upwards-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f3.svg"> | vibration-mode 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b1.svg"> | currency-exchange | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4b2.svg"> | heavy-dollar-sign 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2640.svg"> | female-sign | <img src="https://twemoji.maxcdn.com/v/latest/svg/2642.svg"> | male-sign 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26a7.svg"> | transgender-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/26ab.svg"> | black-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b1b.svg"> | black-large-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25fc.svg"> | black-medium-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/25fe.svg"> | black-medium-small-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25aa.svg"> | black-small-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f532.svg"> | black-square-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f535.svg"> | blue-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e6.svg"> | blue-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e4.svg"> | brown-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7eb.svg"> | brown-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a0.svg"> | diamond-with-a-dot 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e2.svg"> | green-circle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e9.svg"> | green-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f537.svg"> | large-blue-diamond | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f536.svg"> | large-orange-diamond 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e0.svg"> | orange-circle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e7.svg"> | orange-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e3.svg"> | purple-circle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7ea.svg"> | purple-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f518.svg"> | radio-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f534.svg"> | red-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e5.svg"> | red-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f53b.svg"> | red-triangle-pointed-down 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f53a.svg"> | red-triangle-pointed-up | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f539.svg"> | small-blue-diamond 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f538.svg"> | small-orange-diamond | <img src="https://twemoji.maxcdn.com/v/latest/svg/26aa.svg"> | white-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b1c.svg"> | white-large-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25fb.svg"> | white-medium-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/25fd.svg"> | white-medium-small-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25ab.svg"> | white-small-square 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f533.svg"> | white-square-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e1.svg"> | yellow-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e8.svg"> | yellow-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51f.svg"> | keycap-10 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2797.svg"> | divide | <img src="https://twemoji.maxcdn.com/v/latest/svg/267e.svg"> | infinity 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2796.svg"> | minus | <img src="https://twemoji.maxcdn.com/v/latest/svg/2716.svg"> | multiply 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2795.svg"> | plus | <img src="https://twemoji.maxcdn.com/v/latest/svg/2611.svg"> | check-box-with-check 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2714.svg"> | check-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2705.svg"> | check-mark-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/274c.svg"> | cross-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/274e.svg"> | cross-mark-button 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/27b0.svg"> | curly-loop | <img src="https://twemoji.maxcdn.com/v/latest/svg/27bf.svg"> | double-curly-loop 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2734.svg"> | eight-pointed-star | <img src="https://twemoji.maxcdn.com/v/latest/svg/2733.svg"> | eight-spoked-asterisk 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/269c.svg"> | fleur-de-lis | <img src="https://twemoji.maxcdn.com/v/latest/svg/2b55.svg"> | hollow-red-circle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f530.svg"> | japanese-symbol-for-beginner | <img src="https://twemoji.maxcdn.com/v/latest/svg/2695.svg"> | medical-symbol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4db.svg"> | name-badge | <img src="https://twemoji.maxcdn.com/v/latest/svg/303d.svg"> | part-alternation-mark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/267b.svg"> | recycling-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/2747.svg"> | sparkle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2122.svg"> | trade-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f531.svg"> | trident-emblem 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/203c.svg"> | double-exclamation-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2757.svg"> | exclamation-mark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2049.svg"> | exclamation-question-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2753.svg"> | question-mark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/3030.svg"> | wavy-dash | <img src="https://twemoji.maxcdn.com/v/latest/svg/2755.svg"> | white-exclamation-mark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2754.svg"> | white-question-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/269b.svg"> | atom-symbol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f52f.svg"> | dotted-six-pointed-star | <img src="https://twemoji.maxcdn.com/v/latest/svg/271d.svg"> | latin-cross 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f54e.svg"> | menorah | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f549.svg"> | om 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2626.svg"> | orthodox-cross | <img src="https://twemoji.maxcdn.com/v/latest/svg/262e.svg"> | peace-symbol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d0.svg"> | place-of-worship | <img src="https://twemoji.maxcdn.com/v/latest/svg/262a.svg"> | star-and-crescent 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2721.svg"> | star-of-david | <img src="https://twemoji.maxcdn.com/v/latest/svg/2638.svg"> | wheel-of-dharma 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/262f.svg"> | yin-yang | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e7.svg"> | atm-sign 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6bc.svg"> | baby-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c4.svg"> | baggage-claim 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c3.svg"> | customs | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c5.svg"> | left-luggage 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ae.svg"> | litter-in-bin-sign | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b9.svg"> | mens-room 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6c2.svg"> | passport-control | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b0.svg"> | potable-water 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6bb.svg"> | restroom | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6be.svg"> | water-closet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/267f.svg"> | wheelchair-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ba.svg"> | womens-room 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2623.svg"> | biohazard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b8.svg"> | children-crossing 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b3.svg"> | no-bicycles | <img src="https://twemoji.maxcdn.com/v/latest/svg/26d4.svg"> | no-entry 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6af.svg"> | no-littering | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4f5.svg"> | no-mobile-phones 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51e.svg"> | no-one-under-eighteen | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b7.svg"> | no-pedestrians 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ad.svg"> | no-smoking | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b1.svg"> | non-potable-water 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ab.svg"> | prohibited | <img src="https://twemoji.maxcdn.com/v/latest/svg/2622.svg"> | radioactive 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26a0.svg"> | warning | <img src="https://twemoji.maxcdn.com/v/latest/svg/2652.svg"> | aquarius 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2648.svg"> | aries | <img src="https://twemoji.maxcdn.com/v/latest/svg/264b.svg"> | cancer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2651.svg"> | capricorn | <img src="https://twemoji.maxcdn.com/v/latest/svg/264a.svg"> | gemini 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/264c.svg"> | leo | <img src="https://twemoji.maxcdn.com/v/latest/svg/264e.svg"> | libra 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26ce.svg"> | ophiuchus | <img src="https://twemoji.maxcdn.com/v/latest/svg/2653.svg"> | pisces 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2650.svg"> | sagittarius | <img src="https://twemoji.maxcdn.com/v/latest/svg/264f.svg"> | scorpio 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2649.svg"> | taurus | <img src="https://twemoji.maxcdn.com/v/latest/svg/264d.svg"> | virgo 
 
 ## Travel and Places
 emoji | shortcode | emoji | shortcode
 --- | --- | --- | ---
-| <i class="twa twa-globe-showing-asia-australia"></i> | globe-showing-asia-australia | <i class="twa twa-globe-with-meridians"></i> | globe-with-meridians 
-| <i class="twa twa-world-map"></i> | world-map | <i class="twa twa-map-of-japan"></i> | map-of-japan 
-| <i class="twa twa-compass"></i> | compass | <i class="twa twa-mountain"></i> | mountain 
-| <i class="twa twa-beach-with-umbrella"></i> | beach-with-umbrella | <i class="twa twa-globe-showing-europe-africa"></i> | globe-showing-europe-africa 
-| <i class="twa twa-desert"></i> | desert | <i class="twa twa-camping"></i> | camping 
-| <i class="twa twa-stadium"></i> | stadium | <i class="twa twa-desert-island"></i> | desert-island 
-| <i class="twa twa-mount-fuji"></i> | mount-fuji | <i class="twa twa-brick"></i> | brick 
-| <i class="twa twa-national-park"></i> | national-park | <i class="twa twa-mosque"></i> | mosque 
-| <i class="twa twa-volcano"></i> | volcano | <i class="twa twa-statue-of-liberty"></i> | statue-of-liberty 
-| <i class="twa twa-snow-capped-mountain"></i> | snow-capped-mountain | <i class="twa twa-kaaba"></i> | kaaba 
-| <i class="twa twa-building-construction"></i> | building-construction | <i class="twa twa-derelict-house"></i> | derelict-house 
-| <i class="twa twa-rock"></i> | rock | <i class="twa twa-wood"></i> | wood 
-| <i class="twa twa-hut"></i> | hut | <i class="twa twa-classical-building"></i> | classical-building 
-| <i class="twa twa-cityscape"></i> | cityscape | <i class="twa twa-hindu-temple"></i> | hindu-temple 
-| <i class="twa twa-shinto-shrine"></i> | shinto-shrine | <i class="twa twa-factory"></i> | factory 
-| <i class="twa twa-carousel-horse"></i> | carousel-horse | <i class="twa twa-locomotive"></i> | locomotive 
-| <i class="twa twa-sunset"></i> | sunset | <i class="twa twa-circus-tent"></i> | circus-tent 
-| <i class="twa twa-sport-utility-vehicle"></i> | sport-utility-vehicle | <i class="twa twa-bullet-train"></i> | bullet-train 
-| <i class="twa twa-oncoming-bus"></i> | oncoming-bus | <i class="twa twa-umbrella"></i> | umbrella 
-| <i class="twa twa-cloud-with-lightning-and-rain"></i> | cloud-with-lightning-and-rain | <i class="twa twa-snowman-without-snow"></i> | snowman-without-snow 
-| <i class="twa twa-high-voltage"></i> | high-voltage | <i class="twa twa-fog"></i> | fog 
-| <i class="twa twa-comet"></i> | comet | <i class="twa twa-umbrella-on-ground"></i> | umbrella-on-ground 
-| <i class="twa twa-snowflake"></i> | snowflake | <i class="twa twa-snowman"></i> | snowman 
-| <i class="twa twa-droplet"></i> | droplet | <i class="twa twa-fire"></i> | fire 
-| <i class="twa twa-airplane-arrival"></i> | airplane-arrival | <i class="twa twa-six-oclock"></i> | six-oclock 
-| <i class="twa twa-house-with-garden"></i> | house-with-garden | <i class="twa twa-crescent-moon"></i> | crescent-moon 
-| <i class="twa twa-globe-showing-americas"></i> | globe-showing-americas | <i class="twa twa-fountain"></i> | fountain 
-| <i class="twa twa-mountain-railway"></i> | mountain-railway | <i class="twa twa-tram-car"></i> | tram-car 
-| <i class="twa twa-japanese-castle"></i> | japanese-castle | <i class="twa twa-motor-scooter"></i> | motor-scooter 
-| <i class="twa twa-articulated-lorry"></i> | articulated-lorry | <i class="twa twa-delivery-truck"></i> | delivery-truck 
-| <i class="twa twa-ambulance"></i> | ambulance | <i class="twa twa-oncoming-police-car"></i> | oncoming-police-car 
-| <i class="twa twa-fire-engine"></i> | fire-engine | <i class="twa twa-police-car"></i> | police-car 
-| <i class="twa twa-taxi"></i> | taxi | <i class="twa twa-oncoming-taxi"></i> | oncoming-taxi 
-| <i class="twa twa-oncoming-automobile"></i> | oncoming-automobile | <i class="twa twa-racing-car"></i> | racing-car 
-| <i class="twa twa-pickup-truck"></i> | pickup-truck | <i class="twa twa-bus"></i> | bus 
-| <i class="twa twa-love-hotel"></i> | love-hotel | <i class="twa twa-minibus"></i> | minibus 
-| <i class="twa twa-railway-car"></i> | railway-car | <i class="twa twa-oil-drum"></i> | oil-drum 
-| <i class="twa twa-anchor"></i> | anchor | <i class="twa twa-sailboat"></i> | sailboat 
-| <i class="twa twa-stop-sign"></i> | stop-sign | <i class="twa twa-wedding"></i> | wedding 
-| <i class="twa twa-fuel-pump"></i> | fuel-pump | <i class="twa twa-construction"></i> | construction 
-| <i class="twa twa-canoe"></i> | canoe | <i class="twa twa-passenger-ship"></i> | passenger-ship 
-| <i class="twa twa-speedboat"></i> | speedboat | <i class="twa twa-castle"></i> | castle 
-| <i class="twa twa-ferry"></i> | ferry | <i class="twa twa-japanese-post-office"></i> | japanese-post-office 
-| <i class="twa twa-motor-boat"></i> | motor-boat | <i class="twa twa-stopwatch"></i> | stopwatch 
-| <i class="twa twa-one-oclock"></i> | one-oclock | <i class="twa twa-mantelpiece-clock"></i> | mantelpiece-clock 
-| <i class="twa twa-four-oclock"></i> | four-oclock | <i class="twa twa-timer-clock"></i> | timer-clock 
-| <i class="twa twa-twelve-oclock"></i> | twelve-oclock | <i class="twa twa-two-thirty"></i> | two-thirty 
-| <i class="twa twa-eight-oclock"></i> | eight-oclock | <i class="twa twa-five-thirty"></i> | five-thirty 
-| <i class="twa twa-six-thirty"></i> | six-thirty | <i class="twa twa-seven-oclock"></i> | seven-oclock 
-| <i class="twa twa-eight-thirty"></i> | eight-thirty | <i class="twa twa-five-oclock"></i> | five-oclock 
-| <i class="twa twa-twelve-thirty"></i> | twelve-thirty | <i class="twa twa-rainbow"></i> | rainbow 
-| <i class="twa twa-sun-behind-large-cloud"></i> | sun-behind-large-cloud | <i class="twa twa-houses"></i> | houses 
-| <i class="twa twa-roller-coaster"></i> | roller-coaster | <i class="twa twa-tractor"></i> | tractor 
-| <i class="twa twa-bicycle"></i> | bicycle | <i class="twa twa-manual-wheelchair"></i> | manual-wheelchair 
-| <i class="twa twa-motorcycle"></i> | motorcycle | <i class="twa twa-skateboard"></i> | skateboard 
-| <i class="twa twa-motorized-wheelchair"></i> | motorized-wheelchair | <i class="twa twa-nine-thirty"></i> | nine-thirty 
-| <i class="twa twa-tokyo-tower"></i> | tokyo-tower | <i class="twa twa-convenience-store"></i> | convenience-store 
-| <i class="twa twa-metro"></i> | metro | <i class="twa twa-motorway"></i> | motorway 
-| <i class="twa twa-ten-thirty"></i> | ten-thirty | <i class="twa twa-cityscape-at-dusk"></i> | cityscape-at-dusk 
-| <i class="twa twa-barber-pole"></i> | barber-pole | <i class="twa twa-monorail"></i> | monorail 
-| <i class="twa twa-tram"></i> | tram | <i class="twa twa-light-rail"></i> | light-rail 
-| <i class="twa twa-hot-springs"></i> | hot-springs | <i class="twa twa-bridge-at-night"></i> | bridge-at-night 
-| <i class="twa twa-train"></i> | train | <i class="twa twa-synagogue"></i> | synagogue 
-| <i class="twa twa-sunrise"></i> | sunrise | <i class="twa twa-station"></i> | station 
-| <i class="twa twa-ferris-wheel"></i> | ferris-wheel | <i class="twa twa-vertical-traffic-light"></i> | vertical-traffic-light 
-| <i class="twa twa-horizontal-traffic-light"></i> | horizontal-traffic-light | <i class="twa twa-three-thirty"></i> | three-thirty 
-| <i class="twa twa-one-thirty"></i> | one-thirty | <i class="twa twa-trolleybus"></i> | trolleybus 
-| <i class="twa twa-automobile"></i> | automobile | <i class="twa twa-bus-stop"></i> | bus-stop 
-| <i class="twa twa-sunrise-over-mountains"></i> | sunrise-over-mountains | <i class="twa twa-railway-track"></i> | railway-track 
-| <i class="twa twa-nine-oclock"></i> | nine-oclock | <i class="twa twa-police-car-light"></i> | police-car-light 
-| <i class="twa twa-two-oclock"></i> | two-oclock | <i class="twa twa-roller-skate"></i> | roller-skate 
-| <i class="twa twa-milky-way"></i> | milky-way | <i class="twa twa-high-speed-train"></i> | high-speed-train 
-| <i class="twa twa-cloud"></i> | cloud | <i class="twa twa-water-wave"></i> | water-wave 
-| <i class="twa twa-ship"></i> | ship | <i class="twa twa-airplane-departure"></i> | airplane-departure 
-| <i class="twa twa-suspension-railway"></i> | suspension-railway | <i class="twa twa-helicopter"></i> | helicopter 
-| <i class="twa twa-mountain-cableway"></i> | mountain-cableway | <i class="twa twa-seat"></i> | seat 
-| <i class="twa twa-luggage"></i> | luggage | <i class="twa twa-aerial-tramway"></i> | aerial-tramway 
-| <i class="twa twa-bellhop-bell"></i> | bellhop-bell | <i class="twa twa-hourglass-not-done"></i> | hourglass-not-done 
-| <i class="twa twa-rocket"></i> | rocket | <i class="twa twa-watch"></i> | watch 
-| <i class="twa twa-airplane"></i> | airplane | <i class="twa twa-flying-saucer"></i> | flying-saucer 
-| <i class="twa twa-hourglass-done"></i> | hourglass-done | <i class="twa twa-alarm-clock"></i> | alarm-clock 
-| <i class="twa twa-small-airplane"></i> | small-airplane | <i class="twa twa-parachute"></i> | parachute 
-| <i class="twa twa-satellite"></i> | satellite | <i class="twa twa-ten-oclock"></i> | ten-oclock 
-| <i class="twa twa-eleven-oclock"></i> | eleven-oclock | <i class="twa twa-waxing-crescent-moon"></i> | waxing-crescent-moon 
-| <i class="twa twa-new-moon"></i> | new-moon | <i class="twa twa-full-moon"></i> | full-moon 
-| <i class="twa twa-eleven-thirty"></i> | eleven-thirty | <i class="twa twa-first-quarter-moon"></i> | first-quarter-moon 
-| <i class="twa twa-first-quarter-moon-face"></i> | first-quarter-moon-face | <i class="twa twa-star"></i> | star 
-| <i class="twa twa-waning-crescent-moon"></i> | waning-crescent-moon | <i class="twa twa-last-quarter-moon-face"></i> | last-quarter-moon-face 
-| <i class="twa twa-waning-gibbous-moon"></i> | waning-gibbous-moon | <i class="twa twa-full-moon-face"></i> | full-moon-face 
-| <i class="twa twa-seven-thirty"></i> | seven-thirty | <i class="twa twa-thermometer"></i> | thermometer 
-| <i class="twa twa-three-oclock"></i> | three-oclock | <i class="twa twa-last-quarter-moon"></i> | last-quarter-moon 
-| <i class="twa twa-sun"></i> | sun | <i class="twa twa-four-thirty"></i> | four-thirty 
-| <i class="twa twa-shooting-star"></i> | shooting-star | <i class="twa twa-new-moon-face"></i> | new-moon-face 
-| <i class="twa twa-cloud-with-snow"></i> | cloud-with-snow | <i class="twa twa-sun-behind-cloud"></i> | sun-behind-cloud 
-| <i class="twa twa-sun-behind-rain-cloud"></i> | sun-behind-rain-cloud | <i class="twa twa-sun-behind-small-cloud"></i> | sun-behind-small-cloud 
-| <i class="twa twa-cloud-with-rain"></i> | cloud-with-rain | <i class="twa twa-cyclone"></i> | cyclone 
-| <i class="twa twa-closed-umbrella"></i> | closed-umbrella | <i class="twa twa-cloud-with-lightning"></i> | cloud-with-lightning 
-| <i class="twa twa-umbrella-with-rain-drops"></i> | umbrella-with-rain-drops | <i class="twa twa-sun-with-face"></i> | sun-with-face 
-| <i class="twa twa-ringed-planet"></i> | ringed-planet | <i class="twa twa-tornado"></i> | tornado 
-| <i class="twa twa-waxing-gibbous-moon"></i> | waxing-gibbous-moon | <i class="twa twa-wind-face"></i> | wind-face 
-| <i class="twa twa-glowing-star"></i> | glowing-star | <i class="twa twa-tent"></i> | tent 
-| <i class="twa twa-foggy"></i> | foggy | <i class="twa twa-house"></i> | house 
-| <i class="twa twa-bank"></i> | bank | <i class="twa twa-hotel"></i> | hotel 
-| <i class="twa twa-department-store"></i> | department-store | <i class="twa twa-hospital"></i> | hospital 
-| <i class="twa twa-kick-scooter"></i> | kick-scooter | <i class="twa twa-school"></i> | school 
-| <i class="twa twa-auto-rickshaw"></i> | auto-rickshaw | <i class="twa twa-office-building"></i> | office-building 
-| <i class="twa twa-post-office"></i> | post-office | <i class="twa twa-church"></i> | church 
-| <i class="twa twa-night-with-stars"></i> | night-with-stars 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ce.svg"> | bellhop-bell | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f3.svg"> | luggage 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e6.svg"> | bank | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9f1.svg"> | brick 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d7.svg"> | building-construction | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3f0.svg"> | castle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3db.svg"> | classical-building | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ea.svg"> | convenience-store 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ec.svg"> | department-store | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3da.svg"> | derelict-house 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ed.svg"> | factory | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e5.svg"> | hospital 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e8.svg"> | hotel | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e0.svg"> | house 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e1.svg"> | house-with-garden | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d8.svg"> | houses 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d6.svg"> | hut | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ef.svg"> | japanese-castle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e3.svg"> | japanese-post-office | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e9.svg"> | love-hotel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e2.svg"> | office-building | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3e4.svg"> | post-office 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1faa8.svg"> | rock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3eb.svg"> | school 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3df.svg"> | stadium | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5fd.svg"> | statue-of-liberty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5fc.svg"> | tokyo-tower | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f492.svg"> | wedding 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fab5.svg"> | wood | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d6.svg"> | beach-with-umbrella 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d5.svg"> | camping | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3dc.svg"> | desert 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3dd.svg"> | desert-island | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5fb.svg"> | mount-fuji 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f0.svg"> | mountain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3de.svg"> | national-park 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d4.svg"> | snow-capped-mountain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30b.svg"> | volcano 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ed.svg"> | compass | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30e.svg"> | globe-showing-americas 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30f.svg"> | globe-showing-asia-australia | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30d.svg"> | globe-showing-europe-africa 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f310.svg"> | globe-with-meridians | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5fe.svg"> | map-of-japan 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f5fa.svg"> | world-map | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f488.svg"> | barber-pole 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f309.svg"> | bridge-at-night | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a0.svg"> | carousel-horse 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3aa.svg"> | circus-tent | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3d9.svg"> | cityscape 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f306.svg"> | cityscape-at-dusk | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a1.svg"> | ferris-wheel 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f301.svg"> | foggy | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f2.svg"> | fountain 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2668.svg"> | hot-springs | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f303.svg"> | night-with-stars 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3a2.svg"> | roller-coaster | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f305.svg"> | sunrise 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f304.svg"> | sunrise-over-mountains | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f307.svg"> | sunset 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26fa.svg"> | tent | <img src="https://twemoji.maxcdn.com/v/latest/svg/26ea.svg"> | church 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d5.svg"> | hindu-temple | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f54b.svg"> | kaaba 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f54c.svg"> | mosque | <img src="https://twemoji.maxcdn.com/v/latest/svg/26e9.svg"> | shinto-shrine 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f54d.svg"> | synagogue | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f302.svg"> | closed-umbrella 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2601.svg"> | cloud | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f329.svg"> | cloud-with-lightning 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26c8.svg"> | cloud-with-lightning-and-rain | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f327.svg"> | cloud-with-rain 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f328.svg"> | cloud-with-snow | <img src="https://twemoji.maxcdn.com/v/latest/svg/2604.svg"> | comet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f319.svg"> | crescent-moon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f300.svg"> | cyclone 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4a7.svg"> | droplet | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"> | fire 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f313.svg"> | first-quarter-moon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31b.svg"> | first-quarter-moon-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32b.svg"> | fog | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f315.svg"> | full-moon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31d.svg"> | full-moon-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31f.svg"> | glowing-star 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26a1.svg"> | high-voltage | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f317.svg"> | last-quarter-moon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31c.svg"> | last-quarter-moon-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30c.svg"> | milky-way 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f311.svg"> | new-moon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31a.svg"> | new-moon-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f308.svg"> | rainbow | <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa90.svg"> | ringed-planet 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f320.svg"> | shooting-star | <img src="https://twemoji.maxcdn.com/v/latest/svg/2744.svg"> | snowflake 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2603.svg"> | snowman | <img src="https://twemoji.maxcdn.com/v/latest/svg/26c4.svg"> | snowman-without-snow 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b50.svg"> | star | <img src="https://twemoji.maxcdn.com/v/latest/svg/2600.svg"> | sun 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26c5.svg"> | sun-behind-cloud | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f325.svg"> | sun-behind-large-cloud 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f326.svg"> | sun-behind-rain-cloud | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f324.svg"> | sun-behind-small-cloud 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f31e.svg"> | sun-with-face | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f321.svg"> | thermometer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32a.svg"> | tornado | <img src="https://twemoji.maxcdn.com/v/latest/svg/2602.svg"> | umbrella 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f1.svg"> | umbrella-on-ground | <img src="https://twemoji.maxcdn.com/v/latest/svg/2614.svg"> | umbrella-with-rain-drops 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f318.svg"> | waning-crescent-moon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f316.svg"> | waning-gibbous-moon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f30a.svg"> | water-wave | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f312.svg"> | waxing-crescent-moon 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f314.svg"> | waxing-gibbous-moon | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f32c.svg"> | wind-face 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23f0.svg"> | alarm-clock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f557.svg"> | eight-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f563.svg"> | eight-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55a.svg"> | eleven-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f566.svg"> | eleven-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f554.svg"> | five-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f560.svg"> | five-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f553.svg"> | four-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55f.svg"> | four-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/231b.svg"> | hourglass-done 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23f3.svg"> | hourglass-not-done | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f570.svg"> | mantelpiece-clock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f558.svg"> | nine-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f564.svg"> | nine-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f550.svg"> | one-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55c.svg"> | one-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f556.svg"> | seven-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f562.svg"> | seven-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f555.svg"> | six-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f561.svg"> | six-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/23f1.svg"> | stopwatch | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f559.svg"> | ten-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f565.svg"> | ten-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f552.svg"> | three-oclock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55e.svg"> | three-thirty | <img src="https://twemoji.maxcdn.com/v/latest/svg/23f2.svg"> | timer-clock 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55b.svg"> | twelve-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f567.svg"> | twelve-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f551.svg"> | two-oclock | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f55d.svg"> | two-thirty 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/231a.svg"> | watch | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a1.svg"> | aerial-tramway 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2708.svg"> | airplane | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6ec.svg"> | airplane-arrival 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6eb.svg"> | airplane-departure | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f8.svg"> | flying-saucer 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f681.svg"> | helicopter | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a0.svg"> | mountain-cableway 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1fa82.svg"> | parachute | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f680.svg"> | rocket 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f0.svg"> | satellite | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ba.svg"> | seat 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e9.svg"> | small-airplane | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69f.svg"> | suspension-railway 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f691.svg"> | ambulance | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69b.svg"> | articulated-lorry 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6fa.svg"> | auto-rickshaw | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f697.svg"> | automobile 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6b2.svg"> | bicycle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f685.svg"> | bullet-train 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68c.svg"> | bus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68f.svg"> | bus-stop 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a7.svg"> | construction | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69a.svg"> | delivery-truck 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f692.svg"> | fire-engine | <img src="https://twemoji.maxcdn.com/v/latest/svg/26fd.svg"> | fuel-pump 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f684.svg"> | high-speed-train | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a5.svg"> | horizontal-traffic-light 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f4.svg"> | kick-scooter | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f688.svg"> | light-rail 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f682.svg"> | locomotive | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bd.svg"> | manual-wheelchair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f687.svg"> | metro | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f690.svg"> | minibus 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69d.svg"> | monorail | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f5.svg"> | motor-scooter 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3cd.svg"> | motorcycle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9bc.svg"> | motorized-wheelchair 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e3.svg"> | motorway | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69e.svg"> | mountain-railway 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e2.svg"> | oil-drum | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f698.svg"> | oncoming-automobile 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68d.svg"> | oncoming-bus | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f694.svg"> | oncoming-police-car 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f696.svg"> | oncoming-taxi | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6fb.svg"> | pickup-truck 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f693.svg"> | police-car | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a8.svg"> | police-car-light 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ce.svg"> | racing-car | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f683.svg"> | railway-car 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e4.svg"> | railway-track | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6fc.svg"> | roller-skate 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f9.svg"> | skateboard | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f699.svg"> | sport-utility-vehicle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f689.svg"> | station | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6d1.svg"> | stop-sign 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f695.svg"> | taxi | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f69c.svg"> | tractor 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f686.svg"> | train | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68a.svg"> | tram 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68b.svg"> | tram-car | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f68e.svg"> | trolleybus 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a6.svg"> | vertical-traffic-light | <img src="https://twemoji.maxcdn.com/v/latest/svg/2693.svg"> | anchor 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f6.svg"> | canoe | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f4.svg"> | ferry 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e5.svg"> | motor-boat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6f3.svg"> | passenger-ship 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/26f5.svg"> | sailboat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a2.svg"> | ship 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a4.svg"> | speedboat 
 
 Cheatsheet generated automatically
