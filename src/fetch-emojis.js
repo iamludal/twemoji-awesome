@@ -85,9 +85,9 @@ const main = async () => {
     const filtered = await filterEmojis(emojis)
     const amount = filtered.length
 
-    console.log('📝 Writing to emojis.json')
+    console.log('📝 Writing to emoji.json')
 
-    fs.writeFileSync('emojis.json', JSON.stringify(filtered))
+    fs.writeFileSync('emoji.json', JSON.stringify(filtered))
 
     console.log(`✅ Successfully fetched ${amount} emojis!`)
 }

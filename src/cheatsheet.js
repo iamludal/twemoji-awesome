@@ -1,4 +1,4 @@
-const emojis = require('../emojis.json')
+const emojis = require('../emoji.json')
 const fs = require('fs')
 const slugify = require('slugify')
 const basis = fs.readFileSync('./cheatsheet-basis.md', 'utf8')

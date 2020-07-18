@@ -1,6 +1,6 @@
 const fs = require('fs')
 const slugify = require('slugify')
-const emojis = require('../emojis.json')
+const emojis = require('../emoji.json')
 
 const BASE_URL = 'https://twitter.github.io/twemoji/v/latest/svg/'
 const BG_CSS = '.twa-{NAME} { background-image: url({URL}.svg); }\n'

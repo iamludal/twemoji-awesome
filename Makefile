@@ -1,11 +1,11 @@
-.PHONY: fetch css cheatsheet
+.PHONY: emoji css cheatsheet
 
-all: fetch css cheatsheet
+all: emoji css cheatsheet
 
-fetch:
+emoji:
 	node src/fetch-emojis.js
 
-css: emojis.json
+css: emoji.json
 	node src/index.js
 
 cheatsheet:
