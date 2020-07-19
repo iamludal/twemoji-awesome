@@ -3,12 +3,12 @@
 ![License](https://bit.ly/3eDF4ci)
 
 Like [Font Awesome](https://fontawesome.com), but for
-[Twitter Emojis](http://twitter.github.io/twemoji/) 🎉
+[Twitter Emojis](http://twitter.github.io/twemoji/). 🎉
 
-Supports **v13.0** emojis (more than 3,000!) 💪
+Supports **v13.0** emojis (more than **3,300**). 💪
 
 You can refer to [this cheatsheet](cheatsheet.md) for a complete list of emojis
-you can use 📝
+you can use. 📝
 
 ![](assets/banner.png)
 
@@ -21,7 +21,7 @@ Download [this](twemoji-awesome.css) stylesheet and include it to your website.
 <link ref="stylesheet" href="path/to/twemoji-awesome.css">
 ```
 
-> That's all ! You can now start using **Twemoji Awesome** 🥳
+> That's all ! You can now start using **Twemoji Awesome**. 🥳
 
 | Emoji                                                                             | Emoji Cheatsheet | HTML                                            |
 | --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------- |
