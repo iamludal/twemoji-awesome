@@ -1,12 +1,14 @@
 const emojis = require('../emoji.json')
 const fs = require('fs')
 const slugify = require('slugify')
-const basis = fs.readFileSync('./assets/cheatsheet-basis.md', 'utf8')
-const OUTPUT = 'cheatsheet.md'
-const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
 const { emojiSortingFunction } = require('../lib/utils')
 
 const opts = { lower: true, strict: true }
+const OUTPUT = 'cheatsheet.md'
+const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
+const basis = fs.readFileSync('./assets/cheatsheet-basis.md', 'utf8')
+    .replace('{AMOUNT}', emojis.length)
+
 let previousGroup, previousEmojiName
 let cheatsheetContent = ''
 let newLine = true

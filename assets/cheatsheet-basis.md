@@ -1,5 +1,7 @@
 # Emoji cheatsheet 😄
 
+🎉 This cheatsheet contains {AMOUNT} emojis!
+
 {CONTENT}
 
-Cheatsheet generated automatically
+> ℹ️ Cheatsheet generated automatically.
