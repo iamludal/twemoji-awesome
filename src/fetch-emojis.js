@@ -1,10 +1,9 @@
 const fetch = require('node-fetch')
 const slugify = require('slugify')
-const BASE_SVG_URL = 'https://twemoji.maxcdn.com/v/latest/svg/{CODE}.svg'
-const EMOJI_JSON_URL = 'https://unpkg.com/emoji.json/emoji.json'
 const fs = require('fs')
-const { updateLine } = require('../lib/utils')
 
+const EMOJI_JSON_URL = 'https://unpkg.com/emoji.json/emoji.json'
+const twemojis = fs.readdirSync('assets/svg')
 const opts = { lower: true, strict: true }
 
 /**
@@ -12,47 +11,22 @@ const opts = { lower: true, strict: true }
  * @param {Array.<{codes: String, name: String}>} emojis emojis to filter
  * @return {Array} filtered emojis
  */
-async function filterEmojis(emojis) {
-    const filtered = [], errors = []
-    const promises = []
+function filterEmojis(emojis) {
+    const filtered = []
     const length = emojis.length
-    let success = 0, fail = 0
 
     console.log(`😃 ${length} emojis to filter`)
 
     console.log('⏳ Processing...')
 
-    emojis.forEach(emoji => {
-
-        const verify = validateTwemoji(emoji)
-            .then(isValid => {
-                isValid ? success++ : fail++
-
-                const prog = Math.floor((fail + success) * 100 / length)
-                const array = isValid ? filtered : errors
-
-                array.push(emoji)
-                updateLine(`✅ Success: ${success} | ⏳ Progress: ${prog}%`)
-            })
-            .catch(() => { })
-
-        promises.push(verify)
+    emojis.forEach((emoji) => {
+        if (validateTwemoji(emoji))
+            filtered.push(emoji)
     })
 
-    await Promise.all(promises)
+    const amount = filtered.length
 
-    console.log('\n⏳ Verifying...')
-
-    const filteredNames = filtered.map(emoji => emoji.name)
-    const n = filtered.length
-    let err = 0
-
-    errors.forEach(error => {
-        if (!filteredNames.includes(error.name))
-            err++
-    })
-
-    console.log(`Finished: ✅ ${n} filtered emojis | ❌ ${err} twemojis missing`)
+    console.log(`⌛ Finished: ✅ ${amount} emojis filtered`)
 
     return filtered
 }
@@ -63,13 +37,9 @@ async function filterEmojis(emojis) {
  * @param {String} emoji.codes the emoji codes
  * @return {Boolean} true if the emoij is valid
  */
-const validateTwemoji = async (emoji) => {
-
-    const url = BASE_SVG_URL.replace('{CODE}', slugify(emoji.codes, opts))
-
-    return fetch(url)
-        .then(res => !res.status.toString().match(/^[45]/))
-        .catch(() => Promise.reject())
+const validateTwemoji = (emoji) => {
+    const file = slugify(emoji.codes, opts).replace(/^[0]+/, '') + '.svg'
+    return twemojis.includes(file)
 }
 
 /**
@@ -79,17 +49,21 @@ const main = async () => {
 
     console.log('🔍 Fetching emojis...')
 
-    const emojis = await fetch(EMOJI_JSON_URL)
+    fetch(EMOJI_JSON_URL)
         .then(res => res.json())
+        .then(emojis => filterEmojis(emojis))
+        .then(filtered => {
+            console.log('📝 Writing to emoji.json')
 
-    const filtered = await filterEmojis(emojis)
-    const amount = filtered.length
+            fs.writeFile('emoji.json', JSON.stringify(filtered), (err) => {
+                const txt = err
+                    ? `❌ ${err.message}`
+                    : '✅ Successfully created emoji.json'
 
-    console.log('📝 Writing to emoji.json')
-
-    fs.writeFileSync('emoji.json', JSON.stringify(filtered))
-
-    console.log(`✅ Successfully fetched ${amount} emojis!`)
+                console.log(txt)
+            })
+        })
+        .catch(err => console.log(`❌ ${err.message}`))
 }
 
 main()
