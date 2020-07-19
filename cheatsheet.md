@@ -1,6 +1,6 @@
-<link href="twemoji-awesome.css" rel="stylesheet">
-
 # Emoji cheatsheet 😄
+
+🎉 This cheatsheet contains 3304 emojis!
 
 # Table of contents
 - [Activities](#Activities)
@@ -1542,18 +1542,25 @@ emoji | shortcode | emoji | shortcode
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2b1c.svg"> | white-large-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25fb.svg"> | white-medium-square 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/25fd.svg"> | white-medium-small-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/25ab.svg"> | white-small-square 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f533.svg"> | white-square-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e1.svg"> | yellow-circle 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e8.svg"> | yellow-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51f.svg"> | keycap-10 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f7e8.svg"> | yellow-square | <img src="https://twemoji.maxcdn.com/v/latest/svg/002a-20e3.svg"> | keycap- 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0023-20e3.svg"> | keycap | <img src="https://twemoji.maxcdn.com/v/latest/svg/0030-20e3.svg"> | keycap-0 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0031-20e3.svg"> | keycap-1 | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f51f.svg"> | keycap-10 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0032-20e3.svg"> | keycap-2 | <img src="https://twemoji.maxcdn.com/v/latest/svg/0033-20e3.svg"> | keycap-3 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0034-20e3.svg"> | keycap-4 | <img src="https://twemoji.maxcdn.com/v/latest/svg/0035-20e3.svg"> | keycap-5 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0036-20e3.svg"> | keycap-6 | <img src="https://twemoji.maxcdn.com/v/latest/svg/0037-20e3.svg"> | keycap-7 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/0038-20e3.svg"> | keycap-8 | <img src="https://twemoji.maxcdn.com/v/latest/svg/0039-20e3.svg"> | keycap-9 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2797.svg"> | divide | <img src="https://twemoji.maxcdn.com/v/latest/svg/267e.svg"> | infinity 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2796.svg"> | minus | <img src="https://twemoji.maxcdn.com/v/latest/svg/2716.svg"> | multiply 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2795.svg"> | plus | <img src="https://twemoji.maxcdn.com/v/latest/svg/2611.svg"> | check-box-with-check 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2714.svg"> | check-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2705.svg"> | check-mark-button 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/274c.svg"> | cross-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/274e.svg"> | cross-mark-button 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/27b0.svg"> | curly-loop | <img src="https://twemoji.maxcdn.com/v/latest/svg/27bf.svg"> | double-curly-loop 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/2734.svg"> | eight-pointed-star | <img src="https://twemoji.maxcdn.com/v/latest/svg/2733.svg"> | eight-spoked-asterisk 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/269c.svg"> | fleur-de-lis | <img src="https://twemoji.maxcdn.com/v/latest/svg/2b55.svg"> | hollow-red-circle 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f530.svg"> | japanese-symbol-for-beginner | <img src="https://twemoji.maxcdn.com/v/latest/svg/2695.svg"> | medical-symbol 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4db.svg"> | name-badge | <img src="https://twemoji.maxcdn.com/v/latest/svg/303d.svg"> | part-alternation-mark 
-| <img src="https://twemoji.maxcdn.com/v/latest/svg/267b.svg"> | recycling-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/2747.svg"> | sparkle 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/00a9.svg"> | copyright | <img src="https://twemoji.maxcdn.com/v/latest/svg/274c.svg"> | cross-mark 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/274e.svg"> | cross-mark-button | <img src="https://twemoji.maxcdn.com/v/latest/svg/27b0.svg"> | curly-loop 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/27bf.svg"> | double-curly-loop | <img src="https://twemoji.maxcdn.com/v/latest/svg/2734.svg"> | eight-pointed-star 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2733.svg"> | eight-spoked-asterisk | <img src="https://twemoji.maxcdn.com/v/latest/svg/269c.svg"> | fleur-de-lis 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2b55.svg"> | hollow-red-circle | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f530.svg"> | japanese-symbol-for-beginner 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/2695.svg"> | medical-symbol | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4db.svg"> | name-badge 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/303d.svg"> | part-alternation-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/267b.svg"> | recycling-symbol 
+| <img src="https://twemoji.maxcdn.com/v/latest/svg/00ae.svg"> | registered | <img src="https://twemoji.maxcdn.com/v/latest/svg/2747.svg"> | sparkle 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2122.svg"> | trade-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f531.svg"> | trident-emblem 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/203c.svg"> | double-exclamation-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2757.svg"> | exclamation-mark 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/2049.svg"> | exclamation-question-mark | <img src="https://twemoji.maxcdn.com/v/latest/svg/2753.svg"> | question-mark 
@@ -1697,4 +1704,4 @@ emoji | shortcode | emoji | shortcode
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/26f5.svg"> | sailboat | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a2.svg"> | ship 
 | <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6a4.svg"> | speedboat 
 
-Cheatsheet generated automatically
+> ℹ️ Cheatsheet generated automatically
