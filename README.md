@@ -45,6 +45,12 @@ are listed with their corresponding name.
 
 # 🛠️ Generating
 
+First of all, download dependencies:
+
+```
+npm i
+```
+
 ## 😴 TL;DR
 
 To generate a new `twemoji-awesome.css` stylesheet from the last emojis version:
@@ -56,7 +62,7 @@ make all
 
 ## 🔍 1. Fetching emojis
 
-The following command will fetch the last [emoji.json](https://github.com/amio/emoji.json)
+The following command will fetch the last [emoji.json](https://unpkg.com/emoji.json/emoji.json)
 version and filter Twemojis from it.
 ```
 make emoji
